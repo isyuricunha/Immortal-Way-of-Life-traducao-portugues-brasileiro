@@ -1,0 +1,90 @@
+购买¤Comprar
+升级¤Melhorar
+价格:¤Preço:
+名称:¤Nome:
+基本攻击¤Ataque Básico
+衣服¤Roupas
+[333333]品级：仙器¤[333333] Grau: Arma Imortal
+广东分公司¤Filial de Guangdong
+所有物品¤Todos os itens
+敌方信息¤Informações do inimigo
+新建¤Criar novo
+武器¤Arma
+技能一览¤Visão geral de habilidades
+功法配置¤Configuração de Técnicas
+[ 无影刀 ]¤[ Lâmina Sem Sombra ]
+金币¤Ouro
+春草绝¤Erva da Primavera
+辅修功法¤Técnicas Auxiliares
+筛选:¤Filtro:
+木刺¤Espinhos de Madeira
+调整功法¤Ajustar Técnicas
+未知称号¤Título desconhecido
+使用¤Usar
+主修功法¤Técnicas Principais
+嘴巴¤Boca
+掉落物品¤Itens derrubados
+耐¤Resist.
+确定¤Confirmar
+关闭¤Fechar
+悟¤Compreender
+新的游戏¤Novo jogo
+开¤Abrir
+主修¤Principal
+东石谷¤Vale da Pedra Oriental
+第一页¤Primeira página
+杂文¤Ensaio
+竹山宗-藏金阁¤Seita da Montanha de Bambu-Pavilhão do Ouro Oculto
+按品阶¤Por classificação
+法术¤Magias
+功法¤Técnicas
+5回合¤5 rodadas
+境界：练气初期\n时长：34年1月6天¤Estágio: Início do Refinamento de Qi\nDuração: 34 anos 1 mês 6 dias
+切磋¤Combate amigável
+请教功法¤Perguntar sobre técnicas
+交谈¤Conversar
+离开¤Sair
+交易¤Negociar
+饰品¤Acessórios
+装备配置1¤Perfil de equipamento 1
+遁术¤Agilidade
+技能配置1¤Perfil de habilidades 1
+功法配置1¤Perfil de técnicas 1
+内甲¤Armadura Interna
+开始战斗¤Iniciar Batalha
+服用丹药¤Tomar Pílulas
+须发¤Barba e Cabelo
+名字¤Nome
+天阳·混元¤Astral·Caos
+【属性】¤【Atributos】
+神识¤Consciência divina
+任务道具¤Itens de missão
+品级：¤Grau:
+心境：¤Estado mental:
+生命：¤Vida:
+物品六个字字¤6 palavras de itens
+领悟时间：0年得到的\n领悟条件：对木之道的领悟达到略有小成\n悟道提升：领悟后能够提升对xxx道的感悟¤Tempo de aprendizado: Obtido em 0 anos\nRequisitos de aprendizado: A compreensão do Caminho da Madeira atinge pequeno sucesso\nMelhoria da iluminação: Após a compreensão, pode melhorar a percepção do caminho xxx
+3回合¤3 rodadas
+丹毒：¤Toxi.:
+打造之时加入了稀有的火铜矿石作为材料，剑身炙热，注入灵力后可达数百度的高温。¤Minério raro de cobre de fogo foi adicionado como material durante a forja. A lâmina da espada é ardente e pode atingir altas temperaturas de centenas de graus após injetar poder espiritual.
+修为：¤Cult.:
+【冷却】¤【Recarga】
+【主动】¤【Ativo】
+自动保存¤Salvamento automático
+调整¤Ajuste
+使用丹药¤Usar Pílula
+查看¤Investigar
+全屏¤Tela cheia
+选择数量¤Selecionar quantidade
+是否直接退出创角？¤Confirmar para sair da criação de personagem?
+1回合¤1 rodada
+[333333]品级：[8ec072]符器¤[333333] Grau: [8ec072] Arma Rúnica
+取消¤Cancelar
+丹毒¤Toxicidade
+火¤Fogo
+[8ec072][ 火铜符剑 ]¤[8ec072][ Espada Rúnica de Bronze de Fogo]
+广东分公司，广东分公司广东分公司广东分公司¤Filial de Guangdong, filial de Guangdong, filial de Guangdong, filial de Guangdong
+一场险胜，对手的法宝在这场战斗中被损毁，你也因此受了重伤。¤Uma vitória apertada, a arma do oponente foi destruída nesta batalha, e você ficou gravemente ferido como resultado.
++     新建¤ + Adicionar Novo
+【主动】　相同的【主动】　相同的【主动】　相同的【主动】　相同的【主动】　相同的【主动】　相同的【主动】　相同的¤【Ativo】 Mesmo【Ativo】 Mesmo【Ativo】 Mesmo【Ativo】 Mesmo【Ativo】 Mesmo【Ativo】 Mesmo【Ativo】 Mesmo
+　　　　敌方获得【灼烧】*1¤O inimigo recebe 【Queimadura】*1

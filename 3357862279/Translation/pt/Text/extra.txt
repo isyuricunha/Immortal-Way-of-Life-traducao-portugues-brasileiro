@@ -1,0 +1,187 @@
+sr:"(.*)【进度】(.*)第(.*)"=$1【Progresso】$2$3
+sr:"(.*)【修炼速度】(.*)"=$1【Vel. Cultivo】$2
+sr:"(.*)灵石/年"=$1 Pedras Espirituais/Ano
+sr:"(.*)【领悟条件】(.*)"=$1【Requisitos】$2
+sr:"(.*)【进度】(.*)第一层   (.*)【修炼速度】(.*)(.*)"=$1【Progresso】$2Primeira Camada  $3【Vel. Cultivo】$4$5
+sr:"(.*)【进度】(.*)第二层   (.*)【修炼速度】(.*)(.*)"=$1【Progresso】$2Segunda Camada  $3【Vel. Cultivo】$4$5
+sr:"(.*)【进度】(.*)第三层   (.*)【修炼速度】(.*)(.*)"=$1【Progresso】$2Terceira Camada  $3【Vel. Cultivo】$4$5
+sr:"(.*)【进度】(.*)第四层   (.*)【修炼速度】(.*)(.*)"=$1【Progresso】$2Quarta Camada  $3【Vel. Cultivo】$4$5
+sr:"(.*)【进度】(.*)第五层   (.*)【修炼速度】(.*)(.*)"=$1【Progresso】$2Quinta Camada  $3【Vel. Cultivo】$4$5
+sr:"(.*)年(.*)月(.*)日"=$1A $2M $3D
+sr:"(.*)百万(.*)"=$1mi$2
+sr:"(.*)/月"=$1/mês
+sr:"(.*)初期"=Início $1 
+sr:"(.*)中期"=Meio $1 
+sr:"(.*)后期"=Final $1 
+sr:"炼气(.*)"= $1Estágio do Refinamento de Qi
+sr:"筑基(.*)"= $1Estágio da Fundação
+sr:"金丹(.*)"= $1Estágio do Núcleo Dourado
+sr:"元婴(.*)"= $1Estágio do Nascedouro (Yuan Ying)
+sr:"化神(.*)"= $1Estágio da Transformação Divina
+遁速越快，在地图上移动所消耗的时长也越短。\r=Quanto mais rápida a velocidade de deslocamento, menor o tempo gasto para se mover pelo mapa.\r
+道侣=Parceiro(a) Dao
+标记=Marcadores
+拍卖会=Leilões
+<color\=#ffc9c1>婴</color>=<color\=#ffc9c1>Nascedouro</color>
+<color\=#fbed9f>主</color>=<color\=#fbed9f>Principal</color>
+<color\=#c8f5eb>遁</color>=<color\=#c8f5eb>Mov.</color>
+<color\=#dff7b1>辅</color>=<color\=#dff7b1>Aux.</color>
+阅读丹方或自行炼制出新的丹药都能提升不少丹道经验。\r=Ler receitas de pílulas ou criar novas por conta própria aumenta bastante a experiência no Caminho das Pílulas.\r
+在战斗中使用带有属性的武器时，同样可以触发技能的【连击】效果。\r=Usar armas com atributos em batalha também pode ativar o efeito de 【Combo】 das habilidades.\r
+准备闭关前注意任务和委托的期限，以免委托失效降低声望。\r=Antes de entrar em retiro, preste atenção ao prazo das missões e comissões para que não expirem e reduzam sua reputação.\r
+若炼制的丹药品阶高于丹炉的品阶，通常将额外消耗大量丹炉耐久。\r=Se a classe da pílula for maior que a do forno alquímico, isso consumirá muita durabilidade extra do forno.\r
+若无法成器仍强行炼制，则可能导致器胚爆炸伤及自身。\r=Se insistir em forjar sem sucesso, o embrião do artefato pode explodir e ferir você.\r
+搭乘灵舟可以帮你抵御危险的灵气乱流，但也需注意灵舟自身的耐久。\r=Viajar em uma Barca Espiritual ajuda a resistir a turbulências perigosas de aura, mas é preciso cuidar da durabilidade da própria barca.\r
+大部分法术的威力都会随着境界提升而同步增长。\r=O poder da maioria dos feitiços cresce em sincronia com o avanço do cultivo.\r
+是否要退出游戏？=Deseja sair do jogo?
+灵根的权重比例，决定了你在战斗中吸收到各系灵气的几率。\r=A proporção dos pesos da Raiz Espiritual determina suas chances de absorver cada tipo de aura durante a batalha.\r
+小心，炼丹时若丹炉耐久耗尽可是会炸炉的！\r=Cuidado, se a durabilidade do forno alquímico acabar durante a refinação, ele explodirá!\r
+即使在没有闭关的情况下，修为也会自然增长，但闭关时修为的增长速度会更快。\r=Mesmo sem entrar em retiro, o cultivo cresce naturalmente, mas durante o retiro o ritmo de progresso é muito mais rápido.\r
+功法与神通从低到高分为人阶、地阶、天阶三个品阶，每个品阶中又分为下中上三等。\r=As técnicas e poderes divinos se dividem, do mais fraco ao mais forte, em três classes: Humana, Terrestre e Celestial. Cada classe ainda se subdivide em Três Níveis: Inferior, Médio e Superior.\r
+想要获得法宝可前往逸风城的宝器轩购买，当然亦可自行炼器。=Para obter um artefato mágico, você pode comprá-lo no Pavilhão dos Tesouros em Cidade Yifeng, ou então forjá-lo por conta própria.
+<color\=#f28125>【主动】</color>造成2点伤害。若血量低于25%，则改为吸收1点对手的灵气。=<color\=#f28125>【Ativo】</color> causa 2 pontos de dano. Se a vida estiver abaixo de 25%, em vez disso absorve 1 ponto da aura do inimigo.
+获得一条新的线索=Você obteve uma nova pista
+涵虚仙府=Mansão Imortal Hanxu
+洞府=Caverna de Cultivo
+sr:"(.*)十六岁那年，你意外捡到了一把满是锈迹的钝剑，无意间唤醒了其中沉睡的老者灵魂。在老者的指引下，长生之途的大门缓缓为你敞开——(.*)"=$1Aos dezesseis anos, você encontrou por acaso uma espada cega e enferrujada, despertando o espírito adormecido de um velho em seu interior. Sob a orientação dele, o portão do Caminho da Longevidade lentamente se abriu diante de você...$2
+心境影响闭关修炼的效率，境界越高，对心境的要求也越高。\r=O estado mental influencia a eficiência do cultivo em retiro. Quanto mais alto o reino, maiores as exigências para a mente.\r
+sr:"(.*)万(.*)"=$1mil$2
+整理一下装备，好好回忆回忆老夫之前教的神通法诀，实战无儿戏，做好万全准备，丫头当心点！=Organize seus equipamentos, relembre bem as técnicas que lhe ensinei antes, combate real não é brincadeira — prepare-se para tudo, menina, cuidado!
+单击<color\=#d0380a>战前准备</color>\r可以调整装备、服用丹药、更改功法与神通的搭配。<color\=#FFFFFF00>\n</color>=Clique em <color\=#d0380a>Preparação de Batalha</color>\r para ajustar equipamentos, tomar pílulas e mudar a combinação de técnicas e habilidades. <color\=#FFFFFF00>\n</color>
+该战斗类型无法跳过=Este tipo de batalha não pode ser pulado
+林子前方，只见一个年少俊朗剑修正与凶神恶煞的<color\=#FFFFFF00>二人缠斗在一起。那剑修且战且退，二人则穷追不舍，步步紧逼。</color>=À frente da floresta, um jovem e belo cultivador de espada lutava contra dois <color\=#FFFFFF00>homens brutais e ferozes. Ele recuava enquanto lutava, e os dois o perseguiam sem dar trégua.</color>
+定睛观瞧，只见那剑修招招娴熟凌厉，闪转腾挪下，二人以夹击之势竟也一时难以近身。=Olhando com atenção, o espadachim exibia golpes ágeis e ferozes, desviando com maestria; os dois inimigos, mesmo atacando juntos, não conseguiam se aproximar facilmente.
+双方见招拆招，有来有回，精彩异常，第一次亲眼看到修仙者斗法的你不禁感到大开眼界。=Os golpes se chocavam de forma intensa, ida e volta, uma cena espetacular. Era a primeira vez que você presenciava cultivadores duelando com técnicas — e não pôde deixar de se sentir maravilhado.
+有点意思，这小子的御剑之术倒是可圈可点，别看那二人气焰汹汹，不过只是徒有声势罢了，只可惜灵气难以为继，怕是双拳难敌四手.....=Interessante… A arte de controle de espada desse garoto é digna de elogio. Aqueles dois parecem ferozes, mas é só aparência. Uma pena que sua aura não dure muito, temo que dois punhos não resistam a quatro mãos…
+那边的姑娘！快救救我！只要救了我，我武陵城倪家必有重谢！=Moça ali! Por favor, me salve! Se me ajudar, a família Ni da Cidade Wuling lhe recompensará generosamente!
+以多欺少可不是正道所为，道友，我来助你！=Bulir com os poucos usando a vantagem numérica não é coisa do Caminho Justo. Irmão taoísta, vou ajudá-lo!
+sr:"(.*)悟道天赋(.*)"=$1Talento de Compreensão Dao$2
+sr:"(.*)暂无(.*)"=$1Nenhum$2
+sr:"(.*)冷却:(.*)回合(.*)"=$1Recarga: $2 turno(s)$3 
+sr:"(.*)主动:(.*)"=$1Efeito: $2
+sr:"(.*)对你的好感度提升了(.*)"=$1 aumentou a afinidade com você em $2
+sr:"第(.*)回合(.*)"=Turno $1
+sr:"你的修为提升了([\d]*)"=Cultivo +$1
+实不相瞒，在下三个月前才刚刚踏入炼气初期。=Para ser sincero, há apenas três meses eu acabei de entrar no estágio inicial do Refinamento de Qi.
+按<color\=#d0380a>Tab</color>键打开背包，可以查看刚刚获得的物品与传闻信息。点击神通</color><color\=#FFFFFF00分页，以配置你的技能栏。点击<<color\=#d0380a>物品</color>分页，以配置装备、使用物品<color\=#FFFFFF00>。</color>=Pressione <color\=#d0380a>Tab</color> para abrir a mochila e ver os itens e rumores recém-adquiridos. Clique na aba <color\=#d0380a>Habilidades</color><color\=#FFFFFF00> para configurar sua barra de técnicas. Clique na aba <color\=#d0380a>Itens</color> para equipar ou usar itens<color\=#FFFFFF00>.</color>
+你与倪道友一路谈笑而来，两个初出茅庐的青年的脚步越聊越轻快，越聊越兴奋，不知不觉便已抵达东石谷前。\n=Você e o irmão Ni conversaram e riram pelo caminho. Dois jovens recém-iniciados, quanto mais falavam, mais animados ficavam, até que, sem perceber, já haviam chegado diante do Vale Pedra Oriental.\n
+倪旭欣说罢大大方方地向你施了一礼，随后大步流星地向客栈走去。你望着东石谷内的热闹繁华，一时间不禁眼花缭乱。=Ni Xuxin fez uma reverência respeitosa a você e seguiu a passos largos em direção à estalagem. Você olhou para a movimentação animada do Vale Pedra Oriental e não pôde deixar de ficar deslumbrado.
+嘿嘿，小家伙，看花眼了吧，修仙界可有趣得很，这才多大点地方，走吧，先去<color\=#d0380a>坊市</color>看看，这集会一年一度，过了这村可就没这店了<color\=#FFFFFF00>。</color>=Hehe, pequeno, já ficou impressionado, não é? O mundo do cultivo é bem interessante. E isso é só um pedacinho dele. Vamos, primeiro ao <color\=#d0380a>Mercado</color>, esse evento é anual — perdeu agora, só no próximo ano!<color\=#FFFFFF00>.</color>
+sr:"(.*)进度已更新(.*)"=$1Progresso atualizado$2
+前往坊市和客栈，与其他修士互通有无。=Vá ao mercado e à estalagem para trocar com outros cultivadores.
+大城市内的店铺货品更为齐全，价格也相对更为昂贵。\r=Nas grandes cidades, as lojas têm estoques mais completos, mas os preços também são bem mais altos.\r
+人阶下=Humana - Inferior
+地阶下=Terrestre - Inferior
+天阶下=Celestial - Inferior
+人阶中=Humana - Médio
+地阶中=Terrestre - Médio
+天阶中=Celestial - Médio
+人阶上=Humana - Superior
+地阶上=Terrestre - Superior
+天阶上=Celestial - Superior
+进入客房，感受着聚灵阵缓缓运转，你在木榻上盘腿静坐下来。闭目垂帘，调息静心，东石谷的繁华、坊市的喧闹、初入修仙界的兴奋皆悄然淡去。=Você entra no quarto da estalagem e sente a formação de concentração espiritual girando lentamente. Senta-se de pernas cruzadas sobre o catre de madeira, fecha os olhos e acalma a respiração. A agitação do Vale Pedra Oriental, o barulho do mercado e a empolgação da primeira entrada no mundo do cultivo vão se dissipando pouco a pouco.
+嘿嘿，你倒确实勤奋得很，先前为师有些严苛，错怪你了，你莫要放在心上。=Hehe, você realmente é muito aplicado. Antes fui um pouco severo demais, te julguei mal. Não guarde isso no coração.
+咱们之前一直餐风露宿、寻觅仙门，今日终于到了这修士云集之处，就没有什么想再问问的吗？=Antes vivíamos ao relento, procurando por uma seita imortal. Agora que finalmente chegamos a este lugar repleto de cultivadores, não há nada que queira perguntar?
+不错，其中要领你已知晓便好，真是孺子可教，后生可畏，你当勤勤恳恳，必是前途无量。=Muito bem, você já entende os pontos principais, isso é ótimo. É um discípulo promissor e cheio de futuro. Continue diligente, sua jornada será ilimitada.
+不打扰你了，老夫也有些乏了，接下来的时间你自行安排便好。=Não vou mais atrapalhar você, este velho também está cansado. O restante do tempo, organize como quiser.
+在客房待到二月后，参加伴月楼拍卖会。=Permaneça na estalagem até fevereiro e participe do Leilão do Pavilhão Acompanhando a Lua.
+在东石谷转转，了解东石谷的各个地点。=Passeie pelo Vale da Pedra Leste e conheça seus diversos locais.
+前往赴约，随着人群向着伴月楼走去，刚进大厅，只见楼内装饰古朴典雅，还未来得及定睛细看，身后便传来一阵爽朗的招呼声。=Vá ao encontro e siga com a multidão até o Pavilhão Lua Acompanhante. Assim que entrar no salão, você verá a decoração elegante e antiga do local. Antes que consiga observar em detalhe, uma voz alegre soa atrás de você.
+才没多久不见，你的气息就沉稳不少，看来姑娘比我修炼用心多了。=Não faz muito tempo que não nos vemos, mas seu Qi já está bem mais estável. Parece que você se dedica mais à cultivação do que eu.
+伴月楼拍卖会就要开始了，一起去看看如何？=O leilão do Pavilhão Lua Acompanhante está prestes a começar, vamos dar uma olhada?
+妖兽的牙，可用于炼器，操控最强、灵性次之，但亲和为零。=A presa da Besta Demoníaca pode ser usada em refinamento de artefatos. É excelente em controle, razoável em espiritualidade, mas sem nenhuma afinidade.
+妖兽的骨，可用于炼器，操控最强、灵性次之，但亲和为零。=O osso da Besta Demoníaca pode ser usado em refinamento de artefatos. É excelente em controle, razoável em espiritualidade, mas sem nenhuma afinidade.
+妖兽的鳞甲，可用于炼器，亲和最强、操控次之，但韧性为零。=A escama da Besta Demoníaca pode ser usada em refinamento de artefatos. É excelente em afinidade, razoável em controle, mas sem nenhuma resistência.
+放弃竞价=Desistir do lance
+<color\=#89f7ff>跃跃欲试</color>=<color\=#89f7ff>Ansioso</color>
+<color\=#98ffa4>略感兴趣</color>=<color\=#98ffa4>Interessado</color>
+这次主办方就是我们倪家，没想到前来主持的还是个熟人。我这才刚逃出来没半年，一招摇准被抓回武陵城。我可还还盼着跟你去闯荡一番呢。=Dessa vez o organizador é a nossa família Ni, e não esperava que o anfitrião fosse um conhecido. Faz menos de meio ano que consegui escapar, mas se vacilar serei pego de volta em Wuling. Ainda espero poder sair para aventurar contigo.
+回到客栈，与倪旭欣一起离开东石谷。=Retorne à estalagem e deixe o Vale da Pedra Leste junto de Ni Xuxin.
+追踪任务已过期=A missão de rastreamento expirou
+城外村落星罗棋布，城内仙府鳞次栉比，各安天命，一派安详。=As vilas fora da cidade se espalham como estrelas, e as residências imortais dentro dela alinham-se lado a lado. Todos vivem em paz e serenidade.
+要说最出名的，这武陵城灵药堂的丹药可是宁州一绝，那白帝楼更是剑修圣地，可惜只收筑基期以上修士。=O mais famoso é o Salão das Ervas Espirituais de Wuling, cujas pílulas são renomadas em Ningzhou. Já a Torre do Imperador Branco é um santuário para os cultivadores de espada, mas só aceita discípulos a partir do estágio da Fundação.
+要说最热闹的，就是今年举办的英杰会了，那可比东石谷还要火热。=O mais animado é a Conferência dos Heróis deste ano, ainda mais movimentada que o Vale da Pedra Leste.
+姑娘你虽然刚出山不久，可千万不能不知道英杰会啊！要是能夺魁争到筑基丹，可是免去了筑基时的不少麻烦。=Menina, você pode ter saído da montanha há pouco tempo, mas não pode deixar de saber da Conferência dos Heróis! Se conseguir vencer e conquistar a Pílula de Fundação, evitará muitas dificuldades no processo de construção da base.
+虽然咱俩修为不够，估计拿不了什么名次，但是这英杰会<color\=#d0380a>五年一次</color>，可是难得一见<color\=#FFFFFF00>。</color>=Mesmo que nossa cultivação não seja suficiente para conquistar uma boa colocação, essa Conferência dos Heróis acontece apenas <color\=#d0380a>uma vez a cada cinco anos</color>, é uma oportunidade rara<color\=#FFFFFF00>。</color>
+快快快，我带你去<color\=#d0380a>升仙台</color>了解了解，顺便跟你一起报个名玩玩，打个几场再溜也来得及…<color\=#FFFFFF00>…</color>=Rápido, vou te levar até a <color\=#d0380a>Plataforma da Ascensão</color> para conhecer. Aproveitamos para nos inscrevermos, jogamos algumas partidas e, se for o caso, fugimos depois…<color\=#FFFFFF00>…</color>
+呵呵呵，我知道的也就比这再多一点……放心，我对你没有恶意。=Hehehe, eu sei apenas um pouco mais do que isso... Fique tranquila, não tenho más intenções.
+等忙完英杰会，家主会在府上设宴答谢，还请小友务必赏光！=Após a Conferência dos Heróis, o patriarca dará um banquete em casa para agradecer. Espero que você compareça!
+收到新的传音符=Recebeu uma nova mensagem
+少了个翘家阔少，又回到了一人一剑的旅程，些许有些寂寞。\n=Sem o jovem rico fugitivo, restou apenas a jornada de “uma pessoa e uma espada”. Um pouco solitária.\n
+sr:"(.*)任务已开启"=$1 iniciado
+丫头，着急出城干什么，好不容易到了这武陵城，这升仙台怎么不去观上一观？=Garota, por que essa pressa em sair da cidade? Chegamos com dificuldade a Wuling, por que não visitar a Plataforma da Ascensão?
+还有别的事情=Tenho outras coisas a fazer
+为何要去一观=Por que eu deveria assistir?
+好，观上一观=Tudo bem, vou dar uma olhada
+你这丫头倒当真奇怪，这么重大的盛会不急着参加，倒想着出去晃晃，罢了，随你吧，别误了时间便好。=Você é realmente estranha, uma cerimônia tão importante acontecendo e ainda quer sair para passear. Mas tudo bem, faça como quiser, só não perca o horário.
+sr:"是否花费5灵石传送至(.*)"=Deseja gastar 5 Pedras Espirituais para se teletransportar para $1?
+适逢英杰会，武陵城聚集众多炼气期修士，不少凡人也乘热闹一拥而上，将升仙台围得水泄不通。\r=Durante a Conferência dos Heróis, Wuling reúne inúmeros cultivadores no estágio de Refinamento de Qi. Muitos mortais também aproveitam a ocasião e abarrotam a Plataforma da Ascensão.\r
+sr:"(.*)对你的情分提升了(.*)"=$1 aumentou sua afeição em $2
+sr:"声望增加了(.*)"=Reputação aumentou em $1
+sr:"你在(.*)的声望提升了(.*)"=Sua reputação em $1 aumentou em $2
+sr:"(.*)已有:(.*)"=$1 Possui:$2
+sr:"(.*)日后</color>"=Após $1 dias</color>
+sr:"金(.*) 木(.*) 水(.*) 火(.*) 土(.*)"=  Ouro $1 Madeira $2 Água $3 Fogo $4 Terra $5
+sr:"流派：(.*)"=Estilo: $1
+sr:"请教此神通需要情分(.*)"=Necessário $1 pontos de afeição para aprender esta Técnica Mística
+sr:"请教此功法需要情分(.*)"=Necessário $1 pontos de afeição para aprender esta Arte de Cultivo
+sr:"请教此神通需要好感度达到(.*)"=É necessário atingir nível $1 de afinidade
+sr:"请教此功法需要好感度达到(.*)"=É necessário atingir nível $1 de afinidade
+sr:"(.*)后方可继续突破"=Necessário $1 para continuar o avanço
+sr:"(.*)之道感悟不足"=Compreensão do Dao de $1 insuficiente
+sr:"获得(.*)x([\d]*)"=Obtido $1 x $2
+sr:"淬体：生命上限(.*) 遁速(.*)"=Tempera do Corpo: Vida Máx$1 Velocidade$2
+sr:"塑魂：神识(.*) 资质(.*) 悟性(.*)"=Moldar a Alma: Sentido Espiritual$1 Talento$2 Compreensão$3
+sr:"此方天地共有修士(.*)人。\\r\\n按修为境界分：\\r\\n\[1练气,([\d]*)\]\\r\\n\[2筑基,([\d]*)\]\\r\\n\[3金丹,([\d]*)\]\\r\\n\[4元婴,([\d]*)\]\\r\\n\[5化神,([\d]*)\]\\r\\n\\r\\n按类型分：\\r\\n\[1竹山,([\d]*)\]\\r\\n\[2金虹,([\d]*)\]\\r\\n\[3星河,([\d]*)\]\\r\\n\[4离火,([\d]*)\]\\r\\n\[5化尘,([\d]*)\]\\r\\n\[6倪家,([\d]*)\]\\r\\n\[7林家,([\d]*)\]\\r\\n\[8百里,([\d]*)\]\\r\\n\[9公孙,([\d]*)\]\\r\\n\[10散修,([\d]*)\]\\r\\n\[11白帝楼,([\d]*)\]\\r\\n\[12天机阁,([\d]*)\]\\r\\n\[13沂山派,([\d]*)\]\\r\\n\[14禾山道,([\d]*)\]\\r\\n\[15蓬莎岛,([\d]*)\]\\r\\n\[16碎星岛,([\d]*)\]\\r\\n\[17千流岛,([\d]*)\]\\r\\n\[18古神教,([\d]*)\]\\r\\n\[19天魔道,([\d]*)\]\\r\\n\[20血剑宫,([\d]*)\]\\r\\n\[21风雨楼,([\d]*)\]\\r\\n\[22杀手,([\d]*)\]\\r\\n\[23星宫,([\d]*)\]\\r\\n\[25万魂殿,([\d]*)\]\\r\\n另外，还有刚开始修炼及入世修行的修士([\d]*)人。"=Neste mundo há $1 cultivadores。\r\nPor reino：\r\n[Refino do Qi, $2]\r\n[Fundação, $3]\r\n[Núcleo Dourado, $4]\r\n[Alma Nascente, $5]\r\n[Transformação Divina, $6]\r\n\r\nPor tipo：\r\n[1 Montanha de Bambu, $7]\r\n[2 Espada Arco-Íris, $8]\r\n[3 Rio Estelar, $9]\r\n[4 Fogo Celestial, $10]\r\n[5 Pó do Destino, $11]\r\n[6 Clã Ni, $12]\r\n[7 Clã Lin, $13]\r\n[8 Clã Baili, $14]\r\n[9 Clã Gongsun, $15]\r\n[10 Cult. Independentes de Ningzhou, $16]\r\n[11 Torre do Imperador Branco, $17]\r\n[12 Pavilhão Segredos Celestes, $18]\r\n[13 Seita do Monte Yi, $19]\r\n[14 Caminho do Monte He, $20]\r\n[15 Cult. da Ilha Pungsha, $21]\r\n[16 Cult. da Ilha Estrela Partida, $22]\r\n[17 Ilha dos Mil Fluxos, $23]\r\n[18 Seita do Deus Antigo, $24]\r\n[19 Dao do Demônio Celestial, $25]\r\n[20 Palácio da Espada Sangrenta, $26]\r\n[21 Mansão da Tempestade, $27]\r\n[22 Assassinos, $28]\r\n[23 Palácio Estelar, $29]\r\n[25 Salão das Almas, $30]\r\nAlém disso, há $31 cultivadores que acabaram de iniciar a prática。
+sr:"此方天地共有修士(.*)人。\\r\\n按修为境界分：\\r\\n\[1练气,([\d]*)\]\\r\\n\[2筑基,([\d]*)\]\\r\\n\[3金丹,([\d]*)\]\\r\\n\[4元婴,([\d]*)\]\\r\\n\[5化神,([\d]*)\]\\r\\n\\r\\n按类型分：\\r\\n\[1竹山,([\d]*)\]\\r\\n\[2金虹,([\d]*)\]\\r\\n\[3星河,([\d]*)\]\\r\\n\[4离火,([\d]*)\]\\r\\n\[5化尘,([\d]*)\]\\r\\n\[6倪家,([\d]*)\]\\r\\n\[7林家,([\d]*)\]\\r\\n\[8百里,([\d]*)\]\\r\\n\[9公孙,([\d]*)\]\\r\\n\[10散修,([\d]*)\]\\r\\n\[11白帝楼,([\d]*)\]\\r\\n\[12天机阁,([\d]*)\]\\r\\n\[13沂山派,([\d]*)\]\\r\\n\[14禾山道,([\d]*)\]\\r\\n\[15蓬莎岛,([\d]*)\]\\r\\n\[16碎星岛,([\d]*)\]\\r\\n\[17千流岛,([\d]*)\]\\r\\n\[18古神教,([\d]*)\]\\r\\n\[19天魔道,([\d]*)\]\\r\\n\[20血剑宫,([\d]*)\]\\r\\n\[21风雨楼,([\d]*)\]\\r\\n\[22杀手,([\d]*)\]\\r\\n\[23星宫,([\d]*)\]\\r\\n\[25万魂殿,([\d]*)\]\\r\\n"=Neste mundo há $1 cultivadores。\r\nPor reino：\r\n[Refino do Qi, $2]\r\n[Fundação, $3]\r\n[Núcleo Dourado, $4]\r\n[Alma Nascente, $5]\r\n[Transformação Divina, $6]\r\n\r\nPor tipo：\r\n[1 Montanha de Bambu, $7]\r\n[2 Espada Arco-Íris, $8]\r\n[3 Rio Estelar, $9]\r\n[4 Fogo Celestial, $10]\r\n[5 Pó do Destino, $11]\r\n[6 Clã Ni, $12]\r\n[7 Clã Lin, $13]\r\n[8 Clã Baili, $14]\r\n[9 Clã Gongsun, $15]\r\n[10 Cult. Independentes de Ningzhou, $16]\r\n[11 Torre do Imperador Branco, $17]\r\n[12 Pavilhão Segredos Celestes, $18]\r\n[13 Seita do Monte Yi, $19]\r\n[14 Caminho do Monte He, $20]\r\n[15 Cult. da Ilha Pungsha, $21]\r\n[16 Cult. da Ilha Estrela Partida, $22]\r\n[17 Ilha dos Mil Fluxos, $23]\r\n[18 Seita do Deus Antigo, $24]\r\n[19 Dao do Demônio Celestial, $25]\r\n[20 Palácio da Espada Sangrenta, $26]\r\n[21 Mansão da Tempestade, $27]\r\n[22 Assassinos, $28]\r\n[23 Palácio Estelar, $29]\r\n[25 Salão das Almas, $30]
+sr:"是否花费([\d]*)灵石和([\d]*)天传送至(.*)沂山？"=Deseja gastar $1 pedras espirituais e $2 dias para se teletransportar até o Monte Yi?
+sr:"是否花费([\d]*)灵石和([\d]*)天传送至(.*)青石灵脉？"=Deseja gastar $1 pedras espirituais e $2 dias para se teletransportar até a Veia Espiritual Pedra Verde?
+sr:"是否花费([\d]*)灵石和([\d]*)天传送至(.*)九嶷山？"=Deseja gastar $1 pedras espirituais e $2 dias para se teletransportar até o Monte Jiuyi?
+sr:"是否花费([\d]*)灵石和([\d]*)天传送至(.*)东石谷？"=Deseja gastar $1 pedras espirituais e $2 dias para se teletransportar até o Vale da Pedra do Leste?
+sr:"是否花费([\d]*)灵石和([\d]*)天传送至(.*)禾山？"=Deseja gastar $1 pedras espirituais e $2 dias para se teletransportar até o Monte He?
+sr:"是否花费([\d]*)灵石和([\d]*)天传送至(.*)武陵城？"=Deseja gastar $1 pedras espirituais e $2 dias para se teletransportar até a Cidade Wuling?
+sr:"是否花费([\d]*)灵石和([\d]*)天传送至(.*)南崖城？"=Deseja gastar $1 pedras espirituais e $2 dias para se teletransportar até a Cidade do Penhasco Sul?
+sr:"是否花费([\d]*)灵石和([\d]*)天传送至(.*)蓬莎岛？"=Deseja gastar $1 pedras espirituais e $2 dias para se teletransportar até a Ilha Pungsha?
+sr:"是否花费([\d]*)灵石和([\d]*)天传送至(.*)碎星岛？"=Deseja gastar $1 pedras espirituais e $2 dias para se teletransportar até a Ilha Estrela Partida?
+sr:"是否花费([\d]*)灵石和([\d]*)天传送至(.*)逸风城？"=Deseja gastar $1 pedras espirituais e $2 dias para se teletransportar até a Cidade Yifeng?
+sr:"是否花费([\d]*)灵石和([\d]*)天传送至(.*)云汐城？"=Deseja gastar $1 pedras espirituais e $2 dias para se teletransportar até a Cidade Yunxi?
+sr:"是否花费([\d]*)灵石和([\d]*)天传送至(.*)广陵城？"=Deseja gastar $1 pedras espirituais e $2 dias para se teletransportar até a Cidade Guangling?
+sr:"是否花费([\d]*)灵石和([\d]*)天传送至(.*)巫山？"=Deseja gastar $1 pedras espirituais e $2 dias para se teletransportar até o Monte Wu?
+sr:"是否花费([\d]*)灵石和([\d]*)天传送至(.*)竹山宗？"=Gastar $1 pedras espirituais e $2 dias para se teleportar para a Seita da Montanha Bamboo?
+sr:"是否花费([\d]*)灵石和([\d]*)天传送至(.*)金虹剑派？"=Gastar $1 pedras espirituais e $2 dias para se teleportar para a Seita da Espada Arco-Íris Dourada?
+sr:"是否花费([\d]*)灵石和([\d]*)天传送至(.*)星河剑派？"=Gastar $1 pedras espirituais e $2 dias para se teleportar para a Seita do Rio Estelar?
+sr:"是否花费([\d]*)灵石和([\d]*)天传送至(.*)离火门？"=Gastar $1 pedras espirituais e $2 dias para se teleportar para a Seita do Portão de Fogo?
+sr:"是否花费([\d]*)灵石和([\d]*)天传送至(.*)化尘教？"=Gastar $1 pedras espirituais e $2 dias para se teleportar para a Seita Shifting Sand?
+sr:"　　周边天地的灵气突然开始涌入你的体内，你感到体内的真元犹如沸腾的开水一般，迅速流动起来。灵气的波动足足持续了一个时辰才平息下来，你终于冲破瓶颈，境界提升至(.*)"=De repente, a energia espiritual do céu e da terra ao redor começa a fluir para seu corpo. Você sente sua essência verdadeira borbulhando e circulando rapidamente, como água fervente. A flutuação da energia espiritual dura uma hora inteira antes de se acalmar. Você finalmente rompeu o gargalo, e seu nível ascendeu para $1!
+sr:"在(.*)你与(.*)论道时，对(.*)产生了灵光一现的感悟"=Em $1, ao discorrer sobre Dao com $2, você teve uma súbita percepção sobre $3
+sr:"　　周边天地的灵气突然开始涌入你的体内，你感到体内的真元犹如沸腾的开水一般迅速流动起来，体内的灵气在你的不断压缩下，逐渐凝聚为实体，结成：<color\=#FFBEF8>“九品(.*)”</color>"=De repente, a energia espiritual do céu e da terra começa a fluir para seu corpo. Sua essência verdadeira circula rapidamente, como água fervente. Com sua constante compressão, a energia espiritual dentro de você gradualmente se condensa em forma tangível, formando: <color\=#FFBEF8>‘Nível Nove $1’</color>
+sr:"气血(.*)、修炼速度(.*)、(.*)灵根权重(.*)\n(.*)"=Vida $1    |    Velocidade de Cultivo $2    |    Peso da Raiz Espiritual $4 $3\n$5
+sr:"气血(.*)、修炼速度(.*)\n(.*)"=Vida $1    |    Velocidade de Cultivo $2\n$3
+sr:"气血(.*)、修炼速度(.*)%、(.*)(灵根权重)(.*)\n(.*)"=Vida $1    |    Velocidade de Cultivo $2%    |    Peso da Raiz Espiritual $5 $3\n$6
+sr:"对(.*)的探索度提升了(.*)"=Exploração de $1 +$2
+sr:"额外提升生命值(.*)"=Vida extra +$1
+sr:"陷入瓶颈\(突破率(.*)\)"=Preso em um gargalo (Taxa de avanço $1)
+sr:"在(.*)寿元将尽寻找丹药"=$1, procurando elixires à medida que sua longevidade se esgota.
+sr:"(.*)<color\=#32b0ea>【被动】</color>(.*)"=$1<color\=#32b0ea>【Passivo】</color>$2
+sr:"(.*)于([\d]*)年以普通的手法将(.*)等材料炼制的上品(.*)铭刻(.*)灵纹,灵力更加强大，但对使用者也要求更高。"=Em $2, $1 utilizou técnicas comuns para refinar um artefato de alta qualidade feito de materiais como $3. O artefato foi gravado com o padrão espiritual $5, aumentando seu poder espiritual, mas exigindo maior proficiência do usuário.
+sr:"(.*)于([\d]*)年以普通的手法将(.*)等材料炼制的上品(.*)铭刻聚灵灵纹。"=Em $2, $1 utilizou técnicas comuns para refinar um artefato de alta qualidade feito de materiais como $3, gravado com padrão de concentração de energia espiritual.
+sr:"没想到(.*)师弟此番结婴如此顺利，真乃宗门之幸事，值得好好庆祝一番(.*)师弟，请随我来大殿一叙。"=Nunca pensei que o discípulo $1 teria tanto sucesso na Formação do Nascent. É realmente uma bênção para a seita e merece uma celebração! Discípulo $2, siga-me ao salão principal para conversar.
+sr:"<color\=(.*)>灵剑</color>"=<color\=$1>Espada Espiritual</color>
+sr:"<color\=(.*)>灵令</color>"=<color\=$1>Token Espiritual</color>
+sr:"<color\=(.*)>灵袍</color>"=<color\=$1>Robe Espiritual</color>
+sr:"<color\=(.*)>灵匣</color>"=<color\=$1>Caixa Espiritual</color>
+sr:"<color\=(.*)>灵环</color>"=<color\=$1>Anel Espiritual</color>
+sr:"<color\=#d3b068>领悟条件:</color>对(.*)的领悟达到(.*),领悟后提升(.*)大道感悟"=<color\=#d3b068>Condições:</color>\n<color\=#13c910>$1</color> atinge <color\=#fab005>$2</color>.\nApós isso, aumenta a compreensão de <color\=#02aba8>$3</color>
+sr:"<color\=#d3b068>领悟条件:</color>对(.*)的领悟达到(.*),对(.*)的领悟达到(.*),领悟后提升(.*),(.*)大道感悟"=<color\=#d3b068>Condições:</color>\n<color\=#13c910>$1</color> atinge <color\=#fab005>$2</color>.\n<color\=#13c910>$3</color> atinge <color\=#fab005>$4</color>.\nApós isso, aumenta a compreensão de <color\=#02aba8>$5</color>, <color\=#02aba8>$6</color>
+sr:"<color\=#d3b068>领悟时间:</color>Time consumed: ([\d]*) year ([\d]*) month ([\d]*) day"=<color\=#d3b068>Tempo necessário:</color>$1 ano $2 mês $3 dia
+
+sr:"(.*)师弟(.*)"=$1Discípulo Júnior$2
+sr:"(.*)前辈(.*)"=$1Sênior$2
+sr:"(.*)道友(.*)"=$1Irmão de Dao$2
+sr:"(.*)小友(.*)"=$1Jovem Amigo$2
+sr:"(.*)师妹(.*)"=$1Discípula Júnior$2
+sr:"(.*)师姐(.*)"=$1Irmã Sênior$2
+sr:"(.*)师兄(.*)"=$1Irmão Sênior$2
+sr:"(.*)师侄(.*)"=$1Sobrinho Discípulo$2
+sr:"(.*)兄弟(.*)"=$1Irmão$2
+sr:"(.*)姑娘(.*)"=$1Senhorita$2

@@ -1,0 +1,8 @@
+NewUICanvas(Clone)/TabPanel(Clone)/TabSelect/Panel/悟道/WuDaoSelect/List/ViewPort/Content=ChangeFontSizeByPercentage(0.8)
+NewUICanvas(Clone)/TabPanel(Clone)/TabSelect/Panel/悟道/WuDaoSelect/List/ViewPort/Content/WuDaoToggle(Clone)/Active/Name=ChangeFontSizeByPercentage(0.8)
+NewUICanvas(Clone)/TabPanel(Clone)/TabSelect/Panel/悟道/WuDaoSkillTooltip/Bg/Center/TiaoJian=ChangeFontSizeByPercentage(0.95)
+NewUICanvas(Clone)/TabPanel(Clone)/TabSelect/Panel/属性/BaseData/心境/ValueName=ChangeFontSizeByPercentage(0.9)
+NewUICanvas(Clone)/TabPanel(Clone)/TabSelect/Panel/属性/BaseData/丹毒/ValueName=ChangeFontSizeByPercentage(0.9)
+NewUICanvas(Clone)/TabPanel(Clone)/TabSelect/Panel/属性/BaseData/灵感/ValueName=ChangeFontSizeByPercentage(0.9)
+TuJianPanel(Clone)/Canvas/Panel/Tabs/RuleTab/Root=ChangeFontSizeByPercentage(0.9)
+TuJianPanel(Clone)/Canvas/Panel/Tabs/ItemTab/Root=ChangeFontSizeByPercentage(0.9)
