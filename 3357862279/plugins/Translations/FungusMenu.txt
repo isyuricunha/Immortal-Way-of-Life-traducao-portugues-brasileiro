@@ -498,306 +498,306 @@
 默许他¤Permitir
 外出游历¤Viajar para fora
 暗中观察，先看看热闹再说¤Observar secretamente e ver o que acontece primeiro
-我是沂山派的（加入沂山派）¤I'm from Yishan School (join Yishan School)
-趁还没人注意到，赶紧溜¤Hurry up while no one notices yet
-我只是路过的¤I just passed by
-我是禾山道的（加入禾山道）¤I am from Heshan Road (joining Heshan Road)
-还是咸的更合我心意¤It's salty, it suits me better
-我更喜欢甜的¤I prefer sweet ones
-打听天蝉灵叶之事¤Inquiry about Skyscada Leaf
-暂时不要轻举妄动¤Don't do anything rash for now
-正常进入¤Enter normally
-再听听¤Listen again
-他肯定是魔修！¤He must be an evil cultivator!
-前往风雨楼¤Head towards Storm Pavilion
-前往听雨阁¤Head towards the Rain Pavilion
-继续等候¤Keep waiting
-还未完成¤Not yet finished
-只是路过¤Just passing by
-拜访友人¤Visit Friend
-说来听听¤Tell me the story
-来路不明的东西？¤Something of unknown origin?
-继续说¤Continue
-那便带我去看看吧¤Then show me.
-身份特殊？¤Special status?
-两情相悦¤Love.
-没什么兴趣¤No interest
-还有其他事¤There are other things
-也许是两情相悦吧¤Perhaps it's mutual love?
-正事要紧¤Business is important
-出言嘲讽¤Make a mocking remark
-结束旅途¤End the journey
-继续旅途¤Continue the journey
-切磋武艺¤Martial arts training
-婉言回绝¤I'm sorry.
-沉默¤Stay Silent
-解释¤Explanation
-先行离开¤Depart before the others
-进入气眼¤Enter the eye of the formation
-我肯定不是第一个¤I am certainly not the first
-只是侥幸而已¤It's just a fluke
-明白了！¤Got it!
-风险是不是太大了？¤Is the risk too great?
-上前敲门¤Knock on the door
-我自己转转就好了。¤I'll just turn around by myself.
-出示仙缘石¤Display Immortal Fate Stone
-偷偷倾听¤Secretly Listen
-催促他先找到自己宗门所在地¤Urge him to find his clan's location first
-口头应承 敷衍了事¤Casual agreement
-替他指出离火门的方向¤Pointing him in the direction of the Heavenly Fire Gate.
-闭目修练¤Close your eyes and practice
-喏，玄道宗接引人。¤Go ask the Mystic Dao Sect Receiver
-替他指出竹山宗的方向¤Show him the direction of the Bamboo Mountain Sect
-打不过¤Can't beat it
-打得过¤I can beat it.
-只是路过而已¤Just passing by
-慕名而来，想要拜入星河剑派¤I come in admiration, wanting to join the Celestial River Sect
-偷偷溜进去¤Sneak in
-进洞府¤Enter the cave
-去连石山¤Go to Lian Shi Mountain
-去连石山附近开辟洞府¤To open a cave inside Lian Shi Mountain
-进入连石山¤Enter Lian Shi Mountain
-为洞府改名¤Rename the cave
-趁无人先行进入¤I'll enter before anyone else
-等正道道友¤Waiting for the righteous daoists
-慕名而来，想要拜入化尘教¤I came here in admiration and want to join the Shifting Shifting Sand Sect
-趁没人注意时偷偷溜进去¤Sneak in when no one is looking
-进入沃焦山¤Go into the Inferno Mountain
-去沃焦山附近开辟洞府¤To open a cave inside Inferno Mountain
-去沃焦山¤Go to Inferno Mountain
-慕名而来，想要加入离火门¤Came here to join the Heavenly Fire Gate
-跟上去¤Follow
-慕名而来，想要拜入金虹剑派¤I came here in admiration to join the Radiant Sword Sect
-我想加入竹山宗¤I want to join the Bamboo Mountain Sect!
-路过而已¤Just passing by
-去风雷谷¤To Wind and Thunder Valley
-去风雷谷附近开辟洞府¤Open a cave inside Wind and Thunder Valley
-进入风雷谷¤Enter Wind and Thunder Valley
-去方壶山¤Go to Mt. Fang Hu
-去方壶山附近开辟洞府¤Open a cave inside Square Cauldron Mountain
-进入方壶山¤Enter Square Cauldron Mountain
-去正阳山¤To Mt. Rising Sun
-去正阳山附近开辟洞府¤Open an abode inside Mt. Rising Sun
-进入正阳山¤Enter Mt. Rising Sun
-观战¤Watch the battle
-参赛¤Participate
-上台参赛¤Go on stage to compete
-台下观战¤Arena Spectator
-未有耳闻¤I have not heard
-我听说过¤I've heard of it
-加入白帝楼？¤Join the White Emperor Pavilion ?
-徒儿已知晓¤Your Disciple already knows
-思绪是什么？¤What is Insight?
-师父请指教¤Please advise me, Master
-徒儿明白了¤Your Disciple understands
-修炼是什么？¤What is Cultivation?
-感悟是什么？¤What is Perception?
-领悟是什么？¤What is Comprehension?
-突破是什么？¤What's a Breakthrough?
-赶紧离开¤Hurry up and leave
-莫不是宁王给我指派任务了？¤Could it be that Ning King assigned me a task?
-悄悄跟上¤Follow quietly
-进屋查看¤Into the house to view
+我是沂山派的（加入沂山派）¤Sou da Escola Yishan (entrar na Escola Yishan)
+趁还没人注意到，赶紧溜¤Apressar-se enquanto ninguém percebe
+我只是路过的¤Só estou passando
+我是禾山道的（加入禾山道）¤Sou do Caminho Heshan (entrando no Caminho Heshan)
+还是咸的更合我心意¤Ainda prefiro salgado
+我更喜欢甜的¤Prefiro doce
+打听天蝉灵叶之事¤Investigar sobre a Folha Skyscada
+暂时不要轻举妄动¤Não fazer nada precipitado por enquanto
+正常进入¤Entrar normalmente
+再听听¤Ouvir novamente
+他肯定是魔修！¤Ele deve ser um cultivador maligno!
+前往风雨楼¤Ir para o Pavilhão da Tempestade
+前往听雨阁¤Ir para o Pavilhão da Chuva
+继续等候¤Continuar esperando
+还未完成¤Ainda não concluído
+只是路过¤Apenas passando
+拜访友人¤Visitar amigo
+说来听听¤Conte a história
+来路不明的东西？¤Algo de origem desconhecida?
+继续说¤Continuar
+那便带我去看看吧¤Então me leve para ver
+身份特殊？¤Status especial?
+两情相悦¤Amor mútuo
+没什么兴趣¤Sem interesse
+还有其他事¤Há outras coisas
+也许是两情相悦吧¤Talvez seja amor mútuo
+正事要紧¤Assunto sério é importante
+出言嘲讽¤Fazer um comentário provocativo
+结束旅途¤Encerrar a jornada
+继续旅途¤Continuar a jornada
+切磋武艺¤Treinar artes marciais
+婉言回绝¤Recusar educadamente
+沉默¤Ficar em silêncio
+解释¤Explicação
+先行离开¤Sair antes dos outros
+进入气眼¤Entrar no olho da formação
+我肯定不是第一个¤Certamente não sou o primeiro
+只是侥幸而已¤Foi apenas sorte
+明白了！¤Entendido!
+风险是不是太大了？¤O risco não é grande demais?
+上前敲门¤Bater na porta
+我自己转转就好了。¤Vou apenas dar uma volta sozinho
+出示仙缘石¤Mostrar Pedra do Destino Imortal
+偷偷倾听¤Ouvir secretamente
+催促他先找到自己宗门所在地¤Incentivá-lo a encontrar primeiro a localização da própria seita
+口头应承 敷衍了事¤Acordo casual
+替他指出离火门的方向¤Indicar a direção do Portão do Fogo Celestial
+闭目修练¤Fechar os olhos e praticar
+喏，玄道宗接引人。¤Vá perguntar ao Recebedor da Seita Dao Mística
+替他指出竹山宗的方向¤Mostrar a direção da Seita da Montanha de Bambu
+打不过¤Não consegue vencer
+打得过¤Consegue vencer
+只是路过而已¤Apenas passando
+慕名而来，想要拜入星河剑派¤Vim em admiração, querendo entrar na Seita da Espada do Rio Celestial
+偷偷溜进去¤Entrar às escondidas
+进洞府¤Entrar na caverna
+去连石山¤Ir para a Montanha Lian Shi
+去连石山附近开辟洞府¤Abrir uma caverna perto da Montanha Lian Shi
+进入连石山¤Entrar na Montanha Lian Shi
+为洞府改名¤Renomear a caverna
+趁无人先行进入¤Entrar antes de qualquer um
+等正道道友¤Esperar pelos cultivadores justos
+慕名而来，想要拜入化尘教¤Vim em admiração, querendo entrar na Seita Shifting Sand
+趁没人注意时偷偷溜进去¤Entrar às escondidas enquanto ninguém observa
+进入沃焦山¤Entrar na Montanha Inferno
+去沃焦山附近开辟洞府¤Abrir uma caverna perto da Montanha Inferno
+去沃焦山¤Ir para a Montanha Inferno
+慕名而来，想要加入离火门¤Vim em admiração, querendo entrar no Portão do Fogo Celestial
+跟上去¤Seguir
+慕名而来，想要拜入金虹剑派¤Vim em admiração, querendo entrar na Seita da Espada Radiante
+我想加入竹山宗¤Quero entrar na Seita da Montanha de Bambu
+路过而已¤Apenas passando
+去风雷谷¤Ir para o Vale do Vento e Trovão
+去风雷谷附近开辟洞府¤Abrir uma caverna perto do Vale do Vento e Trovão
+进入风雷谷¤Entrar no Vale do Vento e Trovão
+去方壶山¤Ir para a Montanha Fang Hu
+去方壶山附近开辟洞府¤Abrir uma caverna perto da Montanha Fang Hu
+进入方壶山¤Entrar na Montanha Fang Hu
+去正阳山¤Ir para a Montanha do Sol Nascente
+去正阳山附近开辟洞府¤Abrir uma caverna perto da Montanha do Sol Nascente
+进入正阳山¤Entrar na Montanha do Sol Nascente
+观战¤Assistir à batalha
+参赛¤Participar da competição
+上台参赛¤Subir ao palco para competir
+台下观战¤Assistir à competição
+未有耳闻¤Não ouvi falar
+我听说过¤Ouvi falar
+加入白帝楼？¤Entrar no Pavilhão do Imperador Branco?
+徒儿已知晓¤O discípulo já sabe
+思绪是什么？¤O que é Insight?
+师父请指教¤Por favor, mestre, me aconselhe
+徒儿明白了¤O discípulo entendeu
+修炼是什么？¤O que é Cultivo?
+感悟是什么？¤O que é Percepção?
+领悟是什么？¤O que é Compreensão?
+突破是什么？¤O que é um Avanço?
+赶紧离开¤Apressar-se e sair
+莫不是宁王给我指派任务了？¤Será que o Rei Ning me designou uma missão?
+悄悄跟上¤Seguir secretamente
+进屋查看¤Entrar na casa para examinar
 软玉温香¤Nephrite Wenxiang
-管事来找我何事？¤What's the matter for the manager to come to me?
-金银财宝¤Gold and Silver Treasures
-打听其他供奉的下落¤Inquire about the whereabouts of other Guest Elders
-打道回府¤Take the road back to the house
-调查一番¤Check it out
-关于古城遗迹¤About the ancient city ruins
-留下传音符印记¤Leave a transmission talismen
-没有其它事了¤There is nothing else
-有些事想请教长老¤There is something I would like to ask you, Elder
-关于宁州古迹的机缘¤About the Chance of Ningzhou Monuments
-关于御剑门¤About Imperial Sword Sect
-拿走龙鳞¤Take the dragon scales
-准备好了¤Ready
-关于...丧命？¤About...death?
-关于...丹药与秘术？¤About...Pills and Secret Techniques?
-多谢师姐指点¤Thank you, sister, for your advice
-关于...九品金丹？¤About... the Ninth Grade Golden Core?
-为何只有筑基期的弟子参加？¤Why are only Foundation Establishment disciples participating?
-询问残剑的来由¤Inquiry about the origin of the broken sword
-关于剑灵沾染的魔气¤About the sword spirit tainted with demonic energy
-打听魔气充溢之地¤Inquire about the place where the demonic energy is overflowing
-继续往下听¤Keep on listening
-关于...名次？¤About... the ranking?
-关于结丹...¤About Golden Core...
-师姐可曾参加过猎魔试炼？¤Senior Sister ever participated in a demon hunting trial?
-再等等吧¤Wait a little longer
-静心调整自己的状态¤Meditate to prepare yourself
-看看其他人的比试¤Look at other people's tests
-切磋¤Learning from each other
-潜入¤infiltrate
-贿赂¤bribe
-直接出手¤Strike them directly
-尝试破阵¤Try to break the formation
-我想要开启一间炼器室¤I want to rent an Artifact room
-要¤want
-五维？¤Five dimensions?
-不要¤Don't
-还有吗？¤Are there any more?
-阴？阳？¤yin and yang?
-五行？¤The Five Elements?
-我没有你要的东西¤I don't have what you wafnt
-我很快就把草药带来¤I'll bring the herbs soon.
-关于七彩月兰¤About Rainbow Moon Orchid
-你收集这些草药做什么？¤What do you collect these herbs for?
-成交¤Deal
-都在这里了¤It's all here
-我这里恰好有这两种草药¤I happen to have these two herbs here
-你要的东西我带来了¤I brought what you wanted
-关于腐骨灵花¤About Earth Matriarch Petal
-转身出发¤Turn and go
-注意事项¤Cautions
-询问麟尊何在？¤Ask the Linzun where he is.
-为何找我¤Why looking for me
-交由我吧¤Leave it to me
-请问可有吩咐。¤May I ask if you have any orders?
-与谁交接¤Who to hand over to
-介意多带一个人出海么？¤Mind if you take one more person out to sea?
-有什么值得交易的东西？¤What's worth trading?
-你们似乎正准备出海？¤You seem to be preparing to go to sea?
-我并没有这些东西¤I don't have these things
-回绝¤Rejected
-无事发生¤Nothing happened
-交易¤Trading
-关于玉简¤About Jade Slips
+管事来找我何事？¤Qual é o assunto do gerente comigo?
+金银财宝¤Tesouros de ouro e prata
+打听其他供奉的下落¤Investigar o paradeiro dos outros anciãos convidados
+打道回府¤Voltar para casa
+调查一番¤Investigar
+关于古城遗迹¤Sobre as ruínas da cidade antiga
+留下传音符印记¤Deixar um talismã de transmissão
+没有其它事了¤Não há mais nada
+有些事想请教长老¤Há algo que eu gostaria de perguntar ao ancião
+关于宁州古迹的机缘¤Sobre a oportunidade das relíquias de Ningzhou
+关于御剑门¤Sobre a Seita da Espada Imperial
+拿走龙鳞¤Levar as escamas de dragão
+准备好了¤Pronto
+关于...丧命？¤Sobre... a morte?
+关于...丹药与秘术？¤Sobre... pílulas e técnicas secretas?
+多谢师姐指点¤Obrigado, irmã, pelo conselho
+关于...九品金丹？¤Sobre... o Núcleo Dourado Nono Grau?
+为何只有筑基期的弟子参加？¤Por que apenas discípulos em Estabelecimento de Fundação participam?
+询问残剑的来由¤Perguntar sobre a origem da espada quebrada
+关于剑灵沾染的魔气¤Sobre o espírito da espada corrompido por energia demoníaca
+打听魔气充溢之地¤Investigar o local onde a energia demoníaca transborda
+继续往下听¤Continuar ouvindo
+关于...名次？¤Sobre... a classificação?
+关于结丹...¤Sobre o Núcleo Dourado...
+师姐可曾参加过猎魔试炼？¤Irmã mais velha já participou de uma prova de caça a demônios?
+再等等吧¤Esperar um pouco mais
+静心调整自己的状态¤Meditar para preparar-se
+看看其他人的比试¤Observar os testes de outras pessoas
+切磋¤Treinar juntos
+潜入¤Infiltrar-se
+贿赂¤Subornar
+直接出手¤Atacar diretamente
+尝试破阵¤Tentar quebrar a formação
+我想要开启一间炼器室¤Quero abrir uma sala de criação de artefatos
+要¤Quero
+五维？¤Cinco dimensões?
+不要¤Não
+还有吗？¤Ainda há mais?
+阴？阳？¤Yin e Yang?
+五行？¤Os Cinco Elementos?
+我没有你要的东西¤Não tenho o que você quer
+我很快就把草药带来¤Vou trazer as ervas em breve
+关于七彩月兰¤Sobre a Orquídea Lunar Arco-íris
+你收集这些草药做什么？¤Para que você coleta essas ervas?
+成交¤Negócio fechado
+都在这里了¤Está tudo aqui
+我这里恰好有这两种草药¤Por acaso tenho essas duas ervas aqui
+你要的东西我带来了¤Trouxe o que você queria
+关于腐骨灵花¤Sobre a Flor Espiritual Ossificada
+转身出发¤Virar-se e partir
+注意事项¤Cuidados
+询问麟尊何在？¤Perguntar onde está Linzun
+为何找我¤Por que me procura?
+交由我吧¤Deixe comigo
+请问可有吩咐。¤Posso saber se há ordens?
+与谁交接¤Com quem entregar?
+介意多带一个人出海么？¤Se importa de levar mais uma pessoa para o mar?
+有什么值得交易的东西？¤Há algo que valha a pena negociar?
+你们似乎正准备出海？¤Vocês parecem estar se preparando para sair ao mar?
+我并没有这些东西¤Não tenho essas coisas
+回绝¤Recusar
+无事发生¤Nada aconteceu
+交易¤Negociação
+关于玉简¤Sobre os Pergaminhos de Jade
 倪旭荣¤Ni Xurong
 倪振南¤Ni Zhennan
-关于书本¤About the Books
-长老¤Elder
-大家都很正常¤Everyone is normal
-暂时没有了¤temporarily unavailable
-关于信件¤About the letter
-还是再和倪兄讨论一下¤Let's discuss with Brother Ni again
-已经聊过了¤Already talked
-已经有了结论¤Already have a conclusion
-关于纸条¤About the note
-关于自由¤About freedom
-关于责任¤About responsibilities
-关于待遇¤About treatment
-愿为宁王效犬马之劳！¤I am willing to do the best for Ning King!
-打扰了，告辞！¤Excuse me, goodbye!
-去广陵城¤Go to Guangling City
-去九嶷山¤Go to Jiuyi Mountain
-搜索一番¤Search it
-不要乱动¤Don't mess around
-前往其他海域¤Travel to other seas
-关于百里武¤About Bailiwu
-关于世仇¤About World Feud
-我都了解了¤I understand everything
-一起回到蓬莎岛¤Let's go back to Pongsha Island
-关于百里祖宅中的阵法¤About the formation in the Baili ancestral home
-再想想¤Think Again
-还有印象¤There are still impressions
-关于魔门的线索¤Clues about the magic door
-关于御剑门之战的真相¤The truth about the battle of the Royal Sword Gate
-记不太清了¤Can't remember clearly
-已经完成了¤Already done
-还没有¤not yet
-放弃任务¤Abandon mission
-不提往事¤Do not bring up the past
-提起往事¤Mention Past Events
-奉白帝之命欲往天魔眼调查¤On the orders of the White Emperor to investigate at the Eye of Heavenly Demon
+关于书本¤Sobre os livros
+长老¤Ancião
+大家都很正常¤Todos estão normais
+暂时没有了¤Por enquanto não há
+关于信件¤Sobre a carta
+还是再和倪兄讨论一下¤Vamos discutir novamente com o irmão Ni
+已经聊过了¤Já conversamos
+已经有了结论¤Já há uma conclusão
+关于纸条¤Sobre o bilhete
+关于自由¤Sobre liberdade
+关于责任¤Sobre responsabilidades
+关于待遇¤Sobre tratamento
+愿为宁王效犬马之劳！¤Desejo servir ao Rei Ning com dedicação total!
+打扰了，告辞！¤Com licença, adeus!
+去广陵城¤Ir para a Cidade Guangling
+去九嶷山¤Ir para a Montanha Jiuyi
+搜索一番¤Pesquisar
+不要乱动¤Não mexa
+前往其他海域¤Viajar para outros mares
+关于百里武¤Sobre Bailiwu
+关于世仇¤Sobre a rivalidade ancestral
+我都了解了¤Eu entendi tudo
+一起回到蓬莎岛¤Vamos voltar juntos para a Ilha Pongsha
+关于百里祖宅中的阵法¤Sobre a formação na antiga casa da família Baili
+再想想¤Pense novamente
+还有印象¤Ainda há impressões
+关于魔门的线索¤Sobre pistas da Seita Demoníaca
+关于御剑门之战的真相¤Sobre a verdade da batalha da Seita da Espada Imperial
+记不太清了¤Não lembro claramente
+已经完成了¤Já concluído
+还没有¤Ainda não
+放弃任务¤Abandonar missão
+不提往事¤Não mencionar o passado
+提起往事¤Relembrar eventos passados
+奉白帝之命欲往天魔眼调查¤Por ordem do Imperador Branco, investigar no Olho do Demônio Celestial
 葛小友¤Ge Xiaoyou
 葛道友¤Ge Daoyou
-奉师兄白帝之命欲往天魔眼调查¤I was ordered by brother White Emperor, to investigate at the Eye of Heavenly Demon
-墨居仁的下落¤The Whereabouts of Mo Juren
-前辈，告辞¤Farewell, seniors
-关于围墙¤About the Wall
-关于海兽¤About Sea Beasts
-我还要准备一下¤I still have to prepare
-开始讲法¤Start of Lecture
-掀开帷幔¤Open the curtain
-就此罢手¤Let's stop there
-查看床幔¤View the bed curtain
-查看桌子¤View table
-查看柜子¤View Cabinet
-冷漠回应¤Cold Response
-欣然接受¤Accept with pleasure
-寒暄一番¤Greetings
-关于砂晶¤About Sand Crystal
-打听天魔眼的消息¤Inquire about the news from the Eye of the Demon
-只是随便逛逛¤Just wander around
-请师兄指点¤Brother, please give pointers
-出示晶石¤Show the crystals
-仔细端详仙剑上的灵纹¤Carefully look at the spirit pattern on the Fairy sword
-验查灵力的流动¤Checking the flow of spiritual energy
-查看周围的布阵手法¤Check out the surrounding array techniques
-退出阵法¤Withdraw from the formation
-将它取出¤Take it out
-体会四周连绵不息的剑气¤Experiencing the endless sword energy all around
-不提也罢¤Don't mention it
-观察晶石¤Observe the spar
-转身离去¤Turn and leave
-速速离去¤Leave quickly
-感知灵气¤Sensing Aura
-不为所动¤Unmoved
-关于对手¤About the opponent
-略有所知¤Knowing a little
-关于生死¤About life and death
-都了解了¤Got it all
-关于报酬¤About Compensation
-关于门派关系¤About sect relations
-关于凝练元婴¤About Condensing the nascent soul
-关于化神强者¤About the Deity Transformation
-关于突破化神¤About Breakthrough to Deity Transformation
-购买洞府的条件¤Conditions for buying a cave
-去哪里购买洞府¤Where to buy the cave
-购买洞府的好处¤Benefits of a cave
-失败？¤Defeat?
-二姐？¤Second Older Sister?
-鼓励她坚持¤Encourage her to persevere
-劝她看开¤Advise her to look away
-关于你们？¤About you?
-今后的打算？¤Future plans?
-三妹？¤Third Sister?
-关于寄卖...¤About the consignment...
-查看拍品¤View Lot
-离开这里！¤Leave this place!
-再试一次¤Try again
-尝试触碰树干¤Try to touch the Tree
-还是不了¤Still can't
-点到为止，留对方面子¤Stay to the end and leave the other side face each other
-尽全力，这是对手的尊重¤Do your best, this is the respect of the opponent
-也好¤Also good
-直接前往南崖城¤Go straight to South Cliff City
-先去一趟蓬莎岛¤Go to Pongsha Island first
-前往南崖城¤Going to South Cliff City
-先去一趟碎星岛¤First go to Shattered Star Island
-关于魏无极的情况¤About Wei Wuji
-没事¤It's okay
-不是¤It is Not
-正有此意¤Right on my mind
-前来观战¤Come and watch the battle
-随便逛逛¤Casual strolling
-宗门¤Sect
-化神¤Deity Transformation
-婉言推脱¤Politely excusing myself
-关于英杰会¤About the Tournament
-关于林家¤About the Lin Family
-关于筑基丹¤About Foundation Pills
-天元石心¤Tian Yuan Stone Heart
-翠虹木蕴铁¤Cui Hong Mu Yin Iron
-枫玄玉髓¤Maple Xuan Jade Marrow
-朽木冥铁¤The rotten wood and iron
-多谢大长老夸奖¤Thank you for the compliment Grand Elder
-关于目标的踪迹¤Regarding the Targets trail
-带路吧¤Lead the way
-出示风雨楼令牌¤Show the Storm Manor token
-我要放弃这个悬赏¤I'm giving up this bounty
-发生了一些意外¤An accident occured
-拿钱办事罢了¤Just take the money and finish the job
-大长老找我何事？¤What does the Grand Elder want from me?
-只是在疗伤¤Just healing
-还在收集¤Still collecting
-我就自己随便看看吧¤I'll just take a look at it myself
-已经带来了¤Already brought
-我想放弃这个任务¤I want to give up this task
-有什么任务可以交给我么¤Is there any task you can give me?
-给我看看你们这里最好的东西¤Show me the best things in your place
-关于风雨楼秘术¤About Storm Manor Secret Technique
+奉师兄白帝之命欲往天魔眼调查¤Fui ordenado pelo irmão Imperador Branco a investigar no Olho do Demônio Celestial
+墨居仁的下落¤Paradeiro de Mo Juren
+前辈，告辞¤Despedida, seniores
+关于围墙¤Sobre o muro
+关于海兽¤Sobre as criaturas marinhas
+我还要准备一下¤Ainda preciso me preparar
+开始讲法¤Início da palestra
+掀开帷幔¤Levantar a cortina
+就此罢手¤Vamos parar por aqui
+查看床幔¤Ver a cortina da cama
+查看桌子¤Ver a mesa
+查看柜子¤Ver o armário
+冷漠回应¤Resposta fria
+欣然接受¤Aceitar com prazer
+寒暄一番¤Cumprimentos
+关于砂晶¤Sobre o Cristal de Areia
+打听天魔眼的消息¤Investigar notícias do Olho do Demônio
+只是随便逛逛¤Apenas passeando
+请师兄指点¤Irmão, por favor, me dê conselhos
+出示晶石¤Mostrar os cristais
+仔细端详仙剑上的灵纹¤Observar cuidadosamente os padrões espirituais na espada celestial
+验查灵力的流动¤Verificar o fluxo de energia espiritual
+查看周围的布阵手法¤Verificar as técnicas de formação ao redor
+退出阵法¤Sair da formação
+将它取出¤Retirar
+体会四周连绵不息的剑气¤Sentir a energia da espada ao redor
+不提也罢¤Melhor não mencionar
+观察晶石¤Observar o cristal
+转身离去¤Virar-se e partir
+速速离去¤Partir rapidamente
+感知灵气¤Sentir a aura
+不为所动¤Imóvel, inabalável
+关于对手¤Sobre o oponente
+略有所知¤Saber um pouco
+关于生死¤Sobre vida e morte
+都了解了¤Entendido
+关于报酬¤Sobre a recompensa
+关于门派关系¤Sobre relações com a seita
+关于凝练元婴¤Sobre condensação da alma nascente
+关于化神强者¤Sobre o Mestre da Transformação Divina
+关于突破化神¤Sobre a evolução para Transformação Divina
+购买洞府的条件¤Condições para comprar uma caverna
+去哪里购买洞府¤Onde comprar a caverna
+购买洞府的好处¤Benefícios de ter uma caverna
+失败？¤Derrota?
+二姐？¤Segunda irmã?
+鼓励她坚持¤Incentivar ela a persistir
+劝她看开¤Aconselhar ela a deixar pra lá
+关于你们？¤Sobre vocês?
+今后的打算？¤Planos futuros?
+三妹？¤Terceira irmã?
+关于寄卖...¤Sobre consignação...
+查看拍品¤Ver lote
+离开这里！¤Sair daqui!
+再试一次¤Tentar novamente
+尝试触碰树干¤Tentar tocar o tronco
+还是不了¤Ainda não
+点到为止，留对方面子¤Parar por aqui, deixando a outra pessoa preservar sua face
+尽全力，这是对手的尊重¤Dar o máximo, é uma demonstração de respeito ao oponente
+也好¤Também serve
+直接前往南崖城¤Ir direto para a Cidade Penhasco Sul
+先去一趟蓬莎岛¤Primeiro ir à Ilha Pongsha
+前往南崖城¤Indo para a Cidade Penhasco Sul
+先去一趟碎星岛¤Primeiro ir à Ilha Estrela Partida
+关于魏无极的情况¤Sobre a situação de Wei Wuji
+没事¤Tudo bem
+不是¤Não é
+正有此意¤Era exatamente isso que eu pensava
+前来观战¤Vindo assistir à batalha
+随便逛逛¤Passeio casual
+宗门¤Seita
+化神¤Transformação Divina
+婉言推脱¤Recusar educadamente
+关于英杰会¤Sobre o Torneio de Heróis
+关于林家¤Sobre a Família Lin
+关于筑基丹¤Sobre a pílula de fundação
+天元石心¤Coração de Pedra Tian Yuan
+翠虹木蕴铁¤Madeira Arco-íris com Ferro
+枫玄玉髓¤Jade Escondido de Bordo
+朽木冥铁¤Madeira podre com Ferro sombrio
+多谢大长老夸奖¤Obrigado pelo elogio, Grande Ancião
+关于目标的踪迹¤Sobre o rastro do alvo
+带路吧¤Guie o caminho
+出示风雨楼令牌¤Mostrar o token da Mansão Tempestade
+我要放弃这个悬赏¤Vou desistir desta recompensa
+发生了一些意外¤Ocorreu um acidente
+拿钱办事罢了¤Apenas pegar o dinheiro e cumprir o serviço
+大长老找我何事？¤O que o Grande Ancião quer de mim?
+只是在疗伤¤Apenas curando
+还在收集¤Ainda coletando
+我就自己随便看看吧¤Vou dar uma olhada sozinho
+已经带来了¤Já trouxe
+我想放弃这个任务¤Quero desistir desta missão
+有什么任务可以交给我么¤Há alguma missão que você possa me dar?
+给我看看你们这里最好的东西¤Mostre-me as melhores coisas daqui
+关于风雨楼秘术¤Sobre a técnica secreta da Mansão Tempestade
 关于琚运琦¤About Ju Yunqi
 没有其他问题了¤No further questions
 关于玄女¤Regarding the mysterious woman
