@@ -1,503 +1,503 @@
 确定¤OK
-取消¤Cancel
-算了¤Forget it
-进去¤Go inside
-前往¤Go
-御起真火提炼材料¤Raise the true fire to refine the materials
-早早离开¤Leave early
-仔细寻找¤Search carefully
-出示九龙玺¤Display the Nine Dragons Seal
-进去看看¤Check it out
-破阵¤Break the array
-离开¤Leave
-那便出发吧¤Then let's go
-完全没问题¤No problem at all
-参加¤Participate
-我还有些事没办完¤I still have something else to do
-还能坚持¤I can endure
-再了解一下其它长老¤Learn more about the other elders
-略有耳闻¤I've heard a little bit about it.
-青蛇真人¤Lord Azure Snake
-长春真人¤Lord Eternal Spring
-拜青蛇真人为师¤Become the disciple of Lord Azure Snake
-拜紫菱仙子为师¤Become the disciple of Lady Ziling
-未曾听说过¤Never heard of it
-紫菱仙子¤Lady Ziling
-拜长春真人为师¤Become the disciple of Lord Eternal Spring
-避开¤Dodge
-硬抗¤Endure
-正阳道长¤Lord Bright Sun
-苍坤上人¤Venerable Pale Earth
-拜正阳道长为师¤Become the disciple of Lord Bright Sun
-拜火云老祖为师¤Become the disciple of Patriarch Flamecloud
-火云老祖¤Patriarch Flamecloud
-拜苍坤上人为师¤Become the disciple of Venerable Pale Earth
-还是算了¤Nevermind
-采集¤Collect
-开始炼丹¤Begin Alchemy
-留下¤Stay
-暂且离开¤Leave for now
-尝试击溃禁制¤Try to break the seal
-退回去¤Pull back
-闯过去¤Break through
-静观其变¤Wait and see what happens
-出手相助¤Give aid
-尝试修复¤Attempt to repair
-使用传送阵¤Use the teleportation array
-服用解毒丹药¤Take a detoxing pill
-转身离开¤Turn and leave
-强行闯过¤Force your way through
-神识探查¤Soul Sense Probe
-采摘灵药¤Pick magical herbs
-笔直通过¤Go straight through
-另寻他路¤Find another route
-原路退回¤Return the same way
-于此修练¤Train here
-跳入水中¤Jump into the water
-用乱刃切割巨石¤Cut the boulder haphazardly
-以后再想办法¤Figure it out later
-用驱物术挪开巨石¤Move the boulder with telekinesis
-阴灵蟒¤Yin Spirit Python
-练习法术¤Practice techniques
-偷偷潜入（神识检测）¤Sneak in (Soul sense detection)
-出手攻击¤Strike
-硬闯过去¤Break through
-退回原路¤Retreat back the way you came
-闯进去¤Break in
-没什么想说的了¤Nothing more to say
-关于渡劫¤About Tribulation
-关于长生¤About Eternal Life
-关于魔门¤About Demon Gate
-多一事不如少一事，静观其变¤Better to wait and see what happens first.
-路见不平，自当现身相助。¤When you see injustice on the road, you should show up to help.
-同门有难，自当现身相助。¤When a fellow disciple is in trouble, you should show up to help.
-屏息凝神，不要轻举妄动¤Hold your breath, don't act rashly
-出手夺宝¤Attempt robbery
-不予理会¤Ignore
-回头看去¤Turn and look
-不去¤Don't go
-动手¤Do it
-求助¤Ask for help
-上前示意¤Step up and warn
-出言提醒¤Speak up and warn
-伸手阻拦¤Reach out and stop
-姑娘为何突然出手伤人？¤Lady, why would you suddenly attack someone?
-你这花妖好生歹毒！¤You're such a vicious flower demon!
-苦心劝说¤Persuade
-狠下杀手¤Strike to kill
-灭族......难不成你不是宁州香薷？¤Genocide...... Are you not Ningzhou Elsholtzia?
-你也太无理取闹，五百年前之事与我二人何干？¤You are too unreasonable, what does the incident 500 years ago have to do with us?
-这......既然我还活着，那应该是称得上的。¤...... Since I am still alive, that can be claimed.
-再等等¤Wait a little longer
-要战便战¤If you want to fight, fight
-拔腿就跑¤Run away
-抓住¤Catch
-偷偷溜走¤Sneak away
-宁死不服¤I'd rather die than submit
-果断认错¤Admit your mistake
-跳下去¤Jump down
-人为财死鸟为食亡¤Men die for wealth just as birds die for food
-运《敛息术》¤Use the Breath Restraint Technique
-神识掩护¤Soul Sense Protection
-偷了就跑¤Steal it and run
-愿意¤Agree
-古神教¤Ancient God Sects
-我没什么想知道的了¤There's nothing else I want to know
+取消¤Cancelar
+算了¤Esqueça
+进去¤Entre
+前往¤Ir
+御起真火提炼材料¤Aumentar o fogo verdadeiro para refinar os materiais
+早早离开¤Sair cedo
+仔细寻找¤Procurar cuidadosamente
+出示九龙玺¤Exibir o Selo dos Nove Dragões
+进去看看¤Dar uma olhada
+破阵¤Quebrar a formação
+离开¤Sair
+那便出发吧¤Então vamos
+完全没问题¤Sem problema algum
+参加¤Participar
+我还有些事没办完¤Ainda tenho algo a resolver
+还能坚持¤Ainda consigo aguentar
+再了解一下其它长老¤Saber mais sobre os outros anciãos
+略有耳闻¤Já ouvi um pouco sobre isso
+青蛇真人¤Mestre Cobra Azul
+长春真人¤Mestre Primavera Eterna
+拜青蛇真人为师¤Tornar-se discípulo do Mestre Cobra Azul
+拜紫菱仙子为师¤Tornar-se discípulo da Fada Ziling
+未曾听说过¤Nunca ouvi falar
+紫菱仙子¤Fada Ziling
+拜长春真人为师¤Tornar-se discípulo do Mestre Primavera Eterna
+避开¤Desviar
+硬抗¤Aguentar
+正阳道长¤Mestre Sol Brilhante
+苍坤上人¤Venerável Terra Pálida
+拜正阳道长为师¤Tornar-se discípulo do Mestre Sol Brilhante
+拜火云老祖为师¤Tornar-se discípulo do Patriarca Nuvem de Fogo
+火云老祖¤Patriarca Nuvem de Fogo
+拜苍坤上人为师¤Tornar-se discípulo do Venerável Terra Pálida
+还是算了¤Deixa pra lá
+采集¤Coletar
+开始炼丹¤Começar Alquimia
+留下¤Ficar
+暂且离开¤Sair por ora
+尝试击溃禁制¤Tentar quebrar a barreira
+退回去¤Recuar
+闯过去¤Forçar passagem
+静观其变¤Aguardar para ver o que acontece
+出手相助¤Ajudar
+尝试修复¤Tentar reparar
+使用传送阵¤Usar a matriz de teletransporte
+服用解毒丹药¤Tomar pílula de desintoxicação
+转身离开¤Virar-se e sair
+强行闯过¤Forçar passagem
+神识探查¤Sondar com o sentido espiritual
+采摘灵药¤Colher ervas espirituais
+笔直通过¤Passar direto
+另寻他路¤Procurar outro caminho
+原路退回¤Retornar pelo mesmo caminho
+于此修练¤Treinar aqui
+跳入水中¤Pular na água
+用乱刃切割巨石¤Cortar o pedregulho aleatoriamente
+以后再想办法¤Pensar em uma solução depois
+用驱物术挪开巨石¤Mover o pedregulho com telecinese
+阴灵蟒¤Píton Espírito Sombrio
+练习法术¤Praticar técnicas
+偷偷潜入（神识检测）¤Infiltrar-se furtivamente (detecção de sentido espiritual)
+出手攻击¤Atacar
+硬闯过去¤Forçar passagem
+退回原路¤Recuar pelo caminho original
+闯进去¤Invadir
+没什么想说的了¤Nada mais a dizer
+关于渡劫¤Sobre a Tribulação
+关于长生¤Sobre a Vida Eterna
+关于魔门¤Sobre o Portão Demoníaco
+多一事不如少一事，静观其变¤Melhor esperar para ver o que acontece primeiro.
+路见不平，自当现身相助。¤Ao ver injustiça no caminho, deve-se aparecer para ajudar.
+同门有难，自当现身相助。¤Quando um condiscípulo estiver em apuros, deve-se aparecer para ajudar.
+屏息凝神，不要轻举妄动¤Prender a respiração, não agir precipitadamente
+出手夺宝¤Tentar roubar o tesouro
+不予理会¤Ignorar
+回头看去¤Olhar para trás
+不去¤Não ir
+动手¤Agir
+求助¤Pedir ajuda
+上前示意¤Aproximar-se e sinalizar
+出言提醒¤Alertar verbalmente
+伸手阻拦¤Estender a mão para impedir
+姑娘为何突然出手伤人？¤Moça, por que atacou alguém de repente?
+你这花妖好生歹毒！¤Sua demônia flor, que crueldade!
+苦心劝说¤Tentar persuadir
+狠下杀手¤Golpear para matar
+灭族......难不成你不是宁州香薷？¤Extermínio de clã... Não é você a Elsholtzia de Ningzhou?
+你也太无理取闹，五百年前之事与我二人何干？¤Você está sendo absurda, o que o ocorrido de 500 anos atrás tem a ver conosco?
+这......既然我还活着，那应该是称得上的。¤... Já que ainda estou vivo, isso deve contar.
+再等等¤Esperar mais um pouco
+要战便战¤Se quer lutar, lute
+拔腿就跑¤Sair correndo
+抓住¤Agarrar
+偷偷溜走¤Sair de fininho
+宁死不服¤Prefiro morrer a me submeter
+果断认错¤Admitir o erro sem hesitar
+跳下去¤Pular
+人为财死鸟为食亡¤Homens morrem por riqueza assim como pássaros por comida
+运《敛息术》¤Usar a Técnica de Conter a Respiração
+神识掩护¤Proteção do Sentido Espiritual
+偷了就跑¤Roube e fuja
+愿意¤Concordo
+古神教¤Seitas do Deus Antigo
+我没什么想知道的了¤Não há mais nada que eu queira saber
 张三¤Zhang San
-在外围相助¤Help from the distance
-加入白帝楼有什么福利？¤What are the benefits of joining White Emperor Pavilion?
-出发吧¤lets go
-没有其它问题了¤No more questions
-关于图南海¤About South Tu Sea
-不愿意¤Unwilling
-血剑印¤Blood Sword Seal
-血剑宫¤Blood Sword Palace
+在外围相助¤Ajudar à distância
+加入白帝楼有什么福利？¤Quais são os benefícios de entrar no Pavilhão do Imperador Branco?
+出发吧¤Vamos
+没有其它问题了¤Sem mais perguntas
+关于图南海¤Sobre o Mar do Sul de Tu
+不愿意¤Não quero
+血剑印¤Selo da Espada de Sangue
+血剑宫¤Palácio da Espada de Sangue
 韩立¤Han Li
-内阁弟子和外围成员有什么区别。¤What is the difference between a inner disciple and an outer disciple.
-我还有些事¤I have other business
-白帝楼的由来¤Origin of the White Emperor Pavilion
-入阵迎敌¤Enter the formation and meet the enemy
-魔神蛊¤The Ancient God Cult's Compulsion Gu
-魔心¤Demon Heart
-天魔道¤Heavenly Demon Path
+内阁弟子和外围成员有什么区别。¤Qual a diferença entre um discípulo interno e um membro externo?
+我还有些事¤Tenho outros assuntos
+白帝楼的由来¤Origem do Pavilhão do Imperador Branco
+入阵迎敌¤Entrar na formação para enfrentar o inimigo
+魔神蛊¤Compulsão Gu da Seita do Deus Antigo
+魔心¤Coração Demoníaco
+天魔道¤Caminho do Demônio Celestial
 李天¤Li Tian
-关于遗迹的传闻¤Rumors about the ruins
-如何成为内阁弟子¤How to become an inner disciple
-加入白帝楼我需要做什么？¤What do I need to do to join White Emperor Pavilion?
-躲在角落¤Hide in a corner
-不必了¤No need
-出去看看¤Go out and take a look
-冷嘲热讽¤Sarcastic remarks
-大打出手¤fight
-好言安慰¤kind words of comfort
-直接进去¤Go straight in
-先敲敲门¤Knock on the door first
-询问魏无极¤Ask Wei Wuji
-自己试试¤Try it yourself
-答应¤Promise
-拒绝¤Refuse
-长老堂¤Elder Hall
-倪旭荣的房间¤Ni Xurong's Room
-倪振东的房间¤Ni Zhendong's Room
-倪振南的房间¤Ni Zhennan's Room
-同意¤Agree
-你又闯什么祸了？¤What have you gotten yourself into again?
-莫非是家中出了什么意外？¤Could it be that there was some kind of incident at home?
-出发¤Depart
-多谢，承情了。¤Thanks, I owe you one.
-不得已而为之¤It had to be done
-没空¤No time
-作为道侣，不就应该这样么嘿嘿¤As a couple, shouldn't that be the case?
-有何不敢¤Why would I not dare?
-怕不是缺个打手¤Are you sure it's not because you want help fighting?
-不用见外¤There's no need to be a stranger.
-找星铃儿帮忙¤Ask Star Bell for help.
-确定选择直接去星宫¤Confirm that you go directly to the Star Palace.
-去星宫“恭贺”冲虚散人¤Go to the Star Palace to 'congratulate' Chong Xu Sanren
-交给我吧¤Leave it to me
-不用担心¤Don't worry.
-无暇顾及¤No time to worry
-没什么事了¤There is nothing more to do
-我想出去看看¤I want to go out and see
-关于长老会¤About the Council of Elders
-我已经都了解了¤I already know everything
-关于栖云真人¤About Lord Qiyun
-关于苗矮上人¤About Venerable Miaoai
-关于通羽上人¤About Venerable Tongyu
-关于天星城坊市¤About the Star City Market
-言语威胁¤Threaten
-灵石收买¤Bribe with spirit stones
-不动声色地观察¤Observe quietly
-冲上去乱打一通¤Rushforward and strike 
-没有其它发现了¤Nothing else was found
-关于苗矮长老¤About Elder Miaoai
-关于通羽长老¤About Elder Tongyu
-我怀疑苗矮长老¤I suspect Elder Miaoai
-我怀疑栖云长老¤I suspect Elder Quyun
-我怀疑通羽长老¤I suspect Elder Tongyu
-进入三长老房间¤Enter the Third Elder's room
-进入二长老房间¤Enter the Second Elder's room
-镇元剑仙¤Swordmaster Zhenyuan
-龙阳上人¤Venerable Dragonlight
-拜镇元剑仙为师¤Become the disciple of Swordmaster Zhenyuan
-拜明河剑仙为师¤Become the disciple of Swordmaster Radiant River
-明河剑仙¤Swordmaster Radiant River
-拜龙阳上人为师¤Become the disciple of Venerable Dragonlight
-前往大殿¤Go to the main hall
-大巧不工¤It's not a big deal
-盘腿坐下¤Sit down cross-legged
-剑走偏锋¤Unorthodox sword moves
-飘逸灵动¤Floaty and nimble
-耐心等候¤Wait patiently
-大步上前¤Stride forward
-继续向前¤Continue forward
-试图返回¤Attempt to return
-请教《雾相化身》¤Ask for instruction on Mistborn Avatar Arts
-请教《云雾剑法》¤Please teach Cloud and Mist Sword Technique
-请教《幻雾真法》¤Ask for instruction on the Illusory Mist Mantra
-询问奕云仙子的过往¤Ask about the past of Lady Yiyun
-请教《幻雾术》¤Ask for the Illusory Mist Technique
-步入潭水¤Step into the pool of water
-潜心感悟¤Introspect and try to feel something
-上前查看¤Go up and see
-席地而坐¤Sit on the ground
-钻研石碑¤Study the obelisk
-先试探他一下¤Test him first
-推动机关¤Push the mechanism
-检查沙台¤Check the sand platform
-结束搜索¤End the search
-查看干尸¤Check the dried corpse
-查看沙台¤Check the sand platform
-小心观察¤Observe carefully
-上前打量¤Go up and take a look
-查看外套¤Check the robes
-检查矿灯¤Examine the mining lamp
-听他说完¤Hear him out
-不动声色地往退后一步¤Step back without making a sound
-玄伶仙子¤Lady Starsong
-凝霜仙子¤Lady Frostglaze
-润熹仙子¤Lady Dawnrain
-拜凝霜仙子为师¤Become the disciple of Lady Frostglaze
-拜润熹仙子为师¤Become the disciple of Lady Dawnrain
-再了解一下其他长老¤Learn more about other elders
-拜玄伶仙子为师¤Become the disciple of Lady Starsong
-前去参赛¤Go to the competition
-站出来¤Step up
-隐瞒事实¤Hide the truth
-不管它¤Don't worry about it
-没有什么要问的了¤There is nothing left to ask
-询问剑灵¤Ask the sword spirit
-询问小屋¤Ask about the hut
-询问光幕¤Ask the light screen
-凭自己的直觉¤Follow your own intuition
-暗中观察¤Observe in secret
-偷偷离开¤Secretly leave
-下次再说¤I'll talk about it next time
-出手迎战¤Meet in battle
-找落单的修士下手¤Look for a lone cultivator
-鸢本仙子¤Lady Yuanben
-恒如真人¤Lord Eternal Harmony
-拜鸢本仙子为师¤Become the disciple of Lady Yuanben
-拜冶庚上人为师¤Become the disciple of Venerable Yegeng
-冶庚上人¤Venerable Yegeng
-拜恒如真人为师¤Become the disciple of Lord Eternal Harmony
-伸手握住¤Reach out and hold
-就选它了¤I choose this one
-再看看别的。¤Look at the others
-桃木符剑¤Peach Wood Rune Sword
-碧玉符剑¤Jasper Rune Sword
-陨铁符剑¤Meteor Iron Rune Sword
-不叫价¤Don't bid
-兴致缺缺¤Not interested
-叫价¤Bid
-落座等候¤Sit down and wait
-我再想想¤let me think again
-是的¤Yes
-床头¤bedside
-已经没什么在意的了¤Nothing else on my mind
-花瓶¤vase
-书桌¤desk
-纸篓¤waste paper bin
-书架¤bookshelf
-窗户¤window
-床¤bed
-柜子¤cabinet
-屏风¤Divider screen
-检查灵石台座¤Examine the Spirit Stone Pedestal
-检查书桌¤Check the desk
-检查衣柜¤Checking the closet
-长案¤Long desk
-装饰剑鞘¤Decorative scabbard
-关于阮娘¤About Ruan Niang
-关于毕钟天¤About Bi Zhongtian
-关于海上仙山¤About the sea fairy mountain
-关于你自己¤About yourself
-没什么要问的了¤Nothing more to ask
-闯入阵法¤Breaking into the array
-离开此地¤Leave here
-小心潜入¤Sneak in carefully
-大胆闯入¤Boldly break in
-打听族中秘境¤Ask about the Secret Realm in the Clan
-询问百里奇的去向¤Inquire about the whereabouts of Baili Qi
-敛息潜入¤restrain your breath and sneak in
-深入漩涡¤Plunge into the Vortex
-进入¤enter
-手下留情¤Show mercy
-痛下杀手¤Strike to kill
-进入龙宫¤Enter the Dragon Palace
-不予理睬¤Pay no attention
-询问来由¤Ask the reason
-先观望观望¤Let's wait and see first
-第一个上¤First Up
-比我想象中要快¤Faster than I thought
-没想到只有两个人通过¤Unexpectedly, only two people passed.
-倪兄都是元婴修士了，怎么定力还这么差？¤Brother Ni is already a Nascent Soul Cultivator, how come you still have so little self discipline?
-前往探查¤Go and explore
-支付灵石¤Pay with spirit stones
-这一路是有些无聊了。¤The journey was a bit boring.
-场外等待¤Wait outside
-加入拍卖¤Join the auction
-我们出发吧¤Let's go
-俗话说舍命陪君子 我岂能让百里兄只身犯险¤How can I let brother Baili risk your life alone? 
-既然百里兄坚持 那我便祝你平安归来吧¤Since Brother Baili insists, I wish you a safe return.
-上前相助¤Go forward and render aid
-关于古代遗物¤About the ancient relics
-不太清楚¤Not quite sure
-略知一二¤I know a bit
-关于海域情报¤Information about the sea region
-迎头而上¤Go head on
-禾山道¤Heshan Road
-暂避锋芒¤Avoid conflict for now
-婉言拒绝¤politely decline
+关于遗迹的传闻¤Rumores sobre as ruínas
+如何成为内阁弟子¤Como se tornar um discípulo interno
+加入白帝楼我需要做什么？¤O que preciso fazer para entrar no Pavilhão do Imperador Branco?
+躲在角落¤Esconder-se em um canto
+不必了¤Não precisa
+出去看看¤Sair para dar uma olhada
+冷嘲热讽¤Comentários sarcásticos
+大打出手¤Lutar
+好言安慰¤Palavras de conforto
+直接进去¤Entrar direto
+先敲敲门¤Bater na porta primeiro
+询问魏无极¤Perguntar a Wei Wuji
+自己试试¤Tentar você mesmo
+答应¤Prometer
+拒绝¤Recusar
+长老堂¤Salão dos Anciãos
+倪旭荣的房间¤Quarto de Ni Xurong
+倪振东的房间¤Quarto de Ni Zhendong
+倪振南的房间¤Quarto de Ni Zhennan
+同意¤Concordo
+你又闯什么祸了？¤Que encrenca você arrumou agora?
+莫非是家中出了什么意外？¤Será que aconteceu algum incidente em casa?
+出发¤Partir
+多谢，承情了。¤Obrigado, fico te devendo uma.
+不得已而为之¤Não havia outra opção
+没空¤Sem tempo
+作为道侣，不就应该这样么嘿嘿¤Como casal, não deveria ser assim? hehe
+有何不敢¤Por que não ousar?
+怕不是缺个打手¤Não será que você só quer alguém para ajudar a lutar?
+不用见外¤Não precisa ser formal
+找星铃儿帮忙¤Pedir ajuda a Xingling
+确定选择直接去星宫¤Confirmar que vai direto ao Palácio Estelar
+去星宫“恭贺”冲虚散人¤Ir ao Palácio Estelar para “parabenizar” Chong Xu Sanren
+交给我吧¤Deixe comigo
+不用担心¤Não se preocupe
+无暇顾及¤Sem tempo para se preocupar
+没什么事了¤Não há mais nada a fazer
+我想出去看看¤Quero sair e dar uma olhada
+关于长老会¤Sobre o Conselho de Anciãos
+我已经都了解了¤Já sei de tudo
+关于栖云真人¤Sobre o Mestre Qiyun
+关于苗矮上人¤Sobre o Venerável Miaoai
+关于通羽上人¤Sobre o Venerável Tongyu
+关于天星城坊市¤Sobre o Mercado da Cidade Estelar
+言语威胁¤Ameaçar verbalmente
+灵石收买¤Subornar com pedras espirituais
+不动声色地观察¤Observar discretamente
+冲上去乱打一通¤Avançar e atacar aleatoriamente
+没有其它发现了¤Nada mais foi encontrado
+关于苗矮长老¤Sobre o Ancião Miaoai
+关于通羽长老¤Sobre o Ancião Tongyu
+我怀疑苗矮长老¤Suspeito do Ancião Miaoai
+我怀疑栖云长老¤Suspeito do Ancião Qiyun
+我怀疑通羽长老¤Suspeito do Ancião Tongyu
+进入三长老房间¤Entrar no quarto do Terceiro Ancião
+进入二长老房间¤Entrar no quarto do Segundo Ancião
+镇元剑仙¤Mestre da Espada Zhenyuan
+龙阳上人¤Venerável Dragonlight
+拜镇元剑仙为师¤Tornar-se discípulo do Mestre da Espada Zhenyuan
+拜明河剑仙为师¤Tornar-se discípulo do Mestre da Espada Rio Radiante
+明河剑仙¤Mestre da Espada Rio Radiante
+拜龙阳上人为师¤Tornar-se discípulo do Venerável Dragonlight
+前往大殿¤Ir ao salão principal
+大巧不工¤Não é nada demais
+盘腿坐下¤Sentar-se de pernas cruzadas
+剑走偏锋¤Movimentos de espada não convencionais
+飘逸灵动¤Leve e ágil
+耐心等候¤Esperar pacientemente
+大步上前¤Avançar a passos largos
+继续向前¤Continuar avançando
+试图返回¤Tentar retornar
+请教《雾相化身》¤Pedir instrução sobre Artes Avatar de Névoa
+请教《云雾剑法》¤Ensinar a Técnica da Espada Nuvem e Névoa
+请教《幻雾真法》¤Pedir instrução sobre o Mantra da Névoa Ilusória
+询问奕云仙子的过往¤Perguntar sobre o passado da Fada Yiyun
+请教《幻雾术》¤Pedir instrução sobre a Técnica da Névoa Ilusória
+步入潭水¤Entrar na água do lago
+潜心感悟¤Concentre-se e tente sentir algo
+上前查看¤Aproximar-se e observar
+席地而坐¤Sentar no chão
+钻研石碑¤Estudar o obelisco
+先试探他一下¤Testá-lo primeiro
+推动机关¤Acionar o mecanismo
+检查沙台¤Verificar a plataforma de areia
+结束搜索¤Encerrar a busca
+查看干尸¤Examinar o cadáver seco
+查看沙台¤Verificar a plataforma de areia
+小心观察¤Observar cuidadosamente
+上前打量¤Aproximar-se e dar uma olhada
+查看外套¤Verificar o manto
+检查矿灯¤Examinar a lâmpada de mineração
+听他说完¤Ouvir até o fim
+不动声色地往退后一步¤Recuar sem fazer barulho
+玄伶仙子¤Fada Starsong
+凝霜仙子¤Fada Frostglaze
+润熹仙子¤Fada Dawnrain
+拜凝霜仙子为师¤Tornar-se discípulo da Fada Frostglaze
+拜润熹仙子为师¤Tornar-se discípulo da Fada Dawnrain
+再了解一下其他长老¤Conhecer melhor os outros anciãos
+拜玄伶仙子为师¤Tornar-se discípulo da Fada Starsong
+前去参赛¤Ir para a competição
+站出来¤Dar um passo à frente
+隐瞒事实¤Ocultar a verdade
+不管它¤Não se preocupar com isso
+没有什么要问的了¤Não há mais perguntas
+询问剑灵¤Perguntar ao espírito da espada
+询问小屋¤Perguntar sobre a cabana
+询问光幕¤Perguntar sobre a tela de luz
+凭自己的直觉¤Seguir sua própria intuição
+暗中观察¤Observar em segredo
+偷偷离开¤Sair discretamente
+下次再说¤Falaremos na próxima vez
+出手迎战¤Enfrentar em batalha
+找落单的修士下手¤Atacar um cultivador solitário
+鸢本仙子¤Fada Yuanben
+恒如真人¤Senhor Harmonia Eterna
+拜鸢本仙子为师¤Tornar-se discípulo da Fada Yuanben
+拜冶庚上人为师¤Tornar-se discípulo do Venerável Yegeng
+冶庚上人¤Venerável Yegeng
+拜恒如真人为师¤Tornar-se discípulo do Senhor Harmonia Eterna
+伸手握住¤Estender a mão e segurar
+就选它了¤Escolho este
+再看看别的。¤Ver outros
+桃木符剑¤Espada Rúnica de Madeira de Pêssego
+碧玉符剑¤Espada Rúnica de Jaspe
+陨铁符剑¤Espada Rúnica de Ferro Meteórico
+不叫价¤Não fazer lance
+兴致缺缺¤Sem interesse
+叫价¤Dar lance
+落座等候¤Sentar e esperar
+我再想想¤Vou pensar mais um pouco
+是的¤Sim
+床头¤Cabeceira
+已经没什么在意的了¤Nada mais me importa
+花瓶¤Vaso
+书桌¤Escrivaninha
+纸篓¤Cesto de papel
+书架¤Estante
+窗户¤Janela
+床¤Cama
+柜子¤Armário
+屏风¤Biombo
+检查灵石台座¤Examinar o pedestal da Pedra Espiritual
+检查书桌¤Verificar a escrivaninha
+检查衣柜¤Verificar o armário
+长案¤Mesa longa
+装饰剑鞘¤Bainha decorativa
+关于阮娘¤Sobre Ruan Niang
+关于毕钟天¤Sobre Bi Zhongtian
+关于海上仙山¤Sobre a Montanha Mágica no Mar
+关于你自己¤Sobre você mesmo
+没什么要问的了¤Nada mais a perguntar
+闯入阵法¤Invadir o array
+离开此地¤Sair daqui
+小心潜入¤Entrar sorrateiramente
+大胆闯入¤Invadir com ousadia
+打听族中秘境¤Perguntar sobre o Reino Secreto do Clã
+询问百里奇的去向¤Perguntar sobre o paradeiro de Baili Qi
+敛息潜入¤Prender a respiração e entrar discretamente
+深入漩涡¤Mergulhar no redemoinho
+进入¤Entrar
+手下留情¤Poupar
+痛下杀手¤Matar sem piedade
+进入龙宫¤Entrar no Palácio do Dragão
+不予理睬¤Ignorar
+询问来由¤Perguntar o motivo
+先观望观望¤Observar antes
+第一个上¤Primeiro a entrar
+比我想象中要快¤Mais rápido do que pensei
+没想到只有两个人通过¤Não esperava que apenas duas pessoas passassem
+倪兄都是元婴修士了，怎么定力还这么差？¤Irmão Ni já é um cultivador de Alma Nascente, como ainda tem tão pouca disciplina?
+前往探查¤Ir explorar
+支付灵石¤Pagar com pedras espirituais
+这一路是有些无聊了。¤O caminho foi um pouco entediante
+场外等待¤Esperar do lado de fora
+加入拍卖¤Participar do leilão
+我们出发吧¤Vamos
+俗话说舍命陪君子 我岂能让百里兄只身犯险¤Como posso deixar o irmão Baili arriscar sua vida sozinho? 
+既然百里兄坚持 那我便祝你平安归来吧¤Já que o irmão Baili insiste, desejo seu retorno seguro.
+上前相助¤Aproximar-se e ajudar
+关于古代遗物¤Sobre as relíquias antigas
+不太清楚¤Não tenho muita certeza
+略知一二¤Sei um pouco
+关于海域情报¤Informações sobre a região marítima
+迎头而上¤Enfrentar de frente
+禾山道¤Caminho Heshan
+暂避锋芒¤Evitar conflito por enquanto
+婉言拒绝¤Recusar educadamente
 好的¤Ok
-答应同行¤Agree to travel together
-还有别的事情¤There are other matters
-好，观上一观¤Ok, i'll take a quick look
-为何要去一观¤Why should I check it out
-关于出口¤About the exit
-我知道了¤I got it.
-注入灵力¤Inject spiritual power
-关于龙珠¤About the Dragon Orb
-关于阵法¤About The Array
-返回¤return
-地阶不传之秘¤Earth ranked Untold Secrets
-天阶不传之秘¤Heaven ranked Untold Secret 
-不传之秘¤Untold Secrets
-人阶¤Human
-地阶¤Earth
-普通秘籍¤Common Cheats
-犹豫不决¤Hesitate
-欣然同意¤Agree wholeheartedly
-解决祸端¤Solve the problem
-小心潜逃¤Carefully sneak away
-乐于出手¤Happy to make a move
-无所畏惧¤Fearless
-直接离开¤Leave straight away
-过去看看¤Go take a look
-逃命要紧¤Escape
-上前探查¤Go forward and explore
-有心无力¤Willing but unable
-擒贼先擒王¤Take out the leader first
-闯入圣坛¤Break into the altar
-闯入正殿¤Break into the main hall
-深入调查¤Investigate further
-开打¤start the fight
-下毒¤Poison
-我意已决¤I have decided
-占为己有¤Take it for yourself
-日后交还¤Return it later
-继续跟踪¤Continue to follow
-作壁上观¤Observe from the side
-再相信他一次¤Trust him once more
-推脱告别¤Excuse yourself and leave
-停下等待¤Stop and wait
-加快脚步¤Pick up the pace
-兴趣颇多¤Much interest
-不感兴趣¤Not interested
-暂且算了¤Forget it for now
-一探究竟¤check it out
-阅读碑文¤Read the inscription
-尝试抽离神识¤Attempt to withdraw Soul Sense
-尝试观察影像¤Try to observe the image
-抽离神识！¤Disengage Soul Sense!
-继续坚持！¤Keep it up!
-避开他¤Avoid him
-小心戒备¤Be on alert
-一旁等待¤Wait by the side
-一人便可对付¤I can handle it alone
-不便出手¤No need to do anything
-可负责一只¤I can take care of one
-木之守护兽¤Guardian of Wood
-水之守护兽¤Guardian of Water
-火之守护兽¤Guardian of Fire
-土之守护兽¤Guardian of Earth
-金之守护兽¤Guardian of Metal
-是那传已久的阵道功法？¤Is it the long-rumored formation technique?
-奇门遁甲？¤The strange disappearing Jia doorway?
-公孙兄这是...？¤Brother Gongsun, this is...?
-继续前进¤Moving on
-以神识应对¤Use soul sense to counter
-靠身法硬闯¤Pass through dodging
-寻求帮助¤Seek help
+答应同行¤Aceitar viajar junto
+还有别的事情¤Há outros assuntos
+好，观上一观¤Ok, darei uma olhada rápida
+为何要去一观¤Por que devo conferir?
+关于出口¤Sobre a saída
+我知道了¤Entendi
+注入灵力¤Injetar poder espiritual
+关于龙珠¤Sobre a Orbe do Dragão
+关于阵法¤Sobre o Array
+返回¤Retornar
+地阶不传之秘¤Segredos não transmitidos do nível Terra
+天阶不传之秘¤Segredos não transmitidos do nível Céu
+不传之秘¤Segredos não transmitidos
+人阶¤Nível Humano
+地阶¤Nível Terra
+普通秘籍¤Manuais Comuns
+犹豫不决¤Hesitar
+欣然同意¤Aceitar de bom grado
+解决祸端¤Resolver o problema
+小心潜逃¤Fugir cuidadosamente
+乐于出手¤Pronto para agir
+无所畏惧¤Sem medo
+直接离开¤Sair imediatamente
+过去看看¤Dar uma olhada
+逃命要紧¤Escapar é prioridade
+上前探查¤Aproximar-se para investigar
+有心无力¤Querer, mas não poder
+擒贼先擒王¤Capturar o líder primeiro
+闯入圣坛¤Invadir o altar
+闯入正殿¤Invadir o salão principal
+深入调查¤Investigar mais a fundo
+开打¤Começar a lutar
+下毒¤Envenenar
+我意已决¤Já decidi
+占为己有¤Tomar para si
+日后交还¤Devolver mais tarde
+继续跟踪¤Continuar seguindo
+作壁上观¤Observar à distância
+再相信他一次¤Confiar nele mais uma vez
+推脱告别¤Desculpar-se e sair
+停下等待¤Parar e esperar
+加快脚步¤Acelerar o passo
+兴趣颇多¤Muito interesse
+不感兴趣¤Sem interesse
+暂且算了¤Deixar para lá por enquanto
+一探究竟¤Investigar
+阅读碑文¤Ler a inscrição
+尝试抽离神识¤Tentar retirar o Sentido da Alma
+尝试观察影像¤Tentar observar a imagem
+抽离神识！¤Retirar o Sentido da Alma!
+继续坚持！¤Continuar firme!
+避开他¤Evitar ele
+小心戒备¤Ficar alerta
+一旁等待¤Esperar ao lado
+一人便可对付¤Posso lidar sozinho
+不便出手¤Não há necessidade de agir
+可负责一只¤Posso cuidar de um
+木之守护兽¤Guardião da Madeira
+水之守护兽¤Guardião da Água
+火之守护兽¤Guardião do Fogo
+土之守护兽¤Guardião da Terra
+金之守护兽¤Guardião do Metal
+是那传已久的阵道功法？¤É a técnica de formação há muito divulgada?
+奇门遁甲？¤Qimen Dunjia?
+公孙兄这是...？¤Irmão Gongsun, isto é...?
+继续前进¤Continuar avançando
+以神识应对¤Usar Sentido da Alma para contra-atacar
+靠身法硬闯¤Passar usando agilidade
+寻求帮助¤Procurar ajuda
 倪旭欣¤Ni XuXin
 林沐心¤Lin Muxin
 公孙季¤Gongsun Ji
-退至一旁¤Step back to the side
-挺身而出¤Step forward
-进入御剑门遗迹¤Enter the ruins of the Imperial Sword Sect
-大家一起上！¤Let's go together!
-我先来会会他¤I'll deal with him first
-一旁围观¤Watch from the sidelines
-我来会会它¤I'll meet him.
-触碰石碑¤Touch the stele
+退至一旁¤Recuar para o lado
+挺身而出¤Dar um passo à frente
+进入御剑门遗迹¤Entrar nas ruínas da Seita da Espada Imperial
+大家一起上！¤Vamos todos juntos!
+我先来会会他¤Eu lidarei com ele primeiro
+一旁围观¤Observar de lado
+我来会会它¤Eu lidarei com ele
+触碰石碑¤Tocar o estela
 玄微？¤Xuan Wei?
-功法传承？¤Technique legacy?
-我没有什么想问的了¤I have nothing to ask
-你是谁？¤Who are you?
-又？¤Again?
-上万年？¤Ten thousand years?
-这是哪里？¤Where are we?
-言语试探¤Verbal probing
-这老道恐怕伤的不轻，不如趁他病，要他命！¤This old man seems quite badly injured, why not take advantage of his injuries to kill him!
-推脱¤Find an excuse
-动手！¤Do it!
-确认进入¤Confirm entry
-到此为止吧¤Let's stop here
-查看残骸¤Check the wreckage.
-查看阵法¤Check the array.
-以力破阵¤Break the formation with force
-以道破阵¤Break the formation through knowledge of Dao
-先等等¤Wait for now.
-同门有难，自当现身相助¤When a fellow disciple is in trouble, we should step up to help
-商量¤Negotiate
-挑战¤Challenge
-进入化龙池¤Enter the Dragon Transformation Pool
-小心试探¤Carefully probe
-愿闻其详¤I'd like to hear more about it
-没什么想了解的了¤There's nothing more I want to know
-化龙池？¤Dragon Transformation Pool?
-坤龙殿？¤Kun Long Hall?
-一口回绝¤Reject thoroughly
-先行试探¤Probe first
-没有什么想了解的了。¤There is nothing more I want to know.
-东海异动？¤Eastern Sea disturbance?
-父亲？¤Father?
-上古鲲龙之战？¤The battle of the ancient Kun Dragons?
-开战原由？¤The reason for the war?
-元婴期长老？¤Nascent Soul stage elders?
-主动询问¤Take the initiative to ask
-装作没有看见¤Pretend not to see
-缺失？¤Missing?
-交出引雷柱¤Hand over the lightning pillar
-上交引雷柱¤Hand over the lightning pillar
-入阵¤Enter Array
-引雷锻体？¤Lightning Forged Body method?
-雷鸣海九霄雷狱？¤Rolling Thunder's Sea Eternal Judgement Prison?
-关于雷鸣海九霄雷狱？¤About rolling thunder sea Eternal Lightning prison?
-考虑考虑¤Think about it
-出言挑衅¤Make a provocative remark
-强行破除¤Forcibly break it
-提起与龙族的交情...¤Speaking of friendship with the dragon clan...
-虚心讨教¤Asking for advice with an open mind
-仔细观察¤Observe carefully
-毫无办法¤Nothing can be done
-再想想别的办法¤Think of another way
-提起与白帝的交情...¤Mention your friendship with the White Emperor...
-给他灵石¤Give him spirit stones
-提起宁州的宗门势力...¤Mention the factional powers in Ningzhou...
-施展领域神通¤Use your domain
-勒令交出秘术¤Order to hand over the secret art
-言语无益，动手！¤Talk is cheap, strike out!
-无妨¤No problem
-接受¤Accept
-宫主此举确实有些出人意料¤This is a surprising move by the Palace Master.
-不管\n¤No matter what...
-拿走\n¤Take it away.
-飞身保护¤Dash forward in protection
-威吓驱赶¤Threaten and drive away
-动手解决¤Resolve by force
-摧毁¤Destroy
-置之不理¤Ignore it
-没时间了¤There is no time
-既来之，则安之¤Come as you are, come as you are
-否¤No
-是¤Yes
-修士？¤Cultivator?
-魂体？¤Body And Soul Separated?
-隐藏实力¤Hidden Strength
-神阴石？¤Divine Yin Stone?
-重铸肉身？¤Heavy Cast Body?
-阴气旋？¤Yin Cyclone?
-修炼？¤Cultivate?
-交易？¤Transaction?
-没有什么想问的了¤There is nothing left to ask
-阴体？¤Yin Body?
-体系？¤System?
-阴魂岛？¤Ghost Island?
-略施威压¤Apply a little pressure
-要办什么正事¤What are you going to do?
-贸然闯入¤Barge in
-假意应承¤Pretend to accept
-大首领最近如何¤How is the Grand Lord doing?
-直接翻脸¤Turn your face directly
-破阵拿走¤Break the formation and take it away
-不去触碰¤Stay out of reach
-翻动玉简¤Turning over the jade slip
-玉简二¤Jade Slip Two
-玉简三¤Jade Slip Three
-玉简四¤Jade Slip Four
-玉简五¤Jade Slip Five
-玉简一¤Jade Slip One
-视而不见¤Turn a blind eye
-向他行礼¤Give him a salute
-救¤Save
-不救¤Don't help
-追上去¤Catch up
-闭关修炼¤Secluded Cultivation
-阻止他¤Stop him
-默许他¤Allow him
-外出游历¤Travel outside
-暗中观察，先看看热闹再说¤Observe secretly and see what's going on first
+功法传承？¤Herança da técnica?
+我没有什么想问的了¤Não tenho mais perguntas
+你是谁？¤Quem é você?
+又？¤De novo?
+上万年？¤Dez mil anos?
+这是哪里？¤Onde estamos?
+言语试探¤Testar com palavras
+这老道恐怕伤的不轻，不如趁他病，要他命！¤Este velho parece bastante ferido, por que não aproveitar suas feridas para matá-lo!
+推脱¤Arranjar uma desculpa
+动手！¤Faça!
+确认进入¤Confirmar entrada
+到此为止吧¤Vamos parar por aqui
+查看残骸¤Ver os destroços
+查看阵法¤Ver o array
+以力破阵¤Quebrar a formação com força
+以道破阵¤Quebrar a formação pelo conhecimento do Dao
+先等等¤Esperar por enquanto
+同门有难，自当现身相助¤Quando um colega discípulo está em apuros, devemos aparecer para ajudar
+商量¤Negociar
+挑战¤Desafiar
+进入化龙池¤Entrar na Piscina de Transformação do Dragão
+小心试探¤Provocar cuidadosamente
+愿闻其详¤Gostaria de saber mais
+没什么想了解的了¤Não há mais nada que eu queira saber
+化龙池？¤Piscina de Transformação do Dragão?
+坤龙殿？¤Salão Kun Long?
+一口回绝¤Recusar completamente
+先行试探¤Provocar primeiro
+没有什么想了解的了。¤Não há mais nada que eu queira saber
+东海异动？¤Distúrbio no Mar do Leste?
+父亲？¤Pai?
+上古鲲龙之战？¤A batalha dos antigos Dragões Kun?
+开战原由？¤Motivo da guerra?
+元婴期长老？¤Anciões no estágio do Nascent Soul?
+主动询问¤Tomar a iniciativa de perguntar
+装作没有看见¤Fingir não ver
+缺失？¤Faltando?
+交出引雷柱¤Entregar o Pilar de Raios
+上交引雷柱¤Entregar o Pilar de Raios
+入阵¤Entrar no Array
+引雷锻体？¤Método do Corpo Forjado por Raios?
+雷鸣海九霄雷狱？¤Prisão do Julgamento Eterno do Mar do Trovão Retumbante?
+关于雷鸣海九霄雷狱？¤Sobre a prisão de Raios Eterna do Mar do Trovão?
+考虑考虑¤Pensar um pouco
+出言挑衅¤Fazer um comentário provocativo
+强行破除¤Forçar a quebra
+提起与龙族的交情...¤Falando da amizade com o clã do dragão...
+虚心讨教¤Pedir conselho com mente aberta
+仔细观察¤Observar cuidadosamente
+毫无办法¤Nada pode ser feito
+再想想别的办法¤Pensar em outro método
+提起与白帝的交情...¤Mencionar a amizade com o Imperador Branco...
+给他灵石¤Dar pedras espirituais a ele
+提起宁州的宗门势力...¤Mencionar os poderes das seitas em Ningzhou...
+施展领域神通¤Usar seu domínio
+勒令交出秘术¤Ordenar a entrega da técnica secreta
+言语无益，动手！¤Palavras não resolvem, ataque!
+无妨¤Sem problema
+接受¤Aceitar
+宫主此举确实有些出人意料¤Esta ação do Mestre do Palácio realmente é inesperada
+不管\n¤Não importa...
+拿走\n¤Levar embora
+飞身保护¤Avançar em proteção
+威吓驱赶¤Ameaçar e afastar
+动手解决¤Resolver pela força
+摧毁¤Destruir
+置之不理¤Ignorar
+没时间了¤Não há tempo
+既来之，则安之¤Já que veio, fique à vontade
+否¤Não
+是¤Sim
+修士？¤Cultivador?
+魂体？¤Alma e corpo separados?
+隐藏实力¤Força oculta
+神阴石？¤Pedra Yin Divina?
+重铸肉身？¤Refazer o corpo?
+阴气旋？¤Ciclone Yin?
+修炼？¤Cultivar?
+交易？¤Transação?
+没有什么想问的了¤Não há mais nada a perguntar
+阴体？¤Corpo Yin?
+体系？¤Sistema?
+阴魂岛？¤Ilha das Almas Yin?
+略施威压¤Aplicar um pouco de pressão
+要办什么正事¤Vai tratar de que assunto sério?
+贸然闯入¤Entrar precipitadamente
+假意应承¤Fingir aceitar
+大首领最近如何¤Como está o Grande Líder recentemente?
+直接翻脸¤Virar o rosto diretamente
+破阵拿走¤Quebrar a formação e levar embora
+不去触碰¤Não tocar
+翻动玉简¤Folhear o pergaminho de jade
+玉简二¤Pergaminho de Jade Dois
+玉简三¤Pergaminho de Jade Três
+玉简四¤Pergaminho de Jade Quatro
+玉简五¤Pergaminho de Jade Cinco
+玉简一¤Pergaminho de Jade Um
+视而不见¤Fingir não ver
+向他行礼¤Fazer uma saudação a ele
+救¤Salvar
+不救¤Não ajudar
+追上去¤Alcançar
+闭关修炼¤Cultivo em reclusão
+阻止他¤Impedi-lo
+默许他¤Permitir
+外出游历¤Viajar para fora
+暗中观察，先看看热闹再说¤Observar secretamente e ver o que acontece primeiro
 我是沂山派的（加入沂山派）¤I'm from Yishan School (join Yishan School)
 趁还没人注意到，赶紧溜¤Hurry up while no one notices yet
 我只是路过的¤I just passed by
