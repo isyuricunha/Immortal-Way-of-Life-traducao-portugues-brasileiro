@@ -1,787 +1,787 @@
 名字¤Nome
-炼丹房¤Quarto de Alquimia
+炼丹房¤Sala de Alquimia
 少主居所¤Residência do jovem mestre
-客房¤Quarto de Hóspedes
-大厅¤Foyer
-长老堂¤Salão do Ancião
-药田¤Campo de Ervas
-藏经阁¤Manual do Salão
-弟子居所¤Moradia dos Discípulos
-神兵阁¤Pavilhão do Guerreiro Divino
-幻雾阵¤Array de Ilusão Vazia
-宗门广场¤Quadrado da Seção
-宗门大殿¤Sala da Seção
-坊市¤Feira
+客房¤Quarto de hóspedes
+大厅¤Salão
+长老堂¤Hall do Élder
+药田¤Campo de ervas
+藏经阁¤Salão manual
+弟子居所¤Residência dos discípulos
+神兵阁¤Pavilhão Divino Guerreiro
+幻雾阵¤Mirage Mist Array
+宗门广场¤Quadrado da seita
+宗门大殿¤Hall da seita
+坊市¤Bazar
 客栈¤Pousada
-伴月楼¤Pousada da Lua
-登岛¤Entre na Ilha
+伴月楼¤Moon Inn
+登岛¤Entre na ilha
 广陵城¤Cidade de Guangling
-进入¤Entre
+进入¤Digitar
 事件¤Evento
-未知海上商队¤Caravana Desconhecida Marítima
-正在生成世界，请耐心等待。。。¤Mundo sendo gerado, por favor, tenha paciência....
-万宝楼¤Casa de Milagrosas Preciosidades
-天极殿¤Templo do Destino
-碎星商会¤Guilda de Comerciantes do Estrela Ressacada
-港口¤Port
-采筠阁¤Panteão de Nuvens Caídas
-漱金楼¤Casa de Lavagem de Ouro
-奇珍阁¤Maravilhosa Pilhagem de Tesouros
-骨材铺¤Loja de Ossos
+未知海上商队¤Caravana do mar desconhecida
+正在生成世界，请耐心等待。。。¤Mundo sendo gerado, por favor, seja paciente ....
+万宝楼¤Miríade de tesouros
+天极殿¤Templo de Tianji
+碎星商会¤Guilda de Mercante Estrela quebrada
+港口¤Porta
+采筠阁¤Pavilhão de Caiyun
+漱金楼¤Casa de enxaguamento de ouro
+奇珍阁¤Pavilhão de tesouro maravilhoso
+骨材铺¤Loja de ossos
 码头¤Docas
-鳞皮行¤Escamas e Couves
-邀月楼¤Pavilhão Convidar Lua
-旧址¤Velha Morada
-青玉轩¤Torre Verde Jadida
-擂台¤Pátio de Combate
-宝光阁¤Torre da Luz do Tesouro
-圣地¤Terra Sagrada
-秘市¤Mercado Secreto
-传送阵¤Array de Teletransporte
-灵药堂¤Sala da Herba Espírita
-升仙台¤Plataforma de Ascensão ao Imortal
-倪府¤Manor Ni
-白帝楼¤Torre do Imperador Branco
-供奉居所¤Moradia Sagrada
-主殿¤Salão Principal
+鳞皮行¤Escamas e couros
+邀月楼¤Pavilhão da lua convidando
+旧址¤Site antigo
+青玉轩¤Pavilhão de Jade Verde
+擂台¤Arena
+宝光阁¤Pavilhão da luz do tesouro
+圣地¤Terra santa
+秘市¤Mercado secreto
+传送阵¤Array de teletransporte
+灵药堂¤Spirb Herb Hall
+升仙台¤Plataforma de Ascensão Imortal
+倪府¤Ni Manor
+白帝楼¤Pavilhão do Imperador Branco
+供奉居所¤Residência consagrada
+主殿¤Salão principal
 遗迹¤Ruínas
-废弃洞府¤Moradia Abandonada
-九嶷山¤Montanha Jiuyi
-破庙¤Templo Ruinoso
-更多论题¤Mais Diálogos
-灵思枯竭：双方悟道值的获取减少100%，悟道经验减少50%，每次论道灵感清零。¤Pobreza de Pensamento Espiritual: O acesso a valor de iluminação dos dois lados é reduzido em 100%, a experiência de iluminação é reduzida em 50% e a inspiração é esvaziada para cada argumento.
+废弃洞府¤Morada abandonada
+九嶷山¤Monte Jiuyi
+破庙¤Templo quebrado
+更多论题¤Mais discursos
+灵思枯竭：双方悟道值的获取减少100%，悟道经验减少50%，每次论道灵感清零。¤Esgotamento do pensamento espiritual: O acesso de ambos os lados ao valor da iluminação é reduzido em 100%, a experiência da iluminação é reduzida em 50%e a inspiração é liberada para cada argumento.
 (剩余三回合)¤(Três rodadas restantes)
-回合¤Circuito
-天人合一¤União do Céu e da Terra
-悟道值¤Pontuação de Iluminação
-心无波澜：心无波澜，双方悟道经验和悟道值正常获取。¤Em meio às ondulações do coração: Em meio às ondulações do coração, ambos os lados ganham experiência e valor de iluminação normalmente.
-李全又有¤Li Quan tem mais uma vez
+回合¤Redondo
+天人合一¤Unidade do céu e homem
+悟道值¤Pontuação da iluminação
+心无波澜：心无波澜，双方悟道经验和悟道值正常获取。¤Sem ondulações no coração: sem ondulações no coração, ambos os lados ganham experiência na iluminação e valor de iluminação normalmente.
+李全又有¤Li quan tem de novo
 悟道点+33(12/30)¤Iluminação +33 (12/30)
 二¤Dois
-选择越多难度越高,道友谨慎选择¤Escolha mais, e mais difícil será, então escolha com cuidado
-说话三十个字说话三十¤Fale trinta palavras, fale trinta
-没有空位,无法出牌¤Em espaço vazio, não se pode jogar cartas
-获得思绪¤Reflexões Adquiridas
+选择越多难度越高,道友谨慎选择¤Quanto mais você escolher, mais difícil é, então você deve escolher cuidadosamente
+说话三十个字说话三十¤Fale trinta palavras falam trinta
+没有空位,无法出牌¤Sem espaço vazio, não pode jogar cartas
+获得思绪¤Pondering ganhou
 论道失败¤Falha em discutir
-获得悟道值¤Ganhe valor de iluminação
-选择论题¤Escolha um tema
-论道成功¤Argumento bem-sucedido
-金之道¤O Caminho Dourado
-启用Mod框架¤Use o Framework de Cultivo
+获得悟道值¤Valor da iluminação de ganho
+选择论题¤Escolha um tópico
+论道成功¤Argumento bem -sucedido
+金之道¤O caminho de ouro
+启用Mod框架¤Use Mod Framework
 剩余可用天赋：¤Pontos de talento:
-十六岁那年，\n因为一把满是锈迹的神秘钝剑，\n你意外地走上了这漫漫仙途...¤No sexto ano,\ndevido à uma espada misteriosa coberta de ferrugem,\nvocê acidentalmente embarcou no caminho para a imortalidade...
-资质:¤Apt.:
-灵根:¤Raiz Espiritual:
-无间隔¤No espaço
+十六岁那年，\n因为一把满是锈迹的神秘钝剑，\n你意外地走上了这漫漫仙途...¤Aos dezesseis anos de idade, para uma espada misteriosa coberta de ferrugem ， \ nyou acidentalmente embarcou na jornada para a imortalidade ...
+资质:¤APT.:
+灵根:¤Raiz espiritual:
+无间隔¤Sem espaçamento
 身体¤Corpo
-当前版本：¤Versão Atual:
-存档间隔¤Intervala de Salvamento
+当前版本：¤Versão atual:
+存档间隔¤Intervalo de economia
 窗口¤Janela
-云存档¤Salvar Nuvem
-结算频率¤Frequência de assentamento
-自古以来，人们从来没有停止过对长生之道的探索...\n上古时代的道家修士们,\n以自身灵根为根基，沟通天地灵气，\n辅以太极五行，阴阳八卦之力，外炼丹药，内修元神，\n留下了无数强大的修真法门。\n传说修为高深者，便能够引动天劫，破碎虚空，\n飞升到仙界，真正成为与天地同寿的“仙人”¤Desde que os registros históricos começam, as pessoas nunca abandonaram a busca pela imortalidade... \n Os Cultivadores dos tempos antigos, usando suas raízes espirituais como base, começaram a circularem o Qi Espiritual do céu e da terra; suplementado pelos cinco elementos bem como Yin e Yang, refinar poções e cultivar sua alma. Ao longo do tempo, incontáveis técnicas de Cultivação poderosas foram deixadas para trás. Lenda conta que aqueles com cultivo avançado serão capazes de acionar a tribulação celestial e shatter o vazio, ascender ao reino dos imortais e verdadeiramente se tornarem imortais que vivem lado a lado com Céu e Terra.
-保存时间：¤Salve Tempo :
+云存档¤Economia de nuvem
+结算频率¤Frequência de liquidação
+自古以来，人们从来没有停止过对长生之道的探索...\n上古时代的道家修士们,\n以自身灵根为根基，沟通天地灵气，\n辅以太极五行，阴阳八卦之力，外炼丹药，内修元神，\n留下了无数强大的修真法门。\n传说修为高深者，便能够引动天劫，破碎虚空，\n飞升到仙界，真正成为与天地同寿的“仙人”¤Desde tempos imemoriais, o povo nunca desistiu de alcançar a imortalidade ... os cultivadores dos tempos antigos, usando suas próprias raízes espirituais como fundamento, começaram a circular o qi espiritual dos céus e da terra; Complementado pelos cinco elementos, bem como por Yin e Yang, refinando pílulas e o cultivo de sua alma. Com o tempo, inúmeras inúmeras técnicas poderosas de cultivo foram deixadas para trás. Diz a lenda que aqueles com cultivo avançado serão capazes de desencadear a tribulação celestial e quebrar o vazio, ascendendo ao reino imortal e realmente se tornando um imortal que vive ao lado dos céus e da terra.
+保存时间：¤Economize tempo:
 金¤Metal
-清除数据¤Limpe os dados
+清除数据¤Dados claros
 寿元:¤Vidas.:
-脸部¤Carne
-自动保存¤Auto-guarda
-金丹初期¤Núcleo Dourado Cedo
-<color=#A22727>测试测试</color>11¤<color=#A22727>Teste teste</color>11
+脸部¤Face
+自动保存¤AutoSave
+金丹初期¤Cúpula dourada precoce
+<color=#A22727>测试测试</color>11¤<color =#a22727> teste de teste </ro Color> 11
 土¤Terra
 气血:¤Saúde:
-000年00月00日¤000N00M00D
-天谴之人¤Rejeitado pelo Céu
+000年00月00日¤000n00m00d
+天谴之人¤Desprezado pelo céu
 时长:¤Duração:
 低¤Baixo
-灵石:¤Pedra espiritual :
+灵石:¤Pedra Espiritual:
 高¤Alto
 分辨率¤Resolução
-嘴巴¤Bocarra
-悟性:¤Sabedoria:
-注意！带有'<color=red>旧</color>'的老存档无法上传到云存档！¤Atenção! Arquivos antigos com '<color=vermelho>antigo</color>' não podem ser enviados para a arquivologia云端！
-境界:¤Mônaco:
-0000年00月00日 00时00分¤0000A 00M 00D 00:00
+嘴巴¤Boca
+悟性:¤Wisd.:
+注意！带有'<color=red>旧</color>'的老存档无法上传到云存档！¤Atenção! Arquivos antigos com '<color = vermelho> antigo </ro Color>' não podem ser carregados no arquivo da nuvem!
+境界:¤Reino:
+0000年00月00日 00时00分¤0000Y 00M 00D 00:00
 神静气安（0）¤Calma (0)
-剧情模式达到筑基初期时解锁¤Desbloqueado quando o modo de trama atinge a fase inicial da construção de fundações
+剧情模式达到筑基初期时解锁¤Desbloqueado quando o modo de plotagem atinge o estágio inicial do prédio da fundação
 心境:¤Mente:
-点击输入¤Clique para entrar
+点击输入¤Clique para inserir
 神识:¤D.Sen.:
-吾¤Eu
+吾¤EU
 音乐¤Música
 空¤Vazio
-音效¤Efeito Sonoro
+音效¤Efeito sonoro
 火¤Fogo
 遁速:¤Velocidade:
-须发¤Barba:";
+须发¤Bigode
 详细信息¤Detalhes
 共选择三个灵根¤Escolha um total de três raízes espirituais
-练气初期¤Cultivação no Qi inicial
+练气初期¤Cultivo de qi precoce
 水¤Água
-选择难度¤Selecione a dificuldade
-三灵根¤Três Raízes Espirituais
+选择难度¤Selecione Dificuldade
+三灵根¤Três raízes espirituais
 木¤Madeira
-一键静音¤Silencio
-显示模式¤Modo de Exibição
+一键静音¤Mudo
+显示模式¤Modo de exibição
 艳道天¤Yan Daotian
-剩余回合 九¤Rodada nove restante
-筑 基¤Fundação
-角色姓名¤Nome do Personagem
-回合冷却¤Recarga circular
+剩余回合 九¤Rodadas restantes nove
+筑 基¤Build Foundation
+角色姓名¤Nome do personagem
+回合冷却¤RODOD ROWOLDOWN
 神通名字¤Nome do Avatar
-<color=#4493d5>冷却:</color>n回合¤<color=#4493d5>resfriamento:</color>n rodadas
-<color=#cda14c>说明:</color>说明说明说明说明说明说明说明说明说明说明说明¤<color=#cda14c>Descrição:</color>DescriçãoDescriçãoDescriçãoDescriçãoDescriçãoDescriçãoDescriçãoDescriçãoDescrição
-普通Tip¤Nota Normal
-点灵气¤Ponto de Aura
+<color=#4493d5>冷却:</color>n回合¤<color =#4493d5> recarga: </ro Color> n rodadas
+<color=#cda14c>说明:</color>说明说明说明说明说明说明说明说明说明说明说明¤<color =#cdA14c> Descrição: </ro Color> DescriçãoDescriptionCriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription
+普通Tip¤Ponta normal
+点灵气¤Ponto aura
 选择1点灵气¤Selecione 1 ponto de aura
 属性¤Atributos
 第1回合¤Rodada 1
-你还需要消散¤Você ainda precisa dissipar
-战斗记录¤Registre de Batalha
-皇龙殿¤Palácio Real da Dragão
-乾龙阁¤Pavilhão Dragão Celestial
+你还需要消散¤Você ainda precisa se dissipar
+战斗记录¤Registro de batalha
+皇龙殿¤Royal Dragon Palace
+乾龙阁¤Pavilhão de Dragão Qian
 坤龙殿¤Palácio do Dragão Kun
-雷狱阵¤Formação Inferno do Trovão
-龙脉¤Vênio Dragônico
-龙墓¤Morcegão Sepulcro
-执事堂¤Mordeque Hall
-灵脉¤Vênus Espiritual
-方壶山¤Montanha Fanghu
-沂山派¤Escola de Yishan
-沂山¤Montanha Yi
-乾天劫¤Seis Céus Maldição
-第X道¤Etapa {shixiong} da Técnica
-第X道雷劫¤Etapa {shixiong} da Tribulação do Trovão
-额外受到等同于剩余血量一半的伤害¤Receba dano adicional equivalente a metade dos pontos de vida restantes
-仙 胎¤Alma Emergente
-禾山道¤Caminho da Colheita do Pico
+雷狱阵¤Trovão Formação
+龙脉¤Veia de dragão
+龙墓¤Túmulo de dragão
+执事堂¤Deacon Hall
+灵脉¤Veias espirituais
+方壶山¤Fanghu Mountain
+沂山派¤Escola Yishan
+沂山¤Monte Yi
+乾天劫¤乾天劫
+第X道¤Estágio x da técnica
+第X道雷劫¤Tribulação do estágio X de Thunder
+额外受到等同于剩余血量一半的伤害¤Tome danos adicionais iguais a metade do HP restante
+仙 胎¤Alma nascente
+禾山道¤Harvest Hill Road
 幽谷¤Vale das Sombras
-禾山¤Colheita do Monte
-XXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG¤XXXXYxMxD, AAABBBCCCDDDEEEFFFGGG
-长按Ctrl快进¤Pressione Ctrl para pular
+禾山¤Hill Harvest
+XXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG¤XXXXYXMXD, AAABBBBCCCDDDEEFFFFGGG \ NXXXXYXMXD,
+长按Ctrl快进¤Segure Ctrl para pular
 生命值¤Vitalidade
-九霄雷狱\r\n¤9 Cativeiro de Julgamento
-煅体值¤Refinamento do Corpo
-本回合抽牌数+5。回合结束时，每有一张手牌，心魔伤害+1¤No final da rodada, para cada carta em sua mão, +1 dano à sua mente.
-经脉¤Meridian
-意志¤Vou
-色欲¤Desejo
-下一心魔:¤Próximo Demônio Interno:
+九霄雷狱\r\n¤9 Prisioneiro de julgamento \ r \ n
+煅体值¤Refinamento corporal
+本回合抽牌数+5。回合结束时，每有一张手牌，心魔伤害+1¤No final do turno, para cada cartão na sua mão, +1 danos à sua mente.
+经脉¤Meridiano
+意志¤Vai
+色欲¤Luxúria
+下一心魔:¤Próximo demônio interno:
 俱念¤Todos os pensamentos
-碎丹¤Quebrado no Dan
-宝器轩¤Sala de Artefatos Preciosos
-宁王府¤Palácio Real Ning King
-逸风府¤Palácio Yi Feng
-斗法台¤Arenas de Duelo
-听雨阁¤Pavilhão Escuta Chuva
-公孙府¤Manjusha Manor
-中草阁¤Morada das Ervas Florestais
-云汐府¤Palácio Yun Shi
-星宫¤Palácio Estrelar
-问道楼¤Palacete Busca-Daó
-林府¤Morar Lin
-百宝行¤Casa Centenária de Tesouros
-百里府¤Manjary Manor
-广陵府¤Palácio Guangling
-仙性¤Eterna Imortalidade
-塑魂¤Moldagem de Alma
+碎丹¤Dan quebrado
+宝器轩¤Pavilhão de artefato de tesouro
+宁王府¤Ning King Palace
+逸风府¤Palácio de Yifeng
+斗法台¤Arena de duelo
+听雨阁¤Pavilhão de chuva ao ouvir
+公孙府¤Gongsun Manor
+中草阁¤Pavilhão de ervas florestais
+云汐府¤Yun Shi Palace
+星宫¤Star Palace
+问道楼¤Dao Seeker Pavilion
+林府¤Lin Manor
+百宝行¤Centenas de tesouros
+百里府¤Baili Manor
+广陵府¤Palácio de Guangling
+仙性¤Imortalidade
+塑魂¤Modelagem da alma
 淬体¤Corpo endurecido
 凡性¤Mortalidade
-麟庙¤Templo do Qilin
-炎麟阵¤Formação de Quíliume em Chamas
-结 丹¤Emaranhado
-古月寨¤Vila da Velha Lua
-烁金窟¤Caverna Dourada Brilhante
-山脚洞窟¤Caverna no pé da montanha
-拍卖行¤Casa de Leilões
-天机榜¤Lista do Destino Celestial
-天衍阁¤Torre do Destino Celestial
-天机阁¤Torre dos Segredos Celestiais
-接引阁¤Sala de Recepção
-东石谷¤Vale Pedra Leste
-空旷之地¤Espaço Aberto
-风雷谷¤Vale do Vento e Trovão
-巫山¤Montanha Wu
-竹山宗¤Vales de bambu
-正阳山¤Montanha do Sol Nascente
-云汐城¤Cidade de Nuvenswhite
-沃焦山¤Montanha do Inferno
-天星城¤Cidade do Céu Estrelado
+麟庙¤Templo de Qilin
+炎麟阵¤Formação Qilin Flame
+结 丹¤Nó
+古月寨¤Vila da lua antiga
+烁金窟¤Caverna de ouro brilhante
+山脚洞窟¤Caverna ao pé da montanha
+拍卖行¤Casa de leilões
+天机榜¤Lista de Tianji
+天衍阁¤Pavilhão de adivinhação do céu
+天机阁¤Pavilhão de segredos dos céus
+接引阁¤Salão de recepção
+东石谷¤Vale da Pedra East
+空旷之地¤Espaço aberto
+风雷谷¤Wind and Thunder Valley
+巫山¤Monte Wu
+竹山宗¤Seita da montanha de bambu
+正阳山¤Mt. Sol Rising
+云汐城¤Cidade de Yunxi
+沃焦山¤Inferno Mountain
+天星城¤Cidade de Tianxing
 洞府¤Caverna
 永安镇¤Cidade de Yong'an
-天魔眼¤Olho do Diabo Celestial
-金虹剑派¤Seita Espada Radiante
-离火门¤Porta do Fogo Celestial
-星河剑派¤Seção do Rio Celestial
-涵虚仙府¤Palácio Hanxu
-化尘教¤Seção do Deserto Móvel Móvel
-连石山¤Montanha Lian Shi
-青石灵脉¤Veia Espiritual de Lapiz
-武陵城¤Cidade de Despumar
-宁州古迹\n¤Monumentos de Ningzhou
-岱舆山¤Montanha Daiyu
-岫络谷¤Vale do Cultivo
+天魔眼¤Olho de diabo celestial
+金虹剑派¤Seita de espada radiante
+离火门¤Portão de fogo celestes
+星河剑派¤Celestial River Seita
+涵虚仙府¤Hanxu Palace
+化尘教¤Seita de areia de mudança de mudança
+连石山¤Monte Lian Shi
+青石灵脉¤Veia espiritual de lápis
+武陵城¤Cidade Wuling
+宁州古迹\n¤Monumentos Ningzhou \ n
+岱舆山¤Monte Daiyu
+岫络谷¤Vale Xiuluo
 逸风城¤Cidade de Yifeng
-玄道宗¤Sect Oculta do Dao
-文本文本文本¤Texto texto texto
-灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩¤Escudo de Aura Escudo de Aura Escudo de Aura Escudo de Aura Escudo de Aura Escudo de Aura Escudo de Aura Escudo de Aura Escudo de Aura Escudo de Aura Escudo de Aura Escudo de Aura Escudo de Aura Escudo de Aura Escudo de Aura Escudo de Aura Escudo de Aura Escudo de Reiki Escudo de Reiki Escudo de Reiki Escudo de Reiki Escudo de Reiki Escudo de Reiki Escudo de Reiki Escudo de Reiki Escudo de Reiki
-未知人物：¤Caractere Desconhecido:
+玄道宗¤Seita da DAO oculta
+文本文本文本¤Texto de texto texto
+灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩灵气护罩¤Aura escudo aura escudo aura escudo aura escudo aura escudo aura escudo aura escudo aura escudo aura escudo aura escudo aura shield shield shield shield shield shield shield shield reiki shield reiki reiki shield shield shield shield shield shield reiki lield reiki riiki -shield reikikikikikiklikiklikiel shield reiki lield reiki reiki riiki shield shield shield reiki riiki riikiel Escudo de Reiki Shield
+未知人物：¤Personagem desconhecido:
 声望:¤Reputação:
-宁州散修¤N.Zh. Inde. Cultivador
-海域¤Mar
+宁州散修¤N.ZH. Inde. Cultivador
+海域¤Oceano
 策略¤Estratégia
 身份¤Identidade
-1000年12月31日¤31 de Dezembro do Ano 1000
+1000年12月31日¤D31 M12 Y1000
 宁州¤Ningzhou
-秘术描述¤Descrição do Artefato Secreto
-突破化神时，每回合额外抽一张水系灵气牌突破¤Ao romper a transArray, tire uma carta de aura adicional d'água cada turno para romper.
-势力¤Facción
-特权¤Privilegio
+秘术描述¤Descrição da arte secreta
+突破化神时，每回合额外抽一张水系灵气牌突破¤Ao romper o transarray, desenhe uma carta aura de água extra a cada volta para romper
+势力¤Facção
+特权¤Privilégio
 行动¤Ação
-的顶顶顶顶顶大多多多的顶顶顶顶顶大多多多的顶顶顶顶顶大多多多的顶顶顶顶顶大多多多¤Ding Ding Ding Ding Ding Ding Ding Ding Ding D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D
-突破化神后解锁能力¤Desbloqueie o poder após superar o Deus de TransArray
+的顶顶顶顶顶大多多多的顶顶顶顶顶大多多多的顶顶顶顶顶大多多多的顶顶顶顶顶大多多多¤Ding Ding Ding Ding Ding Ding Ding Ding Ding D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D D
+突破化神后解锁能力¤Desbloqueie a habilidade depois de romper o Deus do Transarray
 身份:¤Identidade:
 一级¤Primeiro nível
-Bug请反馈¤Por favor, forneça feedback sobre os bugs
-交谈¤Conversar
-请教¤Busca Conhecimento
-线索¤Dicas
-离开¤Parta
-快进到做二快进到做二快进到做二¤Avance rápido para fazer dois avanços rápidos para fazer dois avanços rápidos para fazer dois
+Bug请反馈¤Por favor, dê feedback sobre bugs
+交谈¤Falar
+请教¤Procure conhecimento
+线索¤Pistas
+离开¤Deixar
+快进到做二快进到做二快进到做二¤Avanço rápido para fazer dois avançados rapidamente para fazer dois rapidamente para fazer dois
 时间:¤Tempo:
-筑基后期¤Fase Tardia da Fundação
+筑基后期¤Estágio da fundação tardia
 年¤Y
-本次可能采到的材料¤Materiais que podem ser coletados desta vez
-<color=#e9d8ac>选择</color>你重点想要寻找的材料,可以<color=#e9d8ac>提升</color>找到它的<color=#e9d8ac>机率</color>¤<color=#e9d8ac>Selecione</color> o material que está focado para <color=#e9d8ac>increver</color> as chances de encontrá-lo<color=/color>.
+本次可能采到的材料¤Materiais que podem ser captados desta vez
+<color=#e9d8ac>选择</color>你重点想要寻找的材料,可以<color=#e9d8ac>提升</color>找到它的<color=#e9d8ac>机率</color>¤<color =#e9D8AC> Selecione </color> O material em que você está se concentrando em <color =#e9d8ac> aumenta </color> as chances de encontrá -lo </ro Color>.
 月¤M
-李全有有¤Li Quanyouyou
-势在必得¤É imperativo obter isso
-金鸿剑派外门弟子¤Discípulos externos da Secte Espada Vermelha Cinzenta
-放弃竞价¤Abandone a oferta
-采摘物品¤Itens de caça
+李全有有¤Li quanyouyou
+势在必得¤É imperativo conseguir isso
+金鸿剑派外门弟子¤Discípulos externos da seita de Jin Hong Sword
+放弃竞价¤Desistir de lances
+采摘物品¤Itens de pilhagem
 辅修¤Secundário
 情分：¤Aff.:
-飞鹤仙术¤Manuscrito do Imortal Pássaro-Voador
+飞鹤仙术¤Manual imortal do guindaste voador
 无¤Nada
-门派宗门¤Famílias Seitas
+门派宗门¤Clã das seitas
 全部¤Todos
-飞鹤仙术\n¤Manuscrito do Imortal Pássaro Voador
-抽成¤encomenda
-上传时间：2022/06/01 16:45:30¤Tempo de Carregamento: 2022/06/01 16:45:30
-正在双修.......¤Atualmente, dual cultivando.......
-订阅¤Seguidores
+飞鹤仙术\n¤Manual imortal do guindaste voador \ n
+抽成¤comissão
+上传时间：2022/06/01 16:45:30¤Tempo de upload: 2022/06/01 16:45:30
+正在双修.......¤Atualmente duplo cultivo .......
+订阅¤Assinantes
 加上¤Mais
-退出¤Fechar Jogo
-丹方1：¤Receita de Pílula1:
+退出¤Jogo próximo
+丹方1：¤Receita de comprimidos1:
 0年0月0日¤D0 M0 Y0
 2999年11月¤M11 2999Y
 悟道点¤Ponto de iluminação
-领取¤Obter
+领取¤Pegar
 任务¤Missão
-近日收到传闻，徐家汇附近有妖兽“大欣欣”作祟，残害无辜百姓。此妖兽的实力与黑铁后期的猿类修士相当，你可有办法处理此事？近日收到传闻，徐家汇附近有妖兽“大欣欣”作祟，残害无辜百姓。此妖兽的实力与黑铁后期的猿类修士相当，你可有办法处理此事？¤Recentemente, recebemos uma notícia de que um Espírito Bestial 'Da Xin Xin' está assombrando nas proximidades de Xu Jia Hui, matando pessoas inocentes. A força deste monstro é semelhante à de um vagabundo cultivador de Ferro Negro tardio, você tem alguma forma de lidar com isso? Recentemente, recebemos uma notícia de que um Espírito Bestial 'Da Xin Xin' está assombrando nas proximidades de Xu Jia Hui, matando pessoas inocentes. A força deste Espírito Bestial é semelhante à de um vagabundo cultivador de Ferro Negro tardio, você tem alguma forma de lidar com isso?
-灵石：¤Pedras Espíritas:
-发布任务¤Postando tarefas
+近日收到传闻，徐家汇附近有妖兽“大欣欣”作祟，残害无辜百姓。此妖兽的实力与黑铁后期的猿类修士相当，你可有办法处理此事？近日收到传闻，徐家汇附近有妖兽“大欣欣”作祟，残害无辜百姓。此妖兽的实力与黑铁后期的猿类修士相当，你可有办法处理此事？¤Recentemente, recebemos um boato de que existe uma besta espiritual 'xin xin' assombrando perto de Xu Jia Hui, matando pessoas inocentes. A força desta besta é comparável à de um cultivador de vagabundo de macote de ferro preto tardio, você tem uma maneira de lidar com esse assunto? Recentemente, recebemos um boato de que existe uma besta espiritual 'xin xin' assombrando perto de Xu Jia Hui, matando pessoas inocentes. A força dessa besta espiritual é comparável à de um cultivador de vagabundo de macote de ferro preto tardio, você tem uma maneira de lidar com esse assunto?
+灵石：¤Spirit Stones:
+发布任务¤Postar tarefas
 剩余时间¤Tempo restante
-风雨楼¤Morro do Temporal
-九品木源金丹¤Nono Ano Madeira Origem Núcleo Dourado
-用阵旗升级（需三品阵旗）¤Atualize com a bandeira de formação (precisa da bandeira de formação do terceiro grau)
-不知所踪¤Desconhecido Localmente
+风雨楼¤Manor da tempestade
+九品木源金丹¤NOTA GRADE SARRA ORIGEM DO CORREGO DO GOLDEN
+用阵旗升级（需三品阵旗）¤Atualize com o sinalizador de formação (preciso do sinalizador de formação da terceira série)
+不知所踪¤De onde desconhecido
 标题:¤Título:
 收割¤Colheita
-灵田¤Campo Espiritual
+灵田¤Campo espiritual
 剩2000年1株¤1 planta restante em 2000 anos
-灵气供给 <color=#99d0d1>9200</color>/月¤Rei Qi suprime <color=#99d0d1>9.200</color>/mês
-草药¤Erva Medicinal
-宗门¤Principal Seção
-正在执行¤Em implementação
-元婴¤Alma Emergente
-删除丹方¤Exclua a receita
-行踪：¤Localização:
-法则领域：你掌握了大道法则之力，可以在战斗中施展领域技能¤Domínio: você dominou o poder da Lei do Dao, pode lançar a habilidade de Domínio em batalha
-全品阶¤Todos os graus
+灵气供给 <color=#99d0d1>9200</color>/月¤Reiki Supply <color =#99d0d1> 9200 </ro color>/mês
+草药¤Erva medicinal
+宗门¤Seita principal
+正在执行¤Sob implementação
+元婴¤Alma nascente
+删除丹方¤Exclua receita
+行踪：¤Paradeiro:
+法则领域：你掌握了大道法则之力，可以在战斗中施展领域技能¤Domínio: Você dominou o poder da lei da DAO, você pode lançar a habilidade de domínio na batalha
+全品阶¤Todas as fileiras
 修行要诀¤Dicas de cultivo
 搜索.......¤Procurar.......
 万象图鉴¤Enciclopédia
-草药草药草药¤Remédios à base de ervas remédios à base de ervas
+草药草药草药¤Medicina Herbal Medicina Herbal
 海陆图志¤Mapa do oceano
 无尽之海¤Mar sem fim
 赏金：¤Recompensa:
 其他¤Outro
-探查难度：<size=34>极高</size>（神识需求20）¤Dificuldade de escuta: <size=34>Muito Alta</size> (Soul Sense requer 20)
-本地灵气：<size=34>充裕</size>¤Aura Espírita: <size=34>Abastecida</size>
-灵核数量：<size=34>极多</size>¤Núcleos Espirituais: <size=34>Muitos</size>
-未知¤Unknown
-瓶颈¤Obstáculo
-金丹后期¤Etapa Avançada do Núcleo Dourado
-方案五¤Capítulo 5
-悟道点也会在境界提升，与悟道等级到达融会贯通时获得¤Pontos de compreensão são concedidos quando o nível de iluminação é alcançado
-飞升¤Elevação
-服用服用服用服用服用服用服用¤Tomando tomando tomando tomando tomando tomando tomando tomando tomando
+探查难度：<size=34>极高</size>（神识需求20）¤Dificuldade de Escotismo: <Tamanho = 34> Muito High </semge> （Soul Sense requer 20）
+本地灵气：<size=34>充裕</size>¤Spirit Aura: <size = 34> abundante </semge>
+灵核数量：<size=34>极多</size>¤Núcleos espirituais: <size = 34> abastão </semge>
+未知¤Desconhecido
+瓶颈¤Gargalo
+金丹后期¤Golden Core tardio
+方案五¤Conjunto 5
+悟道点也会在境界提升，与悟道等级到达融会贯通时获得¤Os pontos de compreensão são concedidos quando o nível de iluminação é alcançado
+飞升¤Ascensão
+服用服用服用服用服用服用服用¤Tomando tomando tomando tomando tomando tomando tomando
 人物名字¤Nome do personagem
 人物称号人物称号¤Título do personagem
-插件¤Plugs
+插件¤Plug-ins
 目标详情¤Detalhes do alvo
-参赛者¤Participantes
+参赛者¤Concorrentes
 李大力¤Li Dali
-寿元：¤Vidas.:
+寿元：¤Vida .:
 空 栏 位¤Coluna vazia
 遗 忘¤Esquecido
 名字名字¤Nome Nome
-悟道等级 悟道经验：000/000¤Experiência de Compreensão do Dao: 000/000
-草药\t¤Plantas\
-剩80年2月¤Tempo restante 2M 80Y
-遁术¤Habilidade de Movimento
+悟道等级 悟道经验：000/000¤Experiência de compreensão do DAO: 000/000
+草药\t¤Ervas \ t
+剩80年2月¤Tempo deixado 2m 80y
+遁术¤Habilidade de movimento
 你死了¤Você está morto
 作者：¤Autor:
-第2021年11月¤No M11 de 2021
+第2021年11月¤No M11 Y2021
 材料¤Materiais
 主药：¤Primário:
 发布¤Publicar
-启用¤Ativar
-《描述描述描述》¤A Descrição A Descrição A Descrição
-使用相同的灵气牌释放土系伤害技能时，造成的伤害提升10%；使用相生的灵气牌释放时，获得【护罩】*X（X为该技能灵气牌消耗的数量）¤Ao usar o mesmo tipo de Qi para lançar habilidades terrestres, o dano causado é aumentado em 10%; ao utilizar Qi sinérgico, você ganha <color=green>[Shield] * X</color>, onde X é um número de Qi consumido
+启用¤Habilitar
+《描述描述描述》¤A descrição Descrição Descrição
+使用相同的灵气牌释放土系伤害技能时，造成的伤害提升10%；使用相生的灵气牌释放时，获得【护罩】*X（X为该技能灵气牌消耗的数量）¤Ao usar o mesmo tipo Qi para lançar habilidades da Terra, o dano causado é aumentado em 10%; Ao usar o synergisitc qi, você ganha 【escudo】*x, onde x é um número de qi consumido
 每月¤Mensal
-选择闭关时间¤Escolha o comprimento da retirada
-右侧面板标题¤Título do Painel Direito
-提升¤Atualização
-重要事件描述¤Descrição dos eventos importantes
-剩余 99年99月99日¤Restando 99 anos 99 meses e 99 dias
-领悟条件¤Compreendendo Requisitos
-对X之道的领悟达到XXXX¤Compreensão do Caminho de {shixiong} atingiu {XXXX}
-封面:¤Capa:
-以金入道¤Entre no Caminho com ouro
-选择大道¤Escolha o Caminho
-获得精元 1000000\n闭关N年后，可凝练为XXX修为¤Obtenha o Elemento Essência 1.000.000\n após N anos de reclusão, pode ser condensado para XXX cultivar
+选择闭关时间¤Escolha o comprimento do retiro
+右侧面板标题¤Título do painel direito
+提升¤Atualizar
+重要事件描述¤Descrição de eventos importantes
+剩余 99年99月99日¤Restante 99 anos 99 meses 99 dias
+领悟条件¤Requisitos de compreensão
+对X之道的领悟达到XXXX¤A compreensão do caminho de X alcançou xxxx
+封面:¤Cobrir:
+以金入道¤Entre no caminho com o ouro
+选择大道¤Escolha o caminho
+获得精元 1000000\n闭关N年后，可凝练为XXX修为¤Obter o elemento de essência 1.000.000 \ n após n anos de reclusão, pode se condensar no cultivo xxx
 路径:¤Caminhos:
-灵田每月供给灵力催生灵药，但也可以消耗灵石催生¤O campo espiritual produz energia espiritual para criar medicina espiritual a cada mês, mas também pode consumir Pedras espirituais para produzir
-确定¤Confirma
+灵田每月供给灵力催生灵药，但也可以消耗灵石催生¤O campo espiritual fornece energia espiritual para produzir medicina espiritual todos os meses, mas também pode consumir pedras espirituais para produzir
+确定¤Confirmar
 所有¤Todos
-初窥门径¤Primeira vista à porta
+初窥门径¤Primeiro olhe para a porta
 任务进度已更新更新¤O progresso da tarefa foi atualizado
 任务进度已更新¤O progresso da tarefa foi atualizado
-大五星晴天手¤Grandes Manos Céu Claro de Cinco Estrelas
+大五星晴天手¤Big Five-Star Clear Sky Hands
 178年2月18日¤D18 M2 Y178
 上品灵眼¤Olho espiritual de alta qualidade
 设置¤Configurações
-悟性：¤Sabedoria：
-文件大小：1230kb¤Tamanho do arquivo: 1230kb
-采集药材的效率提升采集药材的¤A eficiência na coleta de matérias medicinais melhorou
-功法名称¤Nome da Técnica
-亲密¤Afinação
-看见就说明出BUG了¤ver isso significa que há um bug
+悟性：¤Wisd .:
+文件大小：1230kb¤Tamanho do arquivo: 1230KB
+采集药材的效率提升采集药材的¤A eficiência da coleta de materiais medicinais é melhorada
+功法名称¤Nome da técnica
+亲密¤Afinidade
+看见就说明出BUG了¤Veja, significa que há um bug
 施工中¤Em andamento
-金鸿剑派挂名长老¤Titulado Ancião da Seção Vermelha e Branca
+金鸿剑派挂名长老¤Titulado ancião de Jin Hong Jian seita
 胜¤Vitória
 负¤Derrota
-置顶丹方¤Refinhe a fórmula
-订阅数¤Número de Assinantes
-签到¤Entre no jogo
-丹药¤Remédio
-!连接手柄或修改神识属性过高可能会导致无法正常移动¤! Conectar-se com o {shixiong} ou modificar seu atributo pode resultar em movimentos incertos.
-兑换码¤Troca de códigos
-选择两张加入你的手牌¤Escolha duas cartas para adicionar à sua mão
-shift+鼠标右键¤pressione shift + clique com o botão direito do mouse
-修为:¤Cult.:
-管理模组¤Gerenciar modificações
+置顶丹方¤Completar a fórmula
+订阅数¤Número de assinantes
+签到¤Entrar
+丹药¤Pílula
+!连接手柄或修改神识属性过高可能会导致无法正常移动¤! Conectar -se à alça ou modificar o atributo do senso de alma muito alto pode resultar em não ser capaz de se mover adequadamente
+兑换码¤Código de troca
+选择两张加入你的手牌¤Escolha dois cartões para adicionar à sua mão
+shift+鼠标右键¤Shift+Clique com o mouse direito
+修为:¤Culto.:
+管理模组¤Gerenciar mods
 主修¤Primário
-领悟时间¤Entendendo o tempo
-回合限制¤Limite Circular
+领悟时间¤Compreendendo o tempo
+回合限制¤Limite redondo
 感悟¤Iluminação
 调整¤Ajustes
 说明¤Instruções
-mod文件夹:¤pasta de mod:
-提交¤Envio
+mod文件夹:¤pasta mod:
+提交¤Enviar
 龙族¤Dragão
-事件描述¤Detalhes do Evento
+事件描述¤Detalhes do evento
 未知称号¤Título desconhecido
-新人签到¤Registro de novo jogador
-过期时间：¤Vence em:
+新人签到¤No recém -chegado
+过期时间：¤Expira em:
 发 布¤Publicar
-返 回¤Retorne
+返 回¤Retornar
 所需灵石:¤Pedras espirituais necessárias:
 所需声望:¤Reputação necessária:
 花 费¤Custos
-默认¤Concordo
-东石谷拍卖会¤Vila Pedra Leste Leilão
+默认¤Concordar
+东石谷拍卖会¤Leilão de Vale da Pedra East
 主药¤Primário
-聚元¤Reunião de elementos
+聚元¤Coleta de elementos
 药引¤Temperatura
 请先置入丹炉¤Por favor, coloque no forno primeiro
 辅药¤Secundário
-全品¤Todos os graus
-所有品阶¤Todos os graus
-丹炉\n¤Fornalha de Pílulas
-遗忘¤Esqueça
-方案二¤Capítulo 2
-很荣幸您能玩到我的游戏，当前游戏正处于测试阶段，游戏中可能出一些有趣、奇怪、甚至是令人沮丧的问题你可以加入qq群：715413658（或直接扫描右方二维码）反馈给我们问题信息。（加入群聊你也可以获得一份兑换码里面有惊喜哟！！）\n测试时间：2019.1.1-2019.3.1\n（再次开服时间预定在2019.3.15，无需再次下载，程序会自动更新到最新版本）¤É uma honra você poder jogar meu jogo. O jogo está atualmente em fase de testes. Pode haver alguns problemas interessantes, estranhos ou até frustrantes no jogo. Você pode se juntar ao grupo do QQ: 715413658 (ou escanear diretamente o código QR à direita) e nos dar feedback sobre os problemas. (Você também pode ganhar um surpresa na troca de códigos digitando no chat do grupo!)
-回风雨楼复命¤Volte ao Manoir de Tempestade para o resumo da missão
-领悟条件:对木之道的领悟达到略有小成领悟条件:对木之道的领悟达到略有小成领悟条件:对木之道的领悟达到略有小成¤Condição de compreensão: A compreensão do Caminho da Madeira atingiu um sucesso leve Condição de compreensão: A compreensão do Caminho da Madeira atingiu um sucesso leve Condição de compreensão: A compreensão do Caminho da Madeira atingiu um sucesso leve
-探查¤Exame
-<color=#ffb143>【领悟条件】</color>对丹之道的感悟达到初窥门¤<color=#ffb143>【condições de compreensão】</color> percepção do Dao do Dan atinge a primeira vislumbre da porta
+全品¤Todas as fileiras
+所有品阶¤Todas as fileiras
+丹炉\n¤Forno da pílula \ n
+遗忘¤Esquecer
+方案二¤Conjunto 2
+很荣幸您能玩到我的游戏，当前游戏正处于测试阶段，游戏中可能出一些有趣、奇怪、甚至是令人沮丧的问题你可以加入qq群：715413658（或直接扫描右方二维码）反馈给我们问题信息。（加入群聊你也可以获得一份兑换码里面有惊喜哟！！）\n测试时间：2019.1.1-2019.3.1\n（再次开服时间预定在2019.3.15，无需再次下载，程序会自动更新到最新版本）¤Estou honrado por você poder jogar meu jogo. O jogo está atualmente no estágio de teste. Pode haver alguns problemas interessantes, estranhos ou até frustrantes no jogo. Você pode ingressar no grupo QQ: 715413658 (ou digitalizar diretamente o código QR à direita) nos dê feedback sobre o problema. (Você também pode ter uma surpresa no código de resgate, juntando-se ao bate-papo em grupo!) \ NTEST TIME: 2019.1.1-2019.3.1 \ n (O horário de reabertura está agendado para 2019.3.15, não é necessário fazer o download novamente, o programa será atualizado automaticamente para a versão mais recente)
+回风雨楼复命¤Voltar para Storm Manor para interrogatório
+领悟条件:对木之道的领悟达到略有小成领悟条件:对木之道的领悟达到略有小成领悟条件:对木之道的领悟达到略有小成¤Condição de compreensão: a compreensão do caminho da madeira alcançou uma ligeira condição de compreensão de sucesso: a compreensão do caminho da madeira alcançou uma ligeira condição de compreensão de sucesso: a compreensão do caminho da madeira alcançou um pequeno sucesso
+探查¤Sonda
+<color=#ffb143>【领悟条件】</color>对丹之道的感悟达到初窥门¤<color =#ffb143> 【Condições de compreensão】 </bor> Percepção do dao de Dan chega ao primeiro vislumbre da porta
 总 览(已感悟)¤Visão geral (compreensão)
-模组说明:¤Descrição da Mão de Arma:
-大欣欣城告示¤Nota da Grande Cidade Xinxin
-返回标题¤Para título
-上传模组¤Mod de Carregamento
-【修为大退】修为-10000000¤【cultivação grande retiro】 cultivação -10000000
-法宝¤Tesouro Mágico
+模组说明:¤Mod Descrição:
+大欣欣城告示¤Great Xinxin City Aviso
+返回标题¤Para o título
+上传模组¤Upload mod
+【修为大退】修为-10000000¤【Cultivo Grande retiro】 Cultivo -10000000
+法宝¤Tesouro mágico
 返回主界面¤Retorne ao menu principal
-执行完成¤Execução concluída
+执行完成¤Execução completa
 活动¤Atividade
-备注：家里的档¤Nota: Salvar Local
-快捷键¤atalho de teclado
-悬赏榜¤Lista de Recompensas
-对气之道的思绪¤Conhecimento de Qi
-宗门大比大比¤Competição do Grande Clã
+备注：家里的档¤NOTA: Salvar local
+快捷键¤Chave de atalho
+悬赏榜¤Lista de recompensa
+对气之道的思绪¤Qi conhecimento
+宗门大比大比¤Grande competição do clã
 10年3月1日¤D1 M3 Y10
 2032年12月23日¤D23 12M 2032
-下载¤Baixe
-确定吗？¤Confirma?
-输入标题,最多20字¤Insira um título, até 20 caracteres
+下载¤Download
+确定吗？¤Confirmar?
+输入标题,最多20字¤Digite um título, até 20 caracteres
 感兴趣的物品¤Itens de interesse
-六品¤Sexto Ano
+六品¤Sexta série
 20.5万/20.5万¤205.000 / 205.000
 恢复¤Recuperação
-返回¤Retorno
+返回¤Retornar
 记忆¤Memórias
-管事¤Vigia
-六品水系妖兽材料x20¤Matéria Espiritual de Besta Aquática do Sexto Ano x 20
-寄换物品\n¤Envie um item de troca
-返回交易¤Voltando ao Comércio
+管事¤Mordomo
+六品水系妖兽材料x20¤MATERIAL DE BEASTE ESPÍRITO DE ÁGUA DA SEXTA GRADE
+寄换物品\n¤Envie um item de troca \ n
+返回交易¤De volta ao comércio
 或者¤Ou
-交易会¤Feiras de troca
-其他依赖项请到STEAM创意工坊内自行设置¤Outras dependências podem ser configuradas no Workshop Criativo do STEAM
-丹毒：¤Maj.：
+交易会¤Feiras comerciais
+其他依赖项请到STEAM创意工坊内自行设置¤Outras dependências podem ser configuradas no workshop do Steam Creative
+丹毒：¤Impu .:
 啦啦啦啦啦啦¤La la la la la la la la
-输入描述¤Descrição de entrada
-所有人可见¤Visível a todos
-淬体：生命值上限-9999¤Corpo endurecido： Limite de saúde -9999
-门派:¤Sect:
+输入描述¤Descrição da entrada
+所有人可见¤Visível para todos
+淬体：生命值上限-9999¤Corpo endurecido: Cap de saúde -9999
+门派:¤Seita:
 应 用¤Aplicar
 神秘洞窟¤Caverna misteriosa
-放弃¤Renuncie
+放弃¤Desistir
 职位:¤Pos.:
-神识：¤Mestre Sen:
+神识：¤D.Sen .:
 辅药：¤Secundário:
-生命:¤PV:
-门派声望:¤Sect Rep.:
-秘籍¤Manuscrito Secreto
-9999年12月31日至12月31日¤31 de dezembro, 9999 a 31 de dezembro
-灵感：¤Insp.：
+生命:¤HP:
+门派声望:¤Rep. Seita:
+秘籍¤Manual secreto
+9999年12月31日至12月31日¤31 de dezembro de 9999 a 31 de dezembro
+灵感：¤Insp .:
 事 项¤Item
-品阶¤Rango
-剩余N回合¤Faltam {n} rodadas
-一圈圈涟漪从光幕中心位置犹如波浪一般，急速扩散，整个光幕犹如玻璃板轰然破碎。¤Um círculo de ondas se espalhou rapidamente do centro da tela luminosa, como se fosse uma onda, e toda a tela luminosa se fragmentou como se fosse um prato de vidro.
+品阶¤Classificação
+剩余N回合¤N rodadas restantes
+一圈圈涟漪从光幕中心位置犹如波浪一般，急速扩散，整个光幕犹如玻璃板轰然破碎。¤Um círculo de ondulações se espalhou rapidamente do centro da tela de luz como se fosse uma onda, e toda a tela leve quebrou como se fosse uma placa de vidro.
 领悟时间:0年¤Tempo de compreensão: 0 anos
-300灵石/年¤300 pedras espirituais/anho
-小奥奇¤Pequeno Estranho
-确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？¤Confirma? Confirma? Confirma? Confirma? Confirma? Confirma? Confirma? Confirma? Confirma? Confirma? Confirma? Confirma? Confirma? Confirma? Confirma?
-走穴¤Percorrendo a caverna
+300灵石/年¤300 pedras espirituais/ano
+小奥奇¤Pouco estranho
+确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？确定吗？¤Confirmar? Confirmar? Confirmar? Confirmar? Confirmar? Confirmar? Confirmar? Confirmar? Confirmar? Confirmar? Confirmar? Confirmar? Confirmar? Confirmar?
+走穴¤Andando pela caverna
 饰 品¤Acessórios
-武 器¤Arma Mística
-内 甲¤Armadura Interna
-门派商店¤Loja da seção
-龙宫¤Palácio do Dragão
-上前探查¤Vá em frente e espiem
-正在神识探查中......¤No processo de investigação...
-二品¤Segunda Classe
+武 器¤Arma marcial
+内 甲¤Armadura interna
+门派商店¤Loja da seita
+龙宫¤Palácio de Dragão
+上前探查¤Suba e escoteiro
+正在神识探查中......¤No processo de investigação ...
+二品¤Segunda série
 物品六个字字x20¤Itens de seis caracteres x 20
 遁速：¤Velocidade:
-三品¤Terceiro Ano
-装备功法¤Aperfeiçoe técnicas
+三品¤Terceira série
+装备功法¤Equipe técnicas
 丹毒:¤Impu.:
 捐赠¤Doação
-方案三¤Capítulo 3
+方案三¤Conjunto 3
 点击返回主界面¤Clique para retornar à interface principal
-修炼速度：¤Velocidade de Cultivo：
-药引：¤Cultivador:
-要在这里住多久?¤Quantidade de tempo permanente?
-对水之道的感悟提升<size=40>222222</size>经验¤Sentimento da Via da Água aumenta <size=40>222222</size> experiência
+修炼速度：¤Culto. SPD:
+药引：¤Catalisador:
+要在这里住多久?¤Ficar duração?
+对水之道的感悟提升<size=40>222222</size>经验¤Sensidade do modo de impulsionamentos de água <size = 40> 222222 2
 类型¤Tipos de
-金虹剑派挂名长老¤Venerável Hermético da Espada Radiante
-历史进度:0¤Progress histórico:0
-<color=#ffb143>【需求点数】</color>¤[Pontos necessários]
-总览¤Visão Geral
-也许我可以挑衅他人，让他花<color=#fbffd4>更高</color>的价钱参与这次竞价。不过这么做应该会<color=#fbffd4>惹怒</color>拍卖会的主持人...¤Talvez eu possa provocar alguém a pagar <color=#fbffd4>um preço mais alto</color> para participar desta leilão. Mas fazer isso deve <color=#fbffd4>irritar</color> o anfitrião do leilão...
-二阶聚灵阵¤Rango 2 de coleta espiritual Array
-输入兑换码¤Insira o código de redenção
+金虹剑派挂名长老¤Radiant Sword seita seita ancião honorário
+历史进度:0¤Progresso histórico: 0
+<color=#ffb143>【需求点数】</color>¤<color =#ffb143> 【Pontos necessários】 </color>
+总览¤Visão geral
+也许我可以挑衅他人，让他花<color=#fbffd4>更高</color>的价钱参与这次竞价。不过这么做应该会<color=#fbffd4>惹怒</color>拍卖会的主持人...¤Talvez eu possa provocar outra pessoa a pagar <color =#fbffd4> um preço mais alto </ro Color> para participar deste lance. Mas, fazendo isso, deve <color =#fbffd4> irritar </ro color> o host do leilão ...
+二阶聚灵阵¤Rank 2 Spirit Gathering Array
+输入兑换码¤Digite o código de resgate
 状态:¤Status:
 赠礼¤Presente
-正在神识探查中.......¤No processo de investigação...
+正在神识探查中.......¤No processo de investigação ...
 截杀¤Ataque
 功法¤Técnicas
-元婴功法¤Técnicas de Alma Emergentes
+元婴功法¤Técnicas nascentes da alma
 重要事件¤Eventos importantes
 人物名称¤Nome
 功法技能¤técnicas e habilidades
-时间¤Chapter
+时间¤Tempo
 神通¤Poderes divinos
-威胁¤Intimidar
+威胁¤Ameaçar
 友善¤Amigável
-论道¤Discussão
-装备¤Equipamento
+论道¤Debate
+装备¤Engrenagem
 年龄:¤Idade:
-附近的人¤Pessoas ao Redor
-熟悉¤Discípulo
+附近的人¤Pessoas próximas
+熟悉¤Familiar
 查看¤Espião
-切磋¤Combate
+切磋¤Duelo
 好感:¤Aff.:
-大道感悟¤Percepção da Grande Via
+大道感悟¤大道感悟
 交易¤Troca
-身负重伤¤Ferido gravemente
-第N轮¤Rodada {shixiong}
-【仙格初显】下次突破时，初始【仙性】+1¤【Revelação Inicial do Tabuleiro Imortal】+1 em 【Natureza Imortal】 no próximo avanço
-读取¤Carregando
-创意工坊¤Ateliê Criativo
-保存¤Salve
-最多订阅¤Subscrições máximas
-删除¤Excluído
+身负重伤¤Gravemente ferido
+第N轮¤Turn n
+【仙格初显】下次突破时，初始【仙性】+1¤【Grade imortal pela primeira vez】 inicial 【Natureza imortal】 +1 no próximo avanço
+读取¤Carregar
+创意工坊¤Workshop criativo
+保存¤Salvar
+最多订阅¤Assinaturas máximas
+删除¤Excluir
 目标:¤Objetivo:
-上传中¤Carregamento em progresso
-田内灵力¤Energia espiritual no campo
+上传中¤Upload em andamento
+田内灵力¤Poder espiritual dentro do campo
 炎萧炎萧¤Yan Xiao
-离火门长老¤Mestres da Porta do Fogo Celestial
+离火门长老¤Anciãos do portão de fogo celestes
 未达成¤Não alcançado
-资质：¤Apt.：
+资质：¤APT .:
 剑¤Espada
-一品¤Grade1
+一品¤Grau1
 剩99年¤99 anos restantes
 选择秘术¤Selecione Habilidade Secreta
-拍卖记录¤Registros de Leilão
-需要开启以下模组:¤As seguintes modificações precisam estar ativadas:
-游戏已自动保存¤O jogo foi salvo automaticamente
-需求物品¤Produtos em alta demanda
+拍卖记录¤Registro de leilão
+需要开启以下模组:¤Os mods a seguir precisam ser ativados:
+游戏已自动保存¤Jogo salvo automaticamente
+需求物品¤Itens em demanda
 名称¤Nome
 冷淡¤Frio
-是否将该角色打入轮回¤Personagem reincarnado
-测试物品剑¤Item de teste espada
-正在采集...¤Coletando...
-聚灵阵与灵眼品阶越高，修炼速度越快，灵田收益越高。¤O grau mais alto do阵法和灵眼，修炼速度就越快，灵田的收获也就越高。
-方案一¤Set 1
-一名金丹后期的杀手正在搜寻你的下落，他将不惜付出任何代价，取你性命¤O assassino da fase núcleo dourado tardio está buscando sua localização; ele fará de tudo por seu生命的内核晚期杀手正在寻找你的行踪，他不惜一切代价要取你性命。
-核心阵旗¤Bandeira do Núcleo Array
-用¤Use
-兑 换¤Troca
-三阶聚灵阵¤formação de espírito nível 3
+是否将该角色打入轮回¤Caráter reencarnado
+测试物品剑¤Teste Item Sword
+正在采集...¤Coletando ...
+聚灵阵与灵眼品阶越高，修炼速度越快，灵田收益越高。¤Quanto maior o grau da matriz de coleta do Espírito e o olho espiritual, mais rápida a velocidade do cultivo e maior o ganho do campo espiritual.
+方案一¤Conjunto 1
+一名金丹后期的杀手正在搜寻你的下落，他将不惜付出任何代价，取你性命¤Um assassino tardio do palco dourado está procurando seu paradeiro, ele levará sua vida a qualquer preço
+核心阵旗¤Sinalizador de matriz central
+用¤Usar
+兑 换¤Intercâmbio
+三阶聚灵阵¤Formação Spirit de Rank 3
 2880/月¤2880/mês
-声名狼藉¤Ilustre
-声名远扬¤Renomeado
-名声败坏¤Renomeado
-誉满天下¤Renomeado
-臭名昭著¤Notoriedade
+声名狼藉¤Renomado
+声名远扬¤Bem conhecido
+名声败坏¤Infame
+誉满天下¤Famoso
+臭名昭著¤Infâmia
 默默无闻¤Desconhecido
-略有薄名¤Levemente conhecido
-按住ctrl跳过¤Pressione Ctrl para pular
-【修为大退】¤[Grande Retiro no Cultivo]
-第二元神：金丹提供的血量上限¤O segundo espírito elemental: o limite sanguíneo fornecido pelo Núcleo Dourado
-修为-10000¤Cultivação -10000
-额外提升生命值+72¤Recuperação adicional de saúde +72
-碎丹化婴：金丹提供的血量上限¤Fragmentado no Dan de Infância: Limite sanguíneo fornecido pelo Dan Dourado
-气血¤Vida
-修为-1000¤Cultivando-1000
-【筑基洗髓】¤【Lavagem da Marrow】
-本次未感悟的剩余思绪将消散¤Os pensamentos restantes que não foram sentidos desta vez desvanecerão
+略有薄名¤Ligeiramente conhecido
+按住ctrl跳过¤Segure Ctrl para pular
+【修为大退】¤【Grande retiro no cultivo】
+第二元神：金丹提供的血量上限¤O segundo espírito elementar: o limite de sangue fornecido pelo núcleo dourado
+修为-10000¤Cultivo -10000
+额外提升生命值+72¤Boost de saúde adicional +72
+碎丹化婴：金丹提供的血量上限¤Dan quebrado em Infant: Limite de sangue fornecido por Golden Dan
+气血¤Saúde
+修为-1000¤Cultivo-1000
+【筑基洗髓】¤【Lavagem da medula】
+本次未感悟的剩余思绪将消散¤Os pensamentos restantes não sentidos desta vez se dissipam
 无人接取¤Ninguém recebeu
-看到这句话就说明你出BUG了，发存档给陈胜¤Esta frase significa que você tem um bug, envie o arquivo para Chen Sheng
-伴月楼管事¤O administrador da torre acompanhante da lua
-寄卖物品¤Itens em consignação
-本期拍品¤Esta leilão
-自创功法ModBy小奥奇¤Técnica auto-criada Mod por Little Aoqi
-好评率¤Avaliação positiva
-灵石¤Pedras Espirituais
-你在林中穿行，突然你感受到一股微弱的引力，你跟随引力传来的方向走去，你发现了一出隐蔽的洞府，洞口看起来一片狼藉，而引力似乎就是从洞窟深处传来的，此时你准备...¤Você está caminhando pelo bosque quando de repente sente uma leve força gravitacional. Segue na direção dessa força e encontra uma caverna oculta. A entrada da caverna parece um desastre, e a força gravitacional parece ser transmitida do fundo dela. Vamos, agora você está pronto para...
-订阅最多¤Mais assinantes
+看到这句话就说明你出BUG了，发存档给陈胜¤Veja esta frase significa que você tem um bug, envie o arquivo para Chen Sheng
+伴月楼管事¤O mordomo do edifício da lua que o acompanha
+寄卖物品¤Itens de consignação
+本期拍品¤Este leilão
+自创功法ModBy小奥奇¤Mod técnica criada por Little Aoqi
+好评率¤Classificação positiva
+灵石¤Pedras espirituais
+你在林中穿行，突然你感受到一股微弱的引力，你跟随引力传来的方向走去，你发现了一出隐蔽的洞府，洞口看起来一片狼藉，而引力似乎就是从洞窟深处传来的，此时你准备...¤Você está andando pela floresta e, de repente, sente uma força gravitacional fraca. Você segue a direção da força gravitacional e encontra uma caverna escondida. A entrada da caverna parece uma bagunça, e a força gravitacional parece ser transmitida das profundezas da caverna. Venha, agora você está pronto para ...
+订阅最多¤Mais inscrito
 选 择¤Selecione
 描述:¤Descrição:
-30日后¤Depois de 30 dias
-2032年12月24日¤24 de Dezembro de 2032
-金鸿剑牌入门弟子¤Seita Espada Arco-Íris Dourado Interno
-失联¤Perdeu contato
+30日后¤Após 30 dias
+2032年12月24日¤D24 M12 Y2032
+金鸿剑牌入门弟子¤Discipular interno da seita de espada do arco -íris dourado
+失联¤Contato perdido
 你在哪里？¤Onde você está?
-金鸿剑派¤Seita Espada Radiante
-确认兑换¤Confirma Troca
-3品¤3º ano
+金鸿剑派¤Seita de espada radiante
+确认兑换¤Confirme a troca
+3品¤3ª série
 大¤Grande
-双修秘术¤Segredo de técnica de cultivo duplo
-放入 物品六个字字 x99999\n预计花费999年12月12日¤Entre no 6º Nível, palavras x99999\nCustos esperados D12 M12 A999
-新英雄狼人上线¤Novo herói Louvação está online
-修复xxx需要n灵石¤Reparação de {xxx} requer {n} pedra espiritual
-很荣幸您能玩到我们的游戏，当前游戏正处于测试阶段，游戏中可能出一些有趣、奇怪、甚至是令人沮丧的问题你可以加入qq群：715413658（或直接扫描右方二维码）反馈给我们问题信息。（加入群聊你也可以获得一份兑换码里面有惊喜哟！！）\n测试时间：2019.1.1-2019.3.1\n（再次开服时间预定在2019.3.15，无需再次下载，程序会自动更新到最新版本）¤É uma honra poder participar do nosso jogo. O jogo está atualmente em fase de testes. Pode haver alguns problemas interessantes, estranhos ou até frustrantes no jogo. Você pode se juntar ao grupo do QQ: 715413658 (ou escanear o código QR à direita diretamente) e nos fornecer feedback sobre os problemas. (Você também pode ganhar um surpresa na troca de códigos ao participar da conversa no grupo!)
-当前进度:0¤Progresso atual:0
-测试期间所有英雄免费试用¤Todos os heróis terão acesso gratuito durante o período de teste
-品级：¤Grade:
-任务道具¤Propriedades da tarefa
-上品通天灵宝¤Tesouro Celestial Espiritual Superior
-物品六个字字¤Item seis palavra
+双修秘术¤Técnica secreta de cultivo duplo
+放入 物品六个字字 x99999\n预计花费999年12月12日¤Digite Grade6 Palavras x99999 \ Custos Nexpectados D12 M12 Y999
+新英雄狼人上线¤Novo herói lobisomem está online
+修复xxx需要n灵石¤Reparo xxx precisa n spirit stone
+很荣幸您能玩到我们的游戏，当前游戏正处于测试阶段，游戏中可能出一些有趣、奇怪、甚至是令人沮丧的问题你可以加入qq群：715413658（或直接扫描右方二维码）反馈给我们问题信息。（加入群聊你也可以获得一份兑换码里面有惊喜哟！！）\n测试时间：2019.1.1-2019.3.1\n（再次开服时间预定在2019.3.15，无需再次下载，程序会自动更新到最新版本）¤Estou honrado por poder jogar nosso jogo. O jogo está atualmente no estágio de teste. Pode haver alguns problemas interessantes, estranhos ou até frustrantes no jogo. Você pode ingressar no grupo QQ: 715413658 (ou digitalizar diretamente o código QR à direita) nos dê feedback sobre o problema. (Você também pode ter uma surpresa no código de resgate, juntando-se ao bate-papo em grupo!) \ NTEST TIME: 2019.1.1-2019.3.1 \ n (O horário de reabertura está agendado para 2019.3.15, não é necessário fazer o download novamente, o programa será atualizado automaticamente para a versão mais recente)
+当前进度:0¤Progresso atual: 0
+测试期间所有英雄免费试用¤Teste gratuito para todos os heróis durante o período de teste
+品级：¤Nota:
+任务道具¤Adereços de tarefas
+上品通天灵宝¤Tesouro espiritual celestial de grau superior
+物品六个字字¤Item Seis palavras
 情分:¤Aff.:
-五品¤Quinto Ano
-仓库¤Armazenamento
+五品¤Quinta série
+仓库¤Armazenar
 类型:¤Tipo:
 全属性¤Todos os atributos
-塑魂：神识-9999¤Moldagem de Alma: Percepção da Alma -9999
-F5快速保存¤F5 salva rápida
-近日，我南崖城急需10份宁心草，道友若是寻来，这份情谊我们不会忘记了。¤Recentemente, minha Cidade do Cliffo Sul está em urgência por 10 copos de Grama Ningxin, se você encontrar, essa amizade não será esquecida por nós.
-收 购¤Adquira
-需要¤Necessário
-F8快速读取¤F8 Carregar Rápido
-心烦意乱¤Desviado
+塑魂：神识-9999¤Shaping da alma: Sentido da alma -9999
+F5快速保存¤F5 Salvar rápido
+近日，我南崖城急需10份宁心草，道友若是寻来，这份情谊我们不会忘记了。¤Recentemente, minha cidade de South Cliff precisa de 10 cópias da grama Ningxin, se você a encontrar, essa amizade não será esquecida por nós.
+收 购¤Adquirir
+需要¤Obrigatório
+F8快速读取¤F8 Carga rápida
+心烦意乱¤Distraído
 功能¤Função
 思绪¤Pensamentos
-阴冥海¤Mergulho da Índia Profunda
-千流海域¤Mar de mil rios
+阴冥海¤Mar Yin profundo
+千流海域¤Mil córrego mar
 探索度 0%¤Grau de exploração 0%
-东海¤Mar Leste
-南宁海¤Mar do Sul Ning
-吞云海¤Engolido pela Maresia de Nuvens
-化龙海¤Mergulho no Mar de Dragão
-北宁海¤Mar do Norte Ning
-洞府洞府¤Caverna Caverna
+东海¤Mar do Leste
+南宁海¤Mar de Ning do Sul
+吞云海¤Engolindo o mar em nuvem
+化龙海¤Mar de dragão mudando
+北宁海¤Norno Ning Mar.
+洞府洞府¤Caverna da caverna
 蓬莎海域¤Mar de Pongsha
-西宁海¤Mar Ocidental Ning
-南崖城¤Cidade do Cliffsultraio
-碎星岛¤Ilha Estrela Rasa
+西宁海¤Mar de Ning Ocidental
+南崖城¤South Cliff City
+碎星岛¤Ilha estrela quebrada
 浪方海域¤Mar de Langfang
-碎星海域¤Mar Rompido de Estrelas
+碎星海域¤Mar de estrela quebrada
 蓬莎岛¤Ilha Pongsha
-玄冥海¤Profunda Mêta de Água
-雷鸣海¤Mar de Trovões
-无尽海渊¤Abismo Sem Fim
-幽冥海¤Profunda Mar dos Infernos
-南崖海域¤Praia do Cliffo Sul
+玄冥海¤Mar negro profundo
+雷鸣海¤Mar de trovão
+无尽海渊¤Abismo interminável
+幽冥海¤Mar profundo mar
+南崖海域¤Mar de The South Cliff
 图南海¤Mar do Sul
-千流岛¤Ilha Mil Rios
-任务进度\n¤Avanço da Tarefa
+千流岛¤Ilha de mil
+任务进度\n¤Progresso da tarefa \ n
 剩余时间:¤Tempo restante:
-距离事件开启剩余:¤Restando tempo até que o evento comece:
-灵药堂近日获得消息，传闻中岱舆山上的药谷盛产灵药灵药堂近日获得消息，传闻中岱舆山上的药谷盛产灵药灵药¤A Sala da Herba Espírita recentemente recebeu notícias de que a Vallya do Monte Daiyu é rumora rica em {shidi}. Recentemente, é rumor que o Vale dos Remédios no Monte Daiyu é rico em {shidi} e {pill}.
-牛逼道人的遗憾¤Ressentimento do Novato Grande Daoísta
+距离事件开启剩余:¤Permanecendo até o evento abrir:
+灵药堂近日获得消息，传闻中岱舆山上的药谷盛产灵药灵药堂近日获得消息，传闻中岱舆山上的药谷盛产灵药灵药¤O Spirit Herb Hall recebeu recentemente notícias de que o vale do Yao no Monte Daiyu é rico em ser rico em comprimidos. Recentemente, há rumores de que o Medicine Valley, na montanha Daiyu, é rico em comprimidos e comprimidos.
+牛逼道人的遗憾¤Noob grande ressentimento taoísta
 333年12月22日¤D22 M12 Y333
-在阴冥海的一些岛屿上，有时能找到自然凝聚而成的极阴之水，能够最大限度的发挥腐骨灵花与七彩月兰的药性。只需用这吸收了药性后的灵水擦拭双目，便有提神清目的奇效。如此往复三到四次，甚至能够让双目练就一些想象不到的奇妙瞳术。¤Em algumas ilhas da Mêtais Mar de Yin Profundo, às vezes é possível encontrar água extremamente Yin formada por condensação natural, que pode maximizar as propriedades medicinais da flor-espirito corrosiva óssea e o orquídea-lua colorida. Basta esfregar os olhos com a água espiritual após absorver as propriedades medicinais, e haverá um efeito refrescante e milagroso. Repetindo três ou quatro vezes dessa maneira, até mesmo pode fazer os olhos praticar algumas habilidades pupilares maravilhosas e inimagináveis.
-任务描述\n¤Detalhes da Tarefa
-东石谷东石谷¤Vale do Pedregulho Oriental Vale do Pedregulho Oriental
-突破¤Quebra-through
-山林桂宫¤Palácio da Esplanada das Montanhas Florestais
-运气术¤Sorte Encantada
-啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦¤La la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la
-身体健康¤Condicionamento físico
+在阴冥海的一些岛屿上，有时能找到自然凝聚而成的极阴之水，能够最大限度的发挥腐骨灵花与七彩月兰的药性。只需用这吸收了药性后的灵水擦拭双目，便有提神清目的奇效。如此往复三到四次，甚至能够让双目练就一些想象不到的奇妙瞳术。¤Em algumas ilhas no mar profundo, pode ser encontrado a água extremamente yin formada pela condensação natural, o que pode maximizar as propriedades medicinais da flor espiritual corrosiva e a orquídea da lua colorida. Apenas limpe os olhos com a água espiritual depois de absorver as propriedades medicinais, e haverá um efeito refrescante e milagroso. Repetir três a quatro vezes dessa maneira pode até fazer com que os olhos pratiquem algumas habilidades maravilhosas inimagináveis.
+任务描述\n¤Detalhes da tarefa \ n
+东石谷东石谷¤Vale da Pedra East Stone East Stone Valley
+突破¤Avanço
+山林桂宫¤Palácio da GUI da floresta da montanha
+运气术¤Feitiço de sorte
+啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦啦¤La la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la
+身体健康¤Saúde física
 可见性:¤Visibilidade:
-该操作将覆盖当前存档是否确定？¤Esta operação irá sobrescrever a salva atual. Você tem certeza?
-需提交5件上品火属性通天灵宝¤5 pedras preciosas de atributo fogo superior devem ser entregues
-寄存兑换物品¤Depósito de itens de troca
-弃¤Descarte
-准¤Permita
-开始¤Início
-备¤Prepare-se
-放¤Lançamento
-拍卖会主持人¤Anfitrião da Leilão
+该操作将覆盖当前存档是否确定？¤Esta operação substituirá o salvamento atual. Tem certeza?
+需提交5件上品火属性通天灵宝¤5 peças de atributo de incêndio de alta qualidade Os tesouros espirituais devem ser enviados
+寄存兑换物品¤Depósito de itens de câmbio
+弃¤Descartar
+准¤Permitir
+开始¤Começar
+备¤Preparar
+放¤Liberar
+拍卖会主持人¤Host de leilão
 当前竞价¤Lances atuais
-第一轮¤Rodada inicial
-倪家少大师兄师兄¤Tio mais velho da família Ni
-出价者¤Licitadores
+第一轮¤Primeira rodada
+倪家少大师兄师兄¤Ni Família jovem irmão mais velho irmão sênior
+出价者¤Licitantes
 耐心值¤Valor de paciência
-东石谷 半月楼 拍卖会¤Venda de Vala Pedra Leste Casa Crescente da Meia-Lua
-方案四¤Capítulo 4
+东石谷 半月楼 拍卖会¤Leilão de meia -lua do vale da East Stone
+方案四¤Conjunto 4
 小¤Pequeno
-XX日¤DXX
-四品¤Quarto Ano
-对木之道的领悟达到略有小成¤Um leve entendimento do Caminho da Madeira
+XX日¤Dxx
+四品¤Quarta série
+对木之道的领悟达到略有小成¤Uma pequena compreensão do caminho da madeira
 取消任务¤Cancelar tarefas
-允许使用宗门货币兑换宗门普通秘籍与修炼材料。¤É permitido usar a moeda da Seção Principal para trocar por itens internos da Seção Principal, conjuntos de habilidades e matérias-primas gerais.
-任务总览¤Visão Geral da Missão
-接取¤Recolha
-上传¤Carregamento
-年龄：¤Idade：
+允许使用宗门货币兑换宗门普通秘籍与修炼材料。¤É permitido usar a moeda principal da seita para trocar as principais internas da seita, habilidades e materiais gerais.
+任务总览¤Visão geral da missão
+接取¤Escolher
+上传¤Carregar
+年龄：¤Idade:
 俸禄:¤Salário:
 当¤Quando
-新英雄¤Novo Herói
-基本属性¤Atributos Básicos
+新英雄¤Novo herói
+基本属性¤Atributos básicos
 测试活动¤Atividade de teste
 上 传¤Anterior
-灵根属性¤Raízes Espirituais
+灵根属性¤Raízes espirituais
 按空格回到当前位置¤Pressione espaço para retornar à posição atual
-按W,A,S,D上下左右移动¤Use W, A, S, D para se mover para cima e baixo, para esquerda e direita
-气血：¤Vida:
-悟道值满后，会获得悟道点x1¤Após o valor de iluminação ficar completo, você receberá pontos de iluminação x1
-估价¤Avaliação
+按W,A,S,D上下左右移动¤Pressione w, a, s, d para subir e para baixo, para a esquerda e direita
+气血：¤Saúde:
+悟道值满后，会获得悟道点x1¤Depois que o valor da iluminação estiver cheio, você receberá pontos de iluminação x1
+估价¤Estimativa
 维持时间¤Tempo de manutenção
 运行¤Usando
-客栈剩余¤Tempo restante do inn
-文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本¤Texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto
+客栈剩余¤Tempo restante da pousada
+文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本¤Texto texto texto texto texto text text text text text text text text text text text text text text text text text text text text text text text text text text
 思 绪¤Pensamentos
 心境：¤Mente:
 类型：¤Tipo:
-说明文本说明文本说明文本说明文本说明文本说明文本说明文本说明文本说明文本说明文本说明文本说明文本说明文本¤Texto Explicativo Texto Explicativo Texto Explicativo Texto Explicativo Texto Explicativo Texto Explicativo Texto Explicativo Texto Explicativo Texto Explicativo Texto Explicativo Texto Explicativo Texto Explicativo Texto Explicativo Texto Explicativo
+说明文本说明文本说明文本说明文本说明文本说明文本说明文本说明文本说明文本说明文本说明文本说明文本说明文本¤Texto explicativo Texto explicativo Texto explicativo Texto explicativo Texto explicativo Texto explicativo Texto explicativo Texto explicativo Texto explicativo Texto explicativo Texto explicativo Texto explicativo Texto explicativo Texto explicativo Texto explicativo
 99年99月99日¤Y99 M99 D99
 感悟消耗¤Consumo de insight
-领悟消耗¤Tempo necessário para compreensão
-对X之道的感悟提高<color=#ff0000>XXXX</color>点¤A compreensão em {shixiong} aumentou por <color=#ff0000>XXXX</color> pontos
+领悟消耗¤Tempo de compreensão necessário
+对X之道的感悟提高<color=#ff0000>XXXX</color>点¤Insight em x aumentado por <color =#ff0000> xxxx </color> pontos
 效果¤Efeito
-突破消耗¤Rompimento de consumo
-真相¤A Verdade
-御剑门之谜¤O Mistério da Porta do Exultante Espadão
-魔道踪影¤Traços da Magia
-昔日身份¤Passado nobre
-秘术名字¤Nome da Habilidade Secreta
-挂名长老¤Titular Velho
-未开始¤Não iniciado
-第四轮¤Quarto Turno
-天机点¤Pontos de Destino Celestial
-第三轮¤Terceira Vez
-第二轮¤Segunda Vez
-胜场¤Campo de Batalha
-第五轮¤Quinto Giro
-第六轮¤Sexta Vez
-品 阶\n¤Grade
+突破消耗¤Consumo de avanço
+真相¤A verdade
+御剑门之谜¤御剑门之谜
+魔道踪影¤魔道踪影
+昔日身份¤昔日身份
+秘术名字¤Nome de habilidade secreta
+挂名长老¤Ancião titular
+未开始¤Não começou
+第四轮¤Quarta turno
+天机点¤Tianji Points
+第三轮¤Terceira turno
+第二轮¤Segunda curva
+胜场¤Campo vencedor
+第五轮¤Quinta turno
+第六轮¤Sexta turn
+品 阶\n¤Grau \ n
 现有悟道点:¤Pontos de iluminação disponíveis:
-比试中......¤Durante o concurso...
-突破阶段¤Fase de quebra
-药引用于调和材料之间的寒热属性¤O remédio é usado para equilibrar as propriedades quentes e frias dos ingredientes
+比试中......¤Durante a competição ...
+突破阶段¤Fase de avanço
+药引用于调和材料之间的寒热属性¤O medicamento é usado para reconciliar as propriedades quentes e frias dos ingredientes
 日¤Dia
 亲和¤Afinidade
-效果X8¤Efeito X8
+效果X8¤Efeito x8
 效 果¤Efeito
-玄武¤Tartaruga Negra
-对自身造成3点伤害,灵力+3¤Provoque 3 pontos de dano a si mesmo, poder espiritual +3
-总灵力¤Potência espiritual total
-灵力12¤Energia Espiritual 12
-下一次技能造成的木系伤害增加¤Aumente o dano do próximo elemento de madeira
+玄武¤Tartaruga preta
+对自身造成3点伤害,灵力+3¤Infligir 3 danos ao eu, poder espiritual +3
+总灵力¤Poder espiritual total
+灵力12¤Poder espiritual 12
+下一次技能造成的木系伤害增加¤Aumente os danos do próximo elemento do tipo de madeira
 灵性¤Espírito
-朱雀¤Zhu Que
+朱雀¤Zhu que
 青龙¤Dragão Verde
-器 成¤Grau de Arma
-输入命名¤Insira nome
-自身易伤¤Vulnerabilidade自身暴露
-对敌方施加¤Use contra o inimigo
-坚固¤Resiliência
-操控¤Controle
-白虎¤Tigre Branco
-韧性¤Persistência
+器 成¤Grau de arma
+输入命名¤Insira o nome
+自身易伤¤Auto-vulnerabilidade
+对敌方施加¤Use no inimigo
+坚固¤Resistência
+操控¤Controlar
+白虎¤Tigre branco
+韧性¤Tenacidade
 选择要炼制的装备¤Escolha o equipamento a ser refinado
-选择感悟时间¤Selecione o momento de sensação
-移动¤Mova-se
+选择感悟时间¤Selecione o tempo de sentido
+移动¤Mover
 取消¤Cancelar
-重置¤Reinício
-你们彼此心有灵犀，大道合鸣，双方都收获颇丰。¤Seus dao estão em sintonia um com o outro, ambos colhem grandes recompensas.
-你们双方鸡同鸭讲，并没有领悟到什么，彼此之间没有收获。¤Vocês dois se falaram por cima e não entenderam nada, sem nenhum avanço entre vocês.
-你乃天谴之人,你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人人你乃天谴之人你乃天谴之人人你乃天谴之人你乃天谴之人¤Você é um homem da ira de Deus, você é um homem da ira de Deus você é um homem da ira de Deus você é um homem da ira de Deus você é um homem da ira de Deus você é um homem da ira de Deus você é um homem da ira de Deus você é um homem da ira de Deus você é um homem da ira de Deus você é um homem da ira de Deus você é um homem da ira de Deus você é um homem da ira de Deus você é um homem da ira de Deus
-雷劫      剩余¤Tribulação Restante
-结单结单结单结单结单结单结单结单结单结单结单结单结单结单结单结单结¤Declaração Final Declaração Final Declaração Final Declaração Final Declaração Final Declaração Final Declaração Final Declaração Final Declaração Final Declaração Final Declaração Final Declaração Final
-清晨，¤Manhã Cedo,
-你的手牌上限+1¤Seu limite de cartas em mão foi aumentado por 1.
-放入 物品六个字字 x99999¤Se você ver isso, avise Linmios
-练气   初期¤Treinamento de qi estágio inicial
-体内真元逐渐饱和，你的修为已经达到了练气后期的瓶颈，如果无法突破，就再难提升了¤A essência verdadeira em seu corpo está se saturando gradualmente, sua cultivação atingiu o impasse do atraso de Refino de Qi, se não conseguir quebrar esse bloqueio, será difícil avançar mais adiante.
-你转头¤Você vira a cabeça
-99999布阵升级（需阵道略有小成）¤Se você ver isso, avise Linmios
-体内¤interno
-百里奇的传音一百字，百里奇的传音一百字，百里奇的传音一百字，百里奇的传音一百字，百里奇的传音一百字，百里奇的传音一百¤Transmissão do Centurião Bai Li Qi, transmissão do Centurião Bai Li Qi, transmissão do Centurião Bai Li Qi, transmissão do Centurião Bai Li Qi, transmissão do Centurião Bai Li Qi, transmissão do Centurião Bai Li Qi,
-在心魔幻象之中，你内心的种种恐惧与渴望在你眼前不断浮现，即便以你如今金丹巅峰修为，也沉沦与幻象之中无法自拔。就当你将要永远地迷失于心魔幻象中时，丹田之中突然冲出一股力量，将你硬生生地从幻象之中拉扯出来。你只觉得眼前一黑，昏死了过去。¤No ilusório demônio do demônio do coração, todos os seus medos e desejos constantemente aparecem diante de você, mesmo sendo um Cultivador Core de Ouro em Pico, você se afunda na ilusão e não consegue se libertar. Exatamente quando está prestes a ser perdido para sempre nessa ilusão, uma força súbita brota do seu dantian, forçando-o a sair da ilusão. Você só sente sua visão ficar preta e desmaia.
-读取存档¤Carregando salvas
+重置¤Reiniciar
+　你们彼此心有灵犀，大道合鸣，双方都收获颇丰。¤Você está em sintonia um com o outro, seu DAO está em harmonia. Vocês dois colhem ótimas recompensas.
+　你们双方鸡同鸭讲，并没有领悟到什么，彼此之间没有收获。¤Vocês dois conversaram e não compreenderam nada, sem nenhum ganhos entre si.
+　你乃天谴之人,你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人你乃天谴之人人你乃天谴之人你乃天谴之人人你乃天谴之人你乃天谴之人¤You are a man of God's wrath, you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath you are a man of God's wrath Você é um homem da ira de Deus, você é um homem da ira de Deus, você é um homem da ira de Deus, você é um homem da ira de Deus, você é um homem da ira de Deus
+雷劫      剩余¤Tribulação restante
+　　　　　　　结单结单结单结单结单结单结单结单结单结单结单结单结单结单结单结单结¤Declaração de encerramento Declaração de encerramento Declaração de fechamento Declaração Declaração de fechamento Declaração Declaração de fechamento Declaração de fechamento Declaração de fechamento Declaração de fechamento Declaração de fechamento Declaração de fechamento Declaração Declaração
+　　清晨，¤De manhã cedo,
+　　　你的手牌上限+1¤Seu limite de cartão manual é aumentado em 1.
+放入 物品六个字字 x99999 ¤Se você vir isso Tell Linmios
+练气   初期¤QI Treinamento estágio inicial
+　　体内真元逐渐饱和，你的修为已经达到了练气后期的瓶颈，如果无法突破，就再难提升了¤A verdadeira essência em seu corpo é gradualmente saturada, seu cultivo atingiu o gargalo do refinamento tardio do QI; se você não conseguir romper, será difícil avançar ainda mais.
+　　你转头¤Você vira sua cabeça
+     99999布阵升级（需阵道略有小成）¤Se você vir isso Tell Linmios
+　　体内¤interno
+　百里奇的传音一百字，百里奇的传音一百字，百里奇的传音一百字，百里奇的传音一百字，百里奇的传音一百字，百里奇的传音一百¤Transmissão de 100 palavras de Baili Qi, transmissão de 100 palavras de Baili Qi, transmissão de 100 palavras de Baili Qi, transmissão de 100 palavras de Baili Qi, transmissão de 100 palavras de Baili Qi, transmissão de 100 palavras de Baili Qi,
+　　在心魔幻象之中，你内心的种种恐惧与渴望在你眼前不断浮现，即便以你如今金丹巅峰修为，也沉沦与幻象之中无法自拔。就当你将要永远地迷失于心魔幻象中时，丹田之中突然冲出一股力量，将你硬生生地从幻象之中拉扯出来。你只觉得眼前一黑，昏死了过去。¤Na ilusão do demônio do coração, todos os seus medos e desejos aparecem constantemente diante de você, mesmo com você sendo um pico de cultivador de núcleo dourado, você afunda na ilusão e não pode se libertar. Assim como você está prestes a se perder na ilusão para sempre, uma força de repente sai do seu Dantian, puxando -o à força da ilusão. Você só sente que sua visão fica preta e desmaia.
+读取存档¤Carregamento salva
 宁  州¤Ning Zhou
-对草药习性有了基础的认知对草药习性有了基础的认知¤Adquiriu uma base de conhecimento sobre as características das ervas
-清晨¤Primeira hora da manhã
-神秘铁剑¤Espada Mística de Ferro
-周边天地的灵气突然开始涌入你的体内，你感到体内的真元犹如沸腾的开水一般迅速流动起来，体内的灵气在你的不断压缩下，逐渐凝聚为实体，结成：\"\"¤A energia espiritual do mundo ao seu redor começa repentinamente a fluir para o seu corpo. Você sente o verdadeiro elemento em seu corpo correr rapidamente, como água ferveira. Sob sua constante compressão, a energia espiritual no seu corpo gradualmente se condensa em substância e forma\''\''
-正在存档     请勿关闭¤Salvando... Por favor, não feche
-阴阳域¤Reino Yin Yang
-出口¤Sair
+     对草药习性有了基础的认知对草药习性有了基础的认知¤Ganhou conhecimento básico das características das ervas ganhou conhecimento básico das características das ervas
+　　清晨¤De manhã cedo
+神秘铁剑¤神秘铁剑
+　　周边天地的灵气突然开始涌入你的体内，你感到体内的真元犹如沸腾的开水一般迅速流动起来，体内的灵气在你的不断压缩下，逐渐凝聚为实体，结成：\"\"¤A energia espiritual do mundo circundante começa de repente a fluir para o seu corpo. Você sente o elemento verdadeiro em seu corpo fluindo rapidamente como água fervente. A energia espiritual em seu corpo se condensa gradualmente em substância sob sua compactação contínua e formas \ '' \ ''
+正在存档     请勿关闭¤Economizando ... por favor, não feche
+阴阳域¤Yin Yang Realm
+出口¤Saída

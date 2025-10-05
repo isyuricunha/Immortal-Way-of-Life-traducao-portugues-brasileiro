@@ -1,186 +1,186 @@
-你仔细勘察附近的环境，周边的岩石树木上都有明显的刀剑划痕，显然这里曾经发生过一场不小的冲突。¤Você examina cuidadosamente o ambiente ao redor, as rochas e árvores próximas têm marcas óbvias de espadas, claramente houve um conflito considerável aqui.
-你从附近的村民口中得知，失踪者大多是本地的生意人。除此以外你并没有问出其它有用的信息。¤Você descobre através dos moradores locais que os desaparecidos são principalmente comerciantes locais. Além disso, você não conseguiu obter outras informações úteis.
-你施展神识查探一番，并未检测到灵力的波动，也未见有明显的术法打斗痕迹。¤Você usa sua consciência divina para investigar, não detectou flutuações de poder espiritual, nem viu sinais óbvios de luta mágica.
-距离此处不远就是几座凡人村落，而这里原本是他们前往大城市的必经之路，如今却人烟稀少。¤Não muito longe daqui estão várias aldeias mortais, e este era originalmente o caminho necessário para a grande cidade, mas agora está escassamente povoado.
-由于最近的传言，附近的村民都减少了外出的次数。除此以外你并没有问出其它有用的信息。¤Devido aos rumores recentes, os moradores da vizinhança diminuíram suas saídas. Além disso, você não conseguiu obter outras informações úteis.
-你仔细勘察附近的环境，隐约能闻到空气中残留着一丝奇怪的腥臭味，但却未曾看到明显的打斗痕迹。¤Você examina cuidadosamente o ambiente próximo, pode vagamente sentir um cheiro estranho e fétido no ar, mas não viu sinais óbvios de luta.
-你从附近的村民口中得知，失踪者大多为本地的青壮年男子。除此以外你并没有问出其它有用的信息。¤Você descobre através dos moradores locais que a maioria dos desaparecidos são homens jovens e de meia-idade locais. Além disso, você não conseguiu obter outras informações úteis.
-你施展神识查探了一番，虽未检测到灵力的波动，却能明显感知到此地阴气慎重，像是有人在此处施展过什么阴毒的邪术。¤Você usou sua consciência divina para investigar, embora não tenha detectado flutuações de poder espiritual, pode claramente perceber que o qi yin neste lugar é pesado, como se alguém tivesse usado alguma arte maligna sinistra aqui.
-你仔细勘察附近的环境，附近的草丛有被压倒的痕迹，地面上依稀可见斑驳的血迹和拖动的痕迹。¤Você examina cuidadosamente o ambiente ao redor, a grama próxima tem sinais de ter sido pisoteada, no chão podem ser vistos vagamente manchas de sangue e marcas de arrasto.
-对¤Caminho de 
-之道的感悟达到¤ precisa estar no nível de 
-领悟后能够提升对¤ para melhorar o nível de
-之道、¤ Caminho 
-的感悟。¤ estágio.
-你已经学习过该技能¤Você já estudou essa habilidade 
+你仔细勘察附近的环境，周边的岩石树木上都有明显的刀剑划痕，显然这里曾经发生过一场不小的冲突。¤Você pesquisou cuidadosamente o bairro, a grama próxima foi sobrecarregada de traços do solo vagamente visíveis de sangue e marcas de arrasto.
+你从附近的村民口中得知，失踪者大多是本地的生意人。除此以外你并没有问出其它有用的信息。¤Você aprende com os aldeões próximos que os desaparecidos são principalmente empresários locais. Fora isso, você não pede outras informações úteis.
+你施展神识查探一番，并未检测到灵力的波动，也未见有明显的术法打斗痕迹。¤Você exerce senso divino para verificar alguns, não detectou as flutuações do poder espiritual, mas também não viu os sinais óbvios de lutar contra magia.
+距离此处不远就是几座凡人村落，而这里原本是他们前往大城市的必经之路，如今却人烟稀少。¤Não muito longe daqui estão várias aldeias mortais e, embora este fosse originalmente o caminho para a cidade grande, agora é escassamente povoada.
+由于最近的传言，附近的村民都减少了外出的次数。除此以外你并没有问出其它有用的信息。¤Devido aos rumores recentes, os moradores do bairro estão saindo com menos frequência. Fora isso, você não pediu nenhuma outra informação útil.
+你仔细勘察附近的环境，隐约能闻到空气中残留着一丝奇怪的腥臭味，但却未曾看到明显的打斗痕迹。¤Você examina cuidadosamente o ambiente próximo, pode cheirar vagamente um cheiro de peixe estranho no ar, mas não viu os sinais óbvios de uma luta.
+你从附近的村民口中得知，失踪者大多为本地的青壮年男子。除此以外你并没有问出其它有用的信息。¤Você aprende com os aldeões próximos que a maioria dos desaparecidos são homens jovens e de meia-idade locais. Fora isso, você não pede outras informações úteis.
+你施展神识查探了一番，虽未检测到灵力的波动，却能明显感知到此地阴气慎重，像是有人在此处施展过什么阴毒的邪术。¤Você exerceu o senso divino para conferir alguns, embora não detectados flutuações no poder espiritual, mas podem perceber claramente o lugar discreto, como alguém neste lugar para lançar o que insidioso mal da arte.
+你仔细勘察附近的环境，附近的草丛有被压倒的痕迹，地面上依稀可见斑驳的血迹和拖动的痕迹。¤Você pesquisou cuidadosamente o bairro, a grama próxima foi sobrecarregada de traços do solo vagamente visíveis de sangue e marcas de arrasto.
+对¤Dao de
+之道的感悟达到¤precisa estar no nível de
+领悟后能够提升对¤para melhorar o nível de
+之道、¤Dao
+的感悟。¤estágio.
+你已经学习过该技能¤Você já estudou essa habilidade
 你已经学习过该功法¤Você já estudou essa técnica
-遁速大于18方可学习¤Velocidade de fuga maior que 18 para aprender
-你已经阅读过该丹方¤Você já leu essa receita de pílula
+遁速大于18方可学习¤A velocidade de fuga é maior que 18 para aprender
+你已经阅读过该丹方¤Você leu a receita da pílula
 需要在突破前服用¤Deve ser tomado antes do avanço
-已到最大耐药性，无法服用¤Não pode ser tomado: resistência máxima às pílulas foi atingida
-已经领悟过该大道书¤Você já compreendeu este Grande Livro
-正在翻阅秘籍...¤Lendo o livro secreto...
-获得一条新的传闻¤Recebeu um novo rumor
-学会了¤Aprendeu
-[FDE52B]需求点数：[-]¤[FDE52B]Pontos Necessários：[-]
-[FDE52B]领悟条件：[-]对¤[FDE52B]Condições para compreensão：[-]para
-[ffb143]【需求点数】[-][E0DDB4]¤[ffb143]【Pontos Necessários】[-][E0DDB4]
-[ffb143]【领悟条件】[-][E0DDB4]对¤[ffb143]【Condições para compreensão】[-][E0DDB4]para
-<color=#ffb143>【领悟条件】</color>对¤<color=#ffb143>【Requisitos】</color>
-剩{0}年¤{0}A restantes
-剩{0}月¤{0}M restantes
-剩{0}日¤{0}D restantes
-{0}年¤{0}A
-{0}月¤{0}M
-{0}日¤{0}D
-{0}年{1}月{2}日¤{0}A {1}M {2}D
+已到最大耐药性，无法服用¤Não pode ser tomado: a resistência máxima da pílula foi alcançada
+已经领悟过该大道书¤Você já entendeu o grande livro
+正在翻阅秘籍...¤Lendo o livro secreto ...
+获得一条新的传闻¤Recebeu um novo boato
+学会了¤Aprendido
+[FDE52B]需求点数：[-]¤[Fde52b] Pontos necessários: [-]
+[FDE52B]领悟条件：[-]对¤[FDE52B] Condições para compreensão: [-] 对
+[ffb143]【需求点数】[-][E0DDB4]¤[ffb143] 【Pontos necessários】 [-] [e0ddb4]
+[ffb143]【领悟条件】[-][E0DDB4]对¤[FFB143] 【Condições para compreensão】 [-] [e0ddb4] 对
+<color=#ffb143>【领悟条件】</color>对¤<color =#ffb143> 【requisitos】 </ro Color>
+剩{0}年¤{0} y esquerdo
+剩{0}月¤{0} m esquerdo
+剩{0}日¤{0} D esquerda
+{0}年¤{0} y
+{0}月¤{0} m
+{0}日¤{0} d
+{0}年{1}月{2}日¤{0} y {1} m {2} d
 年¤Ano
 月¤Mês
 日¤Dia
-品</color>¤ Grau </color>
-之道的感悟提升<color=#¤ aumentará em <color=#
+品</color>¤Grade </color>
+之道的感悟提升<color=#¤aumentará por <color =#
 </color>点¤</color> pontos
 已开启¤Disponível
-距离事件开始还有¤ ainda restam antes do evento começar
-闭关{0}年{1}月后¤Após {0} anos e {1} meses de reclusão
-可将精元凝练为{0}{1}¤A essência pode ser condensada em {0}{1}
-[FF0000]你尚未装备主修功法修炼速度为0¤[FF0000] Você ainda não equipou a técnica de cultivo principal, velocidade de cultivo é 0
-[E58E5D]功法：[-][000000]当前主修功法为《¤[E58E5D]Técnica: [-][000000] A técnica de cultivo principal atual é 《
-》修炼速度加¤》velocidade de cultivo mais
-[E58E5D]洞府：[-][000000]¤[E58E5D]Caverna:[-][000000]
-[E58E5D]心境：[-][000000]你当前的心境符合境界需求，闭关时能获得100%收益¤[E58E5D]Estado Mental: [-][000000] Seu estado mental atual atende aos requisitos do reino, você pode obter 100% de benefícios ao cultivar.
-[E58E5D]心境：[-][000000]你当前的心境低于境界需求，闭关仅能获得{0}%收益¤[E58E5D] Estado Mental: [-][000000] Seu estado mental atual está abaixo dos requisitos do reino, você só pode obter {0}% durante o cultivo.
-[E58E5D]心境：[-][000000]你当前的心境高于境界需求，闭关时能获得{0}%收益¤[E58E5D] Estado Mental: [-][000000] Seu estado mental atual está acima dos requisitos do reino, você só obterá {0}% durante o cultivo.
-[E58E5D]资质：[-][000000]资质增加的修炼速度为¤[E58E5D]Aptidão:[-][000000]A aptidão aumenta a velocidade de cultivo por mês em 
+距离事件开始还有¤Ainda por ir antes do início do evento
+闭关{0}年{1}月后¤Depois de {0} anos & {1} meses de retiro
+可将精元凝练为{0}{1}¤A essência pode ser condensada em {0} {1}
+[FF0000]你尚未装备主修功法修炼速度为0¤[FF0000] Você ainda não equipou a principal técnica de cultivo, a velocidade de cultivo é 0
+[E58E5D]功法：[-][000000]当前主修功法为《¤[E58e5d] kung fu: [-] [000000] O método atual de cultivo principal é 《
+》修炼速度加¤》 Velocidade de cultivo mais
+[E58E5D]洞府：[-][000000]¤[E58E5D] Caverna: [-] [000000]
+[E58E5D]心境：[-][000000]你当前的心境符合境界需求，闭关时能获得100%收益¤[E58E5D] Estado de espírito: [-] [000000] Seu estado de espírito atual atende aos requisitos do reino e você pode ganhar 100% ao cultivar.
+[E58E5D]心境：[-][000000]你当前的心境低于境界需求，闭关仅能获得{0}%收益¤[E58E5D] Estado de espírito: [-] [000000] Seu estado de espírito atual é menor que os requisitos do reino, e você só pode ganhar {0}% durante o cultivo.
+[E58E5D]心境：[-][000000]你当前的心境高于境界需求，闭关时能获得{0}%收益¤[E58E5D] Estado de espírito: [-] [000000] Seu estado de espírito atual é maior que os requisitos do reino, e você só ganhará {0}% durante o cultivo.
+[E58E5D]资质：[-][000000]资质增加的修炼速度为¤[E58E5D] Qualificação: [-] [000000] Aptitude aumenta a velocidade de cultivo por mês
 天赋点不足¤Pontos de talento insuficientes
 [24a5d6]效果：[-]¤[24a5d6] Efeito: [-]
-\n\n[db9a53]说明：[-]¤\n\n[db9a53] Descrição: [-]
-\n\n[db9a53]解锁：[-]¤\n\n[db9a53] Desbloqueio: [-]
-剧情模式境界达到¤Alcançar 
-解锁¤ reino para desbloquear
+\n\n[db9a53]说明：[-]¤\ n \ n [db9a53] Descrição: [-]
+\n\n[db9a53]解锁：[-]¤\ n \ n [db9a53] desbloqueio: [-]
+剧情模式境界达到¤Alcançar
+解锁¤Reino para desbloquear
 至少选择一个天赋¤Selecione pelo menos um talento.
-请选择对应数目的灵根¤Corrija sua seleção de raízes espirituais
-天赋点不能为负数¤Pontos de talento não podem ser negativos
-下一届拍卖会时间¤Próximo horário do leilão
-追踪传闻已过期¤Rumor rastreado expirou
-剩余时间：¤Tempo restante：
+请选择对应数目的灵根¤Corrija a seleção das raízes espirituais
+天赋点不能为负数¤Os pontos de talento não podem ser negativos
+下一届拍卖会时间¤Próximo tempo de leilão
+追踪传闻已过期¤O boato rastreado expirou
+剩余时间：¤Tempo restante:
 剩余¤Restante
-提升了¤foi aumentado em
-降低了¤foi reduzido em 
-对你的好感度¤opinião sobre você 
-本地灵气：<size=34>¤Qi Espiritual Local ：<size=34>
-灵核数量：<size=34>¤Quantidade de Núcleos Espirituais ：<size=34>
-探查难度：<size=34>{0}</size>（神识需求{1}）¤Dificuldade de Busca：<size=34>{0}</size>（Consciência Divina Necessária : {1}）
-<color=#c94011>未知</color>  ¤<color=#c94011>Desconhecido</color>  
-<color=#c94011>无</color>  ¤<color=#c94011>Vazio</color>  
+提升了¤foi aumentado por
+降低了¤foi reduzido por
+对你的好感度¤a opinião de você
+本地灵气：<size=34>¤Qi espiritual local: <tamanho = 34>
+灵核数量：<size=34>¤Valor central do espírito ： <tamanho = 34>
+探查难度：<size=34>{0}</size>（神识需求{1}）¤Dificuldade de pesquisa ： <tamanho = 34> {0} </size> （Requerir senso de alma: {1}）
+<color=#c94011>未知</color>  ¤<color =#c94011> desconhecido </ro Color>
+<color=#c94011>无</color>  ¤<color =#c94011> vazio </ro Color>
 说明：¤Descrição:
-药引：¤Catalisador de Alquimia：
+药引：¤Catalisador de Alquimia:
 【药引】¤【Catalisador de Alquimia】
-主药：¤Ingrediente Principal：
-【主药】¤【Ingrediente Principal】
-辅药：¤Ingrediente Secundário：
-【辅药】¤【Ingrediente Secundário】
-#c449491名称：#n¤#c449491Nome：#n
-\n\n#c449491品级：#n¤\n\n#c449491Grau：#n
-<pos v=0.72 t=1>#c449491品级：#n¤<pos v=0.72 t=1>#c449491Grau：#n
-品\n\n¤Item\n\n
-#c449491类型：#n矿石\n\n¤#c449491Tipo：#nMinério\n\n
-#c449491种类：#n¤#c449491 Categoria：#n
- t=1>#c449491属性：#n¤ t=1>#c449491Propriedades：#n
-#c449491种类：#n未知 <pos v=0.72 t=1>#c449491属性：#n未知\n\n¤#c449491 Categoria：#nDesconhecido <pos v=0.72 t=1>#c449491Propriedades：#nDesconhecido\n\n
-#c449491产地：#n#c¤#c449491Origem：#n#c
+主药：¤Ingrediente principal:
+【主药】¤【Ingrediente principal】
+辅药：¤Ingrediente secundário:
+【辅药】¤【Ingrediente secundário】
+#c449491名称：#n¤#c449491Name: #n
+\n\n#c449491品级：#n¤\ n \ n#c449491Grade: #n
+<pos v=0.72 t=1>#c449491品级：#n¤<pos v = 0,72 t = 1>#c449491Grade: #n
+品\n\n¤Item \ n \ n
+#c449491类型：#n矿石\n\n¤#C449491TYPE ： #nore \ n \ n
+#c449491种类：#n¤#C449491 Categoria ： #n
+ t=1>#c449491属性：#n¤t = 1>#C449491Properties: #n
+#c449491种类：#n未知 <pos v=0.72 t=1>#c449491属性：#n未知\n\n¤#C449491 Categoria ： #nunknown <pos v = 0,72 t = 1>#c449491properties: #nunknown \ n \ n n
+#c449491产地：#n#c¤#C449491Origin:#n#c
 未知¤Desconhecido
-#c449491类型：#n草药\n\n¤#c449491Tipo：#nErva Medicinal\n\n
-#c449491主药：#n¤#c449491Ingrediente Principal：#n
- <pos v=0.36 t=1>#c449491辅药：#n¤ <pos v=0.36 t=1>#c449491Ingrediente Secundário：#n
- <pos v=0.72 t=1>#c449491药引：#n¤ <pos v=0.72 t=1>#c449491Catalisador de Alquimia：#n
-#c449491介绍：#n#s24¤#c449491Introdução：#n#s24
+#c449491类型：#n草药\n\n¤#C449491TYPE ： #Nherbal Medicine \ n \ n
+#c449491主药：#n¤#C449491Main Ingrediente: #n
+ <pos v=0.36 t=1>#c449491辅药：#n¤<pos v = 0,36 t = 1>#c449491sEcondary ingrediente:##n
+ <pos v=0.72 t=1>#c449491药引：#n¤<pos v = 0,72 t = 1>#c449491AlChemy Catalyst:##n
+#c449491介绍：#n#s24¤#C449491Introdução:#N#S24
 魏无极似乎想起了什么¤Wei Wuji parece ter se lembrado de algo
-获得一条新的线索¤Obteve uma nova pista
-草药已经全部长成，但似乎已经有什么东西捷足先登了，气息似有似无，大概是一只<color=#ffe118>炼气期</color>妖兽，你决定...？¤As ervas estão todas crescidas, mas parece que algo já chegou antes de você. Seu aura de Qi é bastante fraca, provavelmente uma besta demoníaca do <color=#ffe118>estágio de Refinamento de Qi</color>. Você decide...?
-草药已经全部长成，但似乎有什么东西正在附近暗中徘徊，恐怕是一只<color=#ffe118>筑基期</color>妖兽，你决定...？¤As ervas estão todas crescidas, mas parece que algo está rondando nas proximidades no escuro. Provavelmente é uma besta demoníaca do <color=#ffe118>estágio de Estabelecimento da Fundação</color>. Você decide....?
-是否请教¤Pedir conselho
-领悟了¤Compreendeu 
-\n\n#c449491属性：#n¤\n\n#c449491Propriedades：#n
-\n\n#c449491消耗：#n¤\n\n#c449491Custo：#n
+获得一条新的线索¤Obteve uma nova liderança
+草药已经全部长成，但似乎已经有什么东西捷足先登了，气息似有似无，大概是一只<color=#ffe118>炼气期</color>妖兽，你决定...？¤As ervas são todas totalmente crescidas, mas parece que algo mais já o espancou. Sua aura Qi é bastante fraca, provavelmente a <color =#ffe118> qi refino-pale </robro> besta demoníaca. Você decide ...?
+草药已经全部长成，但似乎有什么东西正在附近暗中徘徊，恐怕是一只<color=#ffe118>筑基期</color>妖兽，你决定...？¤As ervas são todas totalmente crescidas, mas parece que algo está à espreita nas proximidades no escuro. Provavelmente é um estágio <color =#ffe118> fase de estabelecimento da fundação </ro Color>. Você decide ...?
+是否请教¤Peça conselhos
+领悟了¤Compreendido
+\n\n#c449491属性：#n¤\ n \ n#c449491Properties: #n
+\n\n#c449491消耗：#n¤\ n \ n#C449491Cost: #n
 请输入名称¤Por favor, insira um nome
-不允许有特殊字符¤Caracteres especiais não são permitidos
-回合¤ Rodadas
-[f28125]【主动】[-] [E0DDB4]¤[f28125]【Iniciativa】[-] [E0DDB4]
-[333333]品级：¤[333333]Grau：
-[d3b068]悟道提升：[-]¤[d3b068]Aprimoramento da Iluminação：[-]
+不允许有特殊字符¤Sem personagens especiais permitidos
+回合¤Rodadas
+[f28125]【主动】[-] [E0DDB4]¤[F28125] 【Iniciativa】 [-] [e0ddb4]
+[333333]品级：¤[333333] Grau:
+[d3b068]悟道提升：[-]¤[D3B068] Aprimoramento da iluminação: [-]
 【进度】¤【Progresso】
 【修炼速度】¤【Velocidade de cultivo】
-[E0DDB4]暂无说明[-]¤[E0DDB4]Nenhuma descrição no momento[-]
-\n\n#c449491类型：#n丹药¤\n\n#c449491Tipo：#nElixir
-\n\n#c449491耐药：#n{0}<pos v=0.68 t=1>#c449491丹毒：#n{1}¤\n\n#c449491Resistência a pílulas：#n{0}<pos v=0.68 t=1>#c449491Toxicose：#n{1}.
+[E0DDB4]暂无说明[-]¤[E0ddb4] Nenhuma descrição neste momento [-]
+\n\n#c449491类型：#n丹药¤\ n \ n#C449491TYPE: #NELIXIR
+\n\n#c449491耐药：#n{0}<pos v=0.68 t=1>#c449491丹毒：#n{1}¤\ n \ n#C449491 PILL Resistência: #n {0} <pos v = 0,68 t = 1>#c449491toxicose:#{1}.
 【耐久】¤【Durável】
-【冷却】¤【Recarga】
+【冷却】¤【Resfriamento】
 【属性】¤【Propriedades】
-【耐药】¤【Resistência a pílulas】
+【耐药】¤【Resistência à pílula】
 【丹毒】¤【Toxicose】
 【种类】¤【Categoria】
-#c449491类型：#n妖兽材料\n\n¤#c449491Tipo：#nMateriais de Besta Demoníaca\n\n
-#c449491产出：#n#c¤#c449491Produtos：#n#c
+#c449491类型：#n妖兽材料\n\n¤#C449491TYPE ： #NDEMON BEAST MATERIAIS \ N \ N.
+#c449491产出：#n#c¤#c449491Outputs ：#n#c
 丹药数量不足¤Número insuficiente de elixires
-丹炉错误¤Erro do Forno de Alquimia
-正在炼制丹药...¤Fabricando pílulas...
-数据异常¤Anomalias de Dados
-\n\n#c449491基础修炼速度：#n¤\n\n#c449491Velocidade de Cultivo Básica：#n
-\n\n#c449491#s34介绍：#n#s24¤\n\n#c449491#s34Introdução：#n#s24
-#s28未知¤#s28Desconhecido
-提升¤Melhoria
+丹炉错误¤Dan Erro do forno
+正在炼制丹药...¤Fazendo comprimidos ...
+数据异常¤Anomalias de dados
+\n\n#c449491基础修炼速度：#n¤\ n \ n#C449491 Velocidade de cultivobasic:##n
+\n\n#c449491#s34介绍：#n#s24¤\ n \ n#C449491#S34INTRODUÇÃO ：#N#S24
+#s28未知¤#S28unknown
+提升¤Atualizar
 降低¤Redução
-基础修炼速度:{0}¤Velocidade de cultivo básica:{0}
-总速度:{0}¤Velocidade total:{0}
+基础修炼速度:{0}¤Velocidade básica de cultivo: {0}
+总速度:{0}¤Velocidade total: {0}
 空¤Vazio
-[FF0000]说明:[-]¤[FF0000]Descrição:[-]
-0/年¤0/A
+[FF0000]说明:[-]¤[FF0000] Descrição: [-]
+0/年¤0/y
 /月¤/M
-灵石/年¤Pedras Esp./A
-({0}/上限)¤({0}/Limite máximo)
-悟道值满后，会获得悟道点x1,已获得（{0}/{1}）¤Quando o valor de iluminação estiver completo, você obterá ponto de iluminação x 1, já obteve （{0}/{1}）
-<color=#DE5900>思绪：</color>¤<color=#DE5900>Pensamentos：</color>
-<color=#DE5900>遗忘：</color>¤<color=#DE5900>Esqueceu：</color>
-<color=#DE5900>说明：</color>对¤<color=#DE5900>Descrição：</color>
-之道的感悟提升<color=#¤Aprimoramento da percepção do Caminho<color=#
-</color>点¤</color> Ponto
-<color=#DE5900>感悟时间：</color>{0}年{1}月{2}日¤<color=#DE5900>Tempo de percepção：</color>{0}A {1}M {2}D
+灵石/年¤Sp.st./Y
+({0}/上限)¤({0}/limite superior)
+悟道值满后，会获得悟道点x1,已获得（{0}/{1}）¤Quando o valor da iluminação estiver cheio, você receberá o ponto de iluminação x 1, que foi obtido （{0}/{1} vor
+<color=#DE5900>思绪：</color>¤<color =#de5900> Pensamentos: </color>
+<color=#DE5900>遗忘：</color>¤<color =#de5900> esqueci: </color>
+<color=#DE5900>说明：</color>对¤<color =#de5900> Descrição: </color>
+之道的感悟提升<color=#¤Aprimoramento do sentido de como <color =#
+</color>点¤</color> ponto
+<color=#DE5900>感悟时间：</color>{0}年{1}月{2}日¤<color =#de5900> percepção do tempo: </color> {0} y {1} m {2} d
 房间剩余时间不足，无法感悟¤Tempo insuficiente restante na sala para percepção
-正在感悟天道...¤Percebendo o caminho celestial...
-这条思绪将在¤Esta linha de pensamento será
-后被遗忘。¤ esquecida depois.
-<color=#ff6554>{0}日后</color>¤<color=#ff6554>Em {0} dias</color>
-<color=#f2a16b>{0}日后</color>¤<color=#f2a16b>Em {0} dias</color>
-<color=#cfcea8>{0}日后</color>¤<color=#cfcea8>Em {0} dias</color>
-对你的情分¤ afeição por você
-你和¤Você e 
-的情分提升了¤ afeição +
+正在感悟天道...¤Estar ciente do caminho celestial ...
+这条思绪将在¤Esta linha de pensamento estará em
+后被遗忘。¤Depois de ser esquecido。
+<color=#ff6554>{0}日后</color>¤<color =#ff6554> {0} no futuro </ro Color>
+<color=#f2a16b>{0}日后</color>¤<color =#f2a16b> {0} no futuro </ro Color>
+<color=#cfcea8>{0}日后</color>¤<color =#cfcea8> {0} no futuro </ro Color>
+对你的情分¤afeto por você
+你和¤Você e
+的情分提升了¤afeto +
 突破至下一阶需要：¤Avanço para o próximo nível requer:
-<color=#dff7b1>辅</color>¤<color=#dff7b1>Auxiliar</color>
-<color=#ffc9c1>婴</color>¤<color=#ffc9c1>Bebê</color>
-<color=#c8f5eb>遁</color>¤<color=#c8f5eb>Fuga</color>
-<color=#fbed9f>主</color>¤<color=#fbed9f>Principal</color>
+<color=#dff7b1>辅</color>¤<color =#dff7b1> auxiliar </ro Color>
+<color=#ffc9c1>婴</color>¤<color =#ffc9c1> baby </ro Color>
+<color=#c8f5eb>遁</color>¤<color =#c8f5eb> desaparece </ro Color>
+<color=#fbed9f>主</color>¤<color =#fbed9f> main </ro Color>
 突破¤Avanço
 房间剩余时间不足，无法进行突破¤Tempo insuficiente restante na sala para fazer um avanço
-正在突破功法...¤Avanço de Artes Marciais em andamento...
-已到最大等级¤Nível máximo foi alcançado
-后方可继续突破¤O avanço pode continuar após
-正在闭关苦修...¤Em reclusão...
-是否确定请教此功法？¤Tem certeza de que deseja aprender esta técnica?
-你已经领悟这个功法了¤Você já compreendeu esta técnica
+正在突破功法...¤Avas de Artes Marciais em andamento ...
+已到最大等级¤O nível máximo foi atingido
+后方可继续突破¤Avanço pode continuar depois
+正在闭关苦修...¤Em retiro ...
+是否确定请教此功法？¤Tem certeza de que deseja ensinar essa técnica?
+你已经领悟这个功法了¤Você compreendeu esta técnica
 你的声望不足以学习此功法¤Sua reputação não é suficiente para aprender esta técnica
-此乃魔道不传之密¤Este é o segredo não revelado do Caminho Demoníaco
-你的好感度不足以学习此功法¤Sua consciência divina não é suficiente para aprender esta técnica
-你们的情分不足以学习此功法¤Sua afeição não é suficiente para aprender esta técnica
-你已经领悟这个神通了¤Você já compreendeu esta habilidade
-你的声望不足以学习此神通¤Sua reputação não é suficiente para aprender esta habilidade
-你的声望不足以学习此神通¤Sua reputação não é suficiente para aprender esta habilidade
-你的好感度不足以学习此神通¤Você não tem consciência divina suficiente para aprender esta habilidade
-你们的情分不足以学习此神通¤Sua afeição não é suficiente para aprender este poder mágico
-获得新的感悟¤Obtendo novas percepções 
-悟道点+{0}({1}/{2})¤Pontos de Gnose+{0}({1}/{2})
-({0}/极限)¤({0}/Máximo)
- <pos v=0.68 t=1>#c449491品级：#n¤ <pos v=0.68 t=1>#c449491Grau：#n
-\n\n#c449491耐药：#n未知<pos v=0.68 t=1>#c449491丹毒：#n未知¤\n\n#c449491Resistência a medicamentos：#n未知<pos v=0.68 t=1>#c449491Toxicose：#nDesconhecido
+此乃魔道不传之密¤Este é o segredo incalculável do caminho do diabo
+你的好感度不足以学习此功法¤Seu sentido divino não é suficiente para aprender esta técnica
+你们的情分不足以学习此功法¤Seu amor não é suficiente para aprender esta técnica
+你已经领悟这个神通了¤Você compreendeu esta habilidade
+你的声望不足以学习此神通¤Sua reputação não é suficiente para aprender essa habilidade
+你的声望不足以学习此神通¤Sua reputação não é suficiente para aprender essa habilidade
+你的好感度不足以学习此神通¤Você não tem senso divino suficiente para aprender essa capacidade
+你们的情分不足以学习此神通¤Seu amor não é suficiente para aprender esse poder mágico
+获得新的感悟¤Ganhando novas idéias
+悟道点+{0}({1}/{2})¤Pontos de Gnose+{0} ({1}/{2})
+({0}/极限)¤({0}/max)
+ <pos v=0.68 t=1>#c449491品级：#n¤<pos v = 0,68 t = 1>#c449491Grade: #n
+\n\n#c449491耐药：#n未知<pos v=0.68 t=1>#c449491丹毒：#n未知¤\ n \ n#c449491drug Resistência ： #n 未知 <pos v = 0,68 t = 1>#c449491toxicose:##nunknown
 未知#n¤Desconhecido #n

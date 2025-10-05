@@ -1,2022 +1,1917 @@
-确定¤OK
+确定¤Confirmar
 取消¤Cancelar
 算了¤Esqueça
 进去¤Entre
-前往¤Ir
-御起真火提炼材料¤Aumentar o fogo verdadeiro para refinar os materiais
-早早离开¤Sair cedo
-仔细寻找¤Procurar cuidadosamente
-出示九龙玺¤Exibir o Selo dos Nove Dragões
-进去看看¤Dar uma olhada
-破阵¤Quebrar a formação
+前往¤Vá
+御起真火提炼材料¤Levante o fogo verdadeiro para refinar os materiais
+早早离开¤Saia cedo
+仔细寻找¤Procure com cuidado
+出示九龙玺¤Exiba o Selo dos Nove Dragões
+进去看看¤Dê uma olhada
+破阵¤Quebre a formação
 离开¤Sair
 那便出发吧¤Então vamos
 完全没问题¤Sem problema algum
 参加¤Participar
-我还有些事没办完¤Ainda tenho algo a resolver
-还能坚持¤Ainda consigo aguentar
-再了解一下其它长老¤Saber mais sobre os outros anciãos
-略有耳闻¤Já ouvi um pouco sobre isso
-青蛇真人¤Mestre Cobra Azul
-长春真人¤Mestre Primavera Eterna
-拜青蛇真人为师¤Tornar-se discípulo do Mestre Cobra Azul
-拜紫菱仙子为师¤Tornar-se discípulo da Fada Ziling
+我还有些事没办完¤Ainda tenho algo para fazer
+还能坚持¤Posso aguentar
+再了解一下其它长老¤Saiba mais sobre os outros anciãos
+略有耳闻¤Ouvi um pouco sobre isso.
+青蛇真人¤Senhor Cobra Azure
+长春真人¤Senhor Primavera Eterna
+拜青蛇真人为师¤Torne-se discípulo do Senhor Cobra Azure
+拜紫菱仙子为师¤Torne-se discípulo da Senhora Ziling
 未曾听说过¤Nunca ouvi falar
-紫菱仙子¤Fada Ziling
-拜长春真人为师¤Tornar-se discípulo do Mestre Primavera Eterna
-避开¤Desviar
-硬抗¤Aguentar
-正阳道长¤Mestre Sol Brilhante
+紫菱仙子¤Senhora Ziling
+拜长春真人为师¤Torne-se discípulo do Senhor Primavera Eterna
+避开¤Esquivar
+硬抗¤Suportar
+正阳道长¤Senhor Sol Brilhante
 苍坤上人¤Venerável Terra Pálida
-拜正阳道长为师¤Tornar-se discípulo do Mestre Sol Brilhante
-拜火云老祖为师¤Tornar-se discípulo do Patriarca Nuvem de Fogo
+拜正阳道长为师¤Torne-se discípulo do Senhor Sol Brilhante
+拜火云老祖为师¤Torne-se discípulo do Patriarca Nuvem de Fogo
 火云老祖¤Patriarca Nuvem de Fogo
-拜苍坤上人为师¤Tornar-se discípulo do Venerável Terra Pálida
-还是算了¤Deixa pra lá
+拜苍坤上人为师¤Torne-se discípulo do Venerável Terra Pálida
+还是算了¤Esqueça
 采集¤Coletar
-开始炼丹¤Começar Alquimia
+开始炼丹¤Comece a Alquimia
 留下¤Ficar
-暂且离开¤Sair por ora
-尝试击溃禁制¤Tentar quebrar a barreira
+暂且离开¤Saia por enquanto
+尝试击溃禁制¤Tente quebrar o selo
 退回去¤Recuar
-闯过去¤Forçar passagem
-静观其变¤Aguardar para ver o que acontece
-出手相助¤Ajudar
-尝试修复¤Tentar reparar
-使用传送阵¤Usar a matriz de teletransporte
-服用解毒丹药¤Tomar pílula de desintoxicação
-转身离开¤Virar-se e sair
-强行闯过¤Forçar passagem
-神识探查¤Sondar com o sentido espiritual
-采摘灵药¤Colher ervas espirituais
-笔直通过¤Passar direto
-另寻他路¤Procurar outro caminho
-原路退回¤Retornar pelo mesmo caminho
-于此修练¤Treinar aqui
-跳入水中¤Pular na água
-用乱刃切割巨石¤Cortar o pedregulho aleatoriamente
-以后再想办法¤Pensar em uma solução depois
-用驱物术挪开巨石¤Mover o pedregulho com telecinese
-阴灵蟒¤Píton Espírito Sombrio
-练习法术¤Praticar técnicas
-偷偷潜入（神识检测）¤Infiltrar-se furtivamente (detecção de sentido espiritual)
-出手攻击¤Atacar
-硬闯过去¤Forçar passagem
-退回原路¤Recuar pelo caminho original
-闯进去¤Invadir
+闯过去¤Atravesse
+静观其变¤Espere e veja o que acontece
+出手相助¤Forneça ajuda
+尝试修复¤Tente reparar
+使用传送阵¤Use a formação de teleporte
+服用解毒丹药¤Tome uma pílula de desintoxicação
+转身离开¤Vire e saia
+强行闯过¤Force a passagem
+神识探查¤Sonda com Sentido da Alma
+采摘灵药¤Colha ervas mágicas
+笔直通过¤Vá direto
+另寻他路¤Encontre outra rota
+原路退回¤Retorne pelo mesmo caminho
+于此修练¤Treine aqui
+跳入水中¤Pule na água
+用乱刃切割巨石¤Corte a rocha de forma aleatória
+以后再想办法¤Pense nisso depois
+用驱物术挪开巨石¤Mova a rocha com telecinesia
+阴灵蟒¤Píton Espírito Yin
+练习法术¤Pratique técnicas
+偷偷潜入（神识检测）¤Entre furtivamente (detecção de sentido da alma)
+出手攻击¤Ataque
+硬闯过去¤Atravesse à força
+退回原路¤Recue pelo caminho que veio
+闯进去¤Invada
 没什么想说的了¤Nada mais a dizer
-关于渡劫¤Sobre a Tribulação
-关于长生¤Sobre a Vida Eterna
-关于魔门¤Sobre o Portão Demoníaco
-多一事不如少一事，静观其变¤Melhor esperar para ver o que acontece primeiro.
-路见不平，自当现身相助。¤Ao ver injustiça no caminho, deve-se aparecer para ajudar.
-同门有难，自当现身相助。¤Quando um condiscípulo estiver em apuros, deve-se aparecer para ajudar.
-屏息凝神，不要轻举妄动¤Prender a respiração, não agir precipitadamente
-出手夺宝¤Tentar roubar o tesouro
+关于渡劫¤Sobre Tribulação
+关于长生¤Sobre Vida Eterna
+关于魔门¤Sobre Portão Demoníaco
+多一事不如少一事，静观其变¤Melhor esperar e ver o que acontece primeiro.
+路见不平，自当现身相助。¤Quando você vê injustiça na estrada, deve aparecer para ajudar.
+同门有难，自当现身相助。¤Quando um discípulo companheiro está em apuros, deve aparecer para ajudar.
+屏息凝神，不要轻举妄动¤Segure a respiração, não aja precipitadamente
+出手夺宝¤Tente roubar
 不予理会¤Ignorar
-回头看去¤Olhar para trás
-不去¤Não ir
-动手¤Agir
-求助¤Pedir ajuda
-上前示意¤Aproximar-se e sinalizar
-出言提醒¤Alertar verbalmente
-伸手阻拦¤Estender a mão para impedir
-姑娘为何突然出手伤人？¤Moça, por que atacou alguém de repente?
-你这花妖好生歹毒！¤Sua demônia flor, que crueldade!
-苦心劝说¤Tentar persuadir
-狠下杀手¤Golpear para matar
-灭族......难不成你不是宁州香薷？¤Extermínio de clã... Não é você a Elsholtzia de Ningzhou?
-你也太无理取闹，五百年前之事与我二人何干？¤Você está sendo absurda, o que o ocorrido de 500 anos atrás tem a ver conosco?
-这......既然我还活着，那应该是称得上的。¤... Já que ainda estou vivo, isso deve contar.
-再等等¤Esperar mais um pouco
-要战便战¤Se quer lutar, lute
-拔腿就跑¤Sair correndo
-抓住¤Agarrar
-偷偷溜走¤Sair de fininho
-宁死不服¤Prefiro morrer a me submeter
-果断认错¤Admitir o erro sem hesitar
-跳下去¤Pular
-人为财死鸟为食亡¤Homens morrem por riqueza assim como pássaros por comida
-运《敛息术》¤Usar a Técnica de Conter a Respiração
-神识掩护¤Proteção do Sentido Espiritual
+回头看去¤Vire e olhe
+不去¤Não vá
+动手¤Faça isso
+求助¤Peça ajuda
+上前示意¤Avance e avise
+出言提醒¤Fale e avise
+伸手阻拦¤Estenda a mão e pare
+姑娘为何突然出手伤人？¤Senhora, por que atacaria alguém de repente?
+你这花妖好生歹毒！¤Você é um demônio de flor tão vicioso!
+苦心劝说¤Persuadir
+狠下杀手¤Ataque para matar
+灭族......难不成你不是宁州香薷？¤Genocídio...... Você não é Elsholtzia de Ningzhou?
+你也太无理取闹，五百年前之事与我二人何干？¤Você é muito irracional, o que o incidente de 500 anos atrás tem a ver conosco?
+这......既然我还活着，那应该是称得上的。¤...... Como ainda estou vivo, isso pode ser alegado.
+再等等¤Espere um pouco mais
+要战便战¤Se quiser lutar, lute
+拔腿就跑¤Fuja
+抓住¤Pegue
+偷偷溜走¤Fuja furtivamente
+宁死不服¤Prefiro morrer do que me submeter
+果断认错¤Admita seu erro
+跳下去¤Pule
+人为财死鸟为食亡¤Homens morrem por riqueza assim como pássaros morrem por comida
+运《敛息术》¤Use a Técnica de Restrição de Respiração
+神识掩护¤Proteção do Sentido da Alma
 偷了就跑¤Roube e fuja
-愿意¤Concordo
+愿意¤Concordar
 古神教¤Seitas do Deus Antigo
 我没什么想知道的了¤Não há mais nada que eu queira saber
 张三¤Zhang San
-在外围相助¤Ajudar à distância
-加入白帝楼有什么福利？¤Quais são os benefícios de entrar no Pavilhão do Imperador Branco?
+在外围相助¤Ajude à distância
+加入白帝楼有什么福利？¤Quais são os benefícios de se juntar ao Pavilhão do Imperador Branco?
 出发吧¤Vamos
 没有其它问题了¤Sem mais perguntas
 关于图南海¤Sobre o Mar do Sul de Tu
-不愿意¤Não quero
+不愿意¤Não disposto
 血剑印¤Selo da Espada de Sangue
 血剑宫¤Palácio da Espada de Sangue
 韩立¤Han Li
-内阁弟子和外围成员有什么区别。¤Qual a diferença entre um discípulo interno e um membro externo?
+内阁弟子和外围成员有什么区别。¤Qual é a diferença entre um discípulo interno e um discípulo externo.
 我还有些事¤Tenho outros assuntos
 白帝楼的由来¤Origem do Pavilhão do Imperador Branco
-入阵迎敌¤Entrar na formação para enfrentar o inimigo
-魔神蛊¤Compulsão Gu da Seita do Deus Antigo
+入阵迎敌¤Entre na formação e enfrente o inimigo
+魔神蛊¤Gu de Compulsão do Culto do Deus Antigo
 魔心¤Coração Demoníaco
 天魔道¤Caminho do Demônio Celestial
 李天¤Li Tian
 关于遗迹的传闻¤Rumores sobre as ruínas
 如何成为内阁弟子¤Como se tornar um discípulo interno
-加入白帝楼我需要做什么？¤O que preciso fazer para entrar no Pavilhão do Imperador Branco?
-躲在角落¤Esconder-se em um canto
-不必了¤Não precisa
-出去看看¤Sair para dar uma olhada
+加入白帝楼我需要做什么？¤O que preciso fazer para me juntar ao Pavilhão do Imperador Branco?
+躲在角落¤Esconda-se em um canto
+不必了¤Não é necessário
+出去看看¤Saia e dê uma olhada
 冷嘲热讽¤Comentários sarcásticos
 大打出手¤Lutar
-好言安慰¤Palavras de conforto
-直接进去¤Entrar direto
-先敲敲门¤Bater na porta primeiro
-询问魏无极¤Perguntar a Wei Wuji
-自己试试¤Tentar você mesmo
+好言安慰¤Palavras gentis de conforto
+直接进去¤Entre direto
+先敲敲门¤Bata na porta primeiro
+询问魏无极¤Pergunte a Wei Wuji
+自己试试¤Tente você mesmo
 答应¤Prometer
 拒绝¤Recusar
 长老堂¤Salão dos Anciãos
 倪旭荣的房间¤Quarto de Ni Xurong
 倪振东的房间¤Quarto de Ni Zhendong
 倪振南的房间¤Quarto de Ni Zhennan
-同意¤Concordo
-你又闯什么祸了？¤Que encrenca você arrumou agora?
-莫非是家中出了什么意外？¤Será que aconteceu algum incidente em casa?
+同意¤Concordar
+你又闯什么祸了？¤No que você se meteu de novo?
+莫非是家中出了什么意外？¤Poderia ser que houve algum incidente em casa?
 出发¤Partir
-多谢，承情了。¤Obrigado, fico te devendo uma.
-不得已而为之¤Não havia outra opção
+多谢，承情了。¤Obrigado, devo-lhe uma.
+不得已而为之¤Tinha que ser feito
 没空¤Sem tempo
-作为道侣，不就应该这样么嘿嘿¤Como casal, não deveria ser assim? hehe
-有何不敢¤Por que não ousar?
-怕不是缺个打手¤Não será que você só quer alguém para ajudar a lutar?
-不用见外¤Não precisa ser formal
-找星铃儿帮忙¤Pedir ajuda a Xingling
-确定选择直接去星宫¤Confirmar que vai direto ao Palácio Estelar
-去星宫“恭贺”冲虚散人¤Ir ao Palácio Estelar para “parabenizar” Chong Xu Sanren
+作为道侣，不就应该这样么嘿嘿¤Como um casal, não deveria ser assim?
+有何不敢¤Por que eu não ousaria?
+怕不是缺个打手¤Tem certeza de que não é porque quer ajuda na luta?
+不用见外¤Não precisa ser estranho.
+找星铃儿帮忙¤Peça ajuda a Star Bell.
+确定选择直接去星宫¤Confirme que você vai diretamente ao Palácio das Estrelas.
+去星宫“恭贺”冲虚散人¤Vá ao Palácio das Estrelas para 'congratular' Chong Xu Sanren
 交给我吧¤Deixe comigo
-不用担心¤Não se preocupe
+不用担心¤Não se preocupe.
 无暇顾及¤Sem tempo para se preocupar
 没什么事了¤Não há mais nada a fazer
-我想出去看看¤Quero sair e dar uma olhada
-关于长老会¤Sobre o Conselho de Anciãos
+我想出去看看¤Quero sair e ver
+关于长老会¤Sobre o Conselho dos Anciãos
 我已经都了解了¤Já sei de tudo
-关于栖云真人¤Sobre o Mestre Qiyun
+关于栖云真人¤Sobre o Senhor Qiyun
 关于苗矮上人¤Sobre o Venerável Miaoai
 关于通羽上人¤Sobre o Venerável Tongyu
-关于天星城坊市¤Sobre o Mercado da Cidade Estelar
-言语威胁¤Ameaçar verbalmente
-灵石收买¤Subornar com pedras espirituais
-不动声色地观察¤Observar discretamente
-冲上去乱打一通¤Avançar e atacar aleatoriamente
+关于天星城坊市¤Sobre o Mercado da Cidade das Estrelas
+言语威胁¤Ameace
+灵石收买¤Suborne com pedras espirituais
+不动声色地观察¤Observe em silêncio
+冲上去乱打一通¤Avance e ataque
 没有其它发现了¤Nada mais foi encontrado
 关于苗矮长老¤Sobre o Ancião Miaoai
 关于通羽长老¤Sobre o Ancião Tongyu
 我怀疑苗矮长老¤Suspeito do Ancião Miaoai
-我怀疑栖云长老¤Suspeito do Ancião Qiyun
+我怀疑栖云长老¤Suspeito do Ancião Quyun
 我怀疑通羽长老¤Suspeito do Ancião Tongyu
-进入三长老房间¤Entrar no quarto do Terceiro Ancião
-进入二长老房间¤Entrar no quarto do Segundo Ancião
+进入三长老房间¤Entre no quarto do Terceiro Ancião
+进入二长老房间¤Entre no quarto do Segundo Ancião
 镇元剑仙¤Mestre da Espada Zhenyuan
-龙阳上人¤Venerável Dragonlight
-拜镇元剑仙为师¤Tornar-se discípulo do Mestre da Espada Zhenyuan
-拜明河剑仙为师¤Tornar-se discípulo do Mestre da Espada Rio Radiante
+龙阳上人¤Venerável Luz do Dragão
+拜镇元剑仙为师¤Torne-se discípulo do Mestre da Espada Zhenyuan
+拜明河剑仙为师¤Torne-se discípulo do Mestre da Espada Rio Radiante
 明河剑仙¤Mestre da Espada Rio Radiante
-拜龙阳上人为师¤Tornar-se discípulo do Venerável Dragonlight
-前往大殿¤Ir ao salão principal
-大巧不工¤Não é nada demais
-盘腿坐下¤Sentar-se de pernas cruzadas
-剑走偏锋¤Movimentos de espada não convencionais
+拜龙阳上人为师¤Torne-se discípulo do Venerável Luz do Dragão
+前往大殿¤Vá para o salão principal
+大巧不工¤Não é grande coisa
+盘腿坐下¤Sente-se de pernas cruzadas
+剑走偏锋¤Movimentos de espada não ortodoxos
 飘逸灵动¤Leve e ágil
-耐心等候¤Esperar pacientemente
-大步上前¤Avançar a passos largos
-继续向前¤Continuar avançando
-试图返回¤Tentar retornar
-请教《雾相化身》¤Pedir instrução sobre Artes Avatar de Névoa
-请教《云雾剑法》¤Ensinar a Técnica da Espada Nuvem e Névoa
-请教《幻雾真法》¤Pedir instrução sobre o Mantra da Névoa Ilusória
-询问奕云仙子的过往¤Perguntar sobre o passado da Fada Yiyun
-请教《幻雾术》¤Pedir instrução sobre a Técnica da Névoa Ilusória
-步入潭水¤Entrar na água do lago
-潜心感悟¤Concentre-se e tente sentir algo
-上前查看¤Aproximar-se e observar
-席地而坐¤Sentar no chão
-钻研石碑¤Estudar o obelisco
-先试探他一下¤Testá-lo primeiro
-推动机关¤Acionar o mecanismo
-检查沙台¤Verificar a plataforma de areia
+耐心等候¤Espere pacientemente
+大步上前¤Avance a passos largos
+继续向前¤Continue em frente
+试图返回¤Tente retornar
+请教《雾相化身》¤Peça instrução sobre as Artes do Avatar Névoa
+请教《云雾剑法》¤Peça para ensinar a Técnica da Espada Nuvem e Névoa
+请教《幻雾真法》¤Peça instrução sobre o Mantra da Névoa Ilusória
+询问奕云仙子的过往¤Pergunte sobre o passado da Senhora Yiyun
+请教《幻雾术》¤Peça pela Técnica da Névoa Ilusória
+步入潭水¤Entre na piscina de água
+潜心感悟¤Introspecione e tente sentir algo
+上前查看¤Avance e veja
+席地而坐¤Sente-se no chão
+钻研石碑¤Estude o obelisco
+先试探他一下¤Teste-o primeiro
+推动机关¤Empurre o mecanismo
+检查沙台¤Verifique a plataforma de areia
 结束搜索¤Encerrar a busca
-查看干尸¤Examinar o cadáver seco
-查看沙台¤Verificar a plataforma de areia
-小心观察¤Observar cuidadosamente
-上前打量¤Aproximar-se e dar uma olhada
-查看外套¤Verificar o manto
-检查矿灯¤Examinar a lâmpada de mineração
-听他说完¤Ouvir até o fim
-不动声色地往退后一步¤Recuar sem fazer barulho
-玄伶仙子¤Fada Starsong
-凝霜仙子¤Fada Frostglaze
-润熹仙子¤Fada Dawnrain
-拜凝霜仙子为师¤Tornar-se discípulo da Fada Frostglaze
-拜润熹仙子为师¤Tornar-se discípulo da Fada Dawnrain
-再了解一下其他长老¤Conhecer melhor os outros anciãos
-拜玄伶仙子为师¤Tornar-se discípulo da Fada Starsong
-前去参赛¤Ir para a competição
-站出来¤Dar um passo à frente
-隐瞒事实¤Ocultar a verdade
-不管它¤Não se preocupar com isso
-没有什么要问的了¤Não há mais perguntas
-询问剑灵¤Perguntar ao espírito da espada
-询问小屋¤Perguntar sobre a cabana
-询问光幕¤Perguntar sobre a tela de luz
-凭自己的直觉¤Seguir sua própria intuição
-暗中观察¤Observar em segredo
-偷偷离开¤Sair discretamente
-下次再说¤Falaremos na próxima vez
-出手迎战¤Enfrentar em batalha
-找落单的修士下手¤Atacar um cultivador solitário
-鸢本仙子¤Fada Yuanben
+查看干尸¤Verifique o cadáver seco
+查看沙台¤Verifique a plataforma de areia
+小心观察¤Observe com cuidado
+上前打量¤Avance e dê uma olhada
+查看外套¤Verifique as vestes
+检查矿灯¤Examine a lâmpada de mineração
+听他说完¤Ouça-o até o fim
+不动声色地往退后一步¤Recue sem fazer barulho
+玄伶仙子¤Senhora Canção das Estrelas
+凝霜仙子¤Senhora Geada
+润熹仙子¤Senhora Chuva do Amanhecer
+拜凝霜仙子为师¤Torne-se discípulo da Senhora Geada
+拜润熹仙子为师¤Torne-se discípulo da Senhora Chuva do Amanhecer
+再了解一下其他长老¤Saiba mais sobre outros anciãos
+拜玄伶仙子为师¤Torne-se discípulo da Senhora Canção das Estrelas
+前去参赛¤Vá para a competição
+站出来¤Avance
+隐瞒事实¤Esconda a verdade
+不管它¤Não se preocupe com isso
+没有什么要问的了¤Não há nada mais a perguntar
+询问剑灵¤Pergunte ao espírito da espada
+询问小屋¤Pergunte sobre a cabana
+询问光幕¤Pergunte sobre a tela de luz
+凭自己的直觉¤Siga sua própria intuição
+暗中观察¤Observe em segredo
+偷偷离开¤Saia secretamente
+下次再说¤Falarei sobre isso da próxima vez
+出手迎战¤Enfrente na batalha
+找落单的修士下手¤Procure por um cultivador solitário
+鸢本仙子¤Senhora Yuanben
 恒如真人¤Senhor Harmonia Eterna
-拜鸢本仙子为师¤Tornar-se discípulo da Fada Yuanben
-拜冶庚上人为师¤Tornar-se discípulo do Venerável Yegeng
+拜鸢本仙子为师¤Torne-se discípulo da Senhora Yuanben
+拜冶庚上人为师¤Torne-se discípulo do Venerável Yegeng
 冶庚上人¤Venerável Yegeng
-拜恒如真人为师¤Tornar-se discípulo do Senhor Harmonia Eterna
-伸手握住¤Estender a mão e segurar
+拜恒如真人为师¤Torne-se discípulo do Senhor Harmonia Eterna
+伸手握住¤Estenda a mão e segure
 就选它了¤Escolho este
-再看看别的。¤Ver outros
+再看看别的。¤Olhe para os outros
 桃木符剑¤Espada Rúnica de Madeira de Pêssego
 碧玉符剑¤Espada Rúnica de Jaspe
-陨铁符剑¤Espada Rúnica de Ferro Meteórico
-不叫价¤Não fazer lance
-兴致缺缺¤Sem interesse
-叫价¤Dar lance
-落座等候¤Sentar e esperar
-我再想想¤Vou pensar mais um pouco
+陨铁符剑¤Espada Rúnica de Ferro de Meteoro
+不叫价¤Não licite
+兴致缺缺¤Não interessado
+叫价¤Licite
+落座等候¤Sente-se e espere
+我再想想¤Deixe-me pensar de novo
 是的¤Sim
-床头¤Cabeceira
-已经没什么在意的了¤Nada mais me importa
+床头¤Cabeceira da cama
+已经没什么在意的了¤Nada mais na mente
 花瓶¤Vaso
-书桌¤Escrivaninha
+书桌¤Mesa
 纸篓¤Cesto de papel
-书架¤Estante
+书架¤Estante de livros
 窗户¤Janela
 床¤Cama
 柜子¤Armário
-屏风¤Biombo
-检查灵石台座¤Examinar o pedestal da Pedra Espiritual
-检查书桌¤Verificar a escrivaninha
-检查衣柜¤Verificar o armário
+屏风¤Tela divisória
+检查灵石台座¤Examine o Pedestal de Pedra Espiritual
+检查书桌¤Verifique a mesa
+检查衣柜¤Verificando o armário
 长案¤Mesa longa
 装饰剑鞘¤Bainha decorativa
 关于阮娘¤Sobre Ruan Niang
 关于毕钟天¤Sobre Bi Zhongtian
-关于海上仙山¤Sobre a Montanha Mágica no Mar
+关于海上仙山¤Sobre a montanha imortal do mar
 关于你自己¤Sobre você mesmo
 没什么要问的了¤Nada mais a perguntar
-闯入阵法¤Invadir o array
-离开此地¤Sair daqui
-小心潜入¤Entrar sorrateiramente
-大胆闯入¤Invadir com ousadia
-打听族中秘境¤Perguntar sobre o Reino Secreto do Clã
-询问百里奇的去向¤Perguntar sobre o paradeiro de Baili Qi
-敛息潜入¤Prender a respiração e entrar discretamente
-深入漩涡¤Mergulhar no redemoinho
+闯入阵法¤Invadindo a formação
+离开此地¤Saia daqui
+小心潜入¤Entre furtivamente com cuidado
+大胆闯入¤Invada ousadamente
+打听族中秘境¤Pergunte sobre o Reino Secreto no Clã
+询问百里奇的去向¤Pergunte sobre o paradeiro de Baili Qi
+敛息潜入¤Contenha sua respiração e entre furtivamente
+深入漩涡¤Mergulhe no Vórtice
 进入¤Entrar
-手下留情¤Poupar
-痛下杀手¤Matar sem piedade
-进入龙宫¤Entrar no Palácio do Dragão
-不予理睬¤Ignorar
-询问来由¤Perguntar o motivo
-先观望观望¤Observar antes
-第一个上¤Primeiro a entrar
-比我想象中要快¤Mais rápido do que pensei
-没想到只有两个人通过¤Não esperava que apenas duas pessoas passassem
-倪兄都是元婴修士了，怎么定力还这么差？¤Irmão Ni já é um cultivador de Alma Nascente, como ainda tem tão pouca disciplina?
-前往探查¤Ir explorar
-支付灵石¤Pagar com pedras espirituais
-这一路是有些无聊了。¤O caminho foi um pouco entediante
-场外等待¤Esperar do lado de fora
-加入拍卖¤Participar do leilão
+手下留情¤Mostre misericórdia
+痛下杀手¤Ataque para matar
+进入龙宫¤Entre no Palácio do Dragão
+不予理睬¤Não dê atenção
+询问来由¤Pergunte o motivo
+先观望观望¤Vamos esperar e ver primeiro
+第一个上¤Primeiro a subir
+比我想象中要快¤Mais rápido do que eu pensava
+没想到只有两个人通过¤Inesperadamente, apenas duas pessoas passaram.
+倪兄都是元婴修士了，怎么定力还这么差？¤Irmão Ni já é um Cultivador de Alma Nascente, como ainda tem tão pouca autodisciplina?
+前往探查¤Vá e explore
+支付灵石¤Pague com pedras espirituais
+这一路是有些无聊了。¤A jornada foi um pouco entediante.
+场外等待¤Espere do lado de fora
+加入拍卖¤Participe do leilão
 我们出发吧¤Vamos
-俗话说舍命陪君子 我岂能让百里兄只身犯险¤Como posso deixar o irmão Baili arriscar sua vida sozinho? 
-既然百里兄坚持 那我便祝你平安归来吧¤Já que o irmão Baili insiste, desejo seu retorno seguro.
-上前相助¤Aproximar-se e ajudar
+俗话说舍命陪君子 我岂能让百里兄只身犯险¤Como posso deixar o irmão Baili arriscar sua vida sozinho?
+既然百里兄坚持 那我便祝你平安归来吧¤Como o Irmão Baili insiste, desejo-lhe um retorno seguro.
+上前相助¤Avance e preste ajuda
 关于古代遗物¤Sobre as relíquias antigas
-不太清楚¤Não tenho muita certeza
+不太清楚¤Não muito certo
 略知一二¤Sei um pouco
-关于海域情报¤Informações sobre a região marítima
-迎头而上¤Enfrentar de frente
-禾山道¤Caminho Heshan
-暂避锋芒¤Evitar conflito por enquanto
-婉言拒绝¤Recusar educadamente
+关于海域情报¤Informações sobre a região do mar
+迎头而上¤Enfrente de frente
+禾山道¤Caminho de Heshan
+暂避锋芒¤Evite o conflito por enquanto
+婉言拒绝¤Recuse educadamente
 好的¤Ok
-答应同行¤Aceitar viajar junto
+答应同行¤Concorde em viajar juntos
 还有别的事情¤Há outros assuntos
-好，观上一观¤Ok, darei uma olhada rápida
-为何要去一观¤Por que devo conferir?
+好，观上一观¤Ok, vou dar uma olhada rápida
+为何要去一观¤Por que devo verificar
 关于出口¤Sobre a saída
-我知道了¤Entendi
-注入灵力¤Injetar poder espiritual
+我知道了¤Entendi.
+注入灵力¤Injete poder espiritual
 关于龙珠¤Sobre a Orbe do Dragão
-关于阵法¤Sobre o Array
+关于阵法¤Sobre a Formação
 返回¤Retornar
-地阶不传之秘¤Segredos não transmitidos do nível Terra
-天阶不传之秘¤Segredos não transmitidos do nível Céu
-不传之秘¤Segredos não transmitidos
-人阶¤Nível Humano
-地阶¤Nível Terra
-普通秘籍¤Manuais Comuns
+地阶不传之秘¤Segredos Não Transmitidos de Rank Terra
+天阶不传之秘¤Segredo Não Transmitido de Rank Céu
+不传之秘¤Segredos Não Transmitidos
+人阶¤Humano
+地阶¤Terra
+普通秘籍¤Trapaças Comuns
 犹豫不决¤Hesitar
-欣然同意¤Aceitar de bom grado
-解决祸端¤Resolver o problema
-小心潜逃¤Fugir cuidadosamente
-乐于出手¤Pronto para agir
-无所畏惧¤Sem medo
-直接离开¤Sair imediatamente
-过去看看¤Dar uma olhada
-逃命要紧¤Escapar é prioridade
-上前探查¤Aproximar-se para investigar
-有心无力¤Querer, mas não poder
-擒贼先擒王¤Capturar o líder primeiro
-闯入圣坛¤Invadir o altar
-闯入正殿¤Invadir o salão principal
-深入调查¤Investigar mais a fundo
-开打¤Começar a lutar
+欣然同意¤Concorde de todo o coração
+解决祸端¤Resolva o problema
+小心潜逃¤Fuaja furtivamente com cuidado
+乐于出手¤Feliz em agir
+无所畏惧¤Destemido
+直接离开¤Saia diretamente
+过去看看¤Vá dar uma olhada
+逃命要紧¤Escape
+上前探查¤Avance e explore
+有心无力¤Disposto mas incapaz
+擒贼先擒王¤Derrote o líder primeiro
+闯入圣坛¤Invada o altar
+闯入正殿¤Invada o salão principal
+深入调查¤Investigue mais a fundo
+开打¤Comece a luta
 下毒¤Envenenar
-我意已决¤Já decidi
-占为己有¤Tomar para si
-日后交还¤Devolver mais tarde
-继续跟踪¤Continuar seguindo
-作壁上观¤Observar à distância
-再相信他一次¤Confiar nele mais uma vez
-推脱告别¤Desculpar-se e sair
-停下等待¤Parar e esperar
-加快脚步¤Acelerar o passo
+我意已决¤Eu decidi
+占为己有¤Pegue para si mesmo
+日后交还¤Devolva depois
+继续跟踪¤Continue a seguir
+作壁上观¤Observe do lado
+再相信他一次¤Confie nele mais uma vez
+推脱告别¤Desculpe-se e saia
+停下等待¤Pare e espere
+加快脚步¤Acelere o passo
 兴趣颇多¤Muito interesse
-不感兴趣¤Sem interesse
-暂且算了¤Deixar para lá por enquanto
-一探究竟¤Investigar
-阅读碑文¤Ler a inscrição
-尝试抽离神识¤Tentar retirar o Sentido da Alma
-尝试观察影像¤Tentar observar a imagem
-抽离神识！¤Retirar o Sentido da Alma!
-继续坚持！¤Continuar firme!
-避开他¤Evitar ele
-小心戒备¤Ficar alerta
-一旁等待¤Esperar ao lado
+不感兴趣¤Não interessado
+暂且算了¤Esqueça por enquanto
+一探究竟¤Verifique
+阅读碑文¤Leia a inscrição
+尝试抽离神识¤Tente retirar o Sentido da Alma
+尝试观察影像¤Tente observar a imagem
+抽离神识！¤Desengate o Sentido da Alma!
+继续坚持！¤Continue!
+避开他¤Evite-o
+小心戒备¤Esteja alerta
+一旁等待¤Espere ao lado
 一人便可对付¤Posso lidar sozinho
-不便出手¤Não há necessidade de agir
+不便出手¤Não há necessidade de fazer nada
 可负责一只¤Posso cuidar de um
 木之守护兽¤Guardião da Madeira
 水之守护兽¤Guardião da Água
 火之守护兽¤Guardião do Fogo
 土之守护兽¤Guardião da Terra
 金之守护兽¤Guardião do Metal
-是那传已久的阵道功法？¤É a técnica de formação há muito divulgada?
-奇门遁甲？¤Qimen Dunjia?
-公孙兄这是...？¤Irmão Gongsun, isto é...?
-继续前进¤Continuar avançando
-以神识应对¤Usar Sentido da Alma para contra-atacar
-靠身法硬闯¤Passar usando agilidade
-寻求帮助¤Procurar ajuda
+是那传已久的阵道功法？¤É a técnica de formação há muito tempo rumorada?
+奇门遁甲？¤A estranha porta Jia que desaparece?
+公孙兄这是...？¤Irmão Gongsun, isso é...?
+继续前进¤Avançando
+以神识应对¤Use o sentido da alma para contra-atacar
+靠身法硬闯¤Passe desviando
+寻求帮助¤Busque ajuda
 倪旭欣¤Ni XuXin
 林沐心¤Lin Muxin
 公孙季¤Gongsun Ji
-退至一旁¤Recuar para o lado
-挺身而出¤Dar um passo à frente
-进入御剑门遗迹¤Entrar nas ruínas da Seita da Espada Imperial
-大家一起上！¤Vamos todos juntos!
-我先来会会他¤Eu lidarei com ele primeiro
-一旁围观¤Observar de lado
-我来会会它¤Eu lidarei com ele
-触碰石碑¤Tocar o estela
+退至一旁¤Recue para o lado
+挺身而出¤Avance
+进入御剑门遗迹¤Entre nas ruínas da Seita da Espada Imperial
+大家一起上！¤Vamos juntos!
+我先来会会他¤Eu cuido dele primeiro
+一旁围观¤Assista do lado
+我来会会它¤Eu o enfrentarei.
+触碰石碑¤Toque na estela
 玄微？¤Xuan Wei?
-功法传承？¤Herança da técnica?
-我没有什么想问的了¤Não tenho mais perguntas
+功法传承？¤Legado da Técnica?
+我没有什么想问的了¤Não tenho nada a perguntar
 你是谁？¤Quem é você?
 又？¤De novo?
 上万年？¤Dez mil anos?
 这是哪里？¤Onde estamos?
-言语试探¤Testar com palavras
-这老道恐怕伤的不轻，不如趁他病，要他命！¤Este velho parece bastante ferido, por que não aproveitar suas feridas para matá-lo!
-推脱¤Arranjar uma desculpa
-动手！¤Faça!
-确认进入¤Confirmar entrada
-到此为止吧¤Vamos parar por aqui
-查看残骸¤Ver os destroços
-查看阵法¤Ver o array
-以力破阵¤Quebrar a formação com força
-以道破阵¤Quebrar a formação pelo conhecimento do Dao
-先等等¤Esperar por enquanto
-同门有难，自当现身相助¤Quando um colega discípulo está em apuros, devemos aparecer para ajudar
+言语试探¤Sondagem verbal
+这老道恐怕伤的不轻，不如趁他病，要他命！¤Este velho parece bastante ferido, por que não aproveitar seus ferimentos para matá-lo!
+推脱¤Encontre uma desculpa
+动手！¤Faça isso!
+确认进入¤Confirme a entrada
+到此为止吧¤Vamos parar aqui
+查看残骸¤Verifique os destroços.
+查看阵法¤Verifique a formação.
+以力破阵¤Quebre a formação com força
+以道破阵¤Quebre a formação através do conhecimento do Dao
+先等等¤Espere por enquanto.
+同门有难，自当现身相助¤Quando um discípulo companheiro está em apuros, devemos avançar para ajudar
 商量¤Negociar
 挑战¤Desafiar
-进入化龙池¤Entrar na Piscina de Transformação do Dragão
-小心试探¤Provocar cuidadosamente
-愿闻其详¤Gostaria de saber mais
+进入化龙池¤Entre na Piscina de Transformação do Dragão
+小心试探¤Sonde com cuidado
+愿闻其详¤Gostaria de ouvir mais sobre isso
 没什么想了解的了¤Não há mais nada que eu queira saber
 化龙池？¤Piscina de Transformação do Dragão?
 坤龙殿？¤Salão Kun Long?
-一口回绝¤Recusar completamente
-先行试探¤Provocar primeiro
-没有什么想了解的了。¤Não há mais nada que eu queira saber
+一口回绝¤Rejeite completamente
+先行试探¤Sonde primeiro
+没有什么想了解的了。¤Não há mais nada que eu queira saber.
 东海异动？¤Distúrbio no Mar do Leste?
 父亲？¤Pai?
 上古鲲龙之战？¤A batalha dos antigos Dragões Kun?
-开战原由？¤Motivo da guerra?
-元婴期长老？¤Anciões no estágio do Nascent Soul?
-主动询问¤Tomar a iniciativa de perguntar
-装作没有看见¤Fingir não ver
+开战原由？¤O motivo da guerra?
+元婴期长老？¤Anciãos no estágio Alma Nascente?
+主动询问¤Tome a iniciativa de perguntar
+装作没有看见¤Finja não ver
 缺失？¤Faltando?
-交出引雷柱¤Entregar o Pilar de Raios
-上交引雷柱¤Entregar o Pilar de Raios
-入阵¤Entrar no Array
+交出引雷柱¤Entregue o pilar de raios
+上交引雷柱¤Entregue o pilar de raios
+入阵¤Entre na Formação
 引雷锻体？¤Método do Corpo Forjado por Raios?
-雷鸣海九霄雷狱？¤Prisão do Julgamento Eterno do Mar do Trovão Retumbante?
-关于雷鸣海九霄雷狱？¤Sobre a prisão de Raios Eterna do Mar do Trovão?
-考虑考虑¤Pensar um pouco
-出言挑衅¤Fazer um comentário provocativo
-强行破除¤Forçar a quebra
-提起与龙族的交情...¤Falando da amizade com o clã do dragão...
-虚心讨教¤Pedir conselho com mente aberta
-仔细观察¤Observar cuidadosamente
+雷鸣海九霄雷狱？¤Prisão do Julgamento Eterno do Mar do Trovão Rolante?
+关于雷鸣海九霄雷狱？¤Sobre a prisão eterna do raio do mar do trovão rolante?
+考虑考虑¤Pense sobre isso
+出言挑衅¤Faça um comentário provocativo
+强行破除¤Quebre à força
+提起与龙族的交情...¤Falando de amizade com o clã dos dragões...
+虚心讨教¤Perguntando por conselhos com mente aberta
+仔细观察¤Observe com cuidado
 毫无办法¤Nada pode ser feito
-再想想别的办法¤Pensar em outro método
-提起与白帝的交情...¤Mencionar a amizade com o Imperador Branco...
-给他灵石¤Dar pedras espirituais a ele
-提起宁州的宗门势力...¤Mencionar os poderes das seitas em Ningzhou...
-施展领域神通¤Usar seu domínio
-勒令交出秘术¤Ordenar a entrega da técnica secreta
-言语无益，动手！¤Palavras não resolvem, ataque!
+再想想别的办法¤Pense em outra maneira
+提起与白帝的交情...¤Mencione sua amizade com o Imperador Branco...
+给他灵石¤Dê-lhe pedras espirituais
+提起宁州的宗门势力...¤Mencione as poderes das seitas em Ningzhou...
+施展领域神通¤Use seu domínio
+勒令交出秘术¤Ordene para entregar a arte secreta
+言语无益，动手！¤Falar é inútil, ataque!
 无妨¤Sem problema
 接受¤Aceitar
-宫主此举确实有些出人意料¤Esta ação do Mestre do Palácio realmente é inesperada
-不管\n¤Não importa...
-拿走\n¤Levar embora
-飞身保护¤Avançar em proteção
-威吓驱赶¤Ameaçar e afastar
-动手解决¤Resolver pela força
+宫主此举确实有些出人意料¤Isso é um movimento surpreendente do Mestre do Palácio.
+不管\n¤Não importa o quê...
+拿走\n¤Leve embora.
+飞身保护¤Avance em proteção
+威吓驱赶¤Ameace e expulse
+动手解决¤Resolva pela força
 摧毁¤Destruir
-置之不理¤Ignorar
+置之不理¤Ignore
 没时间了¤Não há tempo
-既来之，则安之¤Já que veio, fique à vontade
+既来之，则安之¤Venha como você é, venha como você é
 否¤Não
 是¤Sim
 修士？¤Cultivador?
-魂体？¤Alma e corpo separados?
-隐藏实力¤Força oculta
+魂体？¤Corpo e Alma Separados?
+隐藏实力¤Força Escondida
 神阴石？¤Pedra Yin Divina?
-重铸肉身？¤Refazer o corpo?
+重铸肉身？¤Corpo Reforjado?
 阴气旋？¤Ciclone Yin?
 修炼？¤Cultivar?
 交易？¤Transação?
-没有什么想问的了¤Não há mais nada a perguntar
+没有什么想问的了¤Não há nada mais a perguntar
 阴体？¤Corpo Yin?
 体系？¤Sistema?
-阴魂岛？¤Ilha das Almas Yin?
-略施威压¤Aplicar um pouco de pressão
-要办什么正事¤Vai tratar de que assunto sério?
-贸然闯入¤Entrar precipitadamente
-假意应承¤Fingir aceitar
-大首领最近如何¤Como está o Grande Líder recentemente?
-直接翻脸¤Virar o rosto diretamente
-破阵拿走¤Quebrar a formação e levar embora
-不去触碰¤Não tocar
-翻动玉简¤Folhear o pergaminho de jade
+阴魂岛？¤Ilha dos Fantasmas?
+略施威压¤Aplique um pouco de pressão
+要办什么正事¤O que você vai fazer?
+贸然闯入¤Invada precipitadamente
+假意应承¤Finja aceitar
+大首领最近如何¤Como está o Grande Senhor?
+直接翻脸¤Vire a cara diretamente
+破阵拿走¤Quebre a formação e pegue
+不去触碰¤Fique fora de alcance
+翻动玉简¤Virando o pergaminho de jade
 玉简二¤Pergaminho de Jade Dois
 玉简三¤Pergaminho de Jade Três
 玉简四¤Pergaminho de Jade Quatro
 玉简五¤Pergaminho de Jade Cinco
 玉简一¤Pergaminho de Jade Um
-视而不见¤Fingir não ver
-向他行礼¤Fazer uma saudação a ele
+视而不见¤Vire um olho cego
+向他行礼¤Dê-lhe uma saudação
 救¤Salvar
-不救¤Não ajudar
-追上去¤Alcançar
-闭关修炼¤Cultivo em reclusão
-阻止他¤Impedi-lo
-默许他¤Permitir
-外出游历¤Viajar para fora
-暗中观察，先看看热闹再说¤Observar secretamente e ver o que acontece primeiro
-我是沂山派的（加入沂山派）¤Sou da Escola Yishan (entrar na Escola Yishan)
-趁还没人注意到，赶紧溜¤Apressar-se enquanto ninguém percebe
+不救¤Não ajude
+追上去¤Alcance
+闭关修炼¤Cultivo Isolado
+阻止他¤Pare-o
+默许他¤Permita-o
+外出游历¤Viaje para fora
+暗中观察，先看看热闹再说¤Observe secretamente e veja o que está acontecendo primeiro
+我是沂山派的（加入沂山派）¤Sou da Escola Yishan (junte-se à Escola Yishan)
+趁还没人注意到，赶紧溜¤Aproveite enquanto ninguém percebe
 我只是路过的¤Só estou passando
-我是禾山道的（加入禾山道）¤Sou do Caminho Heshan (entrando no Caminho Heshan)
-还是咸的更合我心意¤Ainda prefiro salgado
-我更喜欢甜的¤Prefiro doce
-打听天蝉灵叶之事¤Investigar sobre a Folha Skyscada
-暂时不要轻举妄动¤Não fazer nada precipitado por enquanto
-正常进入¤Entrar normalmente
-再听听¤Ouvir novamente
+我是禾山道的（加入禾山道）¤Sou do Caminho de Heshan (juntando-se ao Caminho de Heshan)
+还是咸的更合我心意¤É salgado, me agrada mais
+我更喜欢甜的¤Prefiro os doces
+打听天蝉灵叶之事¤Pergunte sobre a Folha Skyscada
+暂时不要轻举妄动¤Não faça nada precipitado por enquanto
+正常进入¤Entre normalmente
+再听听¤Ouça de novo
 他肯定是魔修！¤Ele deve ser um cultivador maligno!
-前往风雨楼¤Ir para o Pavilhão da Tempestade
-前往听雨阁¤Ir para o Pavilhão da Chuva
-继续等候¤Continuar esperando
-还未完成¤Ainda não concluído
-只是路过¤Apenas passando
-拜访友人¤Visitar amigo
+前往风雨楼¤Vá para o Pavilhão da Tempestade
+前往听雨阁¤Vá para o Pavilhão da Chuva
+继续等候¤Continue esperando
+还未完成¤Ainda não terminado
+只是路过¤Só passando
+拜访友人¤Visite um Amigo
 说来听听¤Conte a história
 来路不明的东西？¤Algo de origem desconhecida?
-继续说¤Continuar
-那便带我去看看吧¤Então me leve para ver
+继续说¤Continue
+那便带我去看看吧¤Então me mostre.
 身份特殊？¤Status especial?
-两情相悦¤Amor mútuo
+两情相悦¤Amor.
 没什么兴趣¤Sem interesse
 还有其他事¤Há outras coisas
-也许是两情相悦吧¤Talvez seja amor mútuo
-正事要紧¤Assunto sério é importante
-出言嘲讽¤Fazer um comentário provocativo
-结束旅途¤Encerrar a jornada
-继续旅途¤Continuar a jornada
-切磋武艺¤Treinar artes marciais
-婉言回绝¤Recusar educadamente
-沉默¤Ficar em silêncio
+也许是两情相悦吧¤Talvez seja amor mútuo?
+正事要紧¤Negócios são importantes
+出言嘲讽¤Faça um comentário zombeteiro
+结束旅途¤Termine a jornada
+继续旅途¤Continue a jornada
+切磋武艺¤Treinamento de artes marciais
+婉言回绝¤Desculpe.
+沉默¤Fique em Silêncio
 解释¤Explicação
-先行离开¤Sair antes dos outros
-进入气眼¤Entrar no olho da formação
+先行离开¤Parta antes dos outros
+进入气眼¤Entre no olho da formação
 我肯定不是第一个¤Certamente não sou o primeiro
-只是侥幸而已¤Foi apenas sorte
-明白了！¤Entendido!
-风险是不是太大了？¤O risco não é grande demais?
-上前敲门¤Bater na porta
-我自己转转就好了。¤Vou apenas dar uma volta sozinho
-出示仙缘石¤Mostrar Pedra do Destino Imortal
-偷偷倾听¤Ouvir secretamente
-催促他先找到自己宗门所在地¤Incentivá-lo a encontrar primeiro a localização da própria seita
+只是侥幸而已¤É só uma coincidência
+明白了！¤Entendi!
+风险是不是太大了？¤O risco é grande demais?
+上前敲门¤Bata na porta
+我自己转转就好了。¤Vou só dar uma volta sozinho.
+出示仙缘石¤Exiba a Pedra do Destino Imortal
+偷偷倾听¤Ouça Secretamente
+催促他先找到自己宗门所在地¤Inste-o a encontrar a localização de seu clã primeiro
 口头应承 敷衍了事¤Acordo casual
-替他指出离火门的方向¤Indicar a direção do Portão do Fogo Celestial
-闭目修练¤Fechar os olhos e praticar
-喏，玄道宗接引人。¤Vá perguntar ao Recebedor da Seita Dao Mística
-替他指出竹山宗的方向¤Mostrar a direção da Seita da Montanha de Bambu
-打不过¤Não consegue vencer
-打得过¤Consegue vencer
-只是路过而已¤Apenas passando
-慕名而来，想要拜入星河剑派¤Vim em admiração, querendo entrar na Seita da Espada do Rio Celestial
-偷偷溜进去¤Entrar às escondidas
-进洞府¤Entrar na caverna
-去连石山¤Ir para a Montanha Lian Shi
-去连石山附近开辟洞府¤Abrir uma caverna perto da Montanha Lian Shi
-进入连石山¤Entrar na Montanha Lian Shi
-为洞府改名¤Renomear a caverna
-趁无人先行进入¤Entrar antes de qualquer um
-等正道道友¤Esperar pelos cultivadores justos
-慕名而来，想要拜入化尘教¤Vim em admiração, querendo entrar na Seita Shifting Sand
-趁没人注意时偷偷溜进去¤Entrar às escondidas enquanto ninguém observa
-进入沃焦山¤Entrar na Montanha Inferno
-去沃焦山附近开辟洞府¤Abrir uma caverna perto da Montanha Inferno
-去沃焦山¤Ir para a Montanha Inferno
-慕名而来，想要加入离火门¤Vim em admiração, querendo entrar no Portão do Fogo Celestial
-跟上去¤Seguir
-慕名而来，想要拜入金虹剑派¤Vim em admiração, querendo entrar na Seita da Espada Radiante
-我想加入竹山宗¤Quero entrar na Seita da Montanha de Bambu
-路过而已¤Apenas passando
-去风雷谷¤Ir para o Vale do Vento e Trovão
-去风雷谷附近开辟洞府¤Abrir uma caverna perto do Vale do Vento e Trovão
-进入风雷谷¤Entrar no Vale do Vento e Trovão
-去方壶山¤Ir para a Montanha Fang Hu
-去方壶山附近开辟洞府¤Abrir uma caverna perto da Montanha Fang Hu
-进入方壶山¤Entrar na Montanha Fang Hu
-去正阳山¤Ir para a Montanha do Sol Nascente
-去正阳山附近开辟洞府¤Abrir uma caverna perto da Montanha do Sol Nascente
-进入正阳山¤Entrar na Montanha do Sol Nascente
-观战¤Assistir à batalha
-参赛¤Participar da competição
-上台参赛¤Subir ao palco para competir
-台下观战¤Assistir à competição
+替他指出离火门的方向¤Apontando-o na direção do Portão do Fogo Celestial.
+闭目修练¤Feche os olhos e pratique
+喏，玄道宗接引人。¤Vá perguntar ao Receptor da Seita Dao Místico
+替他指出竹山宗的方向¤Mostre-lhe a direção da Seita da Montanha de Bambu
+打不过¤Não consigo vencer
+打得过¤Posso vencer.
+只是路过而已¤Só passando
+慕名而来，想要拜入星河剑派¤Venho em admiração, querendo me juntar à Seita do Rio Celestial
+偷偷溜进去¤Entre furtivamente
+进洞府¤Entre na caverna
+去连石山¤Vá para a Montanha Lian Shi
+去连石山附近开辟洞府¤Abra uma caverna dentro da Montanha Lian Shi
+进入连石山¤Entre na Montanha Lian Shi
+为洞府改名¤Renomeie a caverna
+趁无人先行进入¤Entrarei antes de qualquer um
+等正道道友¤Esperando pelos daoistas justos
+慕名而来，想要拜入化尘教¤Venho em admiração e quero me juntar à Seita da Areia Movediça
+趁没人注意时偷偷溜进去¤Entre furtivamente quando ninguém estiver olhando
+进入沃焦山¤Entre na Montanha Inferno
+去沃焦山附近开辟洞府¤Abra uma caverna dentro da Montanha Inferno
+去沃焦山¤Vá para a Montanha Inferno
+慕名而来，想要加入离火门¤Venho para me juntar ao Portão do Fogo Celestial
+跟上去¤Siga
+慕名而来，想要拜入金虹剑派¤Venho em admiração para me juntar à Seita da Espada Radiante
+我想加入竹山宗¤Quero me juntar à Seita da Montanha de Bambu!
+路过而已¤Só passando
+去风雷谷¤Para o Vale do Vento e Trovão
+去风雷谷附近开辟洞府¤Abra uma caverna dentro do Vale do Vento e Trovão
+进入风雷谷¤Entre no Vale do Vento e Trovão
+去方壶山¤Vá para o Mt. Fang Hu
+去方壶山附近开辟洞府¤Abra uma caverna dentro da Montanha Caldeirão Quadrado
+进入方壶山¤Entre na Montanha Caldeirão Quadrado
+去正阳山¤Para o Mt. Sol Nascente
+去正阳山附近开辟洞府¤Abra uma morada dentro do Mt. Sol Nascente
+进入正阳山¤Entre no Mt. Sol Nascente
+观战¤Assista à batalha
+参赛¤Participe
+上台参赛¤Suba ao palco para competir
+台下观战¤Espectador da Arena
 未有耳闻¤Não ouvi falar
 我听说过¤Ouvi falar
-加入白帝楼？¤Entrar no Pavilhão do Imperador Branco?
-徒儿已知晓¤O discípulo já sabe
+加入白帝楼？¤Junte-se ao Pavilhão do Imperador Branco?
+徒儿已知晓¤Seu Discípulo já sabe
 思绪是什么？¤O que é Insight?
-师父请指教¤Por favor, mestre, me aconselhe
-徒儿明白了¤O discípulo entendeu
+师父请指教¤Por favor, me aconselhe, Mestre
+徒儿明白了¤Seu Discípulo entende
 修炼是什么？¤O que é Cultivo?
 感悟是什么？¤O que é Percepção?
 领悟是什么？¤O que é Compreensão?
 突破是什么？¤O que é um Avanço?
-赶紧离开¤Apressar-se e sair
-莫不是宁王给我指派任务了？¤Será que o Rei Ning me designou uma missão?
-悄悄跟上¤Seguir secretamente
-进屋查看¤Entrar na casa para examinar
-软玉温香¤Nephrite Wenxiang
-管事来找我何事？¤Qual é o assunto do gerente comigo?
-金银财宝¤Tesouros de ouro e prata
-打听其他供奉的下落¤Investigar o paradeiro dos outros anciãos convidados
-打道回府¤Voltar para casa
-调查一番¤Investigar
+赶紧离开¤Apresse-se e saia
+莫不是宁王给我指派任务了？¤Poderia ser que o Rei Ning me designou uma tarefa?
+悄悄跟上¤Siga em silêncio
+进屋查看¤Entre na casa para ver
+软玉温香¤Nefrita Wenxiang
+管事来找我何事？¤Qual é o assunto para o gerente vir até mim?
+金银财宝¤Tesouros de Ouro e Prata
+打听其他供奉的下落¤Pergunte sobre o paradeiro de outros Anciãos Convidados
+打道回府¤Pegue a estrada de volta para casa
+调查一番¤Verifique
 关于古城遗迹¤Sobre as ruínas da cidade antiga
-留下传音符印记¤Deixar um talismã de transmissão
+留下传音符印记¤Deixe uma marca de talismã de transmissão
 没有其它事了¤Não há mais nada
-有些事想请教长老¤Há algo que eu gostaria de perguntar ao ancião
-关于宁州古迹的机缘¤Sobre a oportunidade das relíquias de Ningzhou
+有些事想请教长老¤Há algo que gostaria de perguntar a você, Ancião
+关于宁州古迹的机缘¤Sobre a Chance dos Monumentos de Ningzhou
 关于御剑门¤Sobre a Seita da Espada Imperial
-拿走龙鳞¤Levar as escamas de dragão
+拿走龙鳞¤Pegue as escamas do dragão
 准备好了¤Pronto
-关于...丧命？¤Sobre... a morte?
-关于...丹药与秘术？¤Sobre... pílulas e técnicas secretas?
+关于...丧命？¤Sobre...morte?
+关于...丹药与秘术？¤Sobre...Pílulas e Técnicas Secretas?
 多谢师姐指点¤Obrigado, irmã, pelo conselho
-关于...九品金丹？¤Sobre... o Núcleo Dourado Nono Grau?
-为何只有筑基期的弟子参加？¤Por que apenas discípulos em Estabelecimento de Fundação participam?
-询问残剑的来由¤Perguntar sobre a origem da espada quebrada
-关于剑灵沾染的魔气¤Sobre o espírito da espada corrompido por energia demoníaca
-打听魔气充溢之地¤Investigar o local onde a energia demoníaca transborda
-继续往下听¤Continuar ouvindo
-关于...名次？¤Sobre... a classificação?
-关于结丹...¤Sobre o Núcleo Dourado...
-师姐可曾参加过猎魔试炼？¤Irmã mais velha já participou de uma prova de caça a demônios?
-再等等吧¤Esperar um pouco mais
-静心调整自己的状态¤Meditar para preparar-se
-看看其他人的比试¤Observar os testes de outras pessoas
-切磋¤Treinar juntos
-潜入¤Infiltrar-se
-贿赂¤Subornar
-直接出手¤Atacar diretamente
-尝试破阵¤Tentar quebrar a formação
-我想要开启一间炼器室¤Quero abrir uma sala de criação de artefatos
+关于...九品金丹？¤Sobre... o Núcleo Dourado de Nono Grau?
+为何只有筑基期的弟子参加？¤Por que apenas discípulos de Estabelecimento de Fundação participam?
+询问残剑的来由¤Pergunte sobre a origem da espada quebrada
+关于剑灵沾染的魔气¤Sobre o espírito da espada contaminado com energia demoníaca
+打听魔气充溢之地¤Pergunte sobre o lugar onde a energia demoníaca transborda
+继续往下听¤Continue ouvindo
+关于...名次？¤Sobre... o ranking?
+关于结丹...¤Sobre Núcleo Dourado...
+师姐可曾参加过猎魔试炼？¤Irmã Sênior já participou de um teste de caça a demônios?
+再等等吧¤Espere um pouco mais
+静心调整自己的状态¤Medite para se preparar
+看看其他人的比试¤Olhe para os testes de outras pessoas
+切磋¤Aprendendo um com o outro
+潜入¤Infiltre
+贿赂¤Suborno
+直接出手¤Ataque diretamente
+尝试破阵¤Tente quebrar a formação
+我想要开启一间炼器室¤Quero alugar uma sala de Artefatos
 要¤Quero
 五维？¤Cinco dimensões?
 不要¤Não
-还有吗？¤Ainda há mais?
+还有吗？¤Há mais?
 阴？阳？¤Yin e Yang?
 五行？¤Os Cinco Elementos?
 我没有你要的东西¤Não tenho o que você quer
-我很快就把草药带来¤Vou trazer as ervas em breve
-关于七彩月兰¤Sobre a Orquídea Lunar Arco-íris
+我很快就把草药带来¤Trarei as ervas em breve.
+关于七彩月兰¤Sobre Orquídea da Lua Arco-Íris
 你收集这些草药做什么？¤Para que você coleta essas ervas?
-成交¤Negócio fechado
+成交¤Acordo
 都在这里了¤Está tudo aqui
 我这里恰好有这两种草药¤Por acaso tenho essas duas ervas aqui
 你要的东西我带来了¤Trouxe o que você queria
-关于腐骨灵花¤Sobre a Flor Espiritual Ossificada
-转身出发¤Virar-se e partir
-注意事项¤Cuidados
-询问麟尊何在？¤Perguntar onde está Linzun
-为何找我¤Por que me procura?
+关于腐骨灵花¤Sobre Pétala Matriarca da Terra
+转身出发¤Vire e parta
+注意事项¤Cautelas
+询问麟尊何在？¤Pergunte onde está o Linzun.
+为何找我¤Por que me procurar
 交由我吧¤Deixe comigo
-请问可有吩咐。¤Posso saber se há ordens?
-与谁交接¤Com quem entregar?
-介意多带一个人出海么？¤Se importa de levar mais uma pessoa para o mar?
-有什么值得交易的东西？¤Há algo que valha a pena negociar?
-你们似乎正准备出海？¤Vocês parecem estar se preparando para sair ao mar?
+请问可有吩咐。¤Posso perguntar se tem ordens?
+与谁交接¤Para quem entregar
+介意多带一个人出海么？¤Importa-se em levar mais uma pessoa para o mar?
+有什么值得交易的东西？¤O que vale a pena negociar?
+你们似乎正准备出海？¤Vocês parecem estar se preparando para ir ao mar?
 我并没有这些东西¤Não tenho essas coisas
-回绝¤Recusar
+回绝¤Rejeitado
 无事发生¤Nada aconteceu
-交易¤Negociação
-关于玉简¤Sobre os Pergaminhos de Jade
+交易¤Negociando
+关于玉简¤Sobre Pergaminhos de Jade
 倪旭荣¤Ni Xurong
 倪振南¤Ni Zhennan
-关于书本¤Sobre os livros
+关于书本¤Sobre os Livros
 长老¤Ancião
 大家都很正常¤Todos estão normais
-暂时没有了¤Por enquanto não há
+暂时没有了¤Temporariamente indisponível
 关于信件¤Sobre a carta
-还是再和倪兄讨论一下¤Vamos discutir novamente com o irmão Ni
+还是再和倪兄讨论一下¤Vamos discutir com o Irmão Ni de novo
 已经聊过了¤Já conversamos
-已经有了结论¤Já há uma conclusão
-关于纸条¤Sobre o bilhete
+已经有了结论¤Já temos uma conclusão
+关于纸条¤Sobre a nota
 关于自由¤Sobre liberdade
 关于责任¤Sobre responsabilidades
 关于待遇¤Sobre tratamento
-愿为宁王效犬马之劳！¤Desejo servir ao Rei Ning com dedicação total!
-打扰了，告辞！¤Com licença, adeus!
-去广陵城¤Ir para a Cidade Guangling
-去九嶷山¤Ir para a Montanha Jiuyi
-搜索一番¤Pesquisar
+愿为宁王效犬马之劳！¤Estou disposto a fazer o melhor pelo Rei Ning!
+打扰了，告辞！¤Desculpe, adeus!
+去广陵城¤Vá para a Cidade Guangling
+去九嶷山¤Vá para a Montanha Jiuyi
+搜索一番¤Pesquise
 不要乱动¤Não mexa
-前往其他海域¤Viajar para outros mares
+前往其他海域¤Viaje para outros mares
 关于百里武¤Sobre Bailiwu
-关于世仇¤Sobre a rivalidade ancestral
-我都了解了¤Eu entendi tudo
-一起回到蓬莎岛¤Vamos voltar juntos para a Ilha Pongsha
-关于百里祖宅中的阵法¤Sobre a formação na antiga casa da família Baili
-再想想¤Pense novamente
+关于世仇¤Sobre Inimizade Mundial
+我都了解了¤Entendo tudo
+一起回到蓬莎岛¤Vamos voltar para a Ilha Pongsha
+关于百里祖宅中的阵法¤Sobre a formação na casa ancestral de Baili
+再想想¤Pense de Novo
 还有印象¤Ainda há impressões
-关于魔门的线索¤Sobre pistas da Seita Demoníaca
-关于御剑门之战的真相¤Sobre a verdade da batalha da Seita da Espada Imperial
-记不太清了¤Não lembro claramente
+关于魔门的线索¤Pistas sobre a porta mágica
+关于御剑门之战的真相¤A verdade sobre a batalha do Portão da Espada Real
+记不太清了¤Não consigo lembrar claramente
 已经完成了¤Já concluído
 还没有¤Ainda não
 放弃任务¤Abandonar missão
-不提往事¤Não mencionar o passado
-提起往事¤Relembrar eventos passados
-奉白帝之命欲往天魔眼调查¤Por ordem do Imperador Branco, investigar no Olho do Demônio Celestial
+不提往事¤Não mencione o passado
+提起往事¤Mencione Eventos Passados
+奉白帝之命欲往天魔眼调查¤Sob as ordens do Imperador Branco para investigar no Olho do Demônio Celestial
 葛小友¤Ge Xiaoyou
 葛道友¤Ge Daoyou
-奉师兄白帝之命欲往天魔眼调查¤Fui ordenado pelo irmão Imperador Branco a investigar no Olho do Demônio Celestial
-墨居仁的下落¤Paradeiro de Mo Juren
-前辈，告辞¤Despedida, seniores
-关于围墙¤Sobre o muro
-关于海兽¤Sobre as criaturas marinhas
+奉师兄白帝之命欲往天魔眼调查¤Fui ordenado pelo irmão Imperador Branco, para investigar no Olho do Demônio Celestial
+墨居仁的下落¤O Paradeiro de Mo Juren
+前辈，告辞¤Adeus, seniores
+关于围墙¤Sobre o Muro
+关于海兽¤Sobre Bestas do Mar
 我还要准备一下¤Ainda preciso me preparar
-开始讲法¤Início da palestra
-掀开帷幔¤Levantar a cortina
-就此罢手¤Vamos parar por aqui
-查看床幔¤Ver a cortina da cama
-查看桌子¤Ver a mesa
-查看柜子¤Ver o armário
-冷漠回应¤Resposta fria
-欣然接受¤Aceitar com prazer
-寒暄一番¤Cumprimentos
-关于砂晶¤Sobre o Cristal de Areia
-打听天魔眼的消息¤Investigar notícias do Olho do Demônio
-只是随便逛逛¤Apenas passeando
-请师兄指点¤Irmão, por favor, me dê conselhos
-出示晶石¤Mostrar os cristais
-仔细端详仙剑上的灵纹¤Observar cuidadosamente os padrões espirituais na espada celestial
-验查灵力的流动¤Verificar o fluxo de energia espiritual
-查看周围的布阵手法¤Verificar as técnicas de formação ao redor
-退出阵法¤Sair da formação
-将它取出¤Retirar
-体会四周连绵不息的剑气¤Sentir a energia da espada ao redor
-不提也罢¤Melhor não mencionar
-观察晶石¤Observar o cristal
-转身离去¤Virar-se e partir
-速速离去¤Partir rapidamente
-感知灵气¤Sentir a aura
-不为所动¤Imóvel, inabalável
+开始讲法¤Início da Palestra
+掀开帷幔¤Abra a cortina
+就此罢手¤Vamos parar aí
+查看床幔¤Veja a cortina da cama
+查看桌子¤Veja a mesa
+查看柜子¤Veja o Armário
+冷漠回应¤Resposta Fria
+欣然接受¤Aceite com prazer
+寒暄一番¤Saudações
+关于砂晶¤Sobre Cristal de Areia
+打听天魔眼的消息¤Pergunte sobre as notícias do Olho do Demônio
+只是随便逛逛¤Só passeando
+请师兄指点¤Irmão, por favor dê pointers
+出示晶石¤Mostre os cristais
+仔细端详仙剑上的灵纹¤Olhe com cuidado para o padrão espiritual na espada imortal
+验查灵力的流动¤Verificando o fluxo de energia espiritual
+查看周围的布阵手法¤Verifique as técnicas de formação ao redor
+退出阵法¤Retire-se da formação
+将它取出¤Tire-o
+体会四周连绵不息的剑气¤Experimentando a energia da espada sem fim ao redor
+不提也罢¤Não mencione
+观察晶石¤Observe o cristal
+转身离去¤Vire e saia
+速速离去¤Saia rapidamente
+感知灵气¤Sentindo Aura
+不为所动¤Impassível
 关于对手¤Sobre o oponente
-略有所知¤Saber um pouco
+略有所知¤Sabendo um pouco
 关于生死¤Sobre vida e morte
-都了解了¤Entendido
-关于报酬¤Sobre a recompensa
-关于门派关系¤Sobre relações com a seita
-关于凝练元婴¤Sobre condensação da alma nascente
-关于化神强者¤Sobre o Mestre da Transformação Divina
-关于突破化神¤Sobre a evolução para Transformação Divina
+都了解了¤Entendi tudo
+关于报酬¤Sobre Compensação
+关于门派关系¤Sobre relações de seitas
+关于凝练元婴¤Sobre Condensar a alma nascente
+关于化神强者¤Sobre a Transformação da Divindade
+关于突破化神¤Sobre Avanço para Transformação da Divindade
 购买洞府的条件¤Condições para comprar uma caverna
 去哪里购买洞府¤Onde comprar a caverna
-购买洞府的好处¤Benefícios de ter uma caverna
+购买洞府的好处¤Benefícios de uma caverna
 失败？¤Derrota?
-二姐？¤Segunda irmã?
-鼓励她坚持¤Incentivar ela a persistir
-劝她看开¤Aconselhar ela a deixar pra lá
+二姐？¤Segunda Irmã Mais Velha?
+鼓励她坚持¤Incentive-a a perseverar
+劝她看开¤Aconselhe-a a olhar para longe
 关于你们？¤Sobre vocês?
 今后的打算？¤Planos futuros?
-三妹？¤Terceira irmã?
-关于寄卖...¤Sobre consignação...
-查看拍品¤Ver lote
-离开这里！¤Sair daqui!
-再试一次¤Tentar novamente
-尝试触碰树干¤Tentar tocar o tronco
+三妹？¤Terceira Irmã?
+关于寄卖...¤Sobre a consignação...
+查看拍品¤Veja o Lote
+离开这里！¤Saia deste lugar!
+再试一次¤Tente de novo
+尝试触碰树干¤Tente tocar na Árvore
 还是不了¤Ainda não
-点到为止，留对方面子¤Parar por aqui, deixando a outra pessoa preservar sua face
-尽全力，这是对手的尊重¤Dar o máximo, é uma demonstração de respeito ao oponente
-也好¤Também serve
-直接前往南崖城¤Ir direto para a Cidade Penhasco Sul
-先去一趟蓬莎岛¤Primeiro ir à Ilha Pongsha
-前往南崖城¤Indo para a Cidade Penhasco Sul
-先去一趟碎星岛¤Primeiro ir à Ilha Estrela Partida
-关于魏无极的情况¤Sobre a situação de Wei Wuji
-没事¤Tudo bem
+点到为止，留对方面子¤Pare no final e deixe o outro lado se enfrentar
+尽全力，这是对手的尊重¤Faça o seu melhor, isso é o respeito do oponente
+也好¤Também bom
+直接前往南崖城¤Vá direto para a Cidade do Penhasco Sul
+先去一趟蓬莎岛¤Vá primeiro para a Ilha Pongsha
+前往南崖城¤Indo para a Cidade do Penhasco Sul
+先去一趟碎星岛¤Vá primeiro para a Ilha Estrela Quebrada
+关于魏无极的情况¤Sobre Wei Wuji
+没事¤Está tudo bem
 不是¤Não é
-正有此意¤Era exatamente isso que eu pensava
-前来观战¤Vindo assistir à batalha
-随便逛逛¤Passeio casual
+正有此意¤Bem na minha mente
+前来观战¤Venha e assista à batalha
+随便逛逛¤Passeando casualmente
 宗门¤Seita
-化神¤Transformação Divina
-婉言推脱¤Recusar educadamente
-关于英杰会¤Sobre o Torneio de Heróis
+化神¤Transformação da Divindade
+婉言推脱¤Desculpando-me educadamente
+关于英杰会¤Sobre o Torneio
 关于林家¤Sobre a Família Lin
-关于筑基丹¤Sobre a pílula de fundação
+关于筑基丹¤Sobre Pílulas de Fundação
 天元石心¤Coração de Pedra Tian Yuan
-翠虹木蕴铁¤Madeira Arco-íris com Ferro
-枫玄玉髓¤Jade Escondido de Bordo
-朽木冥铁¤Madeira podre com Ferro sombrio
-多谢大长老夸奖¤Obrigado pelo elogio, Grande Ancião
-关于目标的踪迹¤Sobre o rastro do alvo
-带路吧¤Guie o caminho
-出示风雨楼令牌¤Mostrar o token da Mansão Tempestade
-我要放弃这个悬赏¤Vou desistir desta recompensa
+翠虹木蕴铁¤Ferro Yin da Madeira Cui Hong Mu
+枫玄玉髓¤Medeula de Jade Xuan de Bordo
+朽木冥铁¤O ferro e madeira podre
+多谢大长老夸奖¤Obrigado pelo elogio Grande Ancião
+关于目标的踪迹¤Sobre o rastro do Alvo
+带路吧¤Mostre o caminho
+出示风雨楼令牌¤Mostre o token do Solar da Tempestade
+我要放弃这个悬赏¤Estou desistindo desta recompensa
 发生了一些意外¤Ocorreu um acidente
-拿钱办事罢了¤Apenas pegar o dinheiro e cumprir o serviço
+拿钱办事罢了¤Apenas pegue o dinheiro e termine o trabalho
 大长老找我何事？¤O que o Grande Ancião quer de mim?
 只是在疗伤¤Apenas curando
 还在收集¤Ainda coletando
-我就自己随便看看吧¤Vou dar uma olhada sozinho
+我就自己随便看看吧¤Vou só dar uma olhada sozinho
 已经带来了¤Já trouxe
-我想放弃这个任务¤Quero desistir desta missão
-有什么任务可以交给我么¤Há alguma missão que você possa me dar?
-给我看看你们这里最好的东西¤Mostre-me as melhores coisas daqui
-关于风雨楼秘术¤Sobre a técnica secreta da Mansão Tempestade
+我想放弃这个任务¤Quero desistir desta tarefa
+有什么任务可以交给我么¤Há alguma tarefa que você possa me dar?
+给我看看你们这里最好的东西¤Mostre-me as melhores coisas do seu lugar
+关于风雨楼秘术¤Sobre Técnica Secreta do Solar da Tempestade
 关于琚运琦¤Sobre Ju Yunqi
-没有其他问题了¤Nenhuma pergunta adicional
+没有其他问题了¤Sem mais perguntas
 关于玄女¤Sobre a mulher misteriosa
-打听最近发生的事¤Inquirir sobre os eventos recentes
-打听购买洞府¤Sobre a compra de uma caverna
-替我准备一间丹房¤Prepare um quarto para pílulas para mim
-租借丹房（20灵石）¤Aluguel da Sala de Pílulas (20 espirítus)
-参加拍卖会¤Compareça à Leilão
-环顾四周¤olhe ao redor
-关于青石灵脉¤Sobre a Veia Espírita Pedra Verde
-兑换¤troca
-在哪里获取灵核？¤Onde obter Núcleos de Espírito?
-关于天魔眼¤Sobre o Olho Divino do Demônio
-我想租借一间炼器室¤Quero alugar um espaço de fundição
+打听最近发生的事¤Pergunte sobre eventos recentes
+打听购买洞府¤Sobre comprar uma caverna
+替我准备一间丹房¤Prepare uma sala de Pílulas para mim
+租借丹房（20灵石）¤Alugando sala de Pílulas（20 pedras espirituais）
+参加拍卖会¤Participe do leilão
+环顾四周¤Olhe ao redor
+关于青石灵脉¤Sobre a Veia Espiritual de Pedra Verde
+兑换¤Troca
+在哪里获取灵核？¤Onde obter Núcleos Espirituais?
+关于天魔眼¤Sobre o Olho do Demônio Celestial
+我想租借一间炼器室¤Quero alugar uma sala de forja
 我想租借一间丹房¤Quero alugar uma sala de alquimia
-关于灵舟¤Pergunte sobre a barca espiritual
-四阶灵舟¤Nível 4 Barco Espírito
-购买¤comprar
+关于灵舟¤Pergunte sobre o barco espiritual
+四阶灵舟¤Barco Espiritual de Nível 4
+购买¤Comprar
 关于海域¤Sobre o mar
-三阶灵舟¤Barco Espírita Terno 3
-再看看¤Olhe novamente
-二阶灵舟¤Barco Espírito de Nível 2
-购买灵舟¤Compre Barco Espírita
-询问事宜¤Consulta
-安排出海¤Agendar viagem ao mar
-修理灵舟¤Reparar a barca espiritual
-一阶灵舟¤Nível 1 Barco Espírito
+三阶灵舟¤Barco Espiritual de Nível 3
+再看看¤Olhe de novo
+二阶灵舟¤Barco Espiritual de Nível 2
+购买灵舟¤Compre Barco Espiritual
+询问事宜¤Pergunte
+安排出海¤Arrume para ir ao mar
+修理灵舟¤Reparando o barco espiritual
+一阶灵舟¤Barco Espiritual de Nível 1
 出手！¤Faça um movimento!
-出手偷袭¤Golpe Surpresa
-不动声色¤Silencioso
-赶紧避开¤Evite rapidamente.
+出手偷袭¤Ataque Furtivo
+不动声色¤Em silêncio
+赶紧避开¤Evite rapidamente
 我再考虑一下别的。¤Vou pensar em outra coisa.
-就选它了。¤Este aqui.
-《魔焰决》¤<color="#FF0000"><b>Técnica da Chama do Demônio</b></color>
-《化焰决》¤Mantra do Fogo Vivo
-《引火决》¤Aumento de Incêndio
-关于火晶¤Sobre a Crystaleira de Fogo
+就选它了。¤Este.
+《魔焰决》¤《Técnica da Chama Demoníaca》
+《化焰决》¤《Mantra da Chama Viva》
+《引火决》¤《Inflamação》
+关于火晶¤Sobre Cristal de Fogo
 我是来捐赠灵石的¤Estou aqui para doar pedras espirituais
-关于执事堂任务¤Sobre a missão da Sala do Diácono
-我已经在做了¤Estou já fazendo isso
-我对这件事无能为力¤Eu não posso fazer nada sobre isso
+关于执事堂任务¤Sobre a missão do Salão dos Diáconos
+我已经在做了¤Já estou fazendo
+我对这件事无能为力¤Não posso fazer nada sobre isso
 关于炼丹房任务¤Sobre a Tarefa da Sala de Alquimia
-没什么事¤Nada de importante está acontecendo
+没什么事¤Nada demais acontecendo
 打听最近的宗门消息¤Pergunte sobre as últimas notícias da seita
 然后呢？¤O que aconteceu então?
-这...之后发生了什么？¤Isso... O que aconteceu depois disso?
-所以你是想让我报复他一番？¤Você quer que eu retorne o favor um pouco nele?
+这...之后发生了什么？¤Isso... O que aconteceu depois?
+所以你是想让我报复他一番？¤Então você quer que eu me vingue dele um pouco?
 确实如此¤De fato!
-以命相搏¤lutar pela própria vida
-花钱消灾¤comprar a paz
-乖乖离开¤Saia obediente
-我就选御灵盾了¤Eu escolho a Espinhoca Real
+以命相搏¤Lute pela vida
+花钱消灾¤Pague-os
+乖乖离开¤Saia obedientemente
+我就选御灵盾了¤Escolherei o Escudo do Espírito Real
 关于法宝...¤Sobre magia...
-再了解一下别的¤Aprenda mais sobre outros
+再了解一下别的¤Saiba mais sobre outro
 关于功法...¤Sobre a Técnica...
-我就选养气丹了¤Eu escolherei o Pílula de Qi Menor
-我就选《忘忧决》了¤Eu escolherei {Esquecimento}
-关于丹药...¤Sobre o Pílula...
-你想起什么了？¤Você se lembra de algo?
-这锈剑到底什么来头？¤De onde esse espada ferrugenta veio?
-只有海域名怎么找？¤Como descobrir o nome dos mares?
-师兄这么有孝心，老头你应该高兴才是¤Você deve estar feliz que Vovô tem tal coração filial, velho homem
-白帝是否在此处，我有要事相告¤O Imperador Branco está aqui? Tenho algo importante a lhe dizer.
-信息太少了¤Informações são insuficientes.
-真是麻烦，但谁叫我任劳任怨呢¤Realmente chato, mas sou eu que tenho que fazer o trabalho
-师兄只说了这些么？¤É tudo o que Velho Irmão tem a dizer?
-此事本该由我承担¤Isso deveria ter sido minha responsabilidade
-不知倪兄找我有何要事？¤Me maravilho com o que Irmao Ni quer ver-me sobre
-师兄已是化神修为，不需要担心¤Jovem Irmão já é cultivador Transformação Divina, não há o que se preocupar
-白帝前辈是否在此处，我有要事汇报¤O Velho Imperador Branco está aqui? Tenho algo importante a relatar
-关于挑选秘籍的推荐...¤Recomendações sobre a seleção da Arte Secreta...
-关于沧元丹¤Sobre o Pílula de Ki Congelado
-暂时没有什么问题了¤Por ora não há problema
-关于传功长老...¤Sobre o Avô Chuan...
-关于藏经阁的注意事项...¤Anotações sobre a Biblioteca da Escritura Tibetana...
-接取悬赏¤Recebendo a Recompensa
-成为龙族供奉¤Se tornou um Velho Convidado da Clã Dragão
+我就选养气丹了¤Escolherei a Pílula Qi Menor
+我就选《忘忧决》了¤Escolherei《Esquecimento》
+关于丹药...¤Sobre a Pílula...
+你想起什么了？¤O que você se lembra?
+这锈剑到底什么来头？¤Qual é a origem desta espada enferrujada?
+只有海域名怎么找？¤Como encontrar o nome dos mares?
+师兄这么有孝心，老头你应该高兴才是¤Você deveria estar feliz que o Irmão Sênior tem um coração tão filial, velho
+白帝是否在此处，我有要事相告¤O Imperador Branco está aqui? Tenho algo importante a dizer.
+信息太少了¤Informação é pouca
+真是麻烦，但谁叫我任劳任怨呢¤Realmente irritante, mas sou eu quem tem que fazer o trabalho
+师兄只说了这些么？¤É só isso que o Irmão Sênior tem a dizer?
+此事本该由我承担¤Isso deveria ser minha responsabilidade
+不知倪兄找我有何要事？¤Me pergunto o que o Irmão Ni quer me ver
+师兄已是化神修为，不需要担心¤Irmão Sênior já é cultivador de Transformação da Divindade, não precisa se preocupar
+白帝前辈是否在此处，我有要事汇报¤O Ancião Imperador Branco está aqui? Tenho algo importante a reportar
+关于挑选秘籍的推荐...¤Recomendações para selecionar a Arte Secreta...
+关于沧元丹¤Sobre Pílula Qi de Gelo
+暂时没有什么问题了¤Não há problema por enquanto
+关于传功长老...¤Sobre o Ancião Chuan Gong...
+关于藏经阁的注意事项...¤Notas sobre o Pavilhão das Escrituras Tibetanas...
+接取悬赏¤Recebendo Recompensa
+成为龙族供奉¤Tornou-se Ancião Convidado do Clã do Dragão
 没有其他事了¤Não há mais nada
-邀请飞升观礼¤Convite para a Visão da Ascensão
-归还九龙玺¤Devolva o Selo das Nove Dragões
-归还万鳞甲¤Devolva a Armadura das Dez Mil Escamas
-归还龙鳞¤Devolva as Escamas de Dragão
-再考虑一下¤Refaça a consideração
-告知其东海的见闻¤Contem sobre o Mar do Japão
-我就是为此而来¤Isso é o que estou aqui para fazer
-真是无趣，但也不无道理¤É entediante, mas não é injusto
-那就给白鹿前辈几分面子吧¤Então dê algum respeito aos senhores cervos brancos
-那就给白鹿真人几分面子吧¤Então vamos dar algum respeito aos verdadeiros Cervos Brancos
-倒也没必要旁生枝节¤Não há necessidade de criar um assunto secundário
-神兽血脉调查...¤A investigação da linhagem do sangue divino...
-魔神蛊实验结果...¤Experimento de compulsão divina...
+邀请飞升观礼¤Convite para Visualização de Ascensão
+归还九龙玺¤Devolva o Selo dos Nove Dragões
+归还万鳞甲¤Devolva a Armadura de Dez Mil Escamas
+归还龙鳞¤Devolva as escamas do dragão
+再考虑一下¤Reconsidere
+告知其东海的见闻¤Conte-lhes sobre o Mar da China Oriental
+我就是为此而来¤É para isso que estou aqui
+真是无趣，但也不无道理¤É chato, mas não é irracional
+那就给白鹿前辈几分面子吧¤Então dê algum rosto aos seniores veado branco
+那就给白鹿真人几分面子吧¤Então vamos dar algum rosto ao veado branco real
+倒也没必要旁生枝节¤Não há necessidade de criar um problema lateral
+神兽血脉调查...¤A investigação da linhagem da besta divina...
+魔神蛊实验结果...¤Resultados do experimento de compulsão do Deus Demônio...
 没有其它想看的了¤Não há mais nada que eu queira ver
-鲲族之吞噬秘法...¤O método secreto de devorar a clã Kun...
-除掉它¤Livre-se disso
+鲲族之吞噬秘法...¤O método secreto de devorar o clã Kun...
+除掉它¤Livre-se dele
 理解他¤Entenda-o
-以防有诈 闪身避开¤Em caso de fraude, evite e desvie
-不想和魔修扯上关系¤Não quero me envolver com o cultivador maligno.
-接住符剑 一探究竟¤Pega Fu Jian e descubra.
-定要拔除祸端¤Devemos eliminar o mal
-听说过¤Ouvi dizer
+以防有诈 闪身避开¤Em caso de fraude, desvie e evite
+不想和魔修扯上关系¤Não quero me envolver com cultivador maligno
+接住符剑 一探究竟¤Pegue Fu Jian e descubra.
+定要拔除祸端¤Devemos nos livrar do mal
+听说过¤Ouvi falar
 关于奖励¤Sobre recompensas
-打听宁王府¤Consultando sobre a Casa de Ning
-关于天下仙道会¤Sobre a Associação das Artes da Fada Dao
-打听逸风府¤Consulte sobre a Mansão Yifeng
-采摘草药¤Coleta de Ídolos
-断然拒绝¤Recusou Francamente
+打听宁王府¤Perguntando sobre a Casa de Ning
+关于天下仙道会¤Sobre a Associação Mundial do Dao Imortal
+打听逸风府¤Pergunte sobre a Mansão Yifeng
+采摘草药¤Colhendo Ervas
+断然拒绝¤Recusado francamente
 不曾¤Nunca
-说服他放弃¤Persuadir {name} a desistir
-鼓励他挑战¤Incite-o a desafiar
-鼓励他¤Incite-o
-询问来蓬莎岛的原因¤Inquérito sobre o motivo de ter vindo à Ilha Pongsha
-欣然答应¤Aceito com alegria
+说服他放弃¤ convença-o a desistir
+鼓励他挑战¤Incentive-o a desafiar
+鼓励他¤Incentive-o
+询问来蓬莎岛的原因¤Pergunte sobre o motivo de vir para a Ilha Pongsha
+欣然答应¤Concorde alegremente
 我还有些别的事¤Tenho outras coisas para fazer.
-说服他¤Persuadi-lo
-询问为何来到码头¤Pergunte por que você veio ao cais
-回到涵虚主阵法¤Volte à formação principal de Hanxu
+说服他¤ convença-o
+询问为何来到码头¤Pergunte por que veio ao cais
+回到涵虚主阵法¤Volte para a formação principal de Hanxu
 关于灵核¤Sobre Núcleos Espirituais
-关于采集¤Sobre a Coleta
+关于采集¤Sobre Coleta
 关于伤口¤Sobre a ferida
 关于除妖¤Sobre caça a monstros
-关于未知野兽¤Sobre a Besta Inominada
-通过以{$wudaoname1}的领悟，通过此地异象。¤Através do entendimento de {shidi}, através do cenário deste lugar
-凭借遁速强闯而过。¤Relando na velocidade de fuga.
-通过以{$wudaoname2}的领悟，通过此地异象。¤Através da realização de {shidi}, através da visão deste lugar.
-原路返回¤De volta ao mesmo caminho
+关于未知野兽¤Sobre a Besta Desconhecida
+通过以{$wudaoname1}的领悟，通过此地异象。¤Através da compreensão de {$wudaoname1}, através da cena deste lugar
+凭借遁速强闯而过。¤Contando com a velocidade de fuga.
+通过以{$wudaoname2}的领悟，通过此地异象。¤Através da realização de {$wudaoname2}, através da visão deste lugar.
+原路返回¤Volte pelo mesmo caminho
 御起{$Var1}，通过此地异象。¤Suba {$Var1}, através da visão deste lugar.
-请教功法¤pergunte sobre técnicas
-拿到了¤aceite-o
-只是玩笑¤Brincadeira à parte
-我是认真的¤Eu sou sério
-关于宗门的功法流派¤Sobre as técnicas de cultivo da clã
-请教入门神通¤Solicitar um encantamento introdutório
-多谢长老¤Obrigado, velho sábio
-继续¤continue
-撤离¤Retaguarda
-从论道感悟说起¤Sobre a teoria da percepção
-关于飞升的准备¤Sobre a preparação para a ascensão
-关于化神的经验¤Experiências sobre Transformação Divina
-关于其它海域的传闻¤Maldições sobre outros mares
-从自身经历说起¤De acordo com minha própria experiência
-从功法传承说起¤Partindo do legado da técnica
+请教功法¤Pergunte sobre técnicas
+拿到了¤Pegue
+只是玩笑¤Só brincando
+我是认真的¤Estou falando sério
+关于宗门的功法流派¤Sobre as técnicas de cultivo do clã
+请教入门神通¤Peça por uma magia introdutória
+多谢长老¤Obrigado ancião
+继续¤Continue
+撤离¤Evacuação
+从论道感悟说起¤Da teoria da percepção
+关于飞升的准备¤Sobre a preparação para ascensão
+关于化神的经验¤Experiência sobre Transformação da Divindade
+关于其它海域的传闻¤Rumores sobre outros mares
+从自身经历说起¤Da minha própria experiência
+从功法传承说起¤Começando pelo legado da Técnica
 没什么想问的了¤Nada a perguntar
 关于幻雾境¤Sobre o Reino da Névoa Fantasma
-后退¤Retorno
-上前¤Avance
+后退¤Recuo
+上前¤Avance para frente
 盐、孜然、糖¤Sal, Cominho, Açúcar
-盐、孜然、辣椒¤Sal, cominho, pimenta
-再撒点盐¤Tempere com mais sal
+盐、孜然、辣椒¤Sal, Cominho, Pimenta
+再撒点盐¤Polvilhe mais sal
 炼丹炉¤Fornalha de Alquimia
 刷一点蜂蜜¤Pincele um pouco de mel
-盐、孜然¤Sal, Cúcumis
-离火苗远一点¤Longe dos flocos
-盐、孜然、辣椒、糖¤Sal, cominho, pimenta, açúcar
-离火苗适中的位置¤Um bom local longe das chamas
-灵气火焰¤Aura Chama
-篝火¤Fogueira Sagrada
+盐、孜然¤Sal, Cominho
+离火苗远一点¤Fique longe das chamas
+盐、孜然、辣椒、糖¤Sal, Cominho, Pimenta, Açúcar
+离火苗适中的位置¤Uma boa localização longe das chamas
+灵气火焰¤Chama de Aura
+篝火¤Fogueira
 离火苗近一点¤Fique perto do fogo
-直接烤就行吧¤Apenas assado isso
+直接烤就行吧¤Apenas asse
 生死有命¤Vida e morte são destino
 漠不关心¤Indiferente
-上前询问¤Pergunte à vontade
-放弃突破¤Abandone o quebramento
+上前询问¤Avance e pergunte
+放弃突破¤Desista do avanço
 查看规则¤Verifique as regras
-直接突破¤Quebra Direta
-询问情报玉简¤Inquérito sobre taças de jade para informações
-迅速离开¤Se afaste rapidamente
-攻其不备¤Surpreenda-os de surpresa
-趁乱离开¤Deixe tudo em caos
-再看一阵¤Olhe por um momento
-我还有其他事要处理一下¤Tenho outras coisas com which to deal
-凝神查探¤Foque na Investigação
-多一事不如少一事¤Menos problemas, melhor
-神游太虚¤Viagem dos Imortais ao Vazio
-随便看看¤Olhe bem
+直接突破¤Avanço Direto
+询问情报玉简¤Pergunte sobre pergaminhos de jade para informação
+迅速离开¤Saia rapidamente
+攻其不备¤Pegue-os desprevenidos
+趁乱离开¤Saia no caos
+再看一阵¤Olhe por um tempo
+我还有其他事要处理一下¤Tenho outras coisas para lidar
+凝神查探¤Concentre-se na Investigação
+多一事不如少一事¤Quanto menos problema, melhor
+神游太虚¤Viagem dos Imortais para o Vazio
+随便看看¤Dê uma olhada
 我全都要¤Quero tudo
-我自己随便看看吧¤Vamos dar uma olhada nisso por mim mesmo
-买下玉云功¤Compre a Arte Marcial Nuvem de Jade
+我自己随便看看吧¤Vamos dar uma olhada sozinho
+买下玉云功¤Compre Gongfa da Nuvem de Jade
 买下凌云诀¤Compre a Habilidade Ling Yun
-能不能推荐一些入门秘籍？¤Você pode me recomendar algumas dicas para começar?
-听雨阁¤Salão de Escuta da Chuva
+能不能推荐一些入门秘籍？¤Pode recomendar algumas dicas para iniciantes?
+听雨阁¤Pavilhão de Escuta da Chuva
 倒是免除了我心头顾虑。¤Alivia minhas preocupações.
-关于纸签¤Sobre Sinais em Papel
+关于纸签¤Sobre Sinais de Papel
 这要看他给的价位了¤Depende do preço que ele paga
-公孙府岔路¤Trilha da Colher da Mansão Gongsun
-修炼的必需品¤Requisitos para Cultivo
-简直是丧心病狂¤É louco
+公孙府岔路¤Estrada Bifurcada da Mansão Gongsun
+修炼的必需品¤Necessidades para Cultivo
+简直是丧心病狂¤É loucura
 身外之物¤Coisas fora do corpo
-这......我当听听他的想法。¤Isso... Eu devo ouvir seus pensamentos.
+这......我当听听他的想法。¤Isso... Devo ouvir seus pensamentos.
 关于公孙府¤Sobre a Mansão Gongsun
-到底是什么宝贝？¤Exatamente qual é o tesouro?
-交换传音符¤Trocando Talismanos de Som
-有什么事儿要交给我么？¤Tem algo que quer deixar comigo?
-请教禾山法门¤Método Heshan
+到底是什么宝贝？¤O que exatamente é o tesouro?
+交换传音符¤Troca de talismãs de som
+有什么事儿要交给我么？¤Há algo que você queira deixar para mim?
+请教禾山法门¤Pergunte o Método de Heshan
 没什么事儿¤Nada
-拿一颗尝尝¤Leve uma para tentar
+拿一颗尝尝¤Pegue um para experimentar
 法器¤Ferramenta Mágica
-灵石¤Pedra do Espírito
+灵石¤Pedra Espiritual
 丹药¤Pílulas
 那沂山双鬼现在何处？¤Onde estão os Gêmeos Fantasmas de Yishan agora?
-这不会有危险吧？¤Isso não é perigoso, não?
-五柳根？¤Raiz Petrificada?
-事情已经办妥了¤O que foi feito
+这不会有危险吧？¤Isso não é perigoso, é?
+五柳根？¤Raiz Petrificiosa?
+事情已经办妥了¤A coisa está feita
 正在办呢¤Está fazendo isso
 关于“那件东西”...¤Sobre aquela coisa...
-坚守道心¤Se mantenha firme no coração do Dao
+坚守道心¤Apegue-se ao Coração do Dao
 偶尔放纵¤Indulgência ocasional
-返回灵脉¤Retorne aos Vasos Espirituais
-缴纳灵石¤Contribua com Pedra Espírita
-缴纳灵核¤Contribua com o Núcleo Espiritual
-你是天魔道的人？¤Você é do Caminho Celestial dos Demônios?
+返回灵脉¤Retorne às Veias Espirituais
+缴纳灵石¤Contribua Pedra Espiritual
+缴纳灵核¤Contribua Núcleo Espiritual
+你是天魔道的人？¤Você é do Caminho do Demônio Celestial?
 小心！¤Cuidado!
-你是血剑宫的人？¤Você é do Palácio Espada Sangrenta?
+你是血剑宫的人？¤Você é do Palácio da Espada de Sangue?
 放狠话¤Dê-me suas palavras
 你是古神教的人？¤Você é da Escola dos Deuses Antigos?
-检查药田¤Inspeção nos campos de medicamentos
-潜入洞府¤Introduzindo na caverna
-下去看看¤Desça e verifique
-沂山派拦路截道¤A Sect Yishan bloqueou o caminho para interceptar os viajantes
-我已经知道了¤Eu já sei
+检查药田¤Inspeção de campos de remédios
+潜入洞府¤Infiltrando a caverna
+下去看看¤Desça e veja
+沂山派拦路截道¤Seita Yishan bloqueou a estrada para interceptar
+我已经知道了¤Já sei
 禾山派的邪术¤As artes malignas da Escola Heshan
-询问附近村民¤Pergunte aos moradores vizinhos
-附近有妖兽伤人¤Há monstros por perto atacando pessoas
-勘察周围环境¤Avaliando o ambiente ao redor
-检测术法痕迹¤Detectando vestígios de magia
-普通山贼截杀¤Intervenção por bandidos montanheses comuns
-交易天材地宝¤Troca de materiais celestiais e tesouros
-担任外务长老一职¤Asumir a posição de Ancião das Relações Externas
-我还在处理¤Estou ainda trabalhando nisso.
+询问附近村民¤Pergunte aos aldeões próximos
+附近有妖兽伤人¤Há monstros próximos ferindo pessoas
+勘察周围环境¤Pesquisando o ambiente ao redor
+检测术法痕迹¤Detectando traços de magia
+普通山贼截杀¤Interceptação por bandidos comuns da montanha
+交易天材地宝¤Negociação de materiais celestiais e tesouros
+担任外务长老一职¤Assuma a posição de Ancião de Assuntos Externos
+我还在处理¤Ainda estou trabalhando nisso.
 关于意志¤Sobre a Vontade
-关于经脉¤Sobre os Meridianos
-关于外务长老任务¤Sobre a missão dos anciões das relações externas
-担任授业长老一职¤Adote a posição de mestra de ensino
-卸去外务长老一职¤Descendo do cargo de Velho das Relações Exteriores
-关于宁州古迹内的机缘¤Sobre a oportunidade no Monumento de Ningzhou
-担任炼器长老一职¤Asumir a posição de velho da artefato
-宗门的诸位长老会一同前往么？¤Os velhos da seita irão juntos?
-关于其他宗门任务¤Sobre tarefas do clã {shixiong}
-关于炼器长老任务¤Sobre a tarefa do velho refiner {shidi}
-卸去炼丹长老一职¤Descendendo do cargo de Mestre da Alquimia
-关于炼丹长老任务¤Sobre a tarefa do mestre da alquimia
-关于结婴¤Sobre a Alma Nascença
-担任炼丹长老一职¤Adquira a Posição do Senhor da Alquimia
-卸去炼器长老一职¤Descendo do cargo de antigo refiner
-要如何才能进入宁州古迹？¤Qual é o requisito para entrar nos monumentos de Ningzhou?
-变更宗门职位¤Mudança de posição do clã
-关于丹药¤Sobre os Pílulas
+关于经脉¤Sobre meridianos
+关于外务长老任务¤Sobre a missão dos anciãos de assuntos externos
+担任授业长老一职¤Assuma a posição de ancião instrutor
+卸去外务长老一职¤Renunciando à posição de Ancião de Assuntos Externos
+关于宁州古迹内的机缘¤Sobre a chance dentro do monumento de Ningzhou
+担任炼器长老一职¤Assuma a posição de ancião de fabricação de artefatos
+宗门的诸位长老会一同前往么？¤Os anciãos da seita irão juntos?
+关于其他宗门任务¤Sobre outras tarefas do clã
+关于炼器长老任务¤Sobre a tarefa do ancião de refinamento
+卸去炼丹长老一职¤Renunciando à posição de Ancião de Alquimia
+关于炼丹长老任务¤Sobre a tarefa do ancião de alquimia
+关于结婴¤Sobre Alma Nascente
+担任炼丹长老一职¤Assuma a posição de Ancião de Alquimia
+卸去炼器长老一职¤Renunciando à posição de ancião de refinamento
+要如何才能进入宁州古迹？¤O que é necessário para entrar nos monumentos de Ningzhou?
+变更宗门职位¤Mudança de posição no clã
+关于丹药¤Sobre Pílulas
 关于秘术¤Sobre Técnicas Secretas
 关于宗门任务¤Sobre a missão da seita
-关于宁州古迹¤Sobre as ruínas de Ningzhou
-卸去授业长老一职¤Deixando o cargo de velho instrutor
-关于授业长老任务¤Sobre a tarefa dos conselheiros instrutores
+关于宁州古迹¤Sobre ruínas de Ningzhou
+卸去授业长老一职¤Renunciando como ancião instrutor
+关于授业长老任务¤Sobre a tarefa dos anciãos instrutores
 还没准备好¤Ainda não pronto
 大哥和二哥现在何处？¤Onde estão o Grande Irmão e o Segundo Irmão agora?
-交给我了¤Deixe-me lidar com isso.
-有什么事要交给我去办么？¤Você quer fazer algo em particular?
-已经在办了¤Já está em andamento
-请教沂山法门¤Pergunte ao Išān Fámen
-已经办妥了¤Pronto
-坐在大殿上的那人是谁？¤Qual é o homem sentado no salão?
-火铜精？¤Fogo de espírito cobre?
-到底是件什么宝贝？¤Que tipo de tesouro é esse?
-这些妖丹要怎么处理？¤Como lidar com essas núcleos demônios?
-关于玄古门¤Sobre a Venerável Velha Seita
-婉拒¤Recuse de maneira educada
-初探古月寨¤Uma primeira vista da Caverna da Lua Antiga
-上交木系灵物¤Entregue o Objeto Espírito de Madeira
-归还法宝¤Retorne os Tesouros Mágicos
-提交六品妖丹¤Entregue um Núcleo Demônio de Sétimo Grau
-关于豹麟兽¤Sobre o Bestial Lin Leão
-询问那位前辈¤Pergunte aos Seniores
-提交五品妖丹¤Entregue uma núcleo de demônio do quinto grau
-提交梧桐木¤Entregue Madeira de Paraguassu
+交给我了¤Deixe comigo
+有什么事要交给我去办么？¤Há algo que você queira que eu faça?
+已经在办了¤Já em andamento
+请教沂山法门¤Pergunte Yishan Famen
+已经办妥了¤Está feito
+坐在大殿上的那人是谁？¤Quem é o homem sentado no salão?
+火铜精？¤Espírito de cobre de fogo?
+到底是件什么宝贝？¤Que tipo de tesouro é?
+这些妖丹要怎么处理？¤Como lidar com esses núcleos demoníacos?
+关于玄古门¤Sobre Seita Antiga Profunda
+婉拒¤Recuse educadamente
+初探古月寨¤Uma primeira olhada na Caverna da Lua Antiga
+上交木系灵物¤Entregue Objeto Espiritual de Madeira
+归还法宝¤Devolva Tesouros Mágicos
+提交六品妖丹¤Envie um Núcleo Demoníaco de Sexto Grau
+关于豹麟兽¤Sobre a besta Leopardo Lin
+询问那位前辈¤Pergunte aos seniores
+提交五品妖丹¤Envie um núcleo demoníaco de quinto grau
+提交梧桐木¤Envie Madeira de Parasol
 混元果¤Fruta Nascida do Caos
-五品土系矿石¤Minério de Terra da Quinta Classe
+五品土系矿石¤Minério de terra de quinto grau
 我想再看看别的¤Quero ver outros
-五品木系金属¤Madeira metálica de cinco graus
-狼桃¤Lobo Maçante Frutífero
-厉魂血珀¤Alma Voraz Caramelo
-炙火蝎¤Escorpião de Fogo Ardente
-询问矿石¤Peça por Órtese
-阳宵铁¤Noite Ferro Yang
-鬼面花¤Flor Faz-Horror Inferno
-万载火玉¤Pedra Ardente
-我想了解其他消息¤Quero saber notícias diferentes
+五品木系金属¤Metal de madeira de quinto grau
+狼桃¤Pêssego Lupus
+厉魂血珀¤Âmbar Alma Voraz
+炙火蝎¤Escorpião de Fogo Escaldante
+询问矿石¤Pergunte por Minério
+阳宵铁¤Ferro Noite Yang
+鬼面花¤Flor Fachada do Inferno
+万载火玉¤Jade Flamejante
+我想了解其他消息¤Quero saber outras notícias
 万载奕剑金¤Wan Zai Yi Jian Jin
-5品其他金属¤5 níveis de outros metais
-关于妖兽巢穴¤Sobre a Caverna do Fera Espírito
+5品其他金属¤5 graus de outros metais
+关于妖兽巢穴¤Sobre Covil de Besta Espiritual
 万载地灵铁¤Ferro Espírito da Terra
-六品火系矿石¤Ferro de Fogo de Sexto Rango
-凤血果¤Morron Sangue-Félix
-五品混元系矿石¤Quinto grau de mineral de elementos mistos
+六品火系矿石¤Minério de Fogo de Sexto Grau
+凤血果¤Baga Sangue de Fênix
+五品混元系矿石¤Minério de elemento misto de quinto grau
 再看看别的¤Olhe para outros
-六品金系矿石¤Grade 6 metal binding Ore -> Grade 6 Ferro Fundido
-5品五行金属¤Grade 5 Five Elements Metal -> Grade 5 Metais dos Cinco Elementos
-五品神识系矿石¤Grau 5 Sentido da Alma ligando Rocha
-雪玉骨参¤Ginseng Crânio Congelado
-芒焰果¤Fruta-de-alma-ardente
-地心火芝¤Funcho-coração-molhado
-白沉脂、凤血果、月灵花、血玉竹、太清玄灵草¤Seda Eterna, Morron Sanguefalcão, Flor Espírito Lunar, Bambu Jóia Sangrenta, Herba Alma Estelar
-五品金系矿石¤Óxidos de Ferro Geral Level 5
-赤火元铜¤Fogo Vermelho de Yuan Cobre
-万载引灵玉¤Pedra Espiritual Abrangente
-阳金铁心¤Ouro Yang Coração de Ferro
-五品火系矿石¤Ferro de Fogo Raridade Cinco
-万载坤金¤Wan Zai Kun Jin
-我想打探其他四品药材的消息¤Quero descobrir sobre as outras quatro ervas
-浩淼水藤¤Profunda Ardilhosa Alfama
-绝魂草¤Alma-Montanhosa Lilium
-我想打探其他金丹期妖兽的情报¤Quero inquirir sobre informações de outros monstros da fase Núcleo Dourado
-五品土系金属¤Nível 5 metal terrestre
-血莲精¤Essência da Lótus do Sangue
-太乙碧莹花¤Flor do Caos Primitivo
-墨蛟¤Dragão Preto
-血玉竹¤Bambu de Pedra Vermelha
-万载炼心铁¤Vila Coração Afiado de Ferro
-鐾金灵花¤Palácio Joalheiro Lilás
-无垠灵参、道蕴花、问道花、太玄问心果、炼髓藤¤Ginseng Terra Sovrinho, Flor Dao Tocada, Flor Buscadora do Dao, Fruto do Coração Verdadeiro, Vime da Reincarnação
-万载御灵铁¤Longa-Vida Ferro Espírito Real
-万载寒玉¤Wançai Han Yu
-万载炎晶¤Bançai Yan Cristal
-五品五行矿石¤Quinta Rotação de Cinco Elementos
-六品木系矿石¤Órbita Sétima Madeira Serie
-腐骨灵花¤Mãe-Terra Petala
-龙皇果、鐾金灵花、森檀木、浩淼水藤、芒焰果¤Senhorio Fruta-Drake, Lílio Palácio Esmeralda, Sândalo Imperador, Algafa Aquática Profunda, Manga Alma-Fogo
-五品混元系金属¤grade five mixed element metal -> metal de elementos mistos da quinta grade
-冰精芝¤Frostcore Shroom -> Cogumelo Núcleo Congelado
-天蝉灵叶¤Folha Céu Passo
-万载寒铁¤Vida Eterna Vermelho Fio
-冥蛛¤Aranha Sombria
-六品土系矿石¤mineral terrestre de grau seis
-渊血冥花¤Florescência Abissal
-道蕴花¤Flor do Dao Toqueado
-万载锻剑铁¤Espada Fundida do Wan Zai
-五品水系矿石¤Órfeo de Quinta Grade do Elemento Água
-万载凝神玉¤Jade de Condensação Espírito das Estações
-五品神识系金属¤Ligação de Sentido Alma ao Metal da Quinta Grau
-太素清灵芝¤Astraspurpure {shixiong}
-火灵芝¤Fochamcreativa {shidi}
-黑天麻¤Semente do Céu Umbroso
-灵鑫石¤Pedra do Coração Celestial
-询问金属¤Inquérito sobre metais
-换血草、碧莹花、黄泉花、天问花、清灵芝¤Flor da Morte, Flor do Caos Primitivo, Flor de Samsara, Flor Celestial de Perguntas, Cogumelo Astral Puro
-枫楠石¤Mapaço Nanpedra
-天剑笋¤Espadada Céu-Lança
-陨母¤O Meteorito
-旋龟¤Tartaruga Giratória
-我想打探五品金属的消息¤Quero descobrir sobre o metal de quinto grau
-阴凝草¤Grama do Inferno
-万载焰铁¤Fogueira Ferro de Wan Zai
-苦曼藤¤Trepadeira Amarga de Wan Zai
-火蟾¤Rana de Fogo
-鬼槐钢¤Grilo Fantasma Ferro
-六品水系矿石¤Grade seis Minério de Elemento Água
-万载幻淼铜¤Ribeira Fantasma Wan Zai Cobre
-太玄问心果¤Fruto do Coração Verdadeiro
-关于矿藏丰富的洞天福地¤Sobre as reservas minerais ricas
-万载念铜¤Ano Milênio Cobre
-六品五行矿石¤Minério de Cinco Elementos Grau Seis
-枫灵柔铁¤Espírito de Mapa Fértil
-五品火系金属¤Ferro de Fogo da Quinta Classe
-三尾风叶¤Folha Alma-Vento
-冰灵焰草¤Grama Chama-Gelo
-万载引灵金¤Banzaí Ouro Espiritual
-白沉脂¤Seda Eterna Viva
-三叶青芝¤Trifolha Cupim Azul
-我没有想要调查的¤Eu não tenho nada a investigar
-五品木系矿石¤Minério de Madeira Quinto Grau
-银精芝¤Chá Presilvante
-五品水系金属¤Quinta grade de Água-Metal
-无垠灵参¤Soberano Ginseng da Terra
-鸡冠草¤Rabo-de-Pombo Pêlo
-五品其他矿石¤Outros Óxidos de Quinta Classe
-五品剑系矿石¤Pedra de Espada Quinta Grade
-黑天麻、狼桃、阴凝草、鬼面花、天剑笋¤Sementes do Céu Umbroso, Maçã Lobo, Grama Nascida no Inferno, Pétala da Faceta do Inferno, Tiro da Espada do Céu
-地龙兽¤Dragão Terra Besta
-天玄马¤Cavalo Nuvens-Malhumadas
-我是来打探元婴妖兽消息的¤Estou aqui para solicitar informações sobre o Espírito Bestial da Alma Jovem
-阴阳黄泉花¤Flor do Reino Transmigratório
-五品剑系金属¤Aço da Espada Quinta Grade
-月灵花¤Flor do Espírito Lunar
-蓬莎巨蟹¤Lagosta de Pongsha
-我想打探五品石材的消息¤Quero descobrir sobre Pedra da Quinta Classe
-苦曼藤、冰精芝、火灵芝、地龙干、混元果¤Vime Amarga, Cogumelo Raiz de Gelo, Cogumelo Raiz de Fogo, Casca de Dragão da Terra, Fruta Nascida do Caos
-我想打探五品药材的消息¤Quero descobrir sobre os materiais medicinais do 5º grau
-金鹏¤Pedra Dourada
-七彩月兰、三尾风叶、冰灵焰草、厉魂血珀、渊血冥花¤Orquídea da Lua Arcada, Folha Alma do Vento, Grama Chama Congelada, Índigo Alma Voraz, e Florescência Sangrenta do Abismo
-五品金系金属¤Nível 5 Elemento de Ferro Metálico
-太清玄灵草¤Erva Alma Estelar
-龙皇果¤Senhor FrutodeDragão
-森檀木¤Imperador Sândalo
-我想委托你们调查情报¤Quero confiar a você a investigação das informações
-血莲精、鸡冠草、银精芝、玉髓芝、绝魂草¤Essência de Lótus Sanguíneo, Pêra do Frango, Cogumelo Reluzente Prata, Cogumelo Núcleo Verdejante, Líli da Alma Selvagem
-金尘玉¤Arengue de Jóia
-我想打探五行金丹期妖兽的情报¤Quero descobrir informações sobre os Espíritos Selvagens do Núcleo Dourado dos Cinco Elementos
-我是来打探化神妖兽消息的¤Quero descobrir informações sobre o Espírito Besta da Fase de Transformação Divina
-七彩月兰¤Orquídea Lunar Arcada
-地龙干¤Carne da Dragão Terra
-重元换血草¤Flor do Úmbrico
-六品其他矿石¤Nível 6 Outros Minerais
-藤蛇¤Cobra Escorregadia
-玉髓芝¤Coração de Jade {shroom}
-裂地蜥龙¤Rift Lagarto {lizard}
-六星石¤Pedra das Seis Estrelas
-问道花¤Flor Buscadora de Dao
-关于药草丰富的洞天福地¤Sobre a rica terra de ervas
-地心火芝、天蝉灵叶、雪玉骨参、腐骨灵花、三叶青芝¤Cogumelo Coração Derretido, Folha Aventura Celestial, Ginseng Osso da Gelo, Pétala Mãe Terra, Cogumelo Azul Trifoliado
-万载剑玉髓¤Vida Eterna Jadeite
-万载岩玉髓¤Rocha Vida Eterna Jadeite
-万载玄冰晶¤Cristal da Doença Mortal Wanzai
-炼髓藤¤Vinha do Renascimento
-枫玄玉¤Álamo Xuanyu
+六品金系矿石¤Minério de metal de 6º grau
+5品五行金属¤Grau 5 Cinco Elementos M...
+不死花¤Flor da Imortalidade
+六品其他矿石¤Minérios de 6º Grau Outros
+藤蛇¤Cobra Videira
+玉髓芝¤Cogumelo Núcleo de Jade
+裂地蜥龙¤Lagarto Fenda
+六星石¤Pedra de Seis Estrelas
+问道花¤Flor Buscadora do Dao
+关于药草丰富的洞天福地¤Sobre a terra rica em ervas
+地心火芝、天蝉灵叶、雪玉骨参、腐骨灵花、三叶青芝¤Cogumelo Coração Fundido, Folha Skyscada, Ginseng Osso de Gelo, Pétala Matriarca da Terra, Cogumelo Azure de Três Folhas
+万载剑玉髓¤Calcedônia Jian Wan Zai
+万载岩玉髓¤Calcedônia Rocha Wanzai
+万载玄冰晶¤Cristal Xuanbing Wanzai
+炼髓藤¤Videira do Renascimento
+枫玄玉¤Jade Xuanyu de Bordo
 噬金甲¤Armadura Dourada
-万载问剑石¤Wan Zai Questionando a Pedra Espada
-万载冰心石¤Wan Zai Pedra de Coração Congelado
-天问花¤Flor de Pergunta Celestial
-暗中跟上¤Seguir na escuridão
-继续坚持¤Continue avançando
-离开幻雾阵¤Saia do Array de Névoa Ilusória
-再喂她一颗¤Alimente-a com outro também
-看来没有合适的丹药¤Parece que não há uma Pílula adequada
+万载问剑石¤Pedra da Espada Perguntadora Wanzai
+万载冰心石¤Pedra Coração de Gelo Wanzai
+天问花¤Flor Pergunta Celestial
+暗中跟上¤Siga no escuro
+继续坚持¤Continue persistindo
+离开幻雾阵¤Saia da Formação de Névoa Ilusória
+再喂她一颗¤Alimente-a com outra
+看来没有合适的丹药¤Parece que não há Pílula adequada
 天命炼心丹¤Pílula Coração Divino
-三阳锻魄丹¤Pílula Forja dos Três Yang
-厉魄丹¤Pílula de Duende Encantado
-再喂一颗少阴清灵丹¤Alimente com mais uma Pílula Coração Azul
-少阴清灵丹¤Pílula de Purificação do Xiao Yin
-饶他一命¤Salve sua vida
-应当以木灵三针花为主药¤A flor {shishen} deve ser o ingrediente principal.
-的确值得一试¤No mínimo vale uma tentativa.
+三阳锻魄丹¤Pílula Forjadora de Três Yang
+厉魄丹¤Pílula Duende
+再喂一颗少阴清灵丹¤Alimente mais uma Pílula Coração Azure
+少阴清灵丹¤Pílula de Limpeza Shao Yin
+饶他一命¤Poupar sua vida
+应当以木灵三针花为主药¤A flor de três agulhas do espírito de madeira deve ser o ingrediente principal
+的确值得一试¤Pelo menos vale a pena tentar
 或许还有一种可能¤Talvez haja outra possibilidade
-应当以妖丹为主药¤O Núcleo do Demônio deve ser o ingrediente principal
-拾起玉简¤Pegue a placa de jade
-留他一命¤Deixe-o com sua Vida
-毫不留情¤Apresentação no Quarto
-关于金虹剑派¤Sobre a Seita Espada Radiante
-关于星河剑派¤Sobre a Seção do Rio Celestial
-关于离火门¤Sobre a Porta do Fogo Divino
-关于化尘教¤Sobre a Seção do Arenoso Móvel
-关于竹山宗¤Sobre a Seção da Montanha de Bambu
+应当以妖丹为主药¤O Núcleo Demoníaco deve ser o ingrediente principal
+拾起玉简¤Pegue o pergaminho de jade
+留他一命¤Deixe-o viver
+毫不留情¤Não mostre misericórdia
+关于金虹剑派¤Sobre a Seita da Espada Radiante
+关于星河剑派¤Sobre a Seita do Rio Celestial
+关于离火门¤Sobre o Portão do Fogo Celestial
+关于化尘教¤Sobre a Seita da Areia Movediça
+关于竹山宗¤Sobre a Seita da Montanha de Bambu
 看看有什么值得买的¤Veja o que vale a pena comprar
-有没有这附近海域的海图？¤Algum mapa dos mares por aqui?
-为什么不卖给商会？¤Por que não vender para a Guilda Comercial?
-交谈¤chat
-我需要准备一下¤Preciso me preparar.
-为何不告知白帝楼？¤Por que você não informou ao Pavilhão do Imperador Branco?
+有没有这附近海域的海图？¤Há mapas dos mares ao redor daqui?
+为什么不卖给商会？¤Por que não vender para a Guilda dos Mercadores?
+交谈¤Converse
+我需要准备一下¤Preciso me preparar
+为何不告知白帝楼？¤Por que não contou ao Pavilhão do Imperador Branco?
 检查阵法¤Verifique a formação
 检查尸体¤Examine o corpo
-还有我们呢¤E também nós
+还有我们呢¤E nós também
 你今天必须死¤Você deve morrer hoje
-包在我身上¤Eu me encarrego disso.
+包在我身上¤Eu cuido disso.
 受死吧！¤Receba a morte!
 放他走¤Deixe-o ir
-杀了他¤Assassine-o
-用不着两败俱伤¤Não há necessidade de perder tudo
-那就要看看你能拿出什么了¤Isso dependerá do que você for capaz de inventar
-我一定尽力而为¤Eu farei o meu melhor
-如你所愿¤Como desejar
-我来拖住天魔¤Eu vim impedir o Demônio Celestial
-找到了¤Encontrei-o
+杀了他¤Mate-o
+用不着两败俱伤¤Não há necessidade de perdermos ambos
+那就要看看你能拿出什么了¤Isso depende do que você pode oferecer
+我一定尽力而为¤Farei o meu melhor
+如你所愿¤Como você deseja
+我来拖住天魔¤Venho para impedir o Demônio Celestial
+找到了¤Encontrado
 询问进度¤Pergunte sobre o progresso
-我自己看看就好¤Vou dar uma olhada sozinho
-询问¤Interrogação
+我自己看看就好¤Vou só dar uma olhada para mim mesmo
+询问¤Pergunte
 炼丹手法¤Técnicas de alquimia
 购买丹药¤Compre Pílulas
-此法确实有些惊世骇俗。¤Este método é um pouco duvidoso
-炼丹手法哪有正邪之分？¤Como pode haver uma diferença entre bom e mau na alquimia?
+此法确实有些惊世骇俗。¤Este método é um pouco questionável
+炼丹手法哪有正邪之分？¤Como pode haver diferença entre bom e mau na alquimia?
 衡州？¤Hengzhou?
-寒暄几句¤Alguns cumprimentos
-询问状况¤Pergunte sobre o status
+寒暄几句¤Algumas amenidades
+询问状况¤Pergunte pelo status
 四处张望¤Olhe ao redor
-专心炼器¤Concentre-se na fundição
-出言指点¤dê uma palavra de conselho
-说说这里最好的功法？¤me conte sobre as melhores Técnicas aqui?
-你怎么知道我刚修仙不久？¤Como você sabe que eu acabei de começar a cultivar
-除掉此人¤Extermine essas Pessoas
-什么宝物？¤Qual Tesouro?
-改变主意¤Mudar de ideia
+专心炼器¤Concentre-se na forja
+出言指点¤Dê uma palavra de conselho
+说说这里最好的功法？¤Conte-me sobre as melhores Técnicas aqui?
+你怎么知道我刚修仙不久？¤Como você sabe que acabei de começar a cultivar
+除掉此人¤Elimine essas Pessoas
+什么宝物？¤Que Tesouro?
+改变主意¤Mude de ideia
 岛主为何自己不使用秘术复生？¤Por que o Senhor da Ilha não usa a técnica secreta de ressurreição em si mesmo?
-岛主有何隐瞒？¤Quais segredos o Senhor da Ilha possui?
-如何探查？¤Probelo de qual maneira?
+岛主有何隐瞒？¤Que segredos o Senhor da Ilha tem?
+如何探查？¤Sondar de que maneira?
 好处？¤Benefícios?
-岛主的目的？¤Qual é o propósito do Senhor da Ilha?
-岛主为何要将秘术公诸于众？¤Por que o Senhor da Ilha quer divulgar as técnicas ocultas ao público?
+岛主的目的？¤Propósito do Senhor da Ilha?
+岛主为何要将秘术公诸于众？¤Por que o Senhor da Ilha quer tornar as técnicas secretas conhecidas pelo público
 不接受¤Não aceite
 不太了解¤Não sei muito
-神识查探¤Investigar com Sensibilidade Alma
-打听¤Perguntar por aí
-截杀¤interceptar e eliminar
-上前搭话¤vá em frente e fale
-上前交谈¤Vá em frente e fale
+神识查探¤Investigue com Sentido da Alma
+打听¤Pergunte por aí
+截杀¤Interceptar e matar
+上前搭话¤Avance e fale
+上前交谈¤Avance e converse
 论道¤O Caminho
-早有耳闻¤Ouvi isso há algum tempo
-告知{$zhangmen}¤Informe {zhangmen}
-决定成为炼器长老¤Decidi me tornar um velho fabricante de armas
-决定成为挂名长老¤Decidi me tornar um velho honorário
-我再了解下别的¤Conhecerei os outros
-多谢{$zhangmen}¤Obrigado(a) {zhangmen}
-关于炼器长老¤Sobre o Mestre da Refinagem de Armas
-关于洞府的选址¤Sobre o Local da Caverna
-关于阵旗¤Sobre o Emblema
-决定成为炼丹长老¤Resolveu se tornar um velho alquimista
-关于炼丹长老¤Sobre o Velho da Alquimia
-决定成为授业长老¤Resolveu se tornar um velho instrutor
-关于挂名长老¤Sobre os Ilustres Anciões
-关于外务长老¤Sobre o Ancião das Assuntos Externos
-决定成为外务长老¤Decidi ser um Ancião das Relações Externas
-关于授业长老¤Sobre os Anciões Guiadores
-重浪针¤Investidas da Marea
-青玉符剑¤Espada de Runa Esmeralda
-水灵剑¤Espada Espiritual da Água
-关于长老会的事¤Sobre a Associação do Mestre Reverenciado
+早有耳闻¤Ouvi cedo
+告知{$zhangmen}¤Informe {$zhangmen}
+决定成为炼器长老¤Decidiu se tornar um ancião de fabricação de armas
+决定成为挂名长老¤Decidiu se tornar um ancião honorário
+我再了解下别的¤Vou conhecer os outros
+多谢{$zhangmen}¤Obrigado {$zhangmen}
+关于炼器长老¤Sobre o Ancião de refinamento de armas
+关于洞府的选址¤Sobre a localização da caverna
+关于阵旗¤Sobre a Bandeira
+决定成为炼丹长老¤Decidiu se tornar um ancião alquimista
+关于炼丹长老¤Sobre o Ancião de Alquimia
+决定成为授业长老¤Decidiu se tornar um ancião instrutor
+关于挂名长老¤Sobre os Anciãos Honorários
+关于外务长老¤Sobre o Ancião de Assuntos Externos
+决定成为外务长老¤Decidiu se tornar um Ancião de Assuntos Externos
+关于授业长老¤Sobre Anciãos Orientadores
+重浪针¤Agulhas de Onda Tidal
+青玉符剑¤Espada Mágica de Bronze Azure
+水灵剑¤Espada Espírito da Água
+关于长老会的事¤Sobre a Associação do Mestre Venerável
 关于特殊悬赏的事¤Sobre a recompensa especial
-诡异的气息？¤Flutuação de qi estranha?
-我在哪里可以找到他？¤Onde eu posso encontrá-lo?
-出示白帝令¤Mostre o Ordenado da Cidade Imperial
+诡异的气息？¤Flutuação de Qi estranha?
+我在哪里可以找到他？¤Onde posso encontrá-lo?
+出示白帝令¤Mostre a Ordem do Imperador Branco
 诡异的行径？¤Comportamento estranho?
-这次真的是最后一次帮师兄了¤Essa mesmo é a última vez que eu ajudo o Velho Irmao.
-那我再跑一趟吧...¤Então farei mais uma viagem...
-那我便跑一趟吧¤Então eu tomarrei um passeio.
-我还有要事 师兄请别人来帮忙吧¤Tenho algo que fazer. Irmao, por favor, peça ajuda a outra pessoa.
-师兄可曾参加过猎魔试炼？¤O irmão mais velho já participou de uma prova para caçar demônios?
-多谢师兄指点¤Obrigado pelo seu conselho, irmão.
-如何才能进入宁州古迹¤Como entrar nos destroços de Ningzhou.
-关于玄微剑仙¤Sobre a Fada Espada Xuanwei
-关于宁州古迹开启的时间¤Sobre o horário de abertura dos monumentos de Ningzhou
-关于戮仙剑¤Sobre a Execução do Imortal com Espada
+这次真的是最后一次帮师兄了¤Esta é realmente a última vez que ajudo o Irmão Sênior
+那我再跑一趟吧...¤Então farei outra viagem...
+那我便跑一趟吧¤Então farei uma viagem.
+我还有要事 师兄请别人来帮忙吧¤Tenho algo a fazer. Irmão, por favor peça a outra pessoa para ajudar.
+师兄可曾参加过猎魔试炼？¤Irmão sênior já participou de um teste de caça a demônios?
+多谢师兄指点¤Obrigado irmão pelo conselho
+如何才能进入宁州古迹¤Como entrar nas ruínas de Ningzhou
+关于玄微剑仙¤Sobre o Imortal da Espada Xuanwei
+关于宁州古迹开启的时间¤Sobre o tempo de abertura dos monumentos de Ningzhou
+关于戮仙剑¤Sobre Espada de Execução Imortal
 关于宁州古迹的机遇¤Sobre as oportunidades dos monumentos de Ningzhou
-怎么又是你？¤Você de novo?
-江湖骗子，不必理睬。¤Mentiroso, não dá atenção.
-可我没有那么多灵石¤Mas eu não tenho tantas pedras espirituais.
-好吧，那就烦请老道帮我看一相吧。¤Bem, então por favor peça ao velho que me ajude a dar uma olhada.
-姑且再信你一次¤Eu confiarei em você novamente
-想都别想¤Nem sonhe com isso
-递给他蓝色的丹药瓶¤Peça que ele pegue a garrafa da pílula azul
-递给他绿色的丹药瓶¤Peça que ele pegue a garrafa da pílula verde
-递给他黑色的丹药瓶¤Peça que ele pegue a frasco de pílulas preto {shidi}
-递给他橙色的丹药瓶¤Peça que ele pegue a frasco de pílulas laranja {shidi}
-递给他紫色的丹药瓶¤Peça que ele pegue a garrafa de pílulas vermelhas
-山脚的村庄¤Vila no Rodapé da Montanha
-西面的山峰¤Montes ocidentais
-东面的河边¤Leste ao lado do rio
-没有¤No
-讨要丹方¤Peça uma receita
-
-(Nota: As variáveis entre chaves e tags HTML/XML não foram presentes no texto original, então não há necessidade de preservá-las nesta tradução.)
-有¤Tenha
-翻找一番¤Procure
-灵力试探¤Probelo com a Sensibilidade da Alma
-伸手抓住¤Estenda e agarre
-暂行离开¤Ausência temporária
+怎么又是你？¤É você de novo?
+江湖骗子，不必理睬。¤O mentiroso, não preste atenção.
+可我没有那么多灵石¤Mas não tenho tantas pedras espirituais
+好吧，那就烦请老道帮我看一相吧。¤Bem, então por favor peça ao velho para me ajudar a dar uma olhada.
+姑且再信你一次¤Confiarei em você mais uma vez
+想都别想¤Nem pense nisso
+递给他蓝色的丹药瓶¤Entregue-lhe o frasco de pílula azul
+递给他绿色的丹药瓶¤Entregue-lhe o frasco de pílula verde
+递给他黑色的丹药瓶¤Entregue-lhe o frasco de pílula preto
+递给他橙色的丹药瓶¤Entregue-lhe o frasco de pílula laranja
+递给他紫色的丹药瓶¤Entregue-lhe o frasco de pílula roxo
+山脚的村庄¤Aldeia no Pé da Montanha
+西面的山峰¤Picos ocidentais
+东面的河边¤Leste pelo rio
+没有¤Não
+讨要丹方¤Peça por uma receita
+有¤Ter
+翻找一番¤Pesquise
+灵力试探¤Sonde com Sentido da Alma
+伸手抓住¤Estenda a mão e pegue
+暂行离开¤Partida temporária
 强行追去¤Forçado a perseguir
-拿出赤火元铜精¤Extraia a Essência do Fogo Vermelho Yuan Cobre
-天魔眼之事？¤O Assunto do Olho Demoníaco Celestial?
-此次切磋？¤Esta facada?
+拿出赤火元铜精¤Tire a Essência de Cobre Yuan de Fogo Vermelho
+天魔眼之事？¤O assunto do Olho do Demônio Celestial?
+此次切磋？¤Este corte?
 心魔的影响？¤A influência dos demônios do coração?
 多加练习¤Mais prática
 心魔？¤Demônio do Coração?
-借助丹药¤Com a ajuda das Pílulas
-念头通达¤Consciência
-原来如此¤é assim que as coisas são
-关于妖圣¤Sobre a Santa Demônio
-关于龙族¤Sobre a Corrida do Dragão
+借助丹药¤Com a ajuda de Pílulas
+念头通达¤Plenitude Mental
+原来如此¤Então é assim
+关于妖圣¤Sobre o Santo Demônio
+关于龙族¤Sobre a Raça do Dragão
 没有其它想问的了¤Não há mais nada que eu queira perguntar
 伸手触碰¤Estenda a mão para tocar
-展示法术¤Demonstre suas habilidades
+展示法术¤Demonstre Habilidades
 答应帮忙¤Prometa ajudar
-拒绝帮忙¤Recuse-se a ajudar
-抢走草药¤Arranque as ervas
-我一定全力以赴¤Eu vou me esforçar ao máximo
-我可不会白白出手¤Eu não farei isso sem nada em troca
-我正是为此而来¤Estou aqui por isso
-直言相护¤Diga logo e protejam-se mutuamente
-与我无关¤Isso não é minha responsabilidade
-离火门或是玄道宗有奸细¤Há um espião na Porta do Fogo Celestial ou no Segredo da Daoista Escondida
+拒绝帮忙¤Recuse ajudar
+抢走草药¤Arranque as Ervas
+我一定全力以赴¤Vou dar tudo de mim
+我可不会白白出手¤Não farei isso de graça
+我正是为此而来¤Estou aqui para isso
+直言相护¤Fale e proteja um ao outro
+与我无关¤Não é da minha conta
+离火门或是玄道宗有奸细¤Há um espião no Portão do Fogo Celestial Ou Seita Dao Oculta
 天魔道在关注天魔眼¤O caminho do demônio celestial é sobre o olho do demônio celestial
-关于残破的玉简¤Sobre As Pedras de Jade Quebradas
-虚名而已，没必要让其他人知道¤É apenas um nome falso, não há necessidade de deixar que outros saibam
-不错，恰可扬我海上威名¤Está bom, é uma boa maneira de me fazer nome na maré
+关于残破的玉简¤Sobre Pergaminhos de Jade Quebrados
+虚名而已，没必要让其他人知道¤É só um nome falso, não há necessidade de deixar os outros saberem
+不错，恰可扬我海上威名¤É bom, é uma boa maneira de fazer meu nome no mar
 大赛的规则？¤Regras da grande competição?
 大赛的门槛？¤Entrada para a Grande Competição?
-大赛的奖励？¤Prêmios da Grande Competição?
-我想观战¤Quero lutar
-大赛的赛制？¤Formato do Grande Concurso?
-大赛是什么？¤Qual é a Grande Competição
-都知道了¤Entendi
+大赛的奖励？¤Recompensas da Grande Competição?
+我想观战¤Quero batalhar
+大赛的赛制？¤Formato da Grande Competição?
+大赛是什么？¤O que é a Grande Competição
+都知道了¤Entendo
 我想参赛¤Quero Competir
-关于天机大比¤Sobre o Grande Torneio Celestial
+关于天机大比¤Sobre o Grande Torneio Tianji
 没有问题¤Sem perguntas
 你在做什么？¤O que você está fazendo?
-玄古门的人呢？¤Onde estão os cultivadores da Seita Antiga Profunda?
-婉言推辞¤Recusar Polidamente
-一口答应¤A promessa
-将他身上所有的东西都取走¤Leva tudo dele
-只拿走储物袋中的东西¤Apenas retire as coisas na bolsa de armazenamento
-散修乱刃¤<color=blue>Independentes, cultivadores</color>
-化神后期¤Transformação Divina Tarde
+玄古门的人呢？¤Onde estão as pessoas da Seita Antiga Profunda?
+婉言推辞¤Recuse Educadamente
+一口答应¤Uma promessa
+将他身上所有的东西都取走¤Pegue tudo dele
+只拿走储物袋中的东西¤Apenas tire as coisas da bolsa de armazenamento
+散修乱刃¤Cultivadores inde.
+化神后期¤Transformação da Divindade Tardia
 五行木¤Cinco elementos: Madeira
-水剑¤Espada da Água
-筑基后期¤Fundação Atrasada
-蓬莎岛滞气¤Ilha Pongsha Bloqueia a Energia
+水剑¤Espada de Água
+筑基后期¤Fundação Tardia
+蓬莎岛滞气¤Qi Obstruído da Ilha Pongsha
 木剑¤Espada de Madeira
-金丹后期¤Último Núcleo Dourado
-五行金¤Cinco Elementos: Metais
-化神初期¤Transformação Cedo no Deuses
+金丹后期¤Núcleo Dourado Tardio
+五行金¤Cinco Elementos: Metal
+化神初期¤Transformação da Divindade Inicial
 其它¤Outro
 化尘¤Transformando poeira
-蓄势¤Força reunida
-海上¤no mar
-白帝楼剑阵¤Formação Espada Torre do Imortal Branco
-自愈¤Curar Você Mesmo
-禾山¤Colheita do Monte
-练气后期¤Fase Tardia de Refino Tarde
-元婴后期¤Fase Tardia de Nascimento de Alma
-弃牌¤Descarte
+蓄势¤Força Acumulada
+海上¤No mar
+白帝楼剑阵¤Formação de Espada do Pavilhão do Imperador Branco
+自愈¤Cure a Si Mesmo
+禾山¤Colina da Colheita
+练气后期¤Estágio de Refinamento de Qi Tardio
+元婴后期¤Alma Nascente Tardia
+弃牌¤Descartar
 竹山¤Montanha de Bambu
 星河¤Rio Celestial
-筑基初期¤Fundação Prematura
-筑基中期¤Meio Fundamento
-金丹期¤Estágio do Núcleo Dourado
-元婴期¤Estágio de Alma Emergente
-白帝楼阴阳¤Pavilhão do Imperador Branco Yin e Yang
-宁州¤Ningzhōu
-筑基期¤Fase de Fundação
+筑基初期¤Fundação Inicial
+筑基中期¤Fundação Média
+金丹期¤Estágio de Núcleo Dourado
+元婴期¤Estágio de Alma Nascente
+白帝楼阴阳¤Yin e Yang do Pavilhão do Imperador Branco
+宁州¤Ningzhou
+筑基期¤Estágio de Fundação
 沂山¤Yishan
-离火¤Fogo Íon
+离火¤Fogo Iônico
 神剑¤Excalibur
-散修剑罡¤Indefinido. Espada de cultivador Deuses
-元婴中期¤Meio Nascimento de Alma
-散修崩岩¤Início. Pedra do Cultivador
+散修剑罡¤Deuses da espada do Cultivador inde.
+元婴中期¤Alma Nascente Média
+散修崩岩¤Queda de Rocha do Cultivador inde.
 五行土¤Cinco Elementos: Terra
-冰霜¤Gelo
-金丹中期¤Núcleo de Ouro Médio
-碎星岛爪¤Garra da Ilha Estrela Rasa
-练气中期¤Estágio Médio de Refinamento de Qi
-烈火掌¤Palma Férvida
-宁州散修¤Ningzhou Inédito. Cultivador
+冰霜¤Geada
+金丹中期¤Núcleo Dourado Médio
+碎星岛爪¤Garra da Ilha Estrela Quebrada
+练气中期¤Estágio de Refinamento de Qi Médio
+烈火掌¤Palma Flamejante
+宁州散修¤Cultivador inde. de Ningzhou
 引力¤Gravidade
 倪家¤Família Ni
-五行水¤Os Cinco Elementos: Água
-金丹初期¤Núcleo de Ouro Cedo
-土阵（未配置）¤Formação da Terra (não configurada)
-散修暗劲¤Inde. Cultivador Poder Sombrio
-元婴初期¤Início de Alma Germinal
-化焰¤Fogo Vivo
-练气初期¤Etapa Inicial de Refinamento de Qi
-化神期¤Transformação Divina
+五行水¤Cinco Elementos: Água
+金丹初期¤Núcleo Dourado Inicial
+土阵（未配置）¤Formação de terra (não configurada)
+散修暗劲¤Poder Escuro do Cultivador inde.
+元婴初期¤Alma Nascente Inicial
+化焰¤Chama Viva
+练气初期¤Estágio de Refinamento de Qi Inicial
+化神期¤Transformação da Divindade
 屯牌（未配置）¤Sinal Tun (não configurado)
-蓬莎岛烈焰¤Ilha Pongsha em Fúria
-碎星岛神¤Ilha Estrela Riscada de Deus
+蓬莎岛烈焰¤Chama da Ilha Pongsha
+碎星岛神¤Deus da Ilha Estrela Quebrada
 灼烧¤Queimar
-百里¤Baile
+百里¤Baili
 百里奇¤Baili Qi
 金鸿¤Jinhong
-中毒¤Veneno
-散修五行¤Indefinido. Cultivador dos cinco elementos
+中毒¤Envenenado
+散修五行¤Cinco elementos do Cultivador inde.
 魔修¤Cultivador maligno
 五行火¤Cinco Elementos: Fogo
-散修火毒¤Inde. Cultivador Fogo Veneno
-星宫¤Palácio Estrelar
-碎星岛针¤1.ilha de Fio Estrela Rompido
-林家¤2.família Lin
-公孙¤Gongshen
-缠绕¤Emaranhado
-化神中期¤Transformação em Meia-Déidade
-练气期¤Etapa de Refinamento do Qi
-蓬莎岛流血¤Ilha Pongsha sangrando
-保命要紧¤É importante preservar sua vida.
-关于栖云长老¤Sobre o Velho Qiyun
+散修火毒¤Veneno de Fogo do Cultivador inde.
+星宫¤Palácio das Estrelas
+碎星岛针¤Agulha da Ilha Estrela Quebrada
+林家¤Família Lin
+公孙¤Gongsun
+缠绕¤Enredado
+化神中期¤Transformação da Divindade Média
+练气期¤Estágio de Refinamento de Qi
+蓬莎岛流血¤Sangramento da Ilha Pongsha
+保命要紧¤É importante salvar sua vida.
+关于栖云长老¤Sobre o Ancião Qiyun
 关于联姻¤Sobre a associação
 告辞¤Adeus
-不过是路过而已¤Apenas passando por aqui
-继续偷听¤Continue espiando
-撤退¤recuar
-尝试溜走¤Tente escapar
-主动出击¤Tomare a iniciativa
+不过是路过而已¤Só passando
+继续偷听¤Continue escutando
+撤退¤Retirada
+尝试溜走¤Tente fugir
+主动出击¤Tome a iniciativa
 是（跳过引导）¤Sim (pule o guia)
-先等一下¤Aguarde um momento
-开始¤Início
-那是风吹的¤É o vento soprando
+先等一下¤Espere um momento
+开始¤Iniciar
+那是风吹的¤Isso é o vento soprando
 关于白露的身世¤Sobre a vida de Shirou
 或许我可以试试¤Talvez eu possa tentar.
-回忆魏无极教你的方法¤Lembre-se do método que Wei Wuji ensinou a você
-提起孩子的资质¤Falando sobre as qualificações dos filhos
-没兴趣¤Indiferente
-汇聚周天灵气¤Coletando a energia espiritual do perímetro
-测试他的灵根¤Prova dos seus raízes espirituais
-转移话题¤Mude de assunto
-背诵吐纳心法口诀¤Memorize a recitação da técnica de espetar o coração
-特殊情况¤Situações Especiais
-拿出炼心芝¤Extraia {shixiong}
-逃离此地¤Saia dali
-不前往¤Não se mova
+回忆魏无极教你的方法¤Lembre-se do método que Wei Wuji te ensinou
+提起孩子的资质¤Falando de qualificações de crianças
+没兴趣¤Não interessado
+汇聚周天灵气¤Reunindo a energia espiritual da circunferência
+测试他的灵根¤Teste suas raízes espirituais
+转移话题¤Mude o assunto
+背诵吐纳心法口诀¤Memorize a recitação da técnica de cuspir o coração
+特殊情况¤Circunstâncias Especiais
+拿出炼心芝¤Tire o Cogumelo Heartrend
+逃离此地¤Escape daqui
+不前往¤Não vá
 请问有什么可以效劳的？¤O que posso fazer por você?
-我还不足以完成此项任务¤Eu não sou bom o suficiente para esta tarefa
-前往底层¤Vá para baixo
-可是底层剑阵？我的阵道修为可以一试。¤Mas a formação espada inferior? Posso tentar com minha forma de formação.
-想要购买一些炼器材料¤Quero comprar alguns materiais para refino.
-我来吧。¤Deixe-me fazer isso.
+我还不足以完成此项任务¤Não sou bom o suficiente para esta tarefa
+前往底层¤Vá para o fundo
+可是底层剑阵？我的阵道修为可以一试。¤Mas a formação de espada inferior? Posso tentar com meu caminho de formação.
+想要购买一些炼器材料¤Quero comprar alguns materiais de refinamento
+我来吧。¤Deixe-me fazer.
 关于九霄雷狱所在？¤Sobre a localização da prisão do julgamento eterno?
-求饶¤suplique pela misericórdia
-逃跑¤escape
-拼死一搏¤Lutar até a morte
-《冰霜诀》¤《A Técnica do Gelo》
-《问水剑典》¤《Clássico da Espada Água Escrita》
-关于寒玉¤Sobre Jade Gelado
-请师姐指点¤Irmao, por favor, dê algumas dicas
-《浪击诀》¤<color="#00FF00"><b>Técnica de Investida Marcial</b></color>
-坐下饮茶¤Ajeite-se e beba chá
+求饶¤Peça misericórdia
+逃跑¤Escape
+拼死一搏¤Lute até a morte
+《冰霜诀》¤《A Técnica de Geada》
+《问水剑典》¤《Clássico da Espada Wen Shui》
+关于寒玉¤Sobre Jade Frio
+请师姐指点¤Irmã, por favor dê pointers
+《浪击诀》¤《Técnica de Ataque de Onda》
+坐下饮茶¤Sente-se e beba chá
 不参加¤Não participe
-关于英杰会的奖励...¤Sobre os prêmios...
-观看其他人的比试¤Assistam aos outros competirem
-交口称赞¤louve abundantemente
+关于英杰会的奖励...¤Sobre as recompensas...
+观看其他人的比试¤Assista aos outros competirem
+交口称赞¤Elogie profusamente
 出手试探¤Faça um tiro de teste
 先行通告¤Aviso prévio
 你来这里做什么？¤O que você está fazendo aqui?
-怎么会被剑灵围攻的？¤Como você foi cercado pelos espíritos da espada?
-调查储物袋¤Verifique a bolsa de armazenamento
-等候时机¤Aguardando o momento certo
-伺机而动¤Aguardando a oportunidade certa
-我相信邢兴星不会做这样的事！¤Acredito que {shixiong} não faria algo assim!
-出言相劝¤Fale para persuadir-se mutuamente
-扭头就走¤Vire-se e saia
-趁机溜走¤Faça bom uso da oportunidade para se esgueirar embora
-调查死因¤Investigar a causa da morte
+怎么会被剑灵围攻的？¤Como você foi sitiado pelos espíritos da espada?
+调查储物袋¤Investigue a bolsa de armazenamento
+等候时机¤Esperando o momento certo
+伺机而动¤Esperando por uma oportunidade
+我相信邢兴星不会做这样的事！¤Acredito que Xing Xingxing não fará tal coisa!
+出言相劝¤Fale para persuadir um ao outro
+扭头就走¤Vire e saia
+趁机溜走¤Aproveite a oportunidade para fugir
+调查死因¤Investigue a causa da morte
 尽快离开此地¤Saia daqui o mais rápido possível
 你真的拿了他的储物袋？¤Você realmente pegou sua bolsa de armazenamento?
 奇怪的石头¤Pedra Estranha
-琥珀¤Ámbar
-引雷柱¤atrair o relâmpago sagrado
+琥珀¤Âmbar
+引雷柱¤Atraia o pilar de raios
 我想交换其它海域的情报¤Quero trocar informações sobre outros mares
 黑色鳞片¤As escamas pretas
-透明水晶¤Crystale透明 (CrystaleTransparente)
-残缺玉简¤Pedra Jade Fragmentada
-残缺石碑¤Placa de Pedra Rota
-换取情报¤Troca de informações
-刻字坚壳¤Carapaña Inscribida
+透明水晶¤Cristal Transparente
+残缺玉简¤Jade Fragmentário
+残缺石碑¤Estela de Pedra Quebrada
+换取情报¤Troca por informação
+刻字坚壳¤Concha Inscrita
 换取灵石¤Em troca de pedras espirituais
-神秘碎壳¤Carapaça misteriosa quebrada
+神秘碎壳¤Concha quebrada misteriosa
 红色晶石¤Cristal Vermelho
-定海碑¤conserte o talismã do mar
-三星石刻板¤três estrelas em um talismã de pedra
+定海碑¤Fixe a placa do mar
+三星石刻板¤Três estrelas em uma placa de pedra
 先行退去¤Retire-se primeiro
 不进¤Não entre
-直接上前¤Avançar direto
-执意进去¤Avançar insistentemente
-暴力驱赶¤Repulsa violenta
-已然惩治¤Conta como castigaste eles
+直接上前¤Avance direto
+执意进去¤Insista em entrar
+暴力驱赶¤Repulsão violenta
+已然惩治¤Conte sobre como você os puniu
 如实相告¤Diga a Verdade
-有些枯燥¤É um pouco entediante.
+有些枯燥¤É um pouco chato.
 一切都好¤Tudo está bem
 礼貌询问¤Pergunte educadamente
-抿一口¤Beba um gole
-这样的组织，本就该藏匿于地下¤Uma organização como essa teria se escondido há muito tempo.
-这...我当听听他的想法¤Bem... vou ouvir e ver o que ele pensa.
-如何成为天字杀手？¤Como se torna um Assassino Rango Céu?
-我对这些景色没什么兴趣¤Essas paisagens não realmente me interessam.
-闻香¤Cheira bem
-倒是免除了心头忧虑¤Aliviou minhas preocupações.
-所谓正派，也是各有私心罢了¤Mesmo as seitas chamadas de Justas podem ser autojustificadas.
-观色¤Observa o Ambiente
-确实美不胜收¤É bastante belo
+抿一口¤Tome um gole
+这样的组织，本就该藏匿于地下¤Uma organização como esta teria ido para o subterrâneo há muito tempo.
+这...我当听听他的想法¤Bem... Vou ouvir e ver o que ele pensa.
+如何成为天字杀手？¤Como alguém se torna um assassino de Rank Celestial?
+我对这些景色没什么兴趣¤Esses cenários não me interessam muito.
+闻香¤Sinta o cheiro
+倒是免除了心头忧虑¤Aliviou-me das minhas preocupações
+所谓正派，也是各有私心罢了¤Mesmo as chamadas seitas Justas podem ser egoístas.
+观色¤Observe a Atmosfera
+确实美不胜收¤É bastante bonito
 一饮而尽¤Beba tudo
-如何取得琚运琦的信任？¤Como se ganha a confiança de Jun Yunqi?
-如何进入风雨楼？¤Como alguém entra no Manoir de Tempestade.
-抱歉...¤Peço desculpas...
-你找我来此只是为了赏景么？¤Você realmente veio até aqui só para apreciar a paisagem?
+如何取得琚运琦的信任？¤Como alguém adquire a confiança de Jun Yunqi?
+如何进入风雨楼？¤Como alguém entra no Solar da Tempestade.
+抱歉...¤Minhas Desculpas...
+你找我来此只是为了赏景么？¤Você realmente me procurou só para apreciarmos a paisagem?
 我愿意¤Estou disposto
-带我去看看¤Leve-me para ver {shixiong}
-将洞府升级至上品灵眼¤Atualize a caverna para o nível máximo de olho espiritual {shidi}
-不用了¤não há necessidade
-将洞府升级至中品灵眼¤Atualize a caverna para um olho espiritual de nível médio
+带我去看看¤Leve-me para ver
+将洞府升级至上品灵眼¤Atualize a caverna para o olho espiritual de grau superior
+不用了¤Não é necessário
+将洞府升级至中品灵眼¤Atualize a caverna para um olho espiritual de grau médio
 询问洞府¤Pergunte sobre a caverna
 我想给洞府改个名字¤Quero mudar o nome da caverna
-先回去给蕊宫仙子疗伤\n¤Retorne ao Morro Imortal Rui para curar primeiro
-星铃儿不会是你女儿吧？¤Passarinho não é sua filha, certo?
-击杀冲虚¤Matar Chongxu
+先回去给蕊宫仙子疗伤\n¤Retorne à Imortal Rui Gong para curar primeiro\n
+星铃儿不会是你女儿吧？¤Starling não é sua filha, certo?
+击杀冲虚¤Mate Chongxu
 任他去¤Deixe-o ir
-向师父请教¤Peça conselhos ao Mestre
-复命¤Resumo
-询问对{$dadao}道的感悟¤Pedindo iluminação sobre o caminho {dá dao}
-来看看师父¤Venha conhecer o mestre
-拉住他¤Dá-lhe força
-复命（进入论道）¤Repete o comando (entre no argumento)
+向师父请教¤Pergunte ao Mestre por conselho
+复命¤Retomar
+询问对{$dadao}道的感悟¤Perguntando por insight no caminho {$dadao}
+来看看师父¤Venha ver o mestre
+拉住他¤Puxe-o para dentro
+复命（进入论道）¤Repita a ordem (entre no argumento)
 有问题想问师尊¤Tenho uma pergunta para o Mestre
 询问功法搭配¤Perguntando sobre combinação de técnicas.
-没有问题了¤Agora não há mais problema
-询问{$gongfa}的要点¤Pergunte ao {gongfa} sobre os pontos principais
-赠送¤Presenteie como um presente
-坚持半价售卖¤Insista na venda a metade do preço
-挑选蟹螯为材料有和讲究？¤Por que é tão importante usar chifres de lagosta como material?
-材料已经弄到了¤Os materiais foram obtidos.
-一定得是四品材料？¤Tem que ser um material do quarto grau?
-同意平价售卖¤Concordo em vender ao preço normal
+没有问题了¤Não há mais problema
+询问{$gongfa}的要点¤Pergunte {$gongfa} pelos pontos principais
+赠送¤Dê como presente
+坚持半价售卖¤Insista em vender pela metade do preço
+挑选蟹螯为材料有和讲究？¤Por que é tão importante usar garras de caranguejo como material?
+材料已经弄到了¤Os materiais foram obtidos
+一定得是四品材料？¤Deve ser um material de quarto grau?
+同意平价售卖¤Concorde em vender pelo preço regular
 打断她¤Interrompa-a
-涨价售卖（6855灵石）¤Estabeleça um preço mais alto (6855 pedras espirituais)
-坐地起价（8226灵石）¤Defina um preço absurdo ({8226 espírito pedra})
-对折售卖 （2285灵石）¤Venda por metade do preço ({2285 espírito pedra})
-平价售卖（4570灵石）¤Venda por 4.570 pedras espirituais
-天阳、水属性有何特殊之处？¤O que de especial há no elemento Yang e Água?
+涨价售卖（6855灵石）¤Defina um preço aumentado (6855 pedras espirituais)
+坐地起价（8226灵石）¤Defina um preço ridículo（8226 pedras espirituais）
+对折售卖 （2285灵石）¤Venda pela metade do preço (2285 pedras espirituais)
+平价售卖（4570灵石）¤Venda pelo regular（4570 pedras espirituais）
+天阳、水属性有何特殊之处？¤O que há de especial no elemento Yang e Água?
 继续倾听¤Continue ouvindo
-询问掌门¤Pergunte ao Chefe da Seção
-参加擂台¤Participe do anel
-下注三千灵石¤Aposte 3000 Pedras Espirituais
+询问掌门¤Pergunte ao Líder da Seita
+参加擂台¤Participe do ringue
+下注三千灵石¤Aposte em 3000 Pedras Espirituais
 下注五千灵石¤Aposte em 5000 Pedras Espirituais
-台下观赛¤Assistindo ao jogo sob a tenda
-仔细观战¤Observa a batalha com atenção
+台下观赛¤Assistindo ao jogo debaixo do palco
+仔细观战¤Assista à batalha com cuidado
 闭目养神¤Feche os olhos e descanse a mente
-下注一千灵石¤Aposte em Mil Espíritos Pedras
+下注一千灵石¤Aposte em Mil Pedras Espirituais
 赶紧躲开¤Saia rapidamente
-走开走开，英杰会谁没听说过？¤Vá embora, quem nunca ouviu falar do Torneio?
-你可是说英杰会？¤Você disse Torneio do Jovem Herói?
-关于刚刚遇到的沂山修士¤Sobre os cultivadores de Yishan que acabamos de conhecer
+走开走开，英杰会谁没听说过？¤Vá embora, quem não ouviu falar do Torneio?
+你可是说英杰会？¤Você disse o Torneio dos Jovens Heróis?
+关于刚刚遇到的沂山修士¤Sobre os cultivadores de Yishan que acabamos de encontrar
 我们出发吧！¤Vamos!
-关于门派¤Sobre as Seitas de Artes Marciais
+关于门派¤Sobre Seitas de Artes Marciais
 没事儿了¤Está tudo bem
-请教几个问题¤Pergunte algumas coisas
-绝命流¤O riacho desesperado
-天机¤Oportunidade Celestial
+请教几个问题¤Pergunte algumas perguntas
+绝命流¤O fluxo desesperado
+天机¤Chance do Céu
 绝命流1¤Fluxo Desesperado 1
-杀手¤Caçadora
+杀手¤Assassino
 阴阳¤Yin Yang
-白帝、天机阁¤O Imperador Branco, a Torre Celestial
-剑罡¤Deidade da Espada
-金丹¤Ouro de Cultivo
-蚂蟥¤Parásito
-元婴¤Alma Emergente
-千流岛¤Ilha Mil Rios
-筑基¤Fundação da base
+白帝、天机阁¤O Imperador Branco, o Pavilhão Celestial
+剑罡¤Deus da Espada
+金丹¤Dan Dourado
+蚂蟥¤Sanguessuga
+元婴¤Alma Nascente
+千流岛¤Ilha dos Mil Fluxos
+筑基¤Construção de fundação
 体修¤Treinamento físico
-沂山、禾山¤Yi Shan e Woo Shan
+沂山、禾山¤Yishan e Wooshan
 待定¤A ser determinado
-血剑¤Espada Sangrenta
+血剑¤Espada de Sangue
 蓬莎岛¤Ilha Pongsha
 白帝¤Imperador Branco
-剑阵¤Formação Espada
+剑阵¤Formação de Espada
 练气¤Praticando Qi
 碎星岛¤Ilha Estrela Quebrada
 我找到了这柄剑¤Encontrei esta espada
-推演破阵¤Deduzindo a formação quebrada
-直接闯入¤Intrusão direta
+推演破阵¤Deduza a formação quebrada
+直接闯入¤Invasão direta
 火之道手抄本¤Manuscrito do Caminho do Fogo
-鬼面炼心丹¤Pílula de Coração Afiado
-旋龟舟¤Barco Tartaruga Giratório
+鬼面炼心丹¤Pílula Coração Temperado
+旋龟舟¤Barco tartaruga rotativo
 二等奖励是什么¤Qual é o segundo prêmio?
-火麟玉¤Floresta de Fogo Jadiga
-涵虚悟道手抄本¤Cópia à mão do caminho de iluminação de Hanxu
-《炙炎三才阵》¤《Formação da Chama Ardente》
-《分神术》¤《A Arte da Diversão》
-黑冥鼎¤Tripé do Submundo Negro
-五品灵舟¤Nível 5 Barco Espírito
-一等奖励是什么¤Qual é a recompensa da primeira classe
+火麟玉¤Jade Floresta de Fogo
+涵虚悟道手抄本¤Cópia manuscrita do caminho para a iluminação de Hanxu
+《炙炎三才阵》¤《Formação de Chama Escaldante》
+《分神术》¤《A Arte da Distração》
+黑冥鼎¤Tripé Submundo Negro
+五品灵舟¤Barco Espiritual de Grau 5
+一等奖励是什么¤Qual é a recompensa de primeira classe
 朱珀剑¤Espada Juper
-三等奖励是什么¤Qual é a recompensa da terceira classe
+三等奖励是什么¤Qual é a recompensa de terceira classe
 气之道手抄本¤Manuscrito do Caminho do Qi
-阵道手抄本¤Manuscrito da Formação de Array
-剑魄灵叶¤Imperador Espadaalma Remédio
-道源丹¤Origem Dao Pílula
-完璧吴魁¤Fim da Primeira Batalha
-下一页¤Próxima Página
-开始分配¤Iniciar Missão
-火麟玉*4¤Fogo Lin Yu*4
+阵道手抄本¤Manuscrito do Caminho da Formação
+剑魄灵叶¤Erva Alma da Espada Imperador
+道源丹¤Pílula Dao de Origem
+完璧吴魁¤Fim Bi Wu Kui
+下一页¤Próxima página
+开始分配¤Comece a Atribuição
+火麟玉4¤Jade Linyu de Fogo4
 上一页¤Página anterior
-体之道手抄本¤Cópia à mão do Dao do Corpo
-剑道手抄本¤Manuscritos de Kendô
+体之道手抄本¤Cópia manual do Dao do Corpo
+剑道手抄本¤Manuscritos de Kendo
 直接动手¤Faça diretamente
-关于这片海域¤Sobre esta área marítima
-何不切磋一番¤Por que você não tem uma sessão de treino simulado?
-关于此行的目标¤Sobre o objetivo desta jornada
+关于这片海域¤Sobre esta área do mar
+何不切磋一番¤Por que não ter uma sessão de sparring?
+关于此行的目标¤Sobre o objetivo desta viagem
 交易会？¤Feira de comércio?
-正是¤Exato
-不打扰{$name}¤Deixe-me em paz, {name}
+正是¤Exatamente
+不打扰{$name}¤Não perturbe {$name}
 安慰¤Conforto
 提醒¤Lembre-os
-与{$name}交谈¤Falte com {name}
-鼓励¤2.激励
-火铜符剑¤Espada Mágica de Fogo Cobre
+与{$name}交谈¤Fale com {$name}
+鼓励¤Incentive
+火铜符剑¤Espada Mágica de Bronze de Fogo
 我叫...¤Meu nome é...
 我是来领取...¤Estou aqui para receber...
-驱火剑¤Trazer chama
-这里的价格似乎并不便宜¤Os preços aqui não parecem ser baixos.
-这里收购{$shougou}么？¤Compre {shougou} aqui?
-这里收购妖兽材料么？¤Você compra materiais de monstro aqui?
-这里收购草药么？¤Você compra ervas aqui?
-我没有这样东西¤Eu não tenho isso
-让我再想想¤Vou pensar novamente
-让我再斟酌一下¤Vou reconsiderar
-我有十足的把握¤Tenho toda a confiança
-和魏无极聊聊¤Falte com Wei Wuji
-和其他人聊聊¤Falte com outras pessoas
-静心准备渡劫¤Medite e prepare-se para a travessia
+驱火剑¤Portador da Chama
+这里的价格似乎并不便宜¤Os preços aqui não parecem baratos
+这里收购{$shougou}么？¤Compre {$shougou} aqui?
+这里收购妖兽材料么？¤Vocês compram materiais de monstros aqui?
+这里收购草药么？¤Vocês compram ervas aqui?
+我没有这样东西¤Não tenho tal coisa
+让我再想想¤Deixe-me pensar de novo
+让我再斟酌一下¤Deixe-me reconsiderar
+我有十足的把握¤Tenho plena confiança
+和魏无极聊聊¤Converse com Wei Wuji
+和其他人聊聊¤Converse com outras pessoas
+静心准备渡劫¤Medite e prepare para a travessia
 如实告知¤Diga a verdade
 林沐心的计划¤Plano de Lin MuXin
 我会劝阻林沐心¤Vou dissuadir Lin MuXin
-请林姑娘告知¤Por favor, informe a Sra. Lin
-林姑娘不必牺牲自己¤A Sra. Lin não precisa se sacrificar
-大致知道¤Na maioria das vezes, você {shixiong}
-关于封城¤Sobre selar a cidade {shidi}
+请林姑娘告知¤Por favor informe a Senhorita Lin
+林姑娘不必牺牲自己¤Senhorita Lin não precisa se sacrificar
+大致知道¤Principalmente sei
+关于封城¤Sobre selar a cidade
 传音提醒¤Lembrete por voz
-开始大会¤Iniciar a conferência
-高声呵斥¤berre alto e repreenda
-沉默对峙¤Empate Silencioso
-出府走走¤Saia para dar um passeio
-享乐¤Alegria
+开始大会¤Inicie a conferência
+高声呵斥¤Grite alto e repreenda
+沉默对峙¤Confronto Silencioso
+出府走走¤Saia para um passeio
+享乐¤Prazer
 休息一日¤Um dia de folga
-府内逛逛¤Passear pela casa
-监视画卷中人¤Monitoramento das Pessoas no Rolê de Imagens
-冷眼旁观¤Um Espectador Com Calma nos Olhos
+府内逛逛¤Passeie pela casa
+监视画卷中人¤Monitorando Pessoas no Pergaminho de Pintura
+冷眼旁观¤Um espectador de olhos frios
 离开石台¤Saia da plataforma de pedra
-阅览经文¤Leia os Vêssicares
+阅览经文¤Leia as Escrituras
 尝试领悟¤Tente compreender
-查看告示¤Visualize a notificação
+查看告示¤Veja o aviso
 关于白家¤Sobre a família Bai
-关于唐家¤Sobre a família Tang
-碎星商会的由来¤Origem da Guilda do Comerciante de Estrelas Ressacadas
+关于唐家¤Sobre a Família Tang
+碎星商会的由来¤Origem da Guilda dos Mercadores Estrela Quebrada
 关于选举¤Sobre a eleição
-道友何故唉声叹气？¤Por que os taoistas suspiraram?
-再想想别的¤E pense em algo mais
+道友何故唉声叹气？¤Por que os taoistas companheiros suspiram?
+再想想别的¤E pense em outra coisa
 调查并夺取戮仙剑¤Investigue e pegue a espada
-向凌轩询问御剑门之战的情况¤Pergunte a Ling Xuan sobre o confronto da Porta da Espada Real
-攻打白帝楼¤Assalto à Torre do Imperador Branco
-抓取活人炼丹¤Captura uma pessoa viva para fazer uma poção
-与其它势力勾结¤Conspiração com forças externas
+向凌轩询问御剑门之战的情况¤Pergunte a Ling Xuan sobre a batalha do Portão da Espada Real
+攻打白帝楼¤Ataque ao Pavilhão do Imperador Branco
+抓取活人炼丹¤Capture uma pessoa viva para fazer uma poção
+与其它势力勾结¤Conluio com outras forças
 竹山宗¤Montanha de Bambu
-调查火麒麟的情报¤Investigue as informações sobre o qilim de fogo
-或许还有其它可能？¤Talvez hajam outras possibilidades?
-报复玄道宗¤Vingança contra a Seção Mística do Dao
-长期通过魔神蛊渗透白帝楼¤Infiltração prolongada no Pavilhão do Imperador Branco através do Compulsório de Deus Demônio
-白帝楼¤Torre do Imperador Branco
-吸收门徒发展宗门¤aceitando discípulos para desenvolver a clã
-关于天魔道¤Sobre o Caminho Divino do Demônio
-释放天魔眼中的天魔¤Libertando o divino demônio no olho do divino demônio
-长期通过魔神蛊渗透离火门¤Infiltração a longo prazo da Porta do Fogo Celestial através do Compulsão de Deus Demônio
-关于古神教¤Sobre os Anciãos Deuses
-关于血剑宫¤Sobre a Cúpula da Espada Sangrenta
-伺机夺取魔剑¤Aguardando uma oportunidade para apoderar-me da espada mágica
-离火门¤Porta do Fogo Celestial
-长期通过魔神蛊渗透化尘教¤Infiltração a longo prazo da Seita das Areias Móveis nas Forças de Compulsão do Deuses-Demoníacos
-渗透宁州各大势力¤Invadir as principais forças de Ningzhou
-当年救下了重伤的凌轩¤Salvei o ferido gravemente Ling Xuan naquele tempo
-血剑宫与白帝有宿怨¤Palácio Espada Sangrenta e o Imperador Branco têm uma antiga rixa
-长期潜伏于宁州¤Longo tempo escondido em Ningzhou
-偷学白帝楼功法¤Técnica de Arrebatar o Pavilhão do Imortal Branco
-与玄道宗有仇¤Detestar a Seita Dao Místico
-向御剑门寻仇¤Buscando vingança contra a Escola Espada Real
-原来如此。¤Então, é isso.
-离火门与御剑门有何纠纷？¤Qual é a disputa entre a Porta do Fogo Celestial e a Seção Espada Real?
-为了老头我也会调查清楚此事。¤Eu também investigarei o assunto pelo bem do velho.
+调查火麒麟的情报¤Investigue as informações do qilin de fogo
+或许还有其它可能？¤Talvez haja outras possibilidades?
+报复玄道宗¤Vingança contra a Seita Dao Místico
+长期通过魔神蛊渗透白帝楼¤Infiltração de longo prazo do Pavilhão do Imperador Branco através da Compulsão do Deus Demônio
+白帝楼¤Pavilhão do Imperador Branco
+吸收门徒发展宗门¤Aceitando discípulos para desenvolver o clã
+关于天魔道¤Sobre o Dao do Demônio Celestial
+释放天魔眼中的天魔¤Liberando o demônio celestial no olho do demônio celestial
+长期通过魔神蛊渗透离火门¤Infiltração de longo prazo do Portão do Fogo Celestial através da Compulsão do Deus Demônio
+关于古神教¤Sobre os Deuses Antigos
+关于血剑宫¤Sobre o Palácio da Espada de Sangue
+伺机夺取魔剑¤Esperando por uma oportunidade para apreender a espada mágica
+离火门¤Portão do Fogo Celestial
+长期通过魔神蛊渗透化尘教¤Infiltração de longo prazo da Seita da Areia Movediça através da Compulsão do Deus Demônio
+渗透宁州各大势力¤Infiltre as principais poderes em Ningzhou
+当年救下了重伤的凌轩¤Salvou o Ling Xuan gravemente ferido naquela época
+血剑宫与白帝有宿怨¤Palácio da Espada de Sangue e o Imperador Branco têm uma rixa de longa data
+长期潜伏于宁州¤Escondendo-se de longo prazo em Ningzhou
+偷学白帝楼功法¤Roubando a Técnica do Pavilhão do Imperador Branco
+与玄道宗有仇¤Tem uma rixa com a Seita Dao Místico
+向御剑门寻仇¤Buscando vingança na Seita da Espada Real
+原来如此。¤Então é isso.
+离火门与御剑门有何纠纷？¤Qual é a disputa entre o Portão do Fogo Celestial e a Seita da Espada Real?
+为了老头我也会调查清楚此事。¤Também investigarei o assunto pelo bem do velho.
 正有此意！¤Essa é a ideia!
-血剑宫和白帝楼又是有何纠纷？¤Qual é o纠纷之间？ (Preservando a variável {shidi} como solicitado, mas traduzindo para um termo mais natural em português)
-血剑尊是什么？¤Qual é a {shidi} Espada da Sangue Zun?
-我想知道御剑门当年为何被灭门¤Quero saber por que a Porta da Espada Real foi destruída nesse ano
-出手相救¤venha em nosso auxílio
-说点有价值的消息¤nos diga algo de valor
-有多危险？¤Quão perigoso é isso?
-交出妖兽材料¤Entregue o material do Espírito Besta
-漩涡位置在哪？¤Onde está a localização do vórtex?
+血剑宫和白帝楼又是有何纠纷？¤Qual é a disputa entre o Palácio da Espada de Sangue e o Pavilhão do Imperador Branco?
+血剑尊是什么？¤O que é o Zun da Espada de Sangue?
+我想知道御剑门当年为何被灭门¤Quero saber por que o Portão da Espada Real foi destruído naquele ano
+出手相救¤Venha ao resgate
+说点有价值的消息¤Conte-nos algo de valor
+有多危险？¤Quão perigoso é?
+交出妖兽材料¤Entregue o material da Besta Espiritual
+漩涡位置在哪？¤Onde está a localização do vórtice?
 帮邪修¤Ajude o cultivador maligno
-帮散修¤Ajude o cultivador independente
-袖手旁观¤Aguarde
-焚烧殆尽¤Esgotado
+帮散修¤Ajude o Cultivador inde.
+袖手旁观¤Fique de braços cruzados
+焚烧殆尽¤Queimado
 钻研阵法¤Estudando Formações
-暴力破阵¤Quebra violenta
-不买¤Não estou comprando
+暴力破阵¤Avanço violento
+不买¤Não comprando
 五千灵石¤Cinco mil pedras espirituais
-八千灵石¤Oito mil pedras espirituais
-还价¤faça uma contraproposta
-买¤compre
+八千灵石¤8.000 pedras espirituais
+还价¤Faça uma contra-oferta
+买¤Comprar
 一千灵石¤Mil pedras espirituais
-尝试破除此处阵法¤Tente quebrar o Array aqui
-万魂殿？¤Salão Milhares de Espíritos?
-解释缘由¤Explicar a Razão
-师妹？¤Irmao Júnior?
-说明来由¤Explicar o Motivo
-复活之法？¤A Lei da Reencarnação?
+尝试破除此处阵法¤Tente quebrar a Formação aqui
+万魂殿？¤Salão dos Dez Mil Espíritos?
+解释缘由¤Explique o Motivo
+师妹？¤Irmã Júnior?
+说明来由¤Explique o Motivo
+复活之法？¤A Lei da Ressurreição?
 放过她¤Deixe-a ir
-招来元神？¤Invocar a gênese?
+招来元神？¤Invoque a gênese?
 我没什么要了解的¤Não há nada que eu precise saber
-安静等待¤Aguardando em silêncio
-出声提醒¤Lembrete do público
-绝焰堂¤Sala do Fogo Absoluto
-炎麟大圣？¤O Sábio Infernal?
-除了宁州香薷，真的没有其他办法能救人了吗？¤Exceto pelo Ningzhou Xianglu, não há realmente outra maneira de salvar as pessoas?
-反正消息已经带到，此事与我再无关系。¤De qualquer forma, o noticiário chegou, essa questão já não tem nada a ver comigo mais.
-那我也舍命陪君子，走上一遭又何妨？¤Então morreremos juntos com o cavalheiro, então qual é o problema?
-我还有要事就不与道友同行了。¤Tenho assuntos importantes a tratar, então não viajarei contigo.
-是否有适合我的功法¤aqui há uma técnica adequada para mim?
-陨龙之地？¤Terra do Dragão Meteorito?
-传音鼓励¤Envia encorajamento
-以为遇到麻烦¤Eu pensei que você estivesse em apuros
-夸赞冰灵面纱¤Para elogiar o tesouro que lhe dei
+安静等待¤Esperando em silêncio
+出声提醒¤Lembrete de audiência
+绝焰堂¤Salão da Chama Absoluta
+炎麟大圣？¤O Grande Sábio do Inferno?
+除了宁州香薷，真的没有其他办法能救人了吗？¤Exceto por Xianglu de Ningzhou, realmente não há outra maneira de salvar pessoas?
+反正消息已经带到，此事与我再无关系。¤De qualquer forma, a notícia chegou, este assunto não tem mais nada a ver comigo.
+那我也舍命陪君子，走上一遭又何妨？¤Então morrerei com o cavalheiro também, então qual é o problema?
+我还有要事就不与道友同行了。¤Tenho assuntos importantes para tratar, então não viajarei com você.
+是否有适合我的功法¤Se há uma técnica adequada para mim aqui
+陨龙之地？¤Terra do Dragão Meteoro?
+传音鼓励¤Envie encorajamento
+以为遇到麻烦¤Achei que você estava em apuros
+夸赞冰灵面纱¤Para elogiar o tesouro que ela te deu
 关于百里邑¤Sobre Bailiyi
 关于无尽之海¤Sobre o Mar Sem Fim
-糊弄过去¤Passar Por Acaso
-继续追问¤Continue questionando
-你们又是谁？¤Quem você é novamente?
-为何不飞升？¤Por que não subir?
-委婉试探¤sondagem cautelosa
-如何突破？¤Como quebrar o bloqueio?
-海上还有交易会？¤Feiras de Comércio no Mar?
-支付灵石购买¤Use pedras espirituais para comprar
-要是去蓬莎岛买，价格行情如何呢？¤Qual é o preço no mercado na Ilha Pongsha?
-若要出海，需准备些什么？¤O que preciso preparar se quiser sair para o mar?
-猎杀妖兽要去哪儿呢？¤Em qual lugar você vai caçar Bestas Espíritas?
-用补天芝换取蓬莎巨蟹螯¤Troque {shixiong} por {pongsha} <color=orange>crab claws</color>
+糊弄过去¤Confunda
+继续追问¤Continue perguntando
+你们又是谁？¤Quem são vocês de novo?
+为何不飞升？¤Por que não ascender?
+委婉试探¤Sondagem tática
+如何突破？¤Como romper?
+海上还有交易会？¤Há Feiras de Comércio no mar?
+支付灵石购买¤Use Pedras Espirituais para comprar
+要是去蓬莎岛买，价格行情如何呢？¤Qual é o preço de mercado na Ilha Pongsha?
+若要出海，需准备些什么？¤O que preciso preparar se quiser ir para o mar?
+猎杀妖兽要去哪儿呢？¤Para onde você vai caçar Bestas Espirituais?
+用补天芝换取蓬莎巨蟹螯¤Troque Cogumelo Skymend por Garras de Caranguejo Pongsha
 现在还不换¤Não agora
-我都了解了。¤Entendi
-幻雾阵¤Array de Névoa Ilusória
+我都了解了。¤Entendo
+幻雾阵¤Formação de Névoa Ilusória
 方壶山¤Fang Hu Shan
 我没什么想了解的了。¤Não há mais nada que eu queira saber.
-药田¤Campo de Medicina
-没想到只有我一人通过¤Surpreendentemente, fui o único a passar
-你到底是什么人？¤Quem diabos você é?
-你刚刚一直跟着我们？¤Você só nos seguiu?
-关于异火的修炼¤Sobre a cultivar chama-exótica de fogo
+药田¤Campo de Remédios
+没想到只有我一人通过¤Inesperadamente, fui o único a passar
+你到底是什么人？¤Quem diabos é você?
+你刚刚一直跟着我们？¤Você nos seguiu o tempo todo?
+关于异火的修炼¤Sobre o cultivo de fogo exótico
 活着回来¤Volte vivo
 你要一个人去？¤Você vai sozinho?
-请指教¤Por favor, guie-me
-打败你只需要两个回合¤Você é derrotado em apenas duas rodadas
-躲至众人身后¤Esconder-se na multidão
-揍他！¤Dê-lhe uma lição!
-乖乖就范¤Comporta-te!
+请指教¤Por favor me oriente
+打败你只需要两个回合¤Só leva dois rounds para derrotá-lo
+躲至众人身后¤Escondendo-se atrás da multidão
+揍他！¤Bata nele!
+乖乖就范¤Comporte-se
 大型阵法¤Formação grande
-中型阵法¤Formação do tipo médio
+中型阵法¤Formação de tipo médio
 留在林府¤Fique na Casa Lin
-一同前往¤Vá com nós
-告知林沐雪的消息¤Informe Lin Mu Xue sobre o noticiário
-转告林沐雪的决意¤Transmite a determinação de Lin Mu Xue
-帮助林沐心¤Ajuda Lin MuXin
-关于二长老¤Sobre o Segundo Velho
-劝阻林沐心¤Desanime Lin MuXin
+一同前往¤Vá conosco
+告知林沐雪的消息¤Informe Lin Mu Xue das notícias
+转告林沐雪的决意¤Transmitindo a determinação de Lin Mu Xue
+帮助林沐心¤Ajude Lin MuXin
+关于二长老¤Sobre o Segundo Ancião
+劝阻林沐心¤Desencoraje Lin MuXin
 没事了¤Está tudo bem
-关于三长老¤Sobre o Terceiro Velho Senhor
-关于林沐心的父亲和大哥¤Sobre o pai e o irmão mais velho de Lin MuXin
-不告知¤Não revele
-转告通羽上人的承诺¤Transmite a promessa do Senhor Tong Yu
-上前查探¤Prossiga e investigue
-何必多事¤Por que se complicar
-已经在做了¤Já fazendo isso
-我想开启一间炼器室¤Quero abrir um quarto de poções
+关于三长老¤Sobre o Terceiro Ancião
+关于林沐心的父亲和大哥¤Sobre o pai e irmão mais velho de Lin MuXin
+不告知¤Não conte
+转告通羽上人的承诺¤Transmita a promessa do Senhor Tong Yu
+上前查探¤Avance e investigue
+何必多事¤Por que problemático
+已经在做了¤Já fazendo
+我想开启一间炼器室¤Quero abrir uma sala de Pílulas
 租借¤Aluguel
-我想放弃这件差事¤Quero abandonar essa missão
-我想租借一间炼丹用的地火房¤Quero alugar um quarto de pílulas
+我想放弃这件差事¤Quero desistir deste recado
+我想租借一间炼丹用的地火房¤Quero alugar uma sala de fogo terrestre para alquimia
 不知道¤Não sei
-我只是在嫌少。¤Estou só um pouco menor.
-趁妖之危¤Explora o caos
+我只是在嫌少。¤Estou só com muito pouco.
+趁妖之危¤Aproveite o caos
 使用蛮力¤Use força bruta
 破阵！¤Quebre a formação!
-开始操练¤Início da Prática
-莫管闲事¤Seja um homem de bem (ou "Seja seu próprio dono", mantendo o contexto)
-询问缘由¤Inquérito sobre a razão
-我正是受令妹所托前来救你的。¤Fui encarregado pela sua irmã vir te resgatar.
-敖玄？你还真没死？¤Ao {shixiong}? Você realmente não está morto?
+开始操练¤Comece a Prática
+莫管闲事¤Cuide da própria vida
+询问缘由¤Pergunte o motivo
+我正是受令妹所托前来救你的。¤Fui encarregado pela sua irmã para vir e salvá-lo.
+敖玄？你还真没死？¤Ao Xuan? Você realmente não está morto?
 有要事汇报¤Relatório Urgente
-上品法宝仙剑¤Espada imortal tesouro mágico de primeira classe
-天魔眼入口¤Entrada do Olho Divino Demônio
-天魔眼内部¤Dentro do Olho Divino do Demônio
-结丹秘术《小周天吐纳》¤Artes Secreto de Formação do Núcleo <color=ff0000><b>{shidi}</b></color>
-地阶剑道功法《砺剑诀》¤Técnica do Caminho da Espada Afiar {sharingsheng}
+上品法宝仙剑¤Espada imortal de tesouro mágico de grau superior
+天魔眼入口¤Entrada do Olho do Demônio Celestial
+天魔眼内部¤Dentro do Olho do Demônio Celestial
+结丹秘术《小周天吐纳》¤Arte Secreta de Formação de Núcleo 《Exalação Celestial Pequena》
+地阶剑道功法《砺剑诀》¤Técnica do Caminho da Espada de Rank Terra《Habilidade de Afiar Espada》
 蛊真人¤Senhor Gu
-逍遥剑仙¤Mestra Espada Desbravadora
-叠焰诀¤Técnica Acumular Chama
-询问白帝令¤Peça ao Mandado do Imperador Branco
-魔焰决¤Decisão de Flame Mágica
-熔盾诀¤Técnica de Fundição da Armadura
+逍遥剑仙¤Imortal da Espada Xiaoyao
+叠焰诀¤Técnica de Empilhamento de Chamas
+询问白帝令¤Pergunte pela Ordem do Imperador Branco
+魔焰决¤Decisão da Chama Mágica
+熔盾诀¤Técnica de Escudo Fundido
 有什么可以交给我做的事么？¤Há algo que eu possa fazer?
-出示祭血令¤Mostre a ordem do sacrifício de sangue
-血薇仙子¤Senhora Sangue Vermelho
-兑换功法典籍¤Troca de Técnicas
-天邪子¤天谢子
+出示祭血令¤Mostre a ordem de sacrifício de sangue
+血薇仙子¤Senhora Sangue Carmesim
+兑换功法典籍¤Troca por Técnicas
+天邪子¤Tian Xie Zi
 黑心老人¤Avô Coração Negro
 加入白帝楼¤Junte-se como Discípulo Interno
-空间裂缝¤Racha Espacial
-出手抢夺¤Arrebatar
-东面的山坡¤Ladeira do Leste
+空间裂缝¤Fenda Espacial
+出手抢夺¤Arranque
+东面的山坡¤Encosta no Leste
 北面的竹林¤Floresta de Bambu no Norte
-西面的悬崖¤O Penhasco Ocidental
-关于神秘飞剑¤Sobre a espada voante misteriosa
-关于倪旭欣¤Sobre Ni Xinxin
-我已经都清楚了¤Já sei tudo
-关于魔气充溢之地¤Sobre o local cheio de energia demônica
-关于周围状况¤Sobre a situação circundante
-关于武陵城¤Sobre a Cidade de Wulin
-关于宁州的修仙宗门¤Sobre a Seção de Cultivo em Ningzhou
+西面的悬崖¤O Penhasco a Oeste
+关于神秘飞剑¤Sobre a espada voadora misteriosa
+关于倪旭欣¤Sobre Ni XuXin
+我已经都清楚了¤Já sei de tudo
+关于魔气充溢之地¤Sobre o lugar cheio de energia demoníaca
+关于周围状况¤Sobre a situação ao redor
+关于武陵城¤Sobre a Cidade Wuling
+关于宁州的修仙宗门¤Sobre a Seita de Cultivo em Ningzhou
 关于倪家家主¤Sobre o Patriarca da Família Ni
-关于天劫？¤Sobre a Tribulação?
+关于天劫？¤Sobre a tribulação?
 还有什么？¤O que mais?
 关于仙术？¤Sobre artes imortais?
-仙灵之气？¤Energia Imortal?
-关于太虚？¤Sobre o Grande Vazio?
-关于天道？¤Sobre o Céu e a Via?
+仙灵之气？¤Qi Imortal?
+关于太虚？¤Sobre Grande Vazio?
+关于天道？¤Sobre o Dao Celestial?
 出手¤Faça um movimento
-关于草药¤Sobre as Ervas
-去¤ir
-带来了¤Levou {shixiong}
-抢先一步¤Fique um passo à frente {name}
-观望一番¤Aguarde e verá
+关于草药¤Sobre Ervas
+去¤Vá
+带来了¤Trouxe
+抢先一步¤Esteja um passo à frente
+观望一番¤Espere e veja
 放弃¤Desista
-再次尝试¤Tente novamente
-交换对手¤Trocar adversários
-那就给你几分面子吧¤Agora vamos dar você um pouquinho de face
-放走¤Solte-se
-诛杀¤matar
+再次尝试¤Tente de novo
+交换对手¤Troque oponentes
+那就给你几分面子吧¤Então vamos dar algum rosto a você
+放走¤Deixe ir
+诛杀¤Mate
 趁此处无人...¤Não há ninguém aqui...
-等正派道友¤Aguardando monges daoístas competentes
+等正派道友¤Esperando por taoistas decentes
 明日子时¤Amanhã
 明日丑时¤Amanhã é Feio
 明日酉时¤Amanhã às 10:00
-停下观察¤Pare e assista
-查看玉简¤Visualize Taça de Jade
-替鸿凌子收尸¤Colete o corpo para Honglingzi
-向前辈行礼¤Cumprimente os Senhores
-仔细搜索¤Procure com cuidado
-明日申时¤Aplicar no dia seguinte
-参加门派大比¤Participe do Concurso de Artes Marciais
-我还要在准备一下¤Ainda preciso me preparar
-打听百里奇的去向¤Inquira sobre o paradeiro de Baili Qi
-关于百里府¤Sobre a Família Baili
-特殊的金色火焰¤Chama especial fagulha dourada
-鼓励他继续修炼¤2.激励他继续修炼
-心境不稳¤Estado mental instável
+停下观察¤Pare e observe
+查看玉简¤Veja Pergaminhos de Jade
+替鸿凌子收尸¤Colete o cadáver para Honglingzi
+向前辈行礼¤Saudação aos Seniores
+仔细搜索¤Pesquise com cuidado
+明日申时¤Aplique amanhã
+参加门派大比¤Participe da Competição de Artes Marciais
+我还要在准备一下¤Ainda preciso preparar
+打听百里奇的去向¤Pergunte sobre o paradeiro de Baili Qi
+关于百里府¤Sobre o Clã Baili
+特殊的金色火焰¤Chama dourada especial
+鼓励他继续修炼¤Incentive-o a continuar sua prática
+心境不稳¤Estado de mente instável
 或许有其它可能¤Talvez haja outras possibilidades
-他受的内伤¤Os ferimentos internos que ele sofreu
-帮助他控制火焰¤Ajude-o a controlar o fogo
-出言劝阻¤ofereça conselhos para desencorajar
-劝他放弃复仇¤persuade-o a abandonar sua vingança
-提起心魔的影响¤Aumente a influência dos demônios do coração
+他受的内伤¤As lesões internas que ele sofreu
+帮助他控制火焰¤Ajude-o a controlar as chamas
+出言劝阻¤Ofereça conselho para desencorajar
+劝他放弃复仇¤ convença-o a desistir de sua vingança
+提起心魔的影响¤Traga a influência dos demônios do coração
 帮助他控制灵气¤Ajude-o a controlar sua aura
-趁火打劫¤aproveitando um fogo
-束手无策¤sem poder fazer nada sobre isso
+趁火打劫¤Aproveitando um incêndio
+束手无策¤Incapaz de fazer algo sobre isso
 关于仇人的消息¤Notícias sobre o inimigo
-赠与他少阴清灵丹¤Oferecendo-lhe a Pílula Clara Xiao Yin
-求购一颗¤Requisito de um
-从何而来¤De onde ele veio?
-可否引荐一二？¤Você pode nos dar uma recomendação?
-观摩一番¤Observem
+赠与他少阴清灵丹¤Presenteie-o com a Pílula Limpa Shao Yin
+求购一颗¤Pedido por um
+从何而来¤De onde veio?
+可否引荐一二？¤Pode nos dar uma recomendação?
+观摩一番¤Observe
 奇遇副本¤Uma cópia do encontro estranho
-传送海底遗迹¤Enviando os escombros submarinos
-文本替换测试¤Substituição de texto de teste
-少阴¤Xiao Yín
+传送海底遗迹¤Enviando as ruínas subaquáticas
+文本替换测试¤Teste de substituição de texto
+少阴¤Shao Yin
 天命¤Destino do Céu
-高声望¤Altura do Prestígio
+高声望¤Alto prestígio
 低声望¤Baixo prestígio
-传送¤Teletransporte
+传送¤Teleporte
 战斗¤A batalha
-妖兽材料¤Matérias primas do Espírito Besta
-三阳¤Três Solares
-添加材料¤Adicionar materiais
-海上声望¤Reputação nas águas
-药品¤Remédio
+妖兽材料¤Materiais de Besta Espiritual
+三阳¤Três Sóis
+添加材料¤Adicione materiais
+海上声望¤Reputação no mar
+药品¤Medicina
 中声望¤Prestígio médio
 询问徐凡¤Pergunte a Xu Fan
-默不作声¤mantenha o silêncio
-关于寄拍的限制¤Restrições na envio de leilões
-出手兑换¤Ofereça uma troca
+默不作声¤Mantenha silêncio
+关于寄拍的限制¤Restrições em envios de leilões
+出手兑换¤Ofereça para trocar
 浪方大圣的遗骸¤Os Restos do Grande Sábio de Nangfang
-查看交易会告示¤Visualize o anúncio da feira de trocas
-关于抽水¤Sobre a extração de água
-九幽大圣的遗骸¤Os restos do Grande Sábio das Nove Fantasmas
-颇有兴致¤bastante agradável
-毫无兴致¤Indiferente
+查看交易会告示¤Veja o aviso da feira de comércio
+关于抽水¤Sobre extração de água
+九幽大圣的遗骸¤Os restos do Grande Sábio dos Nove Fantasmas
+颇有兴致¤Bastante agradável
+毫无兴致¤Desinteressado
 放入草药¤Adicione as ervas
 强横的妖气？¤Aura demoníaca forte?
-伸手搀扶¤Estende a mão em auxílio
-浴火而无伤？¤Banhado em fogo sem ferimentos?
+伸手搀扶¤Estenda a mão para ajudar
+浴火而无伤？¤Banhando no fogo sem ferimentos?
 没什么想问得了¤Nada a perguntar
-再准备一下¤Comece novamente os preparativos
-开始锻体¤Inicie aForgação do Corpo
-进入雷狱¤Entre no Presídio da Luzening
-你们在争什么东西？¤Por que você está lutando?
-千流岛的独门道法？¤O método único da Ilha Mil Rios?
-这月灵花我倒是也有几分兴趣¤Eu também tenho um pouco de interesse nesta Flor da Espiritualidade Lunar
-我对这月灵花没什么兴趣¤Eu não tenho interesse nessa Flor da Espiritualidade Lunar {shixiong}
-关于千流岛¤Sobre a Ilha Qianliu {shidi}
-关于伴月楼¤Sobre a Morada da Companheira Lua
+再准备一下¤Comece as preparações de novo
+开始锻体¤Comece a Forja do Corpo
+进入雷狱¤Entre na Prisão de Raios
+你们在争什么东西？¤Pelo que vocês estão lutando?
+千流岛的独门道法？¤O método único da Ilha dos Mil Fluxos？
+这月灵花我倒是也有几分兴趣¤Também estou um pouco interessado nesta Flor Espírito da Lua
+我对这月灵花没什么兴趣¤Não tenho interesse nesta Flor Espírito da Lua
+关于千流岛¤Sobre a Ilha Qianliu
+关于伴月楼¤Sobre a Casa da Lua Companheira
 关于竞拍大会¤Sobre o leilão
-关于天机阁¤Sobre a Torre dos Mistérios Celestiais
-邀请我的目的？¤Qual é o motivo da minha convocação?
-阴魂岛的来历？¤História da Ilha Fantasma?
-幽荧是谁？¤Quem você é?
+关于天机阁¤Sobre o Pavilhão dos Segredos Celestiais
+邀请我的目的？¤Qual é o motivo do meu convite?
+阴魂岛的来历？¤História da Ilha dos Fantasmas?
+幽荧是谁？¤Quem é você?
 岛上的体系？¤O Sistema da Ilha?
-走为上计¤Plano de fuga
-将{$caoyao1}取来¤Busque {shayao1} de
-{$dysl1}株¤Raça {shidi1}
-弟子没能掌控好火候¤Os discípulos não conseguiram controlar o fogo
-{$dysl}株¤{$dysl} esforço
-将{$caoyao2}取来¤Procure {shidi}
-将{$yaoying2}取来¤Procure {yaoying}
-弟子拿错了草药的品种¤O discípulo pegou a ervagem errada
-{$fysl1}株¤{strain_fysl1}
-将{SayStcVal=940}取来¤Recupere {SayStcVal=940}
-晚辈记下了¤Júnior anotou isso
-{$fysl3}株¤{$fysl3} linhagem
-{$dysl2}株¤{$dysl2} linhagem
-将{$yaoying1}取来¤Busque {yaoying1}
-{$fysl2}株¤{fysl2} linhagem
+走为上计¤Planeje fugir
+将{$caoyao1}取来¤Busque {$caoyao1} de
+{$dysl1}株¤{$dysl1} cepa
+弟子没能掌控好火候¤Os discípulos falharam em controlar o fogo
+{$dysl}株¤{$dysl} cepa
+将{$caoyao2}取来¤Busque {$caoyao2}
+将{$yaoying2}取来¤Busque {$yaoying2}
+弟子拿错了草药的品种¤O discípulo pegou o tipo errado de erva medicinal
+{$fysl1}株¤{$fysl1} cepa
+将{SayStcVal=940}取来¤Busque {SayStcVal=940}
+晚辈记下了¤Júnior anotou
+{$fysl3}株¤{$fysl3} cepa
+{$dysl2}株¤{$dysl2} cepa
+将{$yaoying1}取来¤Busque {$yaoying1}
+{$fysl2}株¤{$fysl2} cepa
 弟子放错了草药数量¤Coloquei a quantidade errada de ervas
-请前辈再说一遍¤Venerável, por favor, diga novamente
+请前辈再说一遍¤Sênior, por favor diga de novo
 将{SayStcVal=941}取来¤Busque {SayStcVal=941}
 好说好说¤Bom dizer, bom dizer
 谅你们也不敢¤Tenho certeza de que você não ousaria
-你们也没其他价值了¤Você não tem nenhum outro valor.
+你们也没其他价值了¤Vocês não têm outros valores.
 早点拿出来不就好了¤Seria bom tirá-lo mais cedo
-小心退去¤Recue com cuidado
-关于天蝉灵叶¤Sobre {shixiong} Folia
+小心退去¤Retire-se com cuidado
+关于天蝉灵叶¤Sobre a Folha Skyscada
 关于如何前往岱舆山¤Sobre como chegar à Montanha Daiyu
 出手迎敌¤Avance para enfrentar o inimigo
 关于法器¤Sobre a arma mágica
 催动剑气¤Estimule a energia da espada
-关于功法¤Sobre a Técnica
-要钱没有，要命一条！¤Se quer dinheiro, vamos matar um!
-保持沉默¤Mantenha-se em silêncio
-关于林家与星宫¤Sobre a Família Lin e a Cúpula Estrelar
+关于功法¤Sobre Técnica
+要钱没有，要命一条！¤Se quiser dinheiro, vamos matar um!
+保持沉默¤Mantenha silêncio
+关于林家与星宫¤Sobre a Família Lin e o Palácio das Estrelas
 出言求助¤Pedindo ajuda
-深入钻研¤Estudo Intenso
+深入钻研¤Estudo Aprofundado
 气¤Qi
-神¤Divina
+神¤Divino
 阵¤Forma.
-听老爷爷的¤Ouça o avô velho
-多看几场¤Assista a mais jogos
-听倪旭欣的¤Ouça Ni Xuxin
+听老爷爷的¤Ouça o velho avô
+多看几场¤Assista mais jogos
+听倪旭欣的¤Ouça Ni XuXin
 金¤Metal
 五行¤Cinco Elementos
 土¤Terra
@@ -2026,218 +1921,218 @@
 火¤Fogo
 体¤Corpo
 剑¤Espada
-我也有些意外¤Eu também passei por alguns imprevistos
-传说可能有偏差¤A conversa popular pode estar viésada
-再次尝试击杀天魔¤Tente novamente exterminar o Demônio Celestial
-尝试击杀天魔¤Tente exterminar o Demônio Celestial
-出手解决¤Entre para resolver
-侥幸而已¤Apenas um acidente
-这有何难¤O que tem de difícil nisso?
-邀请切磋¤Convite para uma sessão de treino ligeiro
-神阴石兑换¤Converta Pedra Divina Yin
-关于神阴石¤Em relação à Pedra Divina Yin
-关于逆天造化术¤Sobre o Feitiço de Sorte que Inverte o Céu
-换取逆天造化术¤Em troca do Feitiço de Sorte que Inverte o Céu
-幻雾阵是...？¤O que é o Array de Névoa Ilusória...?
+我也有些意外¤Também vivi alguns acidentes
+传说可能有偏差¤Folktalk pode ser enviesado
+再次尝试击杀天魔¤Tente novamente matar o Demônio Celestial
+尝试击杀天魔¤Tente Matar o Demônio Celestial
+出手解决¤Intervenha para resolver
+侥幸而已¤É só uma coincidência
+这有何难¤O que há de difícil nisso?
+邀请切磋¤Convite para uma sessão de sparring
+神阴石兑换¤Converta Pedra Yin Divina
+关于神阴石¤Sobre Pedra Yin Divina
+关于逆天造化术¤Sobre o Feitiço de Sorte Inversora do Céu
+换取逆天造化术¤Em troca do Feitiço de Sorte Inversora do Céu
+幻雾阵是...？¤O que é a Formação de Névoa Ilusória...?
 购买玄古丹¤Compre Pílula Antiga Profunda
-交钱¤Pague agora
-上前叫住¤Avance e chame com vozalta
+交钱¤Pague
+上前叫住¤Avance e chame
 我找到了这个¤Encontrei isso
-还没有完成¤ainda não concluído
+还没有完成¤Ainda não concluído
 避开它¤Evite-o
 小心靠近¤Aproxime-se com cautela
 关于元灵石¤Sobre a Pedra Espiritual
-《重剑决》¤<color="#FF0000"><b>Técnica da Espada Pesada</b></color>
-《养刀术》¤<color=orange><b>Técnica de Espada Ascendente</b></color>
-《金芒诀》¤<color=orange><b>Metal Brilhante</b></color>
-我才不会管这老头呢¤Eu me f*do do velho.
-不如交给我吧¤Por que você não deixa eu fazer isso?
-正是如此¤É exatamente isso.
-就让倪旭欣去吧¤Deixa Ni XuXin ir.
+《重剑决》¤《Técnica da Espada Pesada》
+《养刀术》¤《Técnica da Espada Crescente》
+《金芒诀》¤《Metal Brilhante》
+我才不会管这老头呢¤Não dou a mínima para o velho.
+不如交给我吧¤Por que não deixar comigo?
+正是如此¤Isso é exatamente.
+就让倪旭欣去吧¤Deixe Ni XuXin ir
 还有什么¤O que mais
-藏身地¤Lugar de Esconder
-护法？¤Armazém?
-协商购买¤Negociação de compra
-避免冲突¤evite conflitos
+藏身地¤Lugar Escondido
+护法？¤Guarda?
+协商购买¤Negociação para comprar
+避免冲突¤Evite conflito
 先下手为强¤Faça o primeiro movimento
-不再多费口舌¤Mais conversa
+不再多费口舌¤Não mais falando
 防具和饰品¤Armadura e Acessórios
-效果特性？¤Efeito do bemio?
-请教炼器的技巧¤Peça dicas sobre fundição
-有什么法宝可以推荐¤Qual magia arma você recomendaria?
+效果特性？¤Efeito de Propriedade?
+请教炼器的技巧¤Pergunte por dicas de forja
+有什么法宝可以推荐¤Que tesouro mágico você recomendaria?
 武器¤Armas
-五行缺水¤Os Cinco Elementos Falham em Água
-单灵根¤Raiz do Espírito Celestial
+五行缺水¤Os Cinco Elementos Estão Curtos de Água
+单灵根¤Raiz Espiritual Celestial
 四灵根¤Raízes Silenciosas
-双灵根¤Raíz Espiritual Dupla
-我想改变我的灵根资质¤Quero mudar minha aptidão raiz espiritual
+双灵根¤Raiz Espiritual Dupla
+我想改变我的灵根资质¤Quero mudar minha aptidão de raiz espiritual
 五行缺火¤Falta de fogo nos cinco elementos
-我想重置我的悟道天赋¤Quero redefinir meu talento de iluminação
+我想重置我的悟道天赋¤Quero resetar meu talento de iluminação
 五灵根¤Cinco Raízes Espirituais
 五行缺金¤Cinco elementos faltando metal
 五行缺土¤Cinco elementos faltando terra
 三灵根¤Três Raízes Espirituais
-五行缺木¤Os cinco elementos faltam madeira
+五行缺木¤Os cinco elementos estão faltando madeira
 我想购买法宝¤Quero comprar tesouros mágicos
-反驳¤contrapor
-是你太弱了¤Você é muito fraco
-不好意思¤Perdão
-装的真够像的¤Essa é uma boa aparência.
-《九转涅槃诀》？¤<color="#FF0000">Nove Revoluções da Técnica de Nirsvana</color>?
-与之对视¤Encontro de Olhares
-凤凰涅槃？¤Nascimento Fênix?
-不理他¤Ignorá-lo
-叫他¤Chamar ele
-避开目光¤Feche os olhos
-麟尊这是？¤Linzun, isso é?
-伪装修为（神识检测）¤Disfarce a cultivação (Detecção de Sentimento Alma)
-布阵等待（阵道检测）¤Disposição em espera (Detecção do Caminho da Formação)
-四处查探（遁速检测）¤Olhe ao Redor (Rápida Detecção)
-碰碰运气¤Experimente sua sorte
-无比平和¤Paz inigualável
-兴奋激动¤Animado e empolgado
-豪气冲天¤o céu é o limite
-有些哀伤¤Algum melancólico
-青竹道人¤Senhor Bambu Azul
-晚辈只是路过。¤O senhor apenas está passando por aqui.
-略通一二¤saber umas quantas coisas sobre
+反驳¤Refute
+是你太弱了¤Você é fraco demais
+不好意思¤Desculpe
+装的真够像的¤Isso é um bom visual.
+《九转涅槃诀》？¤《Técnica de Nove Revoluções do Nirvana》?
+与之对视¤Encontre o Olho
+凤凰涅槃？¤Nirvana da Fênix?
+不理他¤Ignore-o
+叫他¤Chame-o
+避开目光¤Desvie os olhos
+麟尊这是？¤Linzun isso é?
+伪装修为（神识检测）¤Disfarce cultivo（detecção de Sentido da Alma）
+布阵等待（阵道检测）¤Layout esperando（detecção de caminho de formação）
+四处查探（遁速检测）¤Olhe Ao Redor (Detecção Rápida)
+碰碰运气¤Tente a sorte
+无比平和¤Paz incomparável
+兴奋激动¤Animado e emocionado
+豪气冲天¤O céu é o limite
+有些哀伤¤Alguma tristeza
+青竹道人¤Senhor Bambu Azure
+晚辈只是路过。¤O sênior está só passando.
+略通一二¤Saiba um pouco sobre
 我在考虑一下别的。¤Estou pensando em outra coisa.
 关于内门弟子...¤Sobre os discípulos internos...
-《青藤诀》¤《Cascata Verde》
-《上青诀》¤《Verde Ascendente》
-多谢长老，晚辈告退。¤Obrigado, Velho Mestre, este discípulo irá embora.
-请前辈指教¤Senhor, por favor, aconselhe
-《鸩羽诀》¤《Penna Tóxica》
+《青藤诀》¤《Videira Verde》
+《上青诀》¤《Vegetação Crescente》
+多谢长老，晚辈告退。¤Obrigado, Ancião, este júnior vai embora.
+请前辈指教¤Sênior por favor aconselhe
+《鸩羽诀》¤《Pena Tóxica》
 讲述奇闻异事¤Contando histórias estranhas e incomuns
 浪方大圣¤O Grande Sábio do Quadrado das Ondas
 极阴三海¤Os três Mares Profundos Extremos
-九幽大圣¤O Grande Sábio das Nove Mistérias
+九幽大圣¤O Grande Sábio dos Nove Mistérios
 宁州古迹¤Monumentos de Ningzhou
-鹤真人¤O Pássaro-real Verdadeiro
+鹤真人¤O Guindaste Real
 没什么值得一说的了¤Nada mais a dizer
 沉默不语¤Silêncio, não fale
-那血剑宫长老为何选这种地方疗伤？¤Por que o Velho da Igreja da Espada Sangrenta escolheu este tipo de lugar para curar suas feridas?
+那血剑宫长老为何选这种地方疗伤？¤Por que o Ancião do Templo da Espada de Sangue escolheu esse tipo de lugar para curar suas feridas?
 萧千绝¤Xiao Qianjie
 慕容颖¤Murong Ying
-替倪旭欣说话¤Falando em nome de Ni Xinxin
+替倪旭欣说话¤Falando por Ni XuXin
 我想出售一些稀有的材料¤Quero vender alguns materiais raros
 关于百里家¤Sobre a Família Baili
 关于三大家族¤Sobre as Três Grandes Famílias
-关于碎星商会¤Sobre a Guilda Comercial Estrela Quebrada
-放弃挑战¤Desista do Desafio
-冲虚长老的目的¤O Propósito do Velho Chongxu
-争夺草药¤Concorrendo por Ídolos
-打过招呼了¤Desafie-me para uma luta
+关于碎星商会¤Sobre a Guilda dos Mercadores Estrela Quebrada
+放弃挑战¤Abandone o Desafio
+冲虚长老的目的¤O Propósito do Ancião Chongxu
+争夺草药¤Competindo por Ervas
+打过招呼了¤Acene para uma luta
 关于蓬莎岛¤Sobre a Ilha Pongsha
-我对你身上的东西感兴趣¤Estou interessado no que tem em você
-我只是开个玩笑...¤Eu só estava brincando...
-打听这片海域的传闻¤Quero esclarecer os rumores sobre este mar
-关于碎星岛¤Sobre a Ilha do Estrela Quebrada
-打听附近海域的消息¤Inquirir sobre notícias das águas vizinhas
-先搜索丹房¤Procure primeiro o quarto da alquimia
-要搜索练功房¤Para procurar um quarto de prática
-先搜索药田¤Pesquise primeiro no Campo deervas
-宴请¤Beba um pouco de vinho e converse
+我对你身上的东西感兴趣¤Estou interessado no que você tem
+我只是开个玩笑...¤Só estava brincando...
+打听这片海域的传闻¤Para perguntar sobre os rumores deste mar
+关于碎星岛¤Sobre a Ilha Estrela Quebrada
+打听附近海域的消息¤Pergunte sobre notícias das águas próximas
+先搜索丹房¤Pesquise a sala de Pílulas primeiro
+要搜索练功房¤Para pesquisar por uma sala de prática
+先搜索药田¤Pesquise no Campo de Ervas primeiro
+宴请¤Beba vinho e converse
 直接询问¤Pergunte Diretamente
-继续观察¤Tenha um Olho Vigiando
+继续观察¤Mantenha os olhos nele
 放过他¤Deixe-o ir
 关于飞升的时间¤Sobre o tempo de ascensão
-关于魔剑¤Sobre a Espada Demoníaca
-滥杀无辜并非明智之举¤Matar descuidadamente inocentes não é um movimento sábio
-只要灵石到位，杀谁都一样¤<color=red>Enquanto os pedra espirituais forem pagas, não importa quem você queira matar.</color>
-愿为大长老效劳¤<b>À disposição, Velho Mestre</b>
+关于魔剑¤Sobre Espada Demoníaca
+滥杀无辜并非明智之举¤Abate imprudente de inocentes não é uma jogada sábia
+只要灵石到位，杀谁都一样¤Desde que as pedras espirituais sejam pagas, não importa quem você quer morto.
+愿为大长老效劳¤Ao seu serviço Grande Ancião
 多谢夸奖¤Obrigado pelo elogio
-我再考虑考虑¤Vou pensar no assunto
-大开大合¤Inicia grande congregação
+我再考虑考虑¤Vou pensar sobre isso
+大开大合¤Comece grande reunião
 生生不息¤Viva e deixe viver
-神识威慑¤Sensação de Alma Repelida
-抓住他¤Aprenda-o
-斩杀蛇王¤Matar o Rei Cobra
-趁机逃离¤Aproveite a oportunidade de fugir
-已经在准备炼制了¤Já me preparando para a purificação
-关于药材¤Sobreervas
-关于上次你托我炼制的丹药¤Sobre a pílula que você pediu para eu refinar na última vez
-关于炼丹的场所¤Sobre o local para alquimia
-能不能教教我怎么炼丹？¤Você pode me ensinar a fazer pílulas?
-关于丹方¤Sobre a fórmula das pílulas
+神识威慑¤Deterrência do Sentido da Alma
+抓住他¤Pegue-o
+斩杀蛇王¤Mate o Rei Cobra
+趁机逃离¤Aproveite a oportunidade para escapar
+已经在准备炼制了¤Já preparando para refinar
+关于药材¤Sobre Ervas
+关于上次你托我炼制的丹药¤Sobre a pílula que você me pediu para refinar da última vez
+关于炼丹的场所¤Sobre o lugar para alquimia
+能不能教教我怎么炼丹？¤Pode me ensinar como fazer pílulas?
+关于丹方¤Sobre a fórmula da pílula
 购买丹炉（400灵石）¤Compre Fornalha de Alquimia (400 Pedras Espirituais)
-关于丹炉¤Sobre a Fornalha de Alquimia
-我来拦住琚运琦！¤Eu pararei Ju Yunqi!
-我来拦住赤目老祖！¤Eu pararei o Ancião Olhos Vermelhos!
+关于丹炉¤Sobre Fornalha de Alquimia
+我来拦住琚运琦！¤Eu paro Ju Yunqi!
+我来拦住赤目老祖！¤Eu paro o Ancestral Olhos Escarlates!
 四目对视¤Olhem um para o outro
-主动招呼¤Cumprimentem-se
+主动招呼¤Ofereça saudações
 我已经准备好了¤Estou pronto
-请师尊指点¤Senhor, por favor, dê-me algumas dicas
-请教师门神通¤Receba instrução
-徒儿修为不足，还应当多多修炼才是¤O cultivar do discípulo ainda não é suficiente, e você deve praticar mais.
-总有一天我会走到比他更高的地方！¤Um dia eu irei para um lugar acima dele!
+请师尊指点¤Senhor, por favor me dê pointers
+请教师门神通¤Receba tutelagem
+徒儿修为不足，还应当多多修炼才是¤O cultivo do discípulo não é suficiente, e você deve praticar mais.
+总有一天我会走到比他更高的地方！¤Um dia irei para um lugar mais alto do que ele!
 如何才能变强？¤Como posso me tornar mais forte?
-修真者的世界自然弱肉强食。¤O mundo dos cultivadores é naturalmente a lei do selvagem.
-修炼外的事情¤Coisas além da cultivação
+修真者的世界自然弱肉强食。¤O mundo dos cultivadores é naturalmente a lei da selva.
+修炼外的事情¤Coisas além do cultivo
 我能做些什么？¤O que posso fazer?
-出示白帝信物¤Mostre o selo do Imperador Branco
-抢夺秘籍¤Aprenda o livro secreto
-拜访长老¤Visite o Velho Sábio
-西面的湖泊¤Lago ao oeste
-北面的峡谷¤Cañão ao norte
-感受此番剑阵中的剑意¤Sinta a intenção da espada neste arranjo de espadas
-感受周围剑阵的灵力流转方式¤Sinta o fluxo do poder espiritual nas formações circundantes de espadas
-观察剑身上铭刻的灵纹¤Observa o padrão espiritual gravado na espada
-迅速路过¤Passando rapidamente por lá
-扭头离开¤Vire-se e saia
-悄悄潜入¤Entre silenciosamente
+出示白帝信物¤Mostre o token do Imperador Branco
+抢夺秘籍¤Arranque o livro secreto
+拜访长老¤Visite o Ancião
+西面的湖泊¤Lago a oeste
+北面的峡谷¤O Cânion ao Norte
+感受此番剑阵中的剑意¤Sinta a intenção da espada nesta formação de espada
+感受周围剑阵的灵力流转方式¤Sinta o fluxo de poder espiritual nas formações de espada ao redor
+观察剑身上铭刻的灵纹¤Observe o padrão espiritual inscrito na espada
+迅速路过¤Passando rapidamente
+扭头离开¤Vire e saia
+悄悄潜入¤Entre em silêncio
 吴家¤Família Wu
 白家¤Família Branca
-炼制六品灵舟¤Refina o barco espiritual do sexto grau {shixiong}
-唐家¤Família Tang {shidi}
-我只是开个玩笑¤Estava brincando
-我有些事情想问你¤Tenho algo para te perguntar
-关于筑基¤Sobre a Fundação
-关于结丹¤Sobre o Núcleo Dourado
-关于化神¤Sobre a Transformação Divina
-关于飞升¤Sobre a Ascensão
-抱歉，我没有这样东西¤Desculpe, não tenho isso
+炼制六品灵舟¤Refine um Barco Espiritual de sexto grau
+唐家¤Família Tang
+我只是开个玩笑¤Só estava brincando
+我有些事情想问你¤Tenho algo para perguntar a você
+关于筑基¤Sobre Estabelecimento de Fundação
+关于结丹¤Sobre Núcleo Dourado
+关于化神¤Sobre Transformação da Divindade
+关于飞升¤Sobre Ascensão
+抱歉，我没有这样东西¤Desculpe, não tenho tal coisa
 关于修炼的看法¤Opiniões sobre Cultivo
-有什么需要我帮你的？¤O que posso ajudar você com?
-神识压迫¤Supressão do Sentido Alma
-怙势凌人¤Relievo sobrepujante
-只是开个玩笑¤Apenas uma graça
-（道侣）我希望你...¤(Parceiro daoísta) Espero que você...
-关于炼制灵舟¤Sobre a Refinagem de uma Barca Espiritual
-我希望你能称我为...¤Eu gostaria que você me chamasse de...
-我希望与你双修¤Eu gostaria de cultivar em dupla com você
-我希望与你解除道侣关系¤Quero quebrar nossa relação
-我希望你能换一身装扮¤Espero que você possa trocar seu vestido
-表达爱意¤Expresse seus sentimentos
-我希望你能去...¤Espero que você consiga ir...
-我想重置我的化神领域¤Quero redefinir meu Domínio de Transformação Divina.
-不过是些凡人的玩意，没兴趣¤São apenas coisas para os mortais. Não me interessa.
-那就恭敬不如从命了¤Então aceito com prazer.
-相信林沐心¤Tenha fé em Lin Muxin
+有什么需要我帮你的？¤Em que posso ajudá-lo?
+神识压迫¤Supressão do Sentido da Alma
+怙势凌人¤Conte com poder opressivo
+只是开个玩笑¤Foi só uma brincadeira
+（道侣）我希望你...¤(Parceiro Daoísta) Espero que você...
+关于炼制灵舟¤Sobre refinar um Barco Espiritual
+我希望你能称我为...¤Desejo que você me chame de...
+我希望与你双修¤Desejo cultivar duplamente com você
+我希望与你解除道侣关系¤Desejo romper nosso relacionamento
+我希望你能换一身装扮¤Espero que você mude sua roupa
+表达爱意¤Expresse afeto
+我希望你能去...¤Espero que você possa ir...
+我想重置我的化神领域 ¤Quero resetar meu Domínio de Transformação da Divindade
+不过是些凡人的玩意，没兴趣¤São só coisas para os mortais. Não interessado.
+那就恭敬不如从命了¤Então aceitarei com prazer.
+相信林沐心¤Acredite em Lin Muxin
 不尝试¤Não tente
 找借口离开¤Encontre uma desculpa para sair
-希望味道也不会差¤Espero que saia com um sabor aceitável
-尝尝倪旭欣手艺¤Vamos ver como Ni XuXin cozinha
-看起来不错¤Está ótimo.
-我已经迫不及待了¤Estou ansioso!
-我还有事，下次吧¤Tenho algo que preciso fazer, talvez na próxima.
-也好，进招吧¤Certo, então mostre-me o que tem.
+希望味道也不会差¤Espero que o sabor seja decente
+尝尝倪旭欣手艺¤Vamos ver o quão bem Ni XuXin cozinha
+看起来不错¤Parece bom.
+我已经迫不及待了¤Mal posso esperar!
+我还有事，下次吧¤Tenho algo que preciso fazer, talvez da próxima vez.
+也好，进招吧¤Tudo bem então, mostre o que tem.
 解除禁制¤Desbloqueie o selo
-观察雕塑¤Observando a escultura
-观察石台¤Observa a plataforma de pedra
-推门而入¤Abre a porta e entre
-放入信物¤Insira o token
+观察雕塑¤Observe a escultura
+观察石台¤Observe a plataforma de pedra
+推门而入¤Abra a porta e Entre
+放入信物¤Coloque o token
 “阴”字¤A palavra "Yin"
-时间不多？¤Não tem muito tempo?
-前辈的本体？¤O verdadeiro corpo do senhor?
-两处天地异象很罕见¤Dois acontecimentos extraordinários são extremamente raros.
-多谢解惑¤Muito obrigado por esclarecer minha confusão
+时间不多？¤Não muito Tempo?
+前辈的本体？¤Corpo verdadeiro do sênior?
+两处天地异象很罕见¤Duas ocorrências de fenômeno extraordinário é extremamente raro.
+多谢解惑¤Muito Obrigado por esclarecer minha confusão
 靠近观察¤Aproxime-se e observe
 寻找“钥匙”¤Procure pela "chave"
-强行进入¤Entrar à força
-进入神秘洞府¤Entrar na caverna misteriosa
-注入神识¤Injetar sentido espiritual
-是个武痴¤É um fãático de artes marciais
+强行进入¤Entre pela força
+进入神秘洞府¤Entre na caverna misteriosa
+注入神识¤Injete sentido da alma
+是个武痴¤É um fanático por artes marciais
 很能惹事¤Muito bom em causar problemas
-询问玉简中符号的意义¤Pergunte o significado dos símbolos no rolamento de jade
-询问否极泰来的来历¤Inquérito sobre a origem de "Mudança de Maré".
+询问玉简中符号的意义¤Pergunte pelo significado dos símbolos no pergaminho de jade.
+询问否极泰来的来历¤Pergunte sobre a origem de 'Vire a Maré'.
