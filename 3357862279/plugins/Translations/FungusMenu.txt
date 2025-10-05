@@ -1060,7 +1060,7 @@
 火铜精？¤Fogo de espírito cobre?
 到底是件什么宝贝？¤Que tipo de tesouro é esse?
 这些妖丹要怎么处理？¤Como lidar com essas núcleos demônios?
-关于玄古门¤Sobre a Venerável Velha Secta
+关于玄古门¤Sobre a Venerável Velha Seita
 婉拒¤Recuse de maneira educada
 初探古月寨¤Uma primeira vista da Caverna da Lua Antiga
 上交木系灵物¤Entregue o Objeto Espírito de Madeira
@@ -1231,7 +1231,7 @@
 拾起玉简¤Pegue a placa de jade
 留他一命¤Deixe-o com sua Vida
 毫不留情¤Apresentação no Quarto
-关于金虹剑派¤Sobre a Secta Espada Radiante
+关于金虹剑派¤Sobre a Seita Espada Radiante
 关于星河剑派¤Sobre a Seção do Rio Celestial
 关于离火门¤Sobre a Porta do Fogo Divino
 关于化尘教¤Sobre a Seção do Arenoso Móvel
@@ -1386,7 +1386,7 @@
 关于天机大比¤Sobre o Grande Torneio Celestial
 没有问题¤Sem perguntas
 你在做什么？¤O que você está fazendo?
-玄古门的人呢？¤Onde estão os cultivadores da Secta Antiga Profunda?
+玄古门的人呢？¤Onde estão os cultivadores da Seita Antiga Profunda?
 婉言推辞¤Recusar Polidamente
 一口答应¤A promessa
 将他身上所有的东西都取走¤Leva tudo dele
@@ -1733,13 +1733,13 @@
 关于血剑宫¤Sobre a Cúpula da Espada Sangrenta
 伺机夺取魔剑¤Aguardando uma oportunidade para apoderar-me da espada mágica
 离火门¤Porta do Fogo Celestial
-长期通过魔神蛊渗透化尘教¤Infiltração a longo prazo da Secta das Areias Móveis nas Forças de Compulsão do Deuses-Demoníacos
+长期通过魔神蛊渗透化尘教¤Infiltração a longo prazo da Seita das Areias Móveis nas Forças de Compulsão do Deuses-Demoníacos
 渗透宁州各大势力¤Invadir as principais forças de Ningzhou
 当年救下了重伤的凌轩¤Salvei o ferido gravemente Ling Xuan naquele tempo
 血剑宫与白帝有宿怨¤Palácio Espada Sangrenta e o Imperador Branco têm uma antiga rixa
 长期潜伏于宁州¤Longo tempo escondido em Ningzhou
 偷学白帝楼功法¤Técnica de Arrebatar o Pavilhão do Imortal Branco
-与玄道宗有仇¤Detestar a Secta Dao Místico
+与玄道宗有仇¤Detestar a Seita Dao Místico
 向御剑门寻仇¤Buscando vingança contra a Escola Espada Real
 原来如此。¤Então, é isso.
 离火门与御剑门有何纠纷？¤Qual é a disputa entre a Porta do Fogo Celestial e a Seção Espada Real?

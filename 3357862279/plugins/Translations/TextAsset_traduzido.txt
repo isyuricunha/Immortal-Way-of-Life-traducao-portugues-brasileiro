@@ -2,35 +2,35 @@
 魏无极¤Wei Wuji
 玄道宗长老¤Mestre da Vasta Escola do Dao
 玄道宗弟子¤Discípulo da Seção Mística do Caminho
-金虹剑派宗主¤Mestre da Secta Espada Arco-Íris Dourado
-金虹剑派太上长老¤Velho Supremo da Secta Espada Arco-Íris Dourado
-金虹剑派大长老¤Velho Mestre da Secta Espada Arco Dourado
+金虹剑派宗主¤Mestre da Seita Espada Arco-Íris Dourado
+金虹剑派太上长老¤Velho Supremo da Seita Espada Arco-Íris Dourado
+金虹剑派大长老¤Velho Mestre da Seita Espada Arco Dourado
 金虹剑派供奉¤Velho Conselheiro da Seita Espada Arco-Índigo
-金虹剑派长老¤Secta Espada Arco Dourado Secto Velho
+金虹剑派长老¤Seita Espada Arco Dourado Secto Velho
 外门传功长老¤Mestre Antigo do Setor Exterior
 藏经阁执事¤Bibliotecário Chefe
 丹房执事¤Alquimista Deacon
 金虹剑派执事¤Mestre da Espada Arco-Íris Dourado
-金虹剑派大师兄¤Mestre da Secta Espada Arco-Íris Dourado
-金虹剑派执法弟子¤Membro de Força Armada da Secta Espada Arco Dourado
+金虹剑派大师兄¤Mestre da Seita Espada Arco-Íris Dourado
+金虹剑派执法弟子¤Membro de Força Armada da Seita Espada Arco Dourado
 铸剑堂执事¤Mestre da Forja de Espadas
-金虹剑派内门弟子¤Secta Espada Arco Dourado Interno Discípulo
-金虹剑派弟子¤Discípulo da Secta Espada Arco-Índigo
-金虹剑派外门弟子¤Secta Espada Arco-Íris Dourado Discípulo Externo
+金虹剑派内门弟子¤Seita Espada Arco Dourado Interno Discípulo
+金虹剑派弟子¤Discípulo da Seita Espada Arco-Índigo
+金虹剑派外门弟子¤Seita Espada Arco-Íris Dourado Discípulo Externo
 徐凡¤Xu Fan
 竹山宗宗主¤Mestre da Montanha de bambu
-竹山宗太上长老¤Velho Supremo da Secta Montanha de Bambu
+竹山宗太上长老¤Velho Supremo da Seita Montanha de Bambu
 竹山宗大长老¤Velho Mestre da Montanha de bambu
 竹山宗供奉¤Velho Conselheiro da Montanha do Bambu
 竹山宗长老¤Velho da Serra do bambu
 竹山宗执法弟子¤Discípulo de Força da Montanha do Bambu
 竹山宗执事¤Decano da Montanha do Bambu
-竹山宗内门弟子¤Secta da Montanha do Bambu - Discípulo Interno
-竹山宗外门弟子1¤Secta da Montanha do Bambu - Mestre Externo 1
-竹山宗外门弟子2¤Secta da Montanha do Bambu - Membro Externo 2
-竹山宗外门弟子3¤Secta da Montanha do Bambu - Discípulo Externo 3
-竹山宗外门弟子4¤Secta da Montanha do Bambu - Membro Externo 4
-竹山宗外门弟子5¤Secta da Montanha do bambu Mestre externo 5
+竹山宗内门弟子¤Seita da Montanha do Bambu - Discípulo Interno
+竹山宗外门弟子1¤Seita da Montanha do Bambu - Mestre Externo 1
+竹山宗外门弟子2¤Seita da Montanha do Bambu - Membro Externo 2
+竹山宗外门弟子3¤Seita da Montanha do Bambu - Discípulo Externo 3
+竹山宗外门弟子4¤Seita da Montanha do Bambu - Membro Externo 4
+竹山宗外门弟子5¤Seita da Montanha do bambu Mestre externo 5
 竹山宗执事1¤Decano da Montanha do bambu 1
 长眉真人¤Paragon Long Brows
 外门执事¤Cônego da Seção Exterior
@@ -96,9 +96,9 @@
 兑换执事¤Vigarista de Troca
 化尘教大师姐¤Velha Soreira da Seita do Deserto Móvel
 化尘教执法弟子¤Discípulo de Força da Seção do Deserto Móvel
-化尘教外务执事¤Secta dos Arenosos Movimentantes Externo Decano
+化尘教外务执事¤Seita dos Arenosos Movimentantes Externo Decano
 化尘教弟子¤Discípulo da Seita do Deserto Móvel
-化尘教外门弟子¤Secta dos Granéis de Areia Discípulo Externo
+化尘教外门弟子¤Seita dos Granéis de Areia Discípulo Externo
 赤发鬼¤Fantasma Loiro-Vermelho
 青面鬼¤Fantasma Verde-Velado
 石涌液¤Shi Yongliu
@@ -511,7 +511,7 @@
 雷音真人¤Paragon Roaring Thunder - Paragon Grito de Trovão
 白鹿真人¤Paragon Branco de Sino
 明山散人¤Espalhador da Montanha Ming
-沂山派老祖¤Patriarca da Secta Yi
+沂山派老祖¤Patriarca da Seita Yi
 风雨楼大长老¤Velho Supremo do Manancial de Vento e Fogo
 玄女¤Menina Misteriosa
 风雨楼¤Morro do Temporal
@@ -703,7 +703,7 @@
 化神中期¤Transformação para Meio Deus
 化神后期¤Transformação Divina Tarde
 随身爷爷¤Acompanhando o Avô
-玄道宗太上长老¤Velho Sábio Supremo da Secta do Dao Místico
+玄道宗太上长老¤Velho Sábio Supremo da Seita do Dao Místico
 混元子¤Filho Primal
 通羽真人¤Paragão Pássaro Sábio
 葛白衣¤Ge Baiyi
@@ -713,7 +713,7 @@
 明河剑仙¤Mestre de Espadas Brilhante Rioscenário
 玄阴剑仙¤Imortal Espada XuanYin
 铸剑阁执事¤Cônego do Salão da Caverna de Raposa
-金虹剑派外务执事¤Secta Espada Arco-Íris Dourado Externo Decano
+金虹剑派外务执事¤Seita Espada Arco-Íris Dourado Externo Decano
 青竹道人¤Senhor bambu azul
 紫菱仙子¤Fada Ziling
 马¤Cavalo
@@ -723,10 +723,10 @@
 毒道人¤Mestre Venenoso
 马清楠¤Ma Qingnan
 竹山宗首席弟子¤Chefe da Seção do Monte de Bambu Discípulo
-竹山宗外务执事¤Secta da Montanha do Bambu - Deão Exterior {shixiong}
+竹山宗外务执事¤Seita da Montanha do Bambu - Deão Exterior {shixiong}
 唐森¤Tang Sen
 邢兴星¤Zing Zing Zing
-竹山宗外门弟子¤Secta da Montanha do Bambu - Discípulo Externo
+竹山宗外门弟子¤Seita da Montanha do Bambu - Discípulo Externo
 幻雾阵灵体¤Array Espírito do Mistério do Deserto
 灵壹¤Espírito 1
 灵贰¤Espírito 2
@@ -742,7 +742,7 @@
 奕云仙子¤Nuvem Abundante Fada
 流月仙子¤Fada Lua Flutuante
 星河剑派外务执事¤Mestre Secreto do Ramo do Rio
-星河剑派内门弟子¤Discípulo Interno da Secta do Rio Celestial
+星河剑派内门弟子¤Discípulo Interno da Seita do Rio Celestial
 青嫣¤Brilho Verde
 恒火真君¤Mestre da Chama Eterna
 宗门执事¤Sectão Diácono
@@ -762,7 +762,7 @@
 澹台仙¤Arena do Imortal Tan
 化尘教内门弟子¤Discípulo Interno da Seção do Deserto Móvel
 云秋兰¤Yun QiuLan
-沂山派首领¤Líder da Secta Yi
+沂山派首领¤Líder da Seita Yi
 禾山道修士¤Monte Colheita Sect de Cultivo
 禾山道首领¤Líder da Seção Colheita
 倪家少主¤Jovem Senhor da Família Ni
@@ -1065,12 +1065,12 @@ boss战¤batalha com o chefe
 沂山派¤Montanha Yi Sect
 初入竹山宗¤Entre na Seção de Montanha do Arame-falcão
 招新新手引导¤Orientação para Novatos
-已经加入竹山宗的你，需要在竹山宗各处了解宗门事宜，领取竹山宗弟子修炼物资。¤Agora que você se juntou à Secta da Montanha de Bambu, precisará aprender sobre a secta e receber materiais de treinamento dos Discípulos da Montanha de Bambu em vários lugares dentro dela.
-麻老九在禾山道内地位颇高，帮他办成一些事也许可以获得不少的好处。¤Ma Lão Jiú, que ocupa uma posição alta na Secta Heshan, se você conseguir ajudá-lo com algumas tarefas, pode obter muitos benefícios.
+已经加入竹山宗的你，需要在竹山宗各处了解宗门事宜，领取竹山宗弟子修炼物资。¤Agora que você se juntou à Seita da Montanha de Bambu, precisará aprender sobre a Seita e receber materiais de treinamento dos Discípulos da Montanha de Bambu em vários lugares dentro dela.
+麻老九在禾山道内地位颇高，帮他办成一些事也许可以获得不少的好处。¤Ma Lão Jiú, que ocupa uma posição alta na Seita Heshan, se você conseguir ajudá-lo com algumas tarefas, pode obter muitos benefícios.
 宗门大比与猎魔试炼¤Competição da Seção e Prova de Caça a Demônios
 杜老二在沂山派内地位颇高，帮他办成一些事也许可以获得不少的好处。¤Velho Du ocupa uma posição alta no Monte Yi Sect. Se você conseguir ajudá-lo com algumas tarefas, pode obter muitos benefícios.
-竹山宗流派师承¤Herança da Secta Montanha de Bambu
-竹山宗传功长老¤Mestre Sênior da Secta Montanha de Bambu
+竹山宗流派师承¤Herança da Seita Montanha de Bambu
+竹山宗传功长老¤Mestre Sênior da Seita Montanha de Bambu
 将修为提升至筑基期¤Eleva seu nível de cultivo ao estágio da Estabelecimento de Fundação
 将修为提升至金丹期¤Eleva seu estágio de cultivo ao estágio do Núcleo Dourado
 将修为提升至元婴期¤Eleva seu estágio de cultivo para o estágio do Nascimento da Alma
@@ -1079,7 +1079,7 @@ boss战¤batalha com o chefe
 黑袍魔修¤Manto Preto, Cultivador Malévolo
 神秘灰猴¤Monstro-mono Misterioso Cinzento
 沂山双鬼¤Montanha Yi Espíritos Gêmeos
-竹山宗外门培养弟子没有津贴，外门执事会发布门派任务，可以去<color=#bd3c3c>宗门广场</color>和他了解一下。¤Não há subsídio para Discípulo Externo da Secta Montanha do Bamboo. No entanto, o discípulo externo terá tarefas sectárias a cumprir, você pode ir à <color=#bd3c3c>Principado Principal</color> e conversar com ele para obter mais informações.
+竹山宗外门培养弟子没有津贴，外门执事会发布门派任务，可以去<color=#bd3c3c>宗门广场</color>和他了解一下。¤Não há subsídio para Discípulo Externo da Seita Montanha do Bamboo. No entanto, o discípulo externo terá tarefas sectárias a cumprir, você pode ir à <color=#bd3c3c>Principado Principal</color> e conversar com ele para obter mais informações.
 新入门的弟子，可以前往<color=#bd3c3c>神兵阁</color>领取符器。¤Novo discípulo pode ir à <color=#bd3c3c>Pavilhão das Armas Divinas</color> para coletar seu token de arma.
 内门弟子才能，选择一脉拜师加入，外门弟子可以前往<color=#bd3c3c>宗门广场传功长老</color>请叫功法。¤Apenas o discípulo interno pode escolher seu mestre desejado, enquanto o discípulo externo pode ir à <color=#bd3c3c>Praça da Seção e conversar com a Sênior Instructor</color> para aprender técnicas.
 去<color=#bd3c3c>九嶷山</color>教训那个得罪了麻老九的散修。¤Vá para <color=#bd3c3c>Montanha Jiuyi</color> e ensine uma lição ao Cultivador Independente que ofendeu Ma Lãojiu.
@@ -1087,13 +1087,13 @@ boss战¤batalha com o chefe
 听说沂山的青面鬼和赤发鬼许久不露面了，麻老九让你去<color=#bd3c3c>沂山</color>附近探探虚实。¤Parece que os fantasmas com cara verde e cabelos vermelhos do Monte Yi não são vistos há muito tempo, então Ma Laojiu te pediu para ir <color=#bd3c3c>ao Monte Yi</color> investigar.
 替麻老九找一种叫做<color=#bd3c3c>九叶芝</color>的草药。¤Procure uma erva medicinal chamada <color=#bd3c3c>Fungo de Nove Ramificações</color> para Ma Lão Jiú.
 每30年一届的外门门派大比，主要是为了筛选猎魔试炼的参加人选（每名弟子只能参加一次），魁首可以代表门派参加猎魔试炼。¤A competição do exterior da seita é realizada a cada 30 anos para selecionar os melhores candidatos (cada discípulo pode participar apenas uma vez), o vencedor poderá representar a seita no Exame Caça ao Demônio.
-每届猎魔试炼于门派大比5年后于试炼之地举行，各个门派用炼气弟子，进入其中，狩猎魔物收集魔晶一较高下。¤Após o discípulo escolhido para a Prova de Caça a Demônios ser determinado, onde é selecionado através do concurso da seita realizado a cada 5 anos, os representantes das sectas entram na Prova de Caça a Demônios para caçar demônios e coletar cristais mágicos.
+每届猎魔试炼于门派大比5年后于试炼之地举行，各个门派用炼气弟子，进入其中，狩猎魔物收集魔晶一较高下。¤Após o discípulo escolhido para a Prova de Caça a Demônios ser determinado, onde é selecionado através do concurso da seita realizado a cada 5 anos, os representantes das Seitas entram na Prova de Caça a Demônios para caçar demônios e coletar cristais mágicos.
 竹山宗近几届猎魔试炼更是次次垫底，宗门很是重视本次大比。¤A Seção da Montanha do Bambu tem estado no último lugar nas últimas provas de caça a demônios, então nesta vez a seção enfatiza muito a importância desta competição.
 替杜老二收集<color=#bd3c3c>3颗化瘀丹</color>，为门内的弟兄们疗伤。¤Colete <color=#bd3c3c>3 Pílulas de Curar Iniciante</color> para Du Lão Er curar os discípulos feridos na seita.
 禾山道又派人来<color=#bd3c3c>沂山</color>附近作乱，想办法击退他们。¤A Seção da Colheita enviou pessoas novamente para a <color=#bd3c3c>Seção do Monte Yi</color> causar problemas, encontrar uma maneira de afastá-los.
 杜老二需要大量的<color=#bd3c3c>火铜</color>来重启门派大阵，收集的越多越好。¤Du Lao Er precisa de muito cobre férreo em chamas para reativar a formação do grande阵法，麻烦你尽可能多地收集，越多越好。
 杜老二正在召集弟兄们一起打劫广陵城唐家的商队，就等你准备好了与他一起出发。¤Du Lao Er está reuniendo seguidores para raptar a caravana da família Tang em Guangling Cidade. Parta com ele quando estiver pronto.
-目前竹山宗有4位前辈正在收徒，分别是青蛇真人、青竹道人、太乙剑仙、枯藤道人。¤Atualmente, há quatro senhores na Secta Montanha de bambu aceitando Discípulos: o Senhor Cisne Azul, o Senhor Bambu Azul, o Mestre Espada Taiyi e o Senhor Raiz Enrugada.
+目前竹山宗有4位前辈正在收徒，分别是青蛇真人、青竹道人、太乙剑仙、枯藤道人。¤Atualmente, há quatro senhores na Seita Montanha de bambu aceitando Discípulos: o Senhor Cisne Azul, o Senhor Bambu Azul, o Mestre Espada Taiyi e o Senhor Raiz Enrugada.
 青蛇真人，竹山宗供奉，竹山宗最年轻的元婴期修士，以伪灵根资质突破至元婴期，一身毒功出神入化。¤O Senhor Cisne Azul, um Velho Convidado da Seita Montanha de bambu, é o cultivador de Alma Emergente mais jovem da Seita Montanha de Bambu, tendo quebrado o estágio de Alma Emergente com aptidão pseudo-rizopósea e suas habilidades venenosas são excepcionais.
 青竹道人，竹山宗当代宗主，精修宗门天级功法《太乙玄功》，擅长缠绕制敌。¤O Senhor bambu azul {shidi}, atual Mestre da Seita Montanha Bambu, é mestre da técnica celeste da seita 'Grande Habilidade Mística de Bronze' especializada em enredar e controlar o inimigo.
 太乙剑仙，竹山宗太上长老，竹山宗少数剑修，据传已是化神期。¤O Imortal Espada Taiyi, que é o Supremo Velho Mestre da Seção Montanha de Bambu, é uma das poucas cultivadores de espada da Montanha de Bambu; ele é rumoreado estar no estágio de Transformação Divina.
@@ -1152,10 +1152,10 @@ boss战¤batalha com o chefe
 修行仅靠闭关枯坐是不够的，若是神通施展熟练，即便是修为高过自己的修士也未必不能胜之。¤Como um Cultivador, é insuficiente cultivar em reclusão se não houver experiência suficiente real; caso contrário, diante de outro Cultivador do mesmo nível, pode não ser capaz de derrotá-lo.
 修行靠的是机缘，若能寻得一处洞天福地，或是找到上古遗迹，所能得到的好处远胜过普通人苦修数十载。¤O que é mais importante para a maioria dos Cultivadores é a oportunidade. Se você puder encontrar um artefato ou uma relíquia antiga, os benefícios que poderá obter ultrapassarão o trabalho árduo de pessoas comuns.
 这世上修真者众多，修炼的资源却有限的很。只有自身的实力足够强大，才有资格占有这些资源。¤Há muitos Cultivadores neste mundo, mas os recursos de cultivo são muito limitados. Apenas o mais forte pode dominar todos esses recursos.
-竹山宗外门执事¤Secta da Montanha do Bambu - Membro Externo
-竹山宗内门执事¤Secta da Montanha do Bambu Interno Decano
-金虹剑派外门执事¤Secta Espadão Radiante Externo Vigário
-金虹剑派内门执事¤Secta Espada Radiante Interno Decano
+竹山宗外门执事¤Seita da Montanha do Bambu - Membro Externo
+竹山宗内门执事¤Seita da Montanha do Bambu Interno Decano
+金虹剑派外门执事¤Seita Espadão Radiante Externo Vigário
+金虹剑派内门执事¤Seita Espada Radiante Interno Decano
 金虹剑派首席弟子¤Mestre da Seção Espada Radiante Discípulo
 星河剑派内门执事¤Membro da Seção do Rio Celestial
 星河剑派首席弟子¤Chefe da Seção do Rio Celestial Discípulo
@@ -2991,7 +2991,7 @@ boss战¤batalha com o chefe
 金虹阵法·增伤¤Raio Radiante - Aumento de Ferimentos
 每层获得10%受伤增伤¤Receba um aumento de 10% nos danos por camada
 金虹护山大阵¤Arranjo de Proteção da Montanha da Espada Arco-Rainbow Dourado
-金虹剑派护山大阵。\n获得50%减伤；\n每受到一定伤害获得10%受伤增伤；\n每受到一定伤害，下回合获得【蓄力】*1。¤Formação de Proteção da Montanha da Secta Espada Radiante.
+金虹剑派护山大阵。\n获得50%减伤；\n每受到一定伤害获得10%受伤增伤；\n每受到一定伤害，下回合获得【蓄力】*1。¤Formação de Proteção da Montanha da Seita Espada Radiante.
 星河护山大阵¤Array de Proteção da Montanha do Rio Celestial
 星河剑派护山大阵。\n攻击时获得等额吸血；\n溢出治疗量造成等额伤害；\n战斗开始时获得【护罩】*800；\n每次使用技能造成【真实伤害】*10¤Array de Proteção da Montanha do Rio Celestial Sect. \n ganhe absorção sanguínea igual quando atingir; \n excedente de cura será revertido em dano igual; \n ganhe 【Escudo】*800 no início da batalha; \n cause 【dano verdadeiro】*10 a cada uso de habilidades
 星河·治疗伤害¤Rios Celestiais - Danos Curados
@@ -3782,17 +3782,17 @@ boss战¤batalha com o chefe
 林沐心的援助¤Ajuda do Lin Muxin
 获得林沐心的帮助，即使冥蛛的神识高于你也不会触发【神识】。¤Com a ajuda de Lin Muxin, mesmo que o sentido da alma da aranha escura seja maior que o seu, não irá acionar [sentido da alma].
 失魂¤Alma perdida
-古神教于傀儡上铭刻失魂大阵，回合结束时，敌方获得【神殇】*6。¤A antiga Secta Divina gravou um grande阵法于傀儡之上。每一轮结束后，敌人将获得【伤魂】*6。
-古神教于傀儡上铭刻失魂大阵，回合结束时，敌方获得【神殇】*10。¤A antiga Secta Divina gravou um grande阵亡灵魂阵在傀儡上。每回合结束时，敌人将获得【伤魂】*10。
-古神教于傀儡上铭刻失魂大阵，回合结束时，敌方获得【神殇】*16。¤A antiga Secta Divina gravou o Array do Espírito Perdido no pupilo, e ao final da rodada, o inimigo obteve [Sensação Ferida]x16.
-古神教于傀儡上铭刻失魂大阵，回合结束时，敌方获得【神殇】*22。¤A antiga Secta de Deus gravou o Array do Espírito Perdido no pupilo, e ao final da rodada, o inimigo obteve <color=FF0000>[Sensação Ferida]x22</color>.
+古神教于傀儡上铭刻失魂大阵，回合结束时，敌方获得【神殇】*6。¤A antiga Seita Divina gravou um grande阵法于傀儡之上。每一轮结束后，敌人将获得【伤魂】*6。
+古神教于傀儡上铭刻失魂大阵，回合结束时，敌方获得【神殇】*10。¤A antiga Seita Divina gravou um grande阵亡灵魂阵在傀儡上。每回合结束时，敌人将获得【伤魂】*10。
+古神教于傀儡上铭刻失魂大阵，回合结束时，敌方获得【神殇】*16。¤A antiga Seita Divina gravou o Array do Espírito Perdido no pupilo, e ao final da rodada, o inimigo obteve [Sensação Ferida]x16.
+古神教于傀儡上铭刻失魂大阵，回合结束时，敌方获得【神殇】*22。¤A antiga Seita de Deus gravou o Array do Espírito Perdido no pupilo, e ao final da rodada, o inimigo obteve <color=FF0000>[Sensação Ferida]x22</color>.
 古神教于傀儡上铭刻失魂大阵，回合结束时，敌方获得【神殇】*28。¤A antiga Seita de Deus gravou o Array do Alma Perdido no pupilo, e ao final da rodada, o inimigo obteve <color=FF0000>[Sensação Ferida]x28.</color>
 神魂¤Alma
-傀儡中可以古神教秘法封印了一位炼气修士的神魂作为核心，回合结束时，获得【凝神】*6。¤Entre os marionetes, com o método secreto da Secta do Antigo Deus, a alma de um Cultiavador de Qi é selada como núcleo. No final da rodada, você receberá 【Sensação Concentrada】*6.
-傀儡中可以古神教秘法封印了一位筑基修士的神魂作为核心，回合结束时，获得【凝神】*10。¤Entre os bonecos, com o método secreto da Secta do Antigo Deus, a essência de um Cultivador Estabelecimento de Fundação é selada como núcleo. No final deste ciclo, você receberá 【Sensação Concentrada】*10.
-傀儡中可以古神教秘法封印了一位金丹修士的神魂作为核心，回合结束时，获得【凝神】*16。¤Entre os marionetes, com o método secreto da Secta do Antigo Deus, a essência de um Cultivador Núcleo Dourado é selada como núcleo central. No final deste ciclo, você receberá 【Percepção Concentrada】*16.
-傀儡中可以古神教秘法封印了一位元婴修士的神魂作为核心，回合结束时，获得【凝神】*22。¤Entre os fantoches, com o método secreto da Secta do Antigo Deus, a alma de um Cultivador de Nascença é selada como núcleo. No final da rodada, você receberá 【Sensação Concentrada】*22.
-傀儡中可以古神教秘法封印了一位化神修士的神魂作为核心，回合结束时，获得【凝神】*28。¤Entre os bonecos, com o método secreto da Secta Antiga Deus, a alma de um Cultivador de Transformação Divina é selada como núcleo. No final do ciclo, você receberá 【Sensibilidade Concentrada】*28.
+傀儡中可以古神教秘法封印了一位炼气修士的神魂作为核心，回合结束时，获得【凝神】*6。¤Entre os marionetes, com o método secreto da Seita do Antigo Deus, a alma de um Cultiavador de Qi é selada como núcleo. No final da rodada, você receberá 【Sensação Concentrada】*6.
+傀儡中可以古神教秘法封印了一位筑基修士的神魂作为核心，回合结束时，获得【凝神】*10。¤Entre os bonecos, com o método secreto da Seita do Antigo Deus, a essência de um Cultivador Estabelecimento de Fundação é selada como núcleo. No final deste ciclo, você receberá 【Sensação Concentrada】*10.
+傀儡中可以古神教秘法封印了一位金丹修士的神魂作为核心，回合结束时，获得【凝神】*16。¤Entre os marionetes, com o método secreto da Seita do Antigo Deus, a essência de um Cultivador Núcleo Dourado é selada como núcleo central. No final deste ciclo, você receberá 【Percepção Concentrada】*16.
+傀儡中可以古神教秘法封印了一位元婴修士的神魂作为核心，回合结束时，获得【凝神】*22。¤Entre os fantoches, com o método secreto da Seita do Antigo Deus, a alma de um Cultivador de Nascença é selada como núcleo. No final da rodada, você receberá 【Sensação Concentrada】*22.
+傀儡中可以古神教秘法封印了一位化神修士的神魂作为核心，回合结束时，获得【凝神】*28。¤Entre os bonecos, com o método secreto da Seita Antiga Deus, a alma de um Cultivador de Transformação Divina é selada como núcleo. No final do ciclo, você receberá 【Sensibilidade Concentrada】*28.
 奇门绝魂阵-生¤Qimen Jue Array de Alma-Vida
 每使用一次技能，获得【凝神】*（attack）。¤Cada vez que você usar uma habilidade, recebe 【Sensação Aumentada】*(ataque).
 奇门绝魂阵-死¤Qimen Jue Alma Array-Morto
@@ -4593,7 +4593,7 @@ npc白板-印¤npc Placa-Branca-Seal
 徒儿这么久都不来复命，可是被邪修抓去了？¤O discípulo não voltou há muito tempo, mas foi capturado pelo Cultivador Maligno?
 何故不来复命？¤Por que você não volta à vida?
 反了你了，这都多久了，不来复命？还认不认为师了？¤Está me desafiando, quanto tempo já passou, não voltou mesmo? Ainda acha que é meu professor?
-魔门入侵，武陵城危在旦夕。掌门有令，所有筑基期以上弟子火速前去支援。¤A Seção do Demônio invadiu e Wulin Cidade estava em perigo. O Mestre da Secta tem um comando, e todos os discípulos acima do estágio de Fundação Estabelecida se apressaram para auxiliar.
+魔门入侵，武陵城危在旦夕。掌门有令，所有筑基期以上弟子火速前去支援。¤A Seção do Demônio invadiu e Wulin Cidade estava em perigo. O Mestre da Seita tem um comando, e todos os discípulos acima do estágio de Fundação Estabelecida se apressaram para auxiliar.
 魔门入侵，武陵城，速去支援。¤A Seita do Demônio invadiu a Cidade de Wuling, apoie logo!
 为门派出力固然是好，但要是因此落下修炼，可就是因小失大了。¤É bom contribuir com o clã, mas se você cair no treinamento por isso, será um grande erro.
 最近，修为可有长进？¤Recentemente, o fundamento de cultivo melhorou?
@@ -4641,7 +4641,7 @@ npc白板-印¤npc Placa-Branca-Seal
 {FirstName}{xiongdi}！！！还有，一定要在800年前回来！！！不然师祖指不定何时就飞升了！！！¤{shixiong} {name}!!! E garanta que volte antes dos 800 anos!!! Ou então o Ancestral Mestre não saberá quando subirá ao céu!!!
 天劫将至，{FirstName}{xiongdi}快回白帝楼！¤A tribulação celestial está chegando, {shixiong} {name}, volta para a Torre do Imperador Branco!
 听说了么？白帝楼的陈长老把他私藏已久的一块功法玉简放到升仙台公开展示了！听说这块玉简可是神秘非常！{FirstName}{xiongdi}可一定要来瞧瞧啊！¤Ouvi dizer? O Velho Mestre Chen do Salão Imperador Branco expôs uma placa de jade de sua coleção secreta de técnicas no Píer da Ascensão dos Imortais! Dizem que essa placa de jade é muito misteriosa! {shidi} {FirstName}, você tem que vir dar uma olhada!
-{daoyou}，听说了么？白帝楼的陈长老把他私藏已久的功法玉简放到升仙台公开展示了，还亲自请了我金虹剑派前去解密，你也一定要来瞧瞧。¤{daoyou} você já ouviu? O Velho Chen do Panteão do Imperador Branco lançou uma pedra de jade com uma técnica da sua coleção secreta para exibição no Píer da Ascensão, e pessoalmente convidou minha Secta Espada Radiante para decifrá-la, então você também deve vir ver.
+{daoyou}，听说了么？白帝楼的陈长老把他私藏已久的功法玉简放到升仙台公开展示了，还亲自请了我金虹剑派前去解密，你也一定要来瞧瞧。¤{daoyou} você já ouviu? O Velho Chen do Panteão do Imperador Branco lançou uma pedra de jade com uma técnica da sua coleção secreta para exibição no Píer da Ascensão, e pessoalmente convidou minha Seita Espada Radiante para decifrá-la, então você também deve vir ver.
 {daoyou}，近来是否安好？白帝楼的陈长老在升仙台邀请天下剑修共同解密神秘功法，不知你可有兴趣，与我同去升仙台看看如何？¤{shidi}, como você tem estado recentemente? O Velho Mestre Chen do Salão Imperador Branco convidou todos os cultivadores de espada do mundo para decifrar uma técnica misteriosa. Se você estiver interessado, por que não me acompanha até a Terracota Elevada e verificamos juntos?
 {daoyou}，听说了么？白帝楼的陈长老把他私藏已久的功法玉简放到升仙台公开展示，这玉简可真是奇怪得很，你也来瞧一瞧，说不定也会有所收获。¤{shidi}, você já ouviu? O Velho Chen do Panteão do Imperador Branco liberou uma técnica de sua coleção oculta para ser exibida no Pátio da Ascensão, este papel realmente é estranho, venha dar uma olhada, talvez você consiga algum resultado.
 {FirstName}{xiongdi}，此番比试是我修为不精，甘拜下风。回去后我定会百倍努力修炼，你若有空，请务必来广陵城百里府与我再战一场！¤{shixiong} {name}, devido à minha fraca cultivação, esta competição foi meu erro. Estou disposto a ser derrotado. Se você estiver livre, por favor venha e lute comigo novamente na Casa Centenária em Cidade Guangling!
@@ -6623,9 +6623,9 @@ npc白板-印¤npc Placa-Branca-Seal
 事出反常必有妖，还是小心为上。¤Quando as coisas dão errado, sempre há demônios envolvidos, então é melhor ficar atento.
 那天狼帮主也不过一名先天武者，怎是你一合之敌？你三两招就重伤击退了他，巨鲸门上下感激涕零，其大师兄将镇门之宝赠与你。¤O Lorde da Gangue do Lobisomem Celestial é apenas um artesão marcial innato, como pode ser seu adversário? Você o repeliu em três ou duas pancadas, e toda a clã ficou tão grata que seu primogênito lhe deu o tesouro do clã.
 你感叹慢慢仙途，逆天而行，不论是天灾还是人祸，人各有命，便离开了。¤Lamentaste que o caminho para a imortalidade estivesse lentamente contrariando os céus, e se fosse um desastre natural ou causado por homens, cada um tem seu próprio destino, então partiraste.
-你悄悄跟上，探听到：“护法传信，叛徒在九嶷山附近显现。”“那地方靠近竹山宗，大家小心行事。”“哈哈看来追回嗜血珠的功劳有你我一份了。”“白痴，有人跟上我们了，你先去解决了他，其他人分开走，然后我们九嶷山回合。”¤Você segue em silêncio e espreita: "A Guardião da Secta enviou uma mensagem dizendo que o traidor apareceu perto do Monte Jiuyi." "E aquele lugar está próximo à Secta da Montanha de Bamboo, então todos fiquem atentos." "Haha, parece que você e eu vamos receber os créditos por recuperar a Perola Sangrenta." "Idiota, alguém nos está seguindo, você vai cuidar dele primeiro, os outros se dividirão e nos encontraremos no Monte Jiuyi."
+你悄悄跟上，探听到：“护法传信，叛徒在九嶷山附近显现。”“那地方靠近竹山宗，大家小心行事。”“哈哈看来追回嗜血珠的功劳有你我一份了。”“白痴，有人跟上我们了，你先去解决了他，其他人分开走，然后我们九嶷山回合。”¤Você segue em silêncio e espreita: "A Guardião da Seita enviou uma mensagem dizendo que o traidor apareceu perto do Monte Jiuyi." "E aquele lugar está próximo à Seita da Montanha de Bamboo, então todos fiquem atentos." "Haha, parece que você e eu vamos receber os créditos por recuperar a Perola Sangrenta." "Idiota, alguém nos está seguindo, você vai cuidar dele primeiro, os outros se dividirão e nos encontraremos no Monte Jiuyi."
 多一事，不如少一事。你转身离开了。¤Uma coisa melhor do que nenhuma. Você se vira e sai.
-你躲在远处暗中观察，隐约听到“青面鬼”，“宝物”等声音。而沂山派似乎准备不足，没能支撑太久，很快就四散而逃了。¤Você se esconde no distante e observa em segredo, vagamente ouvindo os sons de "fantasmas verdes" e "tesouros". A Secta Monte Yi parecia mal preparada e não duraria por muito tempo, e logo todos fugiram em todas as direções.
+你躲在远处暗中观察，隐约听到“青面鬼”，“宝物”等声音。而沂山派似乎准备不足，没能支撑太久，很快就四散而逃了。¤Você se esconde no distante e observa em segredo, vagamente ouvindo os sons de "fantasmas verdes" e "tesouros". A Seita Monte Yi parecia mal preparada e não duraria por muito tempo, e logo todos fugiram em todas as direções.
 沂山派与禾山道恶名在外，你可不想被卷进这场风波里。¤A Seita da Montanha Yi e a Seita da Colheita são famosas por suas disputas, então você não quer se envolver nesses tumultos.
 隐蔽洞窟¤Caverna Oculta
 你在一处陡峭的崖壁上发现了一个洞窟，洞口的位置很隐蔽，看来这会是一个不错的休息场所。你决定...？¤Você encontra uma caverna em uma face de penhasco íngreme com uma entrada oculta, e parece ser um bom lugar para descansar. Você decide...?
@@ -6684,12 +6684,12 @@ npc白板-印¤npc Placa-Branca-Seal
 获得【尘】*6¤Obtenha [Pó]*6
 以灵气温养的葫芦，用于储存灵尘，别派得之无用，却是化尘教入门弟子必备之物。¤O peplo criado com ar espiritual, usado para armazenar poeira espiritual, inútil para outras seitas, mas essencial para os iniciados da Seita do Deserto Móvel.
 主动：自身获得【驭金】*3¤Ative: Ganhos pessoais [Controle Metálico]x3
-金虹剑派的制式法器，由铸剑峰铸造，剑身的七星纹路更是仙气十足，不过剑派弟子多是养剑一脉，故门内不是很受欢迎。¤Esta é a arma padrão da Secta Espelunca Radiante, forjada pelo Pico da Luta com a Espada, e o padrão de sete estrelas na lâmina é muito encantador, mas os Discípulos da escola são principalmente do linhagem que levanta espadas, então não é muito popular dentro da escola.
+金虹剑派的制式法器，由铸剑峰铸造，剑身的七星纹路更是仙气十足，不过剑派弟子多是养剑一脉，故门内不是很受欢迎。¤Esta é a arma padrão da Seita Espelunca Radiante, forjada pelo Pico da Luta com a Espada, e o padrão de sete estrelas na lâmina é muito encantador, mas os Discípulos da escola são principalmente do linhagem que levanta espadas, então não é muito popular dentro da escola.
 乙木钟¤Campana Eterna
 主动：自身获得【驭木】*3¤Ative: Gana自身【木控制】*3
-竹山宗的制式法器，蕴含着木之灵气的翠绿木尺，对木系法术有不少增幅。¤O Regulador de Madeira Verde Jade é o armamento padrão da Secta Montanha do Bambu e contém a Energia do madeiro, que aumenta o dano das magias de madeiro.
+竹山宗的制式法器，蕴含着木之灵气的翠绿木尺，对木系法术有不少增幅。¤O Regulador de Madeira Verde Jade é o armamento padrão da Seita Montanha do Bambu e contém a Energia do madeiro, que aumenta o dano das magias de madeiro.
 主动：自身获得【驭水】*3¤Ativo: Ganhos pessoais [Controle Hídrico]x3
-星河剑派的制式法器，虽是量产之物，却也是不少门中弟子钟爱的的法宝。¤Esta é a arma padrão da Secta do Rio Celestial. Embora seja um item produzido em massa, também é uma preciosidade favorita de muitos Discípulos.
+星河剑派的制式法器，虽是量产之物，却也是不少门中弟子钟爱的的法宝。¤Esta é a arma padrão da Seita do Rio Celestial. Embora seja um item produzido em massa, também é uma preciosidade favorita de muitos Discípulos.
 主动：自身获得【驭火】*3¤Ative: Ganhos pessoais 【Controle do Fogo】x3
 离火门的制式法器，用料虽是普通，但于麒麟火中淬炼而成，深得离火门普通弟子喜爱。¤Esta é a arma padrão da Porta do Fogo Celestial. Embora feita de materiais comuns, ela é refinada no fogo do Qilin e é muito amada pelo Discípulo da Porta do Fogo Celestial.
 主动：自身获得【驭土】*3¤Ative: Ganhos pessoais [Controle da Terra] x3
@@ -6702,7 +6702,7 @@ npc白板-印¤npc Placa-Branca-Seal
 自传说时代流传至今的土系法术，不动如山，看起来十分巨大，但是在注入灵气使用时可大可小。¤O feitiço da terra, que vem de tempos lendários, parece estar fixo e muito grande, mas pode mudar de tamanho à vontade quando enfeitiçado com Qi.
 化尸白骨幡¤Fluxo de Índice Branco
 敌方获得【中毒】*5¤O inimigo ganha [Veneno]*5
-禾山道以极为阴毒的方式炼制而成的长幡，中此幡毒之人，只需一盏茶的功夫就会化为一滩血水。¤Uma longa fioqueira criada de forma extremamente enganosa pela Secta da Colheita. Quem for envenenado por essa fioqueira se transformará em uma poça de sangue em apenas um chá.
+禾山道以极为阴毒的方式炼制而成的长幡，中此幡毒之人，只需一盏茶的功夫就会化为一滩血水。¤Uma longa fioqueira criada de forma extremamente enganosa pela Seita da Colheita. Quem for envenenado por essa fioqueira se transformará em uma poça de sangue em apenas um chá.
 五阴袋¤Cinco Bolos de Yin
 敌方下回合无法使用装备技能。（仅对法器以下的装备有效）¤O inimigo não pode usar habilidade de equipamento no próximo turno. (Só funciona em equipamentos abaixo do nível de arma mágica)
 以生灵血污练就，孕育的一股五阴黑煞，一般的法器沾染上便会失去灵性。¤Forjada com o sangue de espíritos vivos, esta bolsa é uma fúria cinza de cinco yins, que fará armas mágicas normais perderem seu espírito quando forem contaminadas.
@@ -6753,13 +6753,13 @@ npc白板-印¤npc Placa-Branca-Seal
 本回合每使用一次金系技能，获得【剑气】*2¤Por uso da habilidade metálica neste turno, ganhe 【Ki de Espada】*2
 金虹剑派的特色法宝，由铸剑峰铸造的金虹剑仙佩剑的仿品。佩此剑仿佛可以获得金虹剑仙的庇佑。¤Uma cópia da espada do Imortal Espada Radiante forjada pelo Pico da Forja Espada, um tesouro mágico característico da Seita Espada Radiante. Usar essa espada é como estar sob a proteção do Imortal Espada Radiante.
 本回合每使用一次木系技能，获得【剑气】*2¤Por uso de Cúmulo Árvore nesta rodada, ganhe 【Eraço de Espada】*2
-竹山宗的特色法宝，蕴含着木之灵气的翠绿竹剑。¤Uma preciosidade mágica da Secta Montanha de bambú, a espada de bambu esmeralda que contém o Qi do madeiro.
+竹山宗的特色法宝，蕴含着木之灵气的翠绿竹剑。¤Uma preciosidade mágica da Seita Montanha de bambú, a espada de bambu esmeralda que contém o Qi do madeiro.
 本回合每使用一次水系技能，获得【剑气】*2¤Por uso de Habilidade Água nesta rodada, ganhe 【炁剑】*2
 星河剑派的特色法宝，星河仙子佩剑的量产之作。“谁不爱星河仙子呢！”¤Uma especialidade mágica da Secte do Rio Celestial, uma espada em massa usada pela Fada do Rio Celestial. 'Quem não ama a Fada do Rio Celestial!'
 本回合每使用一次火系技能，获得【剑气】*2¤Por uso de Habilidade de Fogo nesta rodada, ganhe 【Ki da Espada】*2
 离火门的特色法宝，剑身融入火麒麟鳞片，以麒麟火淬炼之后更是剑气逼人。¤Uma arma mágica especial da Porta do Fogo Celestial, a espada está impregnada com escamas de qilin de fogo e tornou-se ainda mais poderosa após ser refinada com fogo de qilin.
 本回合每使用一次土系技能，获得【剑气】*2¤Por uso de habilidade terrestre neste turno, ganhe 【Qi da Espada】*2
-化尘教的特色法宝，以锋锐著称，但不合适大多数化尘教修士的修行之道，所以即使在化尘教内部亦是少有人问津。¤Esta é uma arma mágica especial da Secta do Deserto Móvel, famosa por sua agudeza, mas não é adequada para a maioria de seus cultivadores, então, mesmo dentro da Secta do Deserto Móvel, é raramente utilizada.
+化尘教的特色法宝，以锋锐著称，但不合适大多数化尘教修士的修行之道，所以即使在化尘教内部亦是少有人问津。¤Esta é uma arma mágica especial da Seita do Deserto Móvel, famosa por sua agudeza, mas não é adequada para a maioria de seus cultivadores, então, mesmo dentro da Seita do Deserto Móvel, é raramente utilizada.
 血煞剑¤Espada Sangrenta
 下一次释放的技能获得【吸血】¤A próxima habilidade liberada ganha [suction de sangue]
 魔道法宝，炼制时加入汲血晶，能从敌人的伤口汲取血气温养自身。¤Uma arma mágica maligna feita com cristais sangrentos que podem extrair sangue das feridas do inimigo para nutri-lo.
@@ -6791,14 +6791,14 @@ npc白板-印¤npc Placa-Branca-Seal
 获得【剑气】*2¤Ganho [Qi de Espada]*2
 吸收一点对手的灵气¤Absorva um pouco da energia do seu adversário
 主动：本回合每使用一次金剑系技能，获得【剑气】*2¤Ative: Ganhe 【Qi de Espada】*2 a cada uso do habilidade do sistema Espada Dourada neste turno
-金虹剑派的特色法宝，由铸剑峰铸造的金虹剑仙佩剑的仿品。¤Um tesouro mágico especial da Secta Espelunca, uma réplica da Espada Perpétua forjada pelo Pico da Lãstica da Secta Espelunca.
+金虹剑派的特色法宝，由铸剑峰铸造的金虹剑仙佩剑的仿品。¤Um tesouro mágico especial da Seita Espelunca, uma réplica da Espada Perpétua forjada pelo Pico da Lãstica da Seita Espelunca.
 主动：本回合每使用一次木剑系技能，获得【剑气】*2¤Ative: Cada vez que você usar a技能【木剑】这一回合，你将获得【剑气】*2
 主动：本回合每使用一次水剑系技能，获得【剑气】*2¤Ative: Por uso da Habilidade Espada d'Água nesta rodada, você receberá 【Qi de Espada】*2
-星河剑派的特色法宝，星河仙子佩剑的仿品。¤Um tesouro mágico especial da Secta do Rio Celestial, uma imitação da espada usada pela Fada do Rio Celestial.
+星河剑派的特色法宝，星河仙子佩剑的仿品。¤Um tesouro mágico especial da Seita do Rio Celestial, uma imitação da espada usada pela Fada do Rio Celestial.
 主动：本回合每使用一次火剑系技能，获得【剑气】*2¤Ative: Por uso da Habilidade Espada Fogo neste turno, ganhe 【Ki da Espada】*2
 化尘剑¤Reencarnação Espada Terrestre
 主动：本回合每使用一次土剑系技能，获得【剑气】*2¤Ative: Cada vez que você usar uma habilidade de espada terrestre neste turno, ganha 【Qi da Espada】*2
-化尘教的特色法宝，以锋锐著称，即使在化尘教内部亦是少有人问津。¤Uma arma mágica especial da Secta do Deserto Móvel, famosa por sua agudeza, é raramente utilizada até mesmo dentro do Culto.
+化尘教的特色法宝，以锋锐著称，即使在化尘教内部亦是少有人问津。¤Uma arma mágica especial da Seita do Deserto Móvel, famosa por sua agudeza, é raramente utilizada até mesmo dentro do Culto.
 灵尘匣¤Caixa de Areia Espiritual
 获得【尘】*72¤Obtenha [Pó]*72
 珍贵材料炼制的法宝，能炼化储存大量灵尘。¤Um tesouro mágico feito de materiais preciosos, capaz de refinar e armazenar grandes quantidades de poeira espiritual.
@@ -6845,10 +6845,10 @@ npc白板-印¤npc Placa-Branca-Seal
 蕴涵神识之力，作响之时，可使人失魂落魄，战栗不稳。¤Contém o poder da Alma e quando soa, pode fazer com que as pessoas percam seu espírito e tremerem.
 乾天剑¤Espada do Céu Seco
 对敌方造成当前【剑气】*5点伤害¤Causa 5 pontos de dano à energia espada do inimigo atual <color=red>[Sword Qi]</color>*
-仙界玄道宗，取先天五灵之力，凝练而成的通天灵宝。¤Um tesouro celestial da Secta do Dao Místico do Mundo dos Imortais, criado tomando o poder dos cinco espíritos celestiais e condensando-os.
+仙界玄道宗，取先天五灵之力，凝练而成的通天灵宝。¤Um tesouro celestial da Seita do Dao Místico do Mundo dos Imortais, criado tomando o poder dos cinco espíritos celestiais e condensando-os.
 乾坤钟¤Sineta do Universo
 两回合后，敌方跳过此回合施法阶段。¤Depois de duas rodadas, o inimigo pula a fase de lançamento desta rodada.
-竹山宗镇宗之宝，以先天乙木自然生成，由竹山宗数代高手温养炼制而成，发动之时，锁天囚地无人能逃。¤Um tesouro da Secta da Montanha de bambu, naturalmente criado a partir do Madeiro Eterno Celestial e refinado por várias gerações de mestres da Secta da Montanha de Bambu, ao ser ativado, bloqueia os céus e aprisiona a terra, impedindo que ninguém escape.
+竹山宗镇宗之宝，以先天乙木自然生成，由竹山宗数代高手温养炼制而成，发动之时，锁天囚地无人能逃。¤Um tesouro da Seita da Montanha de bambu, naturalmente criado a partir do Madeiro Eterno Celestial e refinado por várias gerações de mestres da Seita da Montanha de Bambu, ao ser ativado, bloqueia os céus e aprisiona a terra, impedindo que ninguém escape.
 天地五方旗¤As Cinco Bandeiras do Céu e da Terra
 下一次使用的阵法类技能不消耗灵气¤As habilidades do Array não consumirão Qi na próxima utilização
 由“戊己”“青莲”“离地”“素色”“玄元”五阵旗合炼而成，能凝聚天地之灵气。¤É feito das cinco bandeiras de Wuji, Qinglian, Liji, Suce e Xuan Yuan. É uma combinação das cinco bandeiras dos Cinco Direitos do Céu e da Terra, e é capaz de reunir a energia espiritual do céu e da terra.
@@ -6866,7 +6866,7 @@ npc白板-印¤npc Placa-Branca-Seal
 铭刻了符文的战甲，笨拙但防御力不俗。¤Armadura de batalha inscrita com runas, pesada mas não ruim em defesa.
 金虹剑派普通弟子穿的道袍，灿金天蚕丝镶边，五翎点缀其上，彰显着传承和底蕴。¤O manto daoísta usado pelos discípulos comuns da Seita Espada Brilhante é bordado com seda celestial dourada brilhante e adornado com cinco penas, destacando sua herança e importância.
 竹山宗普通弟子穿的道袍，道心竹雕，工艺繁复，本身便蕴含了安神养神的阵法于其中。¤O manto daoísta usado pelo Discípulo Comum da Seção Montanha do Bambu está minuciosamente gravado com design de bambus e contém uma formação espiritual para acalmar e nutrir o espírito.
-星河剑派普通弟子穿的道袍，门内弟子按星宿又略有不同，在结阵时千变万化而不乱，全靠了这独特的道袍设计。¤A túnica usada pelo Discípulo Comum da Secta do Rio Celestial varia ligeiramente de acordo com os signos astrológicos, e o design único da túnica é a razão pela qual os Discípulos da secta são tão versáteis em sua formação.
+星河剑派普通弟子穿的道袍，门内弟子按星宿又略有不同，在结阵时千变万化而不乱，全靠了这独特的道袍设计。¤A túnica usada pelo Discípulo Comum da Seita do Rio Celestial varia ligeiramente de acordo com os signos astrológicos, e o design único da túnica é a razão pela qual os Discípulos da Seita são tão versáteis em sua formação.
 离火门普通弟子穿的道袍，有凝聚火灵气的作用，因此御寒性能极佳。¤O manto daoista usado pelos discípulos comuns da Porta do Fogo Celestial tem o efeito de condensar a aura do fogo, por isso é excelente para se proteger do frio.
 化尘教普通弟子穿的道袍，飘逸洒脱充满了异域风情，从编结上能看出弟子在门内的资历。¤O manto daoísta usado pelos discípulos comuns da Seita do Deserto Móvel flui e exala uma atmosfera exótica, e os nós revelam a hierarquia do discípulo dentro da seita.
 自身获得【御火】*3¤Ganho [Resistência ao Fogo] * 3
@@ -6945,7 +6945,7 @@ npc白板-印¤npc Placa-Branca-Seal
 金霆匣¤Caixa de Trovão Dourado
 天罡金璃剑¤Espada de Glávio Dourado da Cúpula Celestial
 主动：对敌方施加【易伤】*1。¤Ative: Aplicar [Vulnerável]*1 ao inimigo.
-由金虹剑派神兵阁执事所炼制的中品法器，其上铭刻聚灵符文。¤Uma arma mágica de grau médio refinada pelo Sacerdote da Sala de Armas Divina da Secta Espada Brilhante, com runas para atração de espíritos gravadas nela.
+由金虹剑派神兵阁执事所炼制的中品法器，其上铭刻聚灵符文。¤Uma arma mágica de grau médio refinada pelo Sacerdote da Sala de Armas Divina da Seita Espada Brilhante, com runas para atração de espíritos gravadas nela.
 天鑫环¤Chakram de Prosperidade Divina
 主动：自己获得【易伤】*1，本回合金系技能伤害+1，对敌方施加【易伤】*1¤Ative: Ganhe [Vulnerável] * 1 para si mesmo, +1 dano ao retorno desse Habilidade de Metal, aplique [Vulnerável] * 1 ao inimigo
 由金虹剑派神兵阁执事所炼制的中品法器，其上铭刻玄武灵纹，灵力更加强大，但对使用者也要求更高。¤Uma armadura mágica de grau médio refinada pelo Deacon da Galeria dos Armas Divinas da Seita Espada Radiante, com padrões espirituais do Tesouro Negro gravados nela, mais poderosa em espírito mas também mais exigente para o usuário.
@@ -7165,7 +7165,7 @@ npc白板-印¤npc Placa-Branca-Seal
 主动：获得【振水】*15，获得【疗】*30¤Ative: Obtenha [Ressonância Aquática] x15, receba [Curar] x30
 辰星剑¤Espada de Cinnabaro
 主动：造成180点水剑系伤害¤Ativo: Causa 180 pontos de dano da espada d'água
-上品纯阳法宝，星河剑派所炼制的五柄成套飞剑之一。¤O tesouro mágico puro de Yin, uma das cinco conjuntos de espadas voantes feitas pela Secta do Rio Celestial.
+上品纯阳法宝，星河剑派所炼制的五柄成套飞剑之一。¤O tesouro mágico puro de Yin, uma das cinco conjuntos de espadas voantes feitas pela Seita do Rio Celestial.
 星河¤Rio Celestial
 主动：造成36点水剑系伤害¤Ative: Causa {shidi} pontos de dano com uma espada d'água
 师父送你的见面礼。此剑驱使之时似有星河相伴，美不胜收，乃是不可多得的上品法器。据说是玄伶仙子年轻时所用，以此剑闻名天下，是师父最心爱的法器。¤Esta é uma dádiva do seu mestre. Quando você usar esta espada, parece ser acompanhada por um rio celeste, e é uma arma de alta qualidade rara. Diz-se que foi usada pela Fada Xuan Ling quando jovem, e é famosa pelo mundo inteiro.
@@ -7315,7 +7315,7 @@ npc白板-印¤npc Placa-Branca-Seal
 由化尘教神兵阁执事所炼制的中品法宝，其上铭刻聚灵符文。¤Uma arma mágica de grau médio feita pelo Sacerdote da Sala dos Armas Divinas do Vasto Deserto, inscrita com o Runo de Atração de Espíritos.
 落尘¤poeira caindo
 主动：获得【尘】*18，自身获得【灼烧】*1，对敌方施加【灼烧】*1¤Ative: Obtenha 【Polvo】*18, obtenha 【Queimadura】*1 para si mesmo, aplique 【Queimadura】*1 ao inimigo
-师父送你的见面礼。此环乃是化尘教内门的制式法器，依据教规，神兵阁炼制时须师父亲自参与，上面篆刻着你的名号。¤Um presente do seu mestre, este anel é um equipamento padrão da Secta dos Granéis de Areia, conforme as regras da secta, quando tesouros são forjados no Salão Celestial de Armas, o mestre deve participar. Seu nome está gravado nele.
+师父送你的见面礼。此环乃是化尘教内门的制式法器，依据教规，神兵阁炼制时须师父亲自参与，上面篆刻着你的名号。¤Um presente do seu mestre, este anel é um equipamento padrão da Seita dos Granéis de Areia, conforme as regras da Seita, quando tesouros são forjados no Salão Celestial de Armas, o mestre deve participar. Seu nome está gravado nele.
 尘障环¤Escudo de Areia Chakram
 主动：获得【尘】*2，获得【护罩】* 3¤Ative: Ganhe 【Polvo】*2, ganhe 【Escudo】*3
 锐锋剑¤Lâmina Afiada de Espada
@@ -7397,13 +7397,13 @@ npc白板-印¤npc Placa-Branca-Seal
 一包竹山秘籍¤Um pedaço dos Manuais Secreto da Montanha de Bambu
 当你的储物袋里出现了这个，就说明宁州告别了持续千年的安定。¤Quando isso aparecer na sua bolsa de armazenamento, significa que Ningzhou se despediu da estabilidade que durou mil anos.
 一个朴实无华的包裹，内含所有天阶的竹山宗不传之秘秘籍。¤Uma extensão despojada e simples que abriga todos os segredos e mistérios da Secte de Montanha de bambu do Céu, inúmeros e desconhecidos.
-一个朴实无华的包裹，内含所有地阶的竹山宗不传之秘秘籍。¤Uma área simples e despojada contendo todos os segredos inexprimíveis da Secta da Montanha de bambu do Ranque Terra.
-一个朴实无华的包裹，内含所有地阶的竹山宗普通秘籍。¤Um simples pacote contendo todos os manuais secretos ordinários da Secta Montanha de Varas do Planeta.
-一个朴实无华的包裹，内含所有人阶的竹山宗普通秘籍。¤Uma extensão simples e sem adornos contendo todos os manuais secretos ordinários da Secta Montanha de bambú do rango humano.
+一个朴实无华的包裹，内含所有地阶的竹山宗不传之秘秘籍。¤Uma área simples e despojada contendo todos os segredos inexprimíveis da Seita da Montanha de bambu do Ranque Terra.
+一个朴实无华的包裹，内含所有地阶的竹山宗普通秘籍。¤Um simples pacote contendo todos os manuais secretos ordinários da Seita Montanha de Varas do Planeta.
+一个朴实无华的包裹，内含所有人阶的竹山宗普通秘籍。¤Uma extensão simples e sem adornos contendo todos os manuais secretos ordinários da Seita Montanha de bambú do rango humano.
 一包金虹秘籍¤Um pedaço dos manuais secretos da Espada Radiante
-一个朴实无华的包裹，内含所有天阶的金虹剑派不传之秘秘籍。¤A área simples e despojada contendo todos os segredos inexprimíveis da Secta Espelunca Radiante do Céu.
-一个朴实无华的包裹，内含所有地阶的金虹剑派不传之秘秘籍。¤A área simples e despojada contendo todos os segredos incontáveis da Secta Espada Radiante do Reino Terra.
-一个朴实无华的包裹，内含所有地阶的金虹剑派普通秘籍。¤Uma área simples e sem adornos contendo todos os manuais secretos comuns da Secta Espada Radiante do Reino Terra.
+一个朴实无华的包裹，内含所有天阶的金虹剑派不传之秘秘籍。¤A área simples e despojada contendo todos os segredos inexprimíveis da Seita Espelunca Radiante do Céu.
+一个朴实无华的包裹，内含所有地阶的金虹剑派不传之秘秘籍。¤A área simples e despojada contendo todos os segredos incontáveis da Seita Espada Radiante do Reino Terra.
+一个朴实无华的包裹，内含所有地阶的金虹剑派普通秘籍。¤Uma área simples e sem adornos contendo todos os manuais secretos comuns da Seita Espada Radiante do Reino Terra.
 一个朴实无华的包裹，内含所有人阶的金虹剑派普通秘籍。¤Uma área simples e sem adornos contendo todos os manuais secretos comuns da Seita Espada Radiante do Rango Humano.
 一包星河秘籍¤Um pedaço de manuais secretos do Rio Celestial
 一个朴实无华的包裹，内含所有天阶的星河剑派不传之秘秘籍。¤A área simples e não decorada contendo todos os segredos inexplorados da Seção do Rio Céleste Rango Céu.
@@ -7422,7 +7422,7 @@ npc白板-印¤npc Placa-Branca-Seal
 一个朴实无华的包裹，内含所有人阶的化尘教普通秘籍。¤Um pacote simples e sem adornos contendo todos os segredos ordinários da Seção de Areia Móvel do Rango Humano.
 金刃¤Folha Metálica
 金系基础入门法术，聚气凝金，凝金成刃，不难掌握。¤Feitiço de entrada no elemento metal, condensa Qi em metal e transforma metal em lâminas, fácil de dominar.
-金虹剑派入门法术，能够提升战斗中吸收金系灵气的速度。¤Um feitiço de introdução da Secta Espada Radiante, capaz de aumentar a velocidade de absorção de Qi Metálico em batalha。
+金虹剑派入门法术，能够提升战斗中吸收金系灵气的速度。¤Um feitiço de introdução da Seita Espada Radiante, capaz de aumentar a velocidade de absorção de Qi Metálico em batalha。
 金罡斩¤Corte de Metal Primordial
 金系中阶法术，相比于金刃威能提升不少，若使用得当还可恢复气力。¤Um feitiço intermediário para usuários de metal, é muito mais poderoso que a Lâmina de Metal e pode restaurar energia se usado corretamente.
 破势¤Quebra de Postura
@@ -7430,20 +7430,20 @@ npc白板-印¤npc Placa-Branca-Seal
 金光罩¤Barreira Dourada
 金系基础防御法术，凝金刚之力护体，金光闪闪，形如钟罩。¤Elemento metálico, arte defensiva básica, concentra o poder do Qi Metálico para proteger o corpo, reluz como ouro e tem forma de sino.
 纵地金光¤Luidez Metálica
-金虹剑派秘术，一种能够在短时间内快速运转体内灵气的法术。¤Esta é uma arte secreta da Secta Espelunca, que permite aumentar seu Qi por um curto período de tempo.
+金虹剑派秘术，一种能够在短时间内快速运转体内灵气的法术。¤Esta é uma arte secreta da Seita Espelunca, que permite aumentar seu Qi por um curto período de tempo.
 千刃术¤Mil Espadas
 金虹剑派天阶杀招，化气成刃，以连续不断的剑招攻击对手。¤Escola da Espada Radiante, arte final do céu, condensar a Qi em lâminas e atingir o inimigo com ondas intermináveis de golpes.
 千钧斩¤Corte Mil Toneladas
 金系地阶法术，力有千钧，有击溃灵气护盾的效果。¤Elemento metal, arte do nível Terra, atinge com a força de mil toneladas, eficaz contra Escudos de Qi.
 刺穴¤Acupuntura
-金虹剑派秘术，一种以刺激穴位来增加短期内吸收灵气速度的法门，但也有一定的副作用。¤O arte secreta da Secta Espada Radiante, uma habilidade que estimula pontos de pressão para aumentar o ritmo de absorção de Qi a curto prazo, mas também possui certos efeitos colaterais.
+金虹剑派秘术，一种以刺激穴位来增加短期内吸收灵气速度的法门，但也有一定的副作用。¤O arte secreta da Seita Espada Radiante, uma habilidade que estimula pontos de pressão para aumentar o ritmo de absorção de Qi a curto prazo, mas também possui certos efeitos colaterais.
 金虹贯日¤Brilhante Descanso do Sol
 金虹剑仙所创的天阶剑系杀招，厚积薄发，一击制敌，名闻天下，声震九州。¤Movimento letal de espada tipo céu de Espada Radiante Imortal, acumula momentum primeiro e derrota o inimigo num único golpe, e seu nome é famoso em todos os nove continentes.
 截脉¤Corte dos Meridianos
 金系中阶法术，通过独特的点穴手法，使对手进入滞气的状态。¤Uma feitiço de nível médio do elemento Metal que faz o adversário entrar em um estado de Qi Obstruído através de uma forma única de acupuntura de pontos vitais.
 归元剑气¤Qi de Espada Primal
 金系剑术，锋利的剑气能够阻止伤口的愈合，使对手进入流血的状态。¤A arte da espada metálica, a Espada Qi afiada pode impedir o processo de cura das feridas e fazer o adversário entrar em um estado de sangramento.
-金虹剑派入门法术，积蓄力量对对手造成大量伤害。¤Um feitiço introdutório à Secta Espada Radiante, que acumula poder para infligir dano massivo ao adversário.
+金虹剑派入门法术，积蓄力量对对手造成大量伤害。¤Um feitiço introdutório à Seita Espada Radiante, que acumula poder para infligir dano massivo ao adversário.
 金元剑芒¤Aura da Espada Dourada
 金系剑术，以金属性灵气凝聚成锋利的剑芒伤敌。¤Uma arte de espada do elemento Metálico, onde o usuário concentra sua Qi metálica em uma aura afiada de espada para ferir o inimigo.
 金系高阶防御法术，因为释放困难所以很少有人能够掌握，但效果不俗。¤Esta é uma magia defensiva metálica de alto nível que raramente é dominada porque é difícil liberar, mas é eficaz.
@@ -7469,26 +7469,26 @@ npc白板-印¤npc Placa-Branca-Seal
 通穴¤Conexão de Ponto-Acupuncture
 金系法门，催动经脉金锐之气强行通穴，可在临战时压制并稍许治愈所受内伤。¤Habilidade do elemento metal, força a conexão de pontos de pressão com o Qi de metal, pode suprimir e proporcionar um curativo limitado a ferimentos internos em combate.
 振穴¤Vibração de Ponto-Acupuncture
-金虹剑派高阶秘术，在危急关头能大幅提升神通威能，但也会对自身产生一定的副作用。¤A alta-falante habilidade secreta da Secta Espada Radiante, que pode aumentar significativamente o poder dos domínios divinos, mas também terão certos efeitos colaterais.
-金虹剑派高阶秘术，在不同情况下灵活运用可以大幅提升蓄势的威能。¤A alta-falante habilidade secreta da Secta Espada Radiante, que pode ser usada em diferentes situações para aumentar significativamente a força reunida.
+金虹剑派高阶秘术，在危急关头能大幅提升神通威能，但也会对自身产生一定的副作用。¤A alta-falante habilidade secreta da Seita Espada Radiante, que pode aumentar significativamente o poder dos domínios divinos, mas também terão certos efeitos colaterais.
+金虹剑派高阶秘术，在不同情况下灵活运用可以大幅提升蓄势的威能。¤A alta-falante habilidade secreta da Seita Espada Radiante, que pode ser usada em diferentes situações para aumentar significativamente a força reunida.
 木刺¤Picos de Madeira
 木系基础入门法术，凝气生木，曲直成刺，不难掌握。¤Elemento madeira, nível inicial, feitiço de elemento madeira. Condensa a Qi de Madeira em espinhos, não é difícil de aprender.
-竹山宗入门法术，能够提升战斗中吸收木系灵气的速度。¤Esta é um feitiço introdutório da Secta da Montanha de Bambu, que aumenta a velocidade de absorção de Qi木质在战斗中的吸收。
+竹山宗入门法术，能够提升战斗中吸收木系灵气的速度。¤Esta é um feitiço introdutório da Seita da Montanha de Bambu, que aumenta a velocidade de absorção de Qi木质在战斗中的吸收。
 树牢术¤Presídio da Árvore
 木系中阶法术，相比于木刺威能提升不少，若使用得当还有困敌之效。¤Um feitiço de madeira intermediário muito mais poderoso que as Espinhos de Madeira e possui o efeito de aprisionar o inimigo se usado corretamente.
 寄杖诀¤Controle do Escritório
-竹山宗秘术，对于木灵根资质好的修士效果更佳。¤Esta é uma habilidade secreta da Secta da Montanha do Bambu. É mais eficaz para o Cultivador com raízes de espiritualidade madeireira bem desenvolvidas.
+竹山宗秘术，对于木灵根资质好的修士效果更佳。¤Esta é uma habilidade secreta da Seita da Montanha do Bambu. É mais eficaz para o Cultivador com raízes de espiritualidade madeireira bem desenvolvidas.
 木壁术¤Parede de Árvores
 木系基础防御法术，凝曲木之气护体，坚固非常，形如木壁。¤Elemento madeira, feitiço básico de defesa, concentra Qi de madeira para proteger o corpo, criando uma parede de madeira resistente.
 青蛇劲¤Arte da Cobra Azul
 青蛇上人所创法术，将蛇毒融入灵气之中，使敌人防不胜防。¤Uma ilusão criada pelo Senhor Cisne Azul que incorpora veneno de cobra ao Qi, deixando o inimigo indefeso.
 腐毒咒¤Feitiço de Veneno Putrefatório
-竹山宗毒术，看似不起眼的法术攻击却可以令敌人在没有防备的情况下身中剧毒。¤Um supostamente insignificante feitiço da Secta Montanha do bambu que pode envenenar um inimigo quando o inimigo não estiver protegido.
+竹山宗毒术，看似不起眼的法术攻击却可以令敌人在没有防备的情况下身中剧毒。¤Um supostamente insignificante feitiço da Seita Montanha do bambu que pode envenenar um inimigo quando o inimigo não estiver protegido.
 引毒咒¤Extração Venenosa
-竹山宗秘术，能够引动在敌人体内埋下的毒素。¤A habilidade secreta da Secta Montanha do Bambu que extrai venenos plantados no corpo do inimigo.
+竹山宗秘术，能够引动在敌人体内埋下的毒素。¤A habilidade secreta da Seita Montanha do Bambu que extrai venenos plantados no corpo do inimigo.
 缠木¤Ligar Árvores
 木系中阶法术，能引动树木生长缠绕敌人。¤Um feitiço de madeira intermediário que faz as árvores crescerem e se enrolarem no inimigo.
-竹山宗秘术，能够瞬间引动敌人体内的毒素，令人防不胜防。¤A habilidade secreta da Secta Montanha de bambu que ativa imediatamente venenos no corpo do inimigo, tornando impossível defender-se contra eles.
+竹山宗秘术，能够瞬间引动敌人体内的毒素，令人防不胜防。¤A habilidade secreta da Seita Montanha de bambu que ativa imediatamente venenos no corpo do inimigo, tornando impossível defender-se contra eles.
 寄生引血术¤Parásito Sanguessuga
 一种一旦困住敌方便能够吸收其精血的诡异法术，曾一度被认为是魔道法门。¤Um feitiço estranho que pode absorver a Vida de um inimigo preso. Uma vez considerado um feitiço maligno.
 木系法术，以木灵气激活肉体活性，能够在短时间内提升肉体强度。¤Feitiço de madeira que ativa o corpo com Ki da Madeira e pode aumentar rapidamente a força do corpo da pessoa.
@@ -7523,15 +7523,15 @@ npc白板-印¤npc Placa-Branca-Seal
 木系天阶法门，中此咒者将被极为坚韧的灵气丝线缠住，动弹不得。¤Elemento madeira, Habilidade do Céu, quem for atingido por esta habilidade ficará envolvido por fios de Qi extremamente resistentes e não poderá se mover.
 水枪¤Jato d'Água
 水系基础入门法术，聚气化水，凝水成枪，不难掌握。¤Elemento água, feitiço básico de nível inicial, condensa o Qi em água e a água se transforma em uma lança. Fácil de entender.
-星河剑派入门法术，能够提升战斗中吸收水系灵气的速度。¤É um feitiço introdutório da Secta do Rio Celestial e pode aumentar a velocidade de absorção de Ki Água em batalha.
+星河剑派入门法术，能够提升战斗中吸收水系灵气的速度。¤É um feitiço introdutório da Seita do Rio Celestial e pode aumentar a velocidade de absorção de Ki Água em batalha.
 水龙弹¤Bomba Dragão Aquático
 水系中阶法术，相比于水枪威能提升不少，若使用得当还可恢复体力。¤Esta é uma magia de nível intermediário d'água mais poderosa que a Jato d'Água e também pode restaurar saúde se usada corretamente.
 御水诀¤Hidroquinseia
-星河剑派秘术，能够吸收调体内的一部分灵气转换成水系灵气。¤A técnica secreta da Secta do Rio Celestial, que pode utilizar parte do Qi no corpo e transformá-lo em Qi de Água
+星河剑派秘术，能够吸收调体内的一部分灵气转换成水系灵气。¤A técnica secreta da Seita do Rio Celestial, que pode utilizar parte do Qi no corpo e transformá-lo em Qi de Água
 水罩术¤Barreira d'Água
 水系基础防御法术，凝寒水之气护体，源流不绝，形如水罩。¤Elemento d'água, técnica básica de defesa, condensa a qi d'água para proteger o corpo, uma carapaça d'água ininterrupta.
 滥觞¤Energia Emergindo
-星河剑派秘术，能够在短时间内快速补充自身灵气。¤O arte secreta da Secta do Rio Celestial, capaz de rapidamente recarregar o Qi em um curto período de tempo.
+星河剑派秘术，能够在短时间内快速补充自身灵气。¤O arte secreta da Seita do Rio Celestial, capaz de rapidamente recarregar o Qi em um curto período de tempo.
 幻雾术¤Arte do Mistério do Deserto
 水系法门，用水雾笼罩自身以迷惑对手。¤Uma magia d'água que usa névoa d'água para envolver o praticante e confundir o adversário.
 避火诀¤Arte de Evitar Fogo
@@ -7551,23 +7551,23 @@ npc白板-印¤npc Placa-Branca-Seal
 云雾剑法¤Artesanato da Espada Mista
 水系地阶剑法，施展时会产生云雾幻象，极难防备。¤Habilidade de Espada Água do Rango Terra que cria uma ilusão de nuvens e nevoeiro quando executada, tornando extremamente difícil sua defesa.
 玄冰凝骨术¤Morte Congelada
-星河剑派天阶法门，以玄冰之力冻结对手，使其无法行动。¤Esta habilidade do Grau Céu da Secta Rioscópico congela seu adversário com o poder do gelo, deixando-os imóveis.
+星河剑派天阶法门，以玄冰之力冻结对手，使其无法行动。¤Esta habilidade do Grau Céu da Seita Rioscópico congela seu adversário com o poder do gelo, deixando-os imóveis.
 冰雨术¤Feitiço da Chuva de Gelo
 星河剑派秘术，召唤一阵密集的冰雨攻击对手。¤Técnica secreta da Secte do Rio Celestial,招来一片浓重的冰雨伤害敌人。
 惊涛剑诀¤Espada Ondulante Marítima
-星河剑派独门基础剑术，运用惊涛之力化作剑气，虽杀气不足但胜在后继之力延绵不绝。¤Esta habilidade da Secta do Rio Celestial utiliza a força das marés para se transformar em Qi de Espada. Embora careça de intenção letal, vence com sua poderosa e contínua energia.
+星河剑派独门基础剑术，运用惊涛之力化作剑气，虽杀气不足但胜在后继之力延绵不绝。¤Esta habilidade da Seita do Rio Celestial utiliza a força das marés para se transformar em Qi de Espada. Embora careça de intenção letal, vence com sua poderosa e contínua energia.
 怒水天殇¤Lâmina da Onda Furiosa
 星河剑派独门进阶剑术，运用惊涛之力化作攻击。¤Uma arte de espada avançada da Secte do Rio Celestial que utiliza a força das marés e as transforma em golpes.
 破釜沉舟¤O Último Ponto de Resistência
 星河剑派独门地阶剑术，运用惊涛之力化作剑气，剑招一往无前。¤Uma arte de espada avançada da Secte do Rio Celestial que usa a força das marés para se transformar em Qi de Espada.
 柔水无痕¤Água Suave
-星河剑派秘法，运用止水之力治疗自身。¤A habilidade secreta da Secta do Rio Celestial que usa o poder da Água Calma para se curar.
+星河剑派秘法，运用止水之力治疗自身。¤A habilidade secreta da Seita do Rio Celestial que usa o poder da Água Calma para se curar.
 静水无波¤Água Calma
-星河剑派秘法，运用止水之力形成护罩防御己身。¤A habilidade secreta da Secta do Rio Celestial que usa o poder da Água Calma para formar uma barreira de defesa.
+星河剑派秘法，运用止水之力形成护罩防御己身。¤A habilidade secreta da Seita do Rio Celestial que usa o poder da Água Calma para formar uma barreira de defesa.
 否极泰来¤Inverte o Mar de Destinos
 星河剑派秘法，取否极泰来之意，置之死地而后生。¤Técnica secreta da Secte do Rio Celestial, encontra a esperança de vida através da aproximação da morte.
 泰然无波¤Tranquilo no Caos
-星河剑派玄伶仙子根据本门剑法所创法诀，用以运气调息、平衡惊涛止水的攻守之势。¤A Habilidade criada pela Mestra Estrelasoa da Secta Rioscóltico-celeste baseada em sua própria arte de espada, equilibrando onda marinha e água calma.
+星河剑派玄伶仙子根据本门剑法所创法诀，用以运气调息、平衡惊涛止水的攻守之势。¤A Habilidade criada pela Mestra Estrelasoa da Seita Rioscóltico-celeste baseada em sua própria arte de espada, equilibrando onda marinha e água calma.
 刚柔并济¤Rígido e Flexível
 星河剑派秘法，以运气调息同时调动惊涛止水之力。¤O método secreto da Secte do Rio Celestial para mobilizar a força das marés e das águas calmas ao mesmo tempo enquanto respira.
 水系法门，在体内留下一道灵气，以疏通气血，是一种生效缓慢但效果显著的治疗法术。¤Uma Habilidade Aquática que deixa um Qi no corpo para desobstruir o fluxo vital, um feitiço de cura lento mas eficaz.
@@ -7652,7 +7652,7 @@ npc白板-印¤npc Placa-Branca-Seal
 以灵纹的方式将麒麟之血铭刻在掌心，来引动麒麟真火。¤O sangue do qilin está inscrito na palma da mão em forma de padrão espiritual para invocar o fogo verdadeiro do qilin.
 落石¤Pedra Caída
 土系基础入门法术，凝气化土，聚土落石，不难掌握。¤Elemento da Terra, técnica de entrada básica, condensa Qi em terra, reúne a terra em rochas, fácil de dominar.
-化尘教入门法术，能够提升战斗中吸收土系灵气的速度。¤Uma habilidade de introdução da Secta do Deserto Móvel que pode aumentar a velocidade de absorção de Qi da Terra em combate.
+化尘教入门法术，能够提升战斗中吸收土系灵气的速度。¤Uma habilidade de introdução da Seita do Deserto Móvel que pode aumentar a velocidade de absorção de Qi da Terra em combate.
 地龙术¤Habilidade Dragão Terra
 土系中阶法术，相比于落石威能提升不少，若使用得当还可形成灵气护盾保护自身。¤Um feitiço terrestre intermediário, muito mais poderoso que Pedra Caída, se usado corretamente também pode formar uma barreira de Qi para proteger a si mesmo.
 土墙术¤Muralha Terrestre
@@ -7684,11 +7684,11 @@ npc白板-印¤npc Placa-Branca-Seal
 崩岩术¤Martelar Rochas
 土系中阶法术，有一定概率能够在攻击对手的同时为自身提供护盾。¤Um feitiço terrestre intermediário que tem uma certa chance de proporcionar um escudo a si mesmo enquanto ataca o adversário.
 大陨岩术¤Grande Pedra do Meteoro
-化尘教天阶秘术，操控引力凝聚巨岩攻击敌方。¤A técnica secreta da Secta do Deslocamento de Areia, manipulando a Gravidade para condensar rochas gigantes para atingir o inimigo.
+化尘教天阶秘术，操控引力凝聚巨岩攻击敌方。¤A técnica secreta da Seita do Deslocamento de Areia, manipulando a Gravidade para condensar rochas gigantes para atingir o inimigo.
 天崩地裂¤Colapso Celestial
 化尘教地阶御尘秘术，用时地动山摇，威力浩大。¤Esta é uma magia de pó da terra do rango terrestre que sacode montanhas e terra com poder imenso.
 天星若雨¤Estrela Céu Como Chuva
-化尘教天阶御尘秘术，用时犹如陨石如雨。¤Esta é uma Habilidade de Controle de Areia do Rango Celestial da Secta das Cinzas Móveis, que pode ser usada como uma chuva de meteoritos.
+化尘教天阶御尘秘术，用时犹如陨石如雨。¤Esta é uma Habilidade de Controle de Areia do Rango Celestial da Seita das Cinzas Móveis, que pode ser usada como uma chuva de meteoritos.
 沙缚¤Vinculação de Areia
 化尘教地阶控沙秘术，操纵灵沙攻击敌人。¤Técnica secreta da Seção do Deserto Móvel de controlar o areia no nível do chão, manipulando a areia espiritual para atingir o inimigo.
 化尘教人阶控沙秘术，操纵灵沙束缚敌人。¤Sect de Areia Móvel, Técnica Secreta de Manipulação de Areia do Rango Humano, controla areia espiritual para aprisionar inimigos.
@@ -7700,7 +7700,7 @@ npc白板-印¤npc Placa-Branca-Seal
 卸甲¤Retirada da Armadura
 化盾还尘之法，将防御用的护罩变成重新化作灵尘收回来。¤Técnica de Areia Móvel transforma a defesa em fuligem espiritual.
 熔火盾¤Escudo de Fogo Derretido
-化尘教人阶火土双属性技能秘术，以火生土，增强防御。¤Esta é uma habilidade de dois atributos fogo e terra da Secta do Deserto Móvel que usa fogo para criar terra, melhorando a defesa.
+化尘教人阶火土双属性技能秘术，以火生土，增强防御。¤Esta é uma habilidade de dois atributos fogo e terra da Seita do Deserto Móvel que usa fogo para criar terra, melhorando a defesa.
 基础入门法术，施展后能够在短时间内提升土系术法的威能。¤Um feitiço introdutório básico que aumenta o poder das Habilidades de Terra por um curto período de tempo.
 土系地阶法术，以厚土之意结印，以五行相生之力护体。¤Feitiço do tipo Terra, formando um selo com o intuito de ter solo fértil e proteger o corpo através da força dos cinco elementos.
 三山印¤Três Selo da Montanha
@@ -7709,7 +7709,7 @@ npc白板-印¤npc Placa-Branca-Seal
 化尘教入门法术，消耗尘以对敌人造成伤害。¤Técnica de entrada da Seção Areias Móveis. Consome areia para danificar o inimigo.
 土系中阶法门，常被用来克制灵气充沛但爆发不足的修士。¤Um feitiço de nível intermediário no Domínio Terra, frequentemente usado para reter um Cultivador com abundância, mas insuficientes, surtos de energia espiritual.
 化尘教地阶控沙秘术，将灵沙附着在对手身上以吸取对手的灵气。¤Técnica secreta da Seção do Deserto Móvel de controlar areia no nível do chão, aderindo areia espiritual ao adversário para absorver a energia vital do oponente.
-化尘教天阶秘术，能够自如操控一方天地间的引力，增强神通的威能。¤A técnica secreta da Secta do Deslocamento de Areia pode manipular livremente a Gravidade entre os céus e a terra, aumentando o poder dos poderes sobrenaturais.
+化尘教天阶秘术，能够自如操控一方天地间的引力，增强神通的威能。¤A técnica secreta da Seita do Deslocamento de Areia pode manipular livremente a Gravidade entre os céus e a terra, aumentando o poder dos poderes sobrenaturais.
 运气术¤Sorte Encantada
 运转并调整体内灵气的小技巧，只要是引气入体后的炼气期修士都能掌握。¤Uma pequena Habilidade para operar e ajustar a energia espiritual no corpo, que pode ser dominada por qualquer Cultivador na fase de Refino do Qi após吸入体内的Qi。
 五行颠倒术¤Habilidade de Inversão dos Cinco Elementos
@@ -7747,7 +7747,7 @@ npc白板-印¤npc Placa-Branca-Seal
 猛鬼探空手¤Mão de Furor Fantasmagórico
 禾山道秘技，被炼化的阴魂可以穿墙越室，无影无踪，使人防不胜防。¤Esta é uma Habilidade Secreta da Seção Colheita. O espírito refinado pode passar por paredes e cômodos sem deixar rastro, tornando impossível sua defesa.
 五鬼附身术¤Habilidade de Posse por Cinco Fantasmas
-禾山道秘技，能够将鬼魂之力归附到肉身上，倍增肉身的强横。¤Esta é uma Habilidade Secreta da Secta Colheita, que pode attaches o poder dos espíritos ao corpo e multiplicar a força do corpo.
+禾山道秘技，能够将鬼魂之力归附到肉身上，倍增肉身的强横。¤Esta é uma Habilidade Secreta da Seita Colheita, que pode attaches o poder dos espíritos ao corpo e multiplicar a força do corpo.
 啖魂术¤Habilidade de Deglutição de Alma
 禾山道秘技，以自身精血为代价召唤鬼魂之力。¤A técnica secreta da Dou He Shan, onde o poder das almas é chamado a custo do próprio sangue essencial.
 血祭噬魂术¤Rituale Sangrento de Absorção de Almas
@@ -7837,7 +7837,7 @@ npc白板-印¤npc Placa-Branca-Seal
 凝神咒¤Feitiço de Concentração
 神识系法术，能够临时凝聚精神，提升神识。¤Um feitiço do Sistema de Percepção da Alma que temporariamente reúne o espírito e potencializa a Percepção da Alma.
 噬魂诀¤Habilidade de Absorção de Almas
-禾山道秘技，能够直接攻击敌方最脆弱的神识，对神识力量弱于自身的敌人效果尤为显著。¤A habilidade secreta da Secta Colheita que atinge diretamente a vulnerabilidade do Sentido Alma do inimigo, sendo particularmente eficaz contra inimigos cujo Sentido Alma é mais fraco que o seu.
+禾山道秘技，能够直接攻击敌方最脆弱的神识，对神识力量弱于自身的敌人效果尤为显著。¤A habilidade secreta da Seita Colheita que atinge diretamente a vulnerabilidade do Sentido Alma do inimigo, sendo particularmente eficaz contra inimigos cujo Sentido Alma é mais fraco que o seu.
 隐匿术¤Habilidade de Ocultação
 一种隐匿自身踪迹的法门，但遇到神识高于自己的对手时就会被轻松识破。¤A habilidade de esconder suas pegadas, mas pode ser facilmente detectada quando se encontrar com um oponente com um Sentido Alma superior ao seu.
 刺魂术¤Perfurando o Espírito
@@ -7896,7 +7896,7 @@ npc白板-印¤npc Placa-Branca-Seal
 离火剑法¤A Habilidade de Luta Sem Fogo
 离火门的入门剑招，几乎无人问津，似乎朴素寻常至极。¤A postura de entrada da Porta do Fogo Celestial é praticamente desconhecida e parece simples ao extremo, mas há algo estranho nela.
 化尘剑法¤Transmutação de Espada Terrestre
-原是化尘教的入门剑招，在宗门内无人问津，几近失传，不知何时便流传开来。¤Originalmente um movimento de espada de iniciação da Secta do Deserto Móvel, ele foi deixado inalterado e quase perdido dentro da secta, e por algum tempo foi transmitido.
+原是化尘教的入门剑招，在宗门内无人问津，几近失传，不知何时便流传开来。¤Originalmente um movimento de espada de iniciação da Seita do Deserto Móvel, ele foi deixado inalterado e quase perdido dentro da Seita, e por algum tempo foi transmitido.
 万剑诀¤Arte Marcial de Mil Espadas
 剑系杀招，厚积薄发，积攒的剑气越多，杀伤力也越是强大。¤A cada vez que você acumular mais Qi de Espada, maior será o poder letal.
 隐藏在御剑门藏经阁灵气匾之中的神秘法术，使用得当便可快速积攒【剑气】。¤Uma técnica misteriosa escondida na Placa de Qi da Torre Oculta do Livro da Espada Real, que pode ser utilizada para acumular rapidamente [Qi de Espada] quando empregada corretamente.
@@ -7931,8 +7931,8 @@ npc白板-印¤npc Placa-Branca-Seal
 水系阵法，能引聚天地灵水，不断以水系灵气治疗布阵者。¤Formações aquáticas podem reunir a água espiritual do céu e da terra e curar continuamente a pessoa que estabeleceu a formação com energia espiritual aquática.
 水系阵法，能将敌人困于冰阵之中，修为低者更是难以抵挡。¤O Array Água pode aprisionar o inimigo em uma formação de gelo, dificultando a resistência para aqueles com cultivamento baixo.
 由数名星河剑派弟子联手施展的剑阵，一旦入阵就会收到连绵不绝的攻击。¤A formação de espada realizada por vários Discípulos da Seção Rios Célestes, ao entrar nessa formação eles receberão golpes contínuos.
-化尘教秘术，通过大阵操控巨量尘土以保护阵中之人。¤A técnica secreta da Secta do Deserto Móvel consiste em manipular grandes quantidades de areia através de uma formação grande para proteger aqueles dentro dela.
-化尘教秘术，通过大阵操控巨量尘土以攻击骚扰阵内的敌人。¤A Habilidade Secreta da Secta do Deserto Móvel, que usa a formação para manipular grandes quantidades de areia para atacar e importunar o inimigo dentro da formação.
+化尘教秘术，通过大阵操控巨量尘土以保护阵中之人。¤A técnica secreta da Seita do Deserto Móvel consiste em manipular grandes quantidades de areia através de uma formação grande para proteger aqueles dentro dela.
+化尘教秘术，通过大阵操控巨量尘土以攻击骚扰阵内的敌人。¤A Habilidade Secreta da Seita do Deserto Móvel, que usa a formação para manipular grandes quantidades de areia para atacar e importunar o inimigo dentro da formação.
 土系阵法，利用引力束缚攻击阵中之人，一旦入阵很快便会力竭。¤Array de Terra, usando ligações gravitacionais para atingir aqueles na formação; uma vez dentro da formação, eles logo se exaurirão.
 剑系阵法，以地煞之力驭剑，若能使用得当，威力惊人。¤Esta Formação de Espada, que utiliza a força da terra para impulsionar o espadão, pode ser extremamente poderosa se utilizada corretamente.
 天阶剑系防御阵法，依托玄武真意布阵，可使剑气化生盾气护体。¤Formação de Defesa com Espada Celestial, baseada na Verdadeira Vontade da Tartaruga Negra para estabelecer a formação, permitindo que a Energia Espadística se transforme em Qi de Escudo para proteger o corpo.
@@ -7954,8 +7954,8 @@ npc白板-印¤npc Placa-Branca-Seal
 裂丹诀¤Habilidade de Dividir Dan
 化尘教秘术，能够提升碎丹结婴时的成功率，仅能在结婴时使用。¤A habilidade secreta da Sect do Areial Móvel, capaz de aumentar a taxa de sucesso ao quebrar o Dan e formar uma Alma Jovem, pode ser usada apenas quando se está formando uma Alma Jovem.
 星河剑派秘术，能够提升碎丹结婴时的成功率，仅能在结婴时使用。¤Habilidade Secreta da Seção do Rio Celestial pode aumentar a taxa de sucesso na formação de elixir quebrada, mas só pode ser utilizada no momento da formação.
-金虹剑派秘术，能够提升碎丹结婴时的成功率，仅能在结婴时使用。¤Habilidade Secreta da Secta Espada Radiante, capaz de aumentar a taxa de sucesso ao quebrar o Dan e formar um Nascença, pode ser usada apenas no momento da formação do Nascença.
-竹山宗秘术，能够提升碎丹结婴时的成功率，仅能在结婴时使用。¤A Habilidade Secreta da Secta Montanha de Bambu, que pode aumentar a taxa de sucesso ao quebrar o Dan e formar um Nascent, pode ser utilizada apenas quando se está formando um Nascent.
+金虹剑派秘术，能够提升碎丹结婴时的成功率，仅能在结婴时使用。¤Habilidade Secreta da Seita Espada Radiante, capaz de aumentar a taxa de sucesso ao quebrar o Dan e formar um Nascença, pode ser usada apenas no momento da formação do Nascença.
+竹山宗秘术，能够提升碎丹结婴时的成功率，仅能在结婴时使用。¤A Habilidade Secreta da Seita Montanha de Bambu, que pode aumentar a taxa de sucesso ao quebrar o Dan e formar um Nascent, pode ser utilizada apenas quando se está formando um Nascent.
 结婴秘术，若运用得当可短暂抵御心魔，仅能在结婴时使用。¤A Habilidade Secreta do Array Emersivo, se usada corretamente, pode brevemente afastar demônios e só pode ser utilizada durante o Array Emersivo.
 逆周天结婴术¤Reversão de Circunstâncias Habilidade de Array Nascença
 凝练元婴的秘术，高效但同时对经脉有一定的损害，仅能在结婴时使用。¤A habilidade secreta para a formação de um Nascent é altamente eficaz, mas também prejudicial aos meridianos, e pode ser usada apenas durante a formação do Nascent.
@@ -7990,10 +7990,10 @@ npc白板-印¤npc Placa-Branca-Seal
 金系天阶中庸类功法，专修朝元之法，战时可御使金气化生金罡护罩护体。¤Técnica de general do elemento Metal do Céu. Capaz de formar uma Barreira usando a Energia Qi Metal para se proteger.
 金系天阶战斗类功法，能够在战时化生一阴一阳两道灵刃护主，自行反击敌人。¤A técnica de combate celestial dourada é capaz de gerar uma espada espiritual yin e uma espada espiritual yang para proteger seu mestre em batalha e contra-atacar o inimigo por conta própria.
 金系地阶修炼类功法，修炼者凝聚先天少阴精气化生天晶，可提升修炼速度，战时能提升金灵气的吸收。¤O tipo de técnica de cultivo do nível metais que envolve o praticante reunir a essência nativa Shao Yin para transformá-la em cristais celestiais, o que aumenta a velocidade de cultivo e potencializa a absorção de energia espiritual dourada em tempos de guerra.
-金虹剑派秘传天阶中庸类功法，修炼者以少阴金道参悟太阴之力，以六虚真意攻伐，使敌破绽百出。¤A técnica secreta da Classe Mediúnica da Secta Espada Radiante, onde o cultivador usa a Shao Yin Golden Dao para compreender o poder do Tai Yin e atacar com as Seis Verdades Vazias, fazendo o inimigo desmoronar.
+金虹剑派秘传天阶中庸类功法，修炼者以少阴金道参悟太阴之力，以六虚真意攻伐，使敌破绽百出。¤A técnica secreta da Classe Mediúnica da Seita Espada Radiante, onde o cultivador usa a Shao Yin Golden Dao para compreender o poder do Tai Yin e atacar com as Seis Verdades Vazias, fazendo o inimigo desmoronar.
 金系人阶战斗类功法，化气为剑，重如万钧，可使修为有进，战斗时以灵气为代价积蓄攻势伤敌。¤Esta é uma técnica de cultivo dourada que transforma a qi em uma espada, pesando 10.000 libras, permitindo que você avance em seu cultivo e use sua qi para construir um golpe para ferir o inimigo durante o combate.
-金虹剑派秘传地阶战斗类功法，可在战斗中不断积蓄攻势，愈战愈勇，凶猛非常。¤A técnica de combate em nível terrestre secreta da Secta Espada Radiante permite que você acumule seu impulso ofensivo em batalha, e mais você luta, mais feroz você se torna.
-金虹剑派秘传地阶战斗类功法，独辟蹊径，将剑气物尽其用，直攻破绽，尽展锋锐，故名神剑。¤A técnica de combate subterrânea secreta da Secta Espada Radiante é única por utilizar ao máximo a energia das espadas, atacando as fraquezas e exibindo sua afiada natureza, por isso o nome Excalibur.
+金虹剑派秘传地阶战斗类功法，可在战斗中不断积蓄攻势，愈战愈勇，凶猛非常。¤A técnica de combate em nível terrestre secreta da Seita Espada Radiante permite que você acumule seu impulso ofensivo em batalha, e mais você luta, mais feroz você se torna.
+金虹剑派秘传地阶战斗类功法，独辟蹊径，将剑气物尽其用，直攻破绽，尽展锋锐，故名神剑。¤A técnica de combate subterrânea secreta da Seita Espada Radiante é única por utilizar ao máximo a energia das espadas, atacando as fraquezas e exibindo sua afiada natureza, por isso o nome Excalibur.
 金系地阶战斗类功法，修炼者须参悟七杀之意，战时凶猛狠厉，见血则喜。¤Esta é uma técnica de combate de ranque ouro que exige que o praticante compreenda as Sete Intenções Letais e seja feroz e implacável em batalha.
 金系人阶中庸类功法，修炼者须修以重元之法，则可在蓄势时攻守兼备，以势护体。¤Esta é uma técnica de nível médio da Classe Dourada, que exige que o cultivador utilize o método dos elementos pesados para proteger o corpo contra golpes e defesas ao acumular momentum.
 地阶功法，以五行相生的顺序运转灵气时能大幅提升自身防御。¤Uma técnica do nível terrestre que pode significativamente melhorar a defesa própria ao conduzir o Qi no ordenamento dos cinco elementos.
@@ -8002,14 +8002,14 @@ npc白板-印¤npc Placa-Branca-Seal
 流光真决¤Artes de Radiância Cintilante
 金虹剑派秘传地阶战斗类功法，流光万丈，以内伤为代价提升五行连击的威力。¤A técnica de combate do nível Terra do Vale Espelunco, <color=ff0000>Brilho Flutuante</color>, aumenta o poder das cinco combinações elementais ao custo de ferimentos internos.
 金系地阶中庸类功法，修炼者法金翎托天之象修炼己身，专精金系神通，战时可攻守兼备。¤É uma técnica dourada que permite ao cultivador nutrir o corpo usando a penas douradas para cultivar a imagem do céu, especializando em habilidades divinas douradas e permitindo ataques e defesas em batalha.
-金虹剑派秘传天阶中庸类功法，藏离于心，虚己克敌，战斗时牺牲自己的防御以求伤敌。¤A técnica secreta da Classe Mediúnica da Secta Espelunca Radiante, que oculta a separação do coração e vence o inimigo sacrificando sua própria defesa para ferir o adversário.
+金虹剑派秘传天阶中庸类功法，藏离于心，虚己克敌，战斗时牺牲自己的防御以求伤敌。¤A técnica secreta da Classe Mediúnica da Seita Espelunca Radiante, que oculta a separação do coração e vence o inimigo sacrificando sua própria defesa para ferir o adversário.
 金虹剑派秘传天阶中庸类功法，修炼者须修以重元之法，则可使战时攻势守势轮转不息。¤A técnica secreta de nível Celestial da Escola Espelhante da Lâmina, que exige que os cultivadores pratiquem o método dos elementos pesados, permite uma rotação infinita entre posições ofensivas e defensivas durante a batalha.
 木系人阶战斗类功法，养木千日，生木一时，能够在战时提升木系神通威力。¤Técnica de classe de combate humanoide de madeira, cultivando madeira por mil dias e germinando madeira em um instante, capaz de aumentar o poder das habilidades divinas baseadas em madeira durante a batalha.
 木系人阶中庸类功法，修炼者平日里培养灵藤护体，可在战斗之初出其不意将敌人缠绕。¤Esta é uma técnica de madeira de grau médio que permite ao cultivador criar espirais de espírito para proteger o corpo e enredar o inimigo surpreendentemente no início da batalha.
 木系人阶修炼类功法，修炼者参悟春草之意，可使修为有进，亦可使战后精元不散。¤Esta é uma técnica de cultivo florestal que permite ao cultivador entender o significado das grama da primavera, permitindo-lhe melhorar seu cultivo e manter sua essência intacta após a batalha.
 竹山宗秘传地阶战斗类功法，由青蛇真人所创，自成一派。¤A técnica de combate da classe secreta do nível solo da Família Montanha de Bamboo, criada pela Cisne Verde, é uma escola à parte.
 木系地阶修炼类功法。¤Técnica de cultivo madeireiro.
-竹山宗秘传地阶战斗类功法，修炼此功法后可逐渐将让体内灵气附带毒素，一招一式都能使对手身中剧毒。¤Esta Habilidade é uma técnica secreta de combate básico da Secta Montanha do bambu.
+竹山宗秘传地阶战斗类功法，修炼此功法后可逐渐将让体内灵气附带毒素，一招一式都能使对手身中剧毒。¤Esta Habilidade é uma técnica secreta de combate básico da Seita Montanha do bambu.
 大衍诀¤A Grande Habilidade de Difração
 木系地阶修炼类功法，修习者可以提升神识。¤Esta é uma técnica de cultivo florestal da classe Terra que permite ao cultivador melhorar sua Percepção Cósmica.
 木系地阶中庸类功法，可在战斗中以耗散的木气不断治疗自身。¤A Técnica de Classe da Terra Madeira Nível Médio que permite que você se cure continuamente com Qi Madeira decaído durante o combate.
@@ -8022,7 +8022,7 @@ npc白板-印¤npc Placa-Branca-Seal
 竹山宗秘传地阶战斗类功法，修炼者参悟万象，参悟寄生不止之法。¤A técnica de combate da classe terrestre do Clã Montanha de Bamboo, em que o praticante abarca todos os elefantes e aprende que parasitismo é mais do que apenas um método.
 木系地阶战斗类功法，修炼者参悟万象，可在战斗中以耗散的木气缠绕敌人。¤A técnica de combate da Terra-madeira do 3.600º nível que permite ao cultivador compreender milhares de imagens e enredar o inimigo com a madeira espiritual dissipando em batalha.
 木系人阶战斗类功法，上青茂茂，遇水则华，此功依靠五行相生提升神通威力。¤Técnicas de combate humano-rank de madeira, a alta Mão Mão Verde, quando encontra água, é deslumbrante. Esta técnica se baseia nos cinco elementos para aumentar o poder das habilidades divinas.
-竹山宗秘传地阶战斗类功法，九冲真解，得水则华，战斗时依靠五行相生给敌人施加负面状态。¤A técnica de combate secreta da Secta Montanha do bambu, a Nove Vazamentos Verdadeiro Remédio, depende dos cinco elementos para causar estados negativos ao inimigo durante o confronto.
+竹山宗秘传地阶战斗类功法，九冲真解，得水则华，战斗时依靠五行相生给敌人施加负面状态。¤A técnica de combate secreta da Seita Montanha do bambu, a Nove Vazamentos Verdadeiro Remédio, depende dos cinco elementos para causar estados negativos ao inimigo durante o confronto.
 木系地阶中庸类功法，修炼者法青鸾转生之象修炼己身，专精木系神通，战时可攻守兼备。¤Esta é uma técnica de madeira intermediária que permite ao cultivador cultivar seu corpo no estilo da reencarnação de Verde Luan, especializando-se em habilidades divinas de madeira e permitindo ataque e defesa em batalha.
 竹山宗秘传天阶战斗类功法，阳春百花，敌乱则华，战斗时敌人负面状态越多，灵气运转越顺畅。¤A técnica de combate celestial secreta da Clã do Monte Bambú, Cem Flores Primaveril. Quanto mais estados negativos o inimigo tiver em batalha, mais suavemente a aura flui.
 竹山宗秘传天阶修炼类功法，修炼时以剧毒灌注周身精血，可使修为一日千里，战斗时以毒摄血，阴狠非常。¤A técnica secreta de cultivo celestial da Família Monte bambu, que usa veneno para infundir o sangue ao redor do corpo durante o cultivo, pode aumentar a velocidade de cultivo em um dia, e na luta, usa veneno para drenar sangue, sendo extremamente viciante.
@@ -8031,7 +8031,7 @@ npc白板-印¤npc Placa-Branca-Seal
 水系人阶战斗类功法，修炼此功可在幻雾中运气自如。¤Esta é uma técnica de combate baseada em água que pode ser praticada com facilidade no nevoeiro ilusório.
 水系人阶修炼类功法，修炼者参悟化雨之意，可使修为有进，亦可使战时精血不断恢复。¤Esta é uma técnica de cultivo humana baseada em água que permite ao cultivador compreender o significado da chuva e melhorar seu cultivo, além de recuperar sua sangue em batalha.
 水系地阶中庸类功法，修炼此功可用水系神通不断恢复己身。¤Esta é uma técnica baseada em água intermediária que lhe permite usar suas habilidades divinas de água para restaurar constantemente seu corpo.
-星河剑派秘传地阶战斗类功法，此功专修幻雾真意，可在闪避时摄取敌人灵气。¤Esta técnica é um segredo de combate básico da Secta do Rio Celestial, especializada no Ilusório Vapores Verdadeiro e que pode levar a aura do inimigo ao se esquivar.
+星河剑派秘传地阶战斗类功法，此功专修幻雾真意，可在闪避时摄取敌人灵气。¤Esta técnica é um segredo de combate básico da Seita do Rio Celestial, especializada no Ilusório Vapores Verdadeiro e que pode levar a aura do inimigo ao se esquivar.
 水系地阶战斗类功法，此功练成者可驭怒涛之力，不断攻击敌人。¤Esta é uma técnica de combate terrestre baseada em água que permite ao praticante aproveitar o poder das ondas turbulentas e atacar o inimigo continuamente.
 水系地阶战斗类功法，此功法可催动体内所聚真气攻击敌人，真气越多伤害越惊人。¤Esta técnica pode ser usada para atacar o inimigo com a verdadeira qi reunida no seu corpo, mais qi você tiver, mais dano poderá causar.
 水系地阶修炼类功法，此法法龙象之意，气可吞海，可养壮丹田。¤Esta técnica tem o significado de dragão e elefante, e o qi pode engolir o mar e nutrir e fortalecer o dantian.
@@ -8047,10 +8047,10 @@ npc白板-印¤npc Placa-Branca-Seal
 星河剑派秘传地阶战斗类功法，可蓄金水五行相生之力。¤A técnica de combate do quinto nível terrestre da Secte do Rio Celestial pode acumular o poder dos cinco elementos de ouro e água.
 重水普渡诀¤Habilidade de Cultivo Água Pesada Pudu
 水系地阶中庸类功法，修炼者法重水普度之象修炼己身，专精水系神通，战时可攻守兼备。¤Esta é uma técnica de água de grau médio que permite ao cultivador nutrir o corpo com a imagem da permeabilidade da água, especializando-se em habilidades divinas aquáticas e permitindo tanto ataques quanto defesas em batalha.
-星河剑派秘传天阶战斗类功法，敌人霜冻越高，伤害越高。¤A técnica de combate secreta da classe celestial da Secta do Rio Celestial. Maiores os gelos inimigos, maiores os danos.
+星河剑派秘传天阶战斗类功法，敌人霜冻越高，伤害越高。¤A técnica de combate secreta da classe celestial da Seita do Rio Celestial. Maiores os gelos inimigos, maiores os danos.
 水系天阶中庸类功法，是传承自上古神兽玄武的独到吐纳法门。¤É uma técnica de exalação única herdada do antigo divino tartaruga preta.
 水系地阶中庸类功法，此功修炼冰魄真意，修习者可精通霜冻之法。¤Esta técnica cultiva a verdadeira intenção do espírito gelado e permite que o cultivador se habilite na arte do gelo.
-星河剑派秘传天阶战斗类功法，星河剑派惊涛止水之道的集大成之作。¤A técnica de combate celestial secreta da Secta do Rio Celestial, um primor da Via da Secta do Rio Celestial no uso da força das marés e da água calma.
+星河剑派秘传天阶战斗类功法，星河剑派惊涛止水之道的集大成之作。¤A técnica de combate celestial secreta da Seita do Rio Celestial, um primor da Via da Seita do Rio Celestial no uso da força das marés e da água calma.
 火系人阶战斗类功法，烈炎存心，塑火弄焰，能够在战时提升火系神通威力。¤A técnica de combate terrenal Chama em Combate, Chamas Ardentes, é capaz de aumentar o poder das habilidades divinas baseadas no fogo em batalha.
 火系人阶中庸类功法，修炼者能以火焰包裹自身，甚至与火焰化为一体。¤A técnica de classe média do Fogo que permite ao cultivador envolver-se em chamas e até mesmo se fundir com elas.
 魔焰诀¤Habilidade de Flameira Mágica
@@ -8072,16 +8072,16 @@ npc白板-印¤npc Placa-Branca-Seal
 离火门秘传天阶战斗类功法，修炼者战时可用火灵气增加火系神通伤害。¤Esta é uma técnica de combate celestial secreta da Porta do Fogo Celestial que permite aos cultivadores aumentarem o dano de seu Qi de Fogo em batalha.
 龙族九玄大圣为控制九龙天雷火而创出的火系功法，修习者可将九龙天雷火纳入体内。¤Uma técnica de fogo criada pelo Grande Sábio Jiū Xuán da Clã Dragão para controlar o Fogo do Trovão Celestial dos Nove Dragões.
 土系人阶战斗类功法，厚土之意，力能撼山，能够在战时提升土系神通威力。¤Esta é uma técnica de combate do tipo humano-terra com o intuito de fortalecer a terra e o poder para abalar montanhas, capaz de aumentar o poder das habilidades divinas baseadas em terra durante o confronto.
-土系人阶中庸类功法，亦是化尘教入门弟子必学之核心功法。¤Esta também é uma técnica fundamental que os iniciados da Secta do Deserto Móvel devem aprender.
+土系人阶中庸类功法，亦是化尘教入门弟子必学之核心功法。¤Esta também é uma técnica fundamental que os iniciados da Seita do Deserto Móvel devem aprender.
 地元炼体功¤Habilidade de Refinamento do Corpo do Elemento Terra
 土系人阶修炼类功法，修炼者以大地之元炼体，可使修为有进，亦可使身体健壮。¤Esta é uma técnica de cultivo terrestre em que o cultivador utiliza a energia da terra para refinar seu corpo, permitindo-lhe melhorar seu cultivo e fortalecer seu corpo.
 土系地阶战斗类功法，不断以土系灵气凝聚成护罩保护自身。¤Esta é uma técnica de combate do grau terrestre que constantemente utiliza Qi da terra para formar um escudo e se proteger.
 土系地阶中庸类功法，修炼者战斗时可通过消散土灵气聚尘。¤Esta é uma técnica de grau terra e classe média que permite ao cultivador reunir poeira dissipando a aura terrestre durante o combate.
-化尘教秘传地阶中庸类功法，此法可在引力状态下引聚灵气护体。¤Esta é uma técnica secreta da Secta do Deserto Móvel que pode ser usada para proteger o corpo ao reunir energia espiritual em um estado gravitacional.
+化尘教秘传地阶中庸类功法，此法可在引力状态下引聚灵气护体。¤Esta é uma técnica secreta da Seita do Deserto Móvel que pode ser usada para proteger o corpo ao reunir energia espiritual em um estado gravitacional.
 土系天阶中庸类功法，修炼后可操控灵尘辅助自身吸收天地灵气。¤Após cultivar a técnica dourada do céu e da terra, você pode manipular as partículas espirituais para auxiliar na absorção do Qi do céu e da terra.
 土系地阶中庸类功法，修炼后可将体内灵气化作护甲。¤Esta é uma técnica de classe média do terceiro nível que pode transformar o Qi no corpo em armadura após a cultivação.
-化尘教秘传天阶中庸类功法，此法可通过使用使用神通聚集尘土。¤A técnica secreta da Secta do Deserto Móvel, uma técnica de classe média do Círculo Celestial. Este método pode ser usado para reunir areia através do uso das forças divinas.
-化尘教秘传地阶中庸类功法，此法可在引力状态下强化尘沙运转。¤A técnica secreta da Secta do Deserto Móvel, uma técnica de classe média da classe Terra. Este método fortalece o funcionamento do areia e do pó em um estado gravitacional.
+化尘教秘传天阶中庸类功法，此法可通过使用使用神通聚集尘土。¤A técnica secreta da Seita do Deserto Móvel, uma técnica de classe média do Círculo Celestial. Este método pode ser usado para reunir areia através do uso das forças divinas.
+化尘教秘传地阶中庸类功法，此法可在引力状态下强化尘沙运转。¤A técnica secreta da Seita do Deserto Móvel, uma técnica de classe média da classe Terra. Este método fortalece o funcionamento do areia e do pó em um estado gravitacional.
 土系天阶中庸类功法，修炼后便能自如操控周天引力控制灵尘。¤Depois de praticar a técnica celestial dourada do meio do sistema terrestre, você pode manipular livremente a Gravidade dos céus e da terra para controlar o pó espiritual.
 土系地阶修炼类功法，修炼者凝聚先天混沌精气化为真土，可提升修炼速度，战时能提升土灵气的吸收。¤Uma técnica de cultivo do terceiro nível que faz com que o cultivador condense a essência intrínseca do caos em verdadeira terra, aumentando a velocidade de cultivo e melhorando a absorção de energia espiritual terrestre durante o combate.
 土系地阶中庸类功法，与人对战时能自行凝聚灵沙包围敌人。¤Uma técnica de cultivo terrestre intermediária que pode cercar o inimigo com areia espiritual ao combater com outros.
@@ -8094,7 +8094,7 @@ npc白板-印¤npc Placa-Branca-Seal
 上古流传至今的天阶战斗类功法，相传此功法已有灵性，会自己寻找每一代的传人。¤A técnica de combate celestial, que vem sendo transmitida desde tempos antigos, é dita ter uma natureza espiritual e encontrará seu próprio sucessor em cada geração.
 从宁州古迹出世的天阶修炼类功法，效果惊人，没有人知道它的来历。¤Uma técnica de cultivo do tipo celestial que emergiu de um monumento de Ningzhou com efeitos surpreendentes, ninguém sabe de onde veio.
 天阶中庸类功法，又名《阵道》，实乃阵法一道的集大成之作，也是最出名的天阶功法之一。¤Também é conhecido como o {daotiao} do Array, que na verdade é uma obra-prima da Arte do Array e uma das técnicas mais famosas do Rango Celestial de Mérito.
-人阶战斗类功法，虽然只是禾山道的入门功法，但也只能禾山道的门人才能发挥它最大的功效。¤A Habilidade de Combate da Ordem Humana, embora apenas uma técnica introdutória da Secta Colheita, pode ser utilizada em seu máximo potencial apenas por Discípulos da Secta Colheita.
+人阶战斗类功法，虽然只是禾山道的入门功法，但也只能禾山道的门人才能发挥它最大的功效。¤A Habilidade de Combate da Ordem Humana, embora apenas uma técnica introdutória da Seita Colheita, pode ser utilizada em seu máximo potencial apenas por Discípulos da Seita Colheita.
 流传甚广的一本入门战斗类功法，能在对战时提升凝聚灵气的速度。¤Uma técnica de combate amplamente difundida inicial que pode aumentar a velocidade de coleta de Qi durante o treino de luta.
 飞云劲¤Poder Nuvem Voante
 流传甚广的一本入门中庸类功法，修炼后有提气轻身的效果，是不错的逃遁手段。¤Uma técnica introdutória e amplamente difundida de nível intermediário que eleva o qi e leva o corpo a flutuar, tornando-se uma boa maneira de escapar.
@@ -8254,7 +8254,7 @@ npc白板-印¤npc Placa-Branca-Seal
 提升心境的丹药。极为少见的一种二品丹药，服用后有平心静气地功效，常被用于闭关前调整心境。¤Uma poção que eleva o humor. Uma rara pílula do segundo grau, ela tem um efeito calmante após ser ingerida e é frequentemente usada para ajustar o humor antes da retirada.
 御剑丹¤Pílula Canção de Espada
 下场战斗开始时，获得【剑气】*1¤Ganhe [Qi de Espada]*1 no início da próxima batalha
-二品战斗类丹药。由御剑门流传出来，以特殊手法培育的灵材之中蕴含剑气，以此材料来炼制的丹药，服用者即使不是剑修也可以产生剑气。¤Segunda-grade de combate Pílula. Pílula feita pela Secta Espada Imperial, cuidadosamente cultivada usando técnicas secretas e plantas medicinais ricas em energia espiritual, de forma que até mesmo cultivadores que não são cultivadores de Espada podem produzir Qi Espada assim que forem ingeridos.
+二品战斗类丹药。由御剑门流传出来，以特殊手法培育的灵材之中蕴含剑气，以此材料来炼制的丹药，服用者即使不是剑修也可以产生剑气。¤Segunda-grade de combate Pílula. Pílula feita pela Seita Espada Imperial, cuidadosamente cultivada usando técnicas secretas e plantas medicinais ricas em energia espiritual, de forma que até mesmo cultivadores que não são cultivadores de Espada podem produzir Qi Espada assim que forem ingeridos.
 二品战斗类丹药。蕴含着金灵气，服用后能短暂提升对金系灵气的感知和运用，但有些许副作用不可多用。¤Segunda-grade de combate. Contém qi metálico e pode temporariamente aumentar a percepção e o uso do qi metálico após o consumo, mas há alguns efeitos colaterais e não pode ser usado com frequência.
 森木丹¤Pílula de Caverna Venenosa
 二品战斗类丹药。蕴含着木灵气，服用后能短暂提升对木系灵气的感知和运用，但有些许副作用不可多用。¤Segunda-grade de combate Pílula. Contém qi de madeira, e pode aumentar temporariamente a percepção e o uso de qi de madeira após o consumo, mas há alguns efeitos colaterais e não pode ser usado com frequência.
@@ -8340,7 +8340,7 @@ npc白板-印¤npc Placa-Branca-Seal
 土系灵根权重永久+2¤Raiz espiritual terrestre de peso permanente +2
 玄古丹¤Antigo Órgão Profundo
 寿元+5,资质+1¤Vida +5, Aptidão +1
-提升寿元的丹药。由衡州玄古门以秘术炼制，丹药通体鲜红，透露出诡异的香甜。¤O Pílula que Aumenta a Longevidade. Refinada pela Venerável Secta Antiga de Hengzhou com uma técnica secreta, as pílulas são de um vermelho brilhante e exalam um aroma estranho e suave.
+提升寿元的丹药。由衡州玄古门以秘术炼制，丹药通体鲜红，透露出诡异的香甜。¤O Pílula que Aumenta a Longevidade. Refinada pela Venerável Seita Antiga de Hengzhou com uma técnica secreta, as pílulas são de um vermelho brilhante e exalam um aroma estranho e suave.
 四品恢复类丹药。有万物回春之效，恢复效果极佳，是金丹期修士常备之药。¤Uma pílula de recuperação do quarto ano. Ela possui o efeito de ressuscitar tudo e tem um excelente efeito de recuperação, sendo uma medicina frequentemente utilizada por cultivadores do estágio Núcleo Dourado.
 易经丹¤Pílula de Qi Avançado
 修为+15840，境界不足金丹期时服用，额外获得30丹毒。¤Cultivação +15840, obtido quando o reino está abaixo da fase do Núcleo Dourado, ganhando mais 30 Poisões de Símbolo.
@@ -8547,7 +8547,7 @@ npc白板-印¤npc Placa-Branca-Seal
 多生长在金灵气充足的地方，多用来炼丹，以提升对金系灵气感知和运用。¤Cresce principalmente em lugares com uma quantidade abundante de Qi metálico e é frequentemente usado na alquimia para melhorar a percepção e utilização do Qi metálico.
 多生长在水灵气充足的地方，多用来炼丹，以提升对水系灵气感知和运用。¤Cresce principalmente em lugares onde a Qi de Água é abundante e é frequentemente usado na alquimia para melhorar a percepção e utilização da Qi de Água.
 多生长在土灵气充足的地方，多用来炼丹，以提升对土系灵气感知和运用。¤Geralmente cresce em lugares onde a energia do solo é abundante e é usado na alquimia para melhorar a percepção e utilização da energia do solo.
-最初由御剑门以芦荟为原料，培育的灵材，对于剑修大有裨益。¤Originariamente cultivado pela Secta Espada Imperial usando aloe vera como matéria-prima, este material espiritual é altamente benéfico para o Cultivador de Espadas.
+最初由御剑门以芦荟为原料，培育的灵材，对于剑修大有裨益。¤Originariamente cultivado pela Seita Espada Imperial usando aloe vera como matéria-prima, este material espiritual é altamente benéfico para o Cultivador de Espadas.
 紫猴花¤Cabeça-de-Coelho Violeta
 沂山特产，花型如猴脸、会朝活动的事物方向移动。¤Um dos especialidades da Montanha Yi é que o floresce com uma forma semelhante ao rosto de um macaco e se move na direção das coisas em movimento.
 天灵果¤Fruta Celestial
@@ -9647,7 +9647,7 @@ npc白板-印¤npc Placa-Branca-Seal
 材料，可用于炼制法宝，灵性最强、坚固次之，但操控为零。¤Material, pode ser usado para refinar tesouros mágicos, o mais forte em espirito, o segundo mais forte em resistência, mas sem manipulação alguma.
 灵剑破碎后留下的碎片，虽不能直接使用，但可以用来炼器。¤Os fragmentos deixados após uma espada espiritual quebrar não podem ser utilizados diretamente, mas podem ser usados para refinar armas.
 破碎的玉佩¤Colar de pedra preciosa quebrado
-从御剑门遗址从得到的神秘碎片，不知有何用途。¤Um fragmento misterioso obtido dos escombros da Secta Espada Imperial para um uso desconhecido.
+从御剑门遗址从得到的神秘碎片，不知有何用途。¤Um fragmento misterioso obtido dos escombros da Seita Espada Imperial para um uso desconhecido.
 灵核碎片¤Fragmento do Núcleo Espiritual
 材料，常被修真宗门或各大主城用于布阵。¤Material, frequentemente usado por clãs de cultivo ou grandes cidades principais para estabelecer formações.
 由灵气凝聚而成的灵核，对大家族与宗门来说，都是相当重要的布阵材料。¤Os núcleos espirituais condensados do Qi são materiais de formação muito importantes para grandes clãs e seitas.
@@ -9655,7 +9655,7 @@ npc白板-印¤npc Placa-Branca-Seal
 由倪府送达的请帖。洒金笺上一个龙飞凤舞的倪字。¤Uma convite enviado pela Casa Ni. Um dragão voando com Ni sobre papel metálico encharcado de chuva.
 天魔令¤A Ordem do Demônio Celestial
 当前天魔令中的魔魂数量为：{STVar=753}¤O número atual de almas demônio no Decreto Celestial é: {STVar=753}
-由玄道宗所制令灵气，凡是进入天魔眼的各大门派弟子都必须携带，能够记录持有者在天魔眼中剿灭的魔物数量。¤O Qi da Secta Mística do Daozong deve ser carregado por todos os discípulos das diversas seitas que entrarem nos olhos do Demonio Celestial, e pode registrar o número de monstros destruídos pelo detentor nos olhos do demonio celestial.
+由玄道宗所制令灵气，凡是进入天魔眼的各大门派弟子都必须携带，能够记录持有者在天魔眼中剿灭的魔物数量。¤O Qi da Seita Mística do Daozong deve ser carregado por todos os discípulos das diversas seitas que entrarem nos olhos do Demonio Celestial, e pode registrar o número de monstros destruídos pelo detentor nos olhos do demonio celestial.
 破损的储物袋¤Mochila Rompida
 从方壶山的神秘修士身上所掉落的储物袋，可能便是那名失踪散修的遗物。¤A bolsa de armazenamento que caiu do Mysterious Cultivador na Montanha Fang Hu pode ser o pertence do Cultivador Independente desaparecido.
 神秘玉牌¤Placa de Jade Misteriosa
@@ -9664,13 +9664,13 @@ npc白板-印¤npc Placa-Branca-Seal
 可用于兑换各类门派资源，不可出售。¤Pode ser usado para trocar por diversos recursos da seita, não para venda.
 在木灵气浓郁之地可施秘法凝聚而成，在竹山宗内被用来奖励对宗门做出贡献的弟子，可兑换众多门内资源。¤Pode ser usado como recompensa para o Discípulo que tenha feito contribuições para a seita e pode ser trocado por muitos recursos dentro da seita.
 元灵石¤Pedra de Espírito Vital
-在金灵气浓郁之地可施秘法凝聚而成，在金虹剑派内被用来奖励对宗门做出贡献的弟子，可兑换众多门内资源。¤Eles são utilizados na Secta Espada Radiante como recompensa aos Discípulos pela sua contribuição para a secta e podem ser trocados por uma variedade de recursos internos.
+在金灵气浓郁之地可施秘法凝聚而成，在金虹剑派内被用来奖励对宗门做出贡献的弟子，可兑换众多门内资源。¤Eles são utilizados na Seita Espada Radiante como recompensa aos Discípulos pela sua contribuição para a Seita e podem ser trocados por uma variedade de recursos internos.
 寒玉¤Pedra Escura
-在水灵气浓郁之地可施秘法凝聚而成，在星河剑派内被用来奖励对宗门做出贡献的弟子，可兑换众多门内资源。¤É utilizado na Secta do Rio Celestial como recompensa aos Discípulos pela sua contribuição para a secta e pode ser trocado por numerosos recursos.
+在水灵气浓郁之地可施秘法凝聚而成，在星河剑派内被用来奖励对宗门做出贡献的弟子，可兑换众多门内资源。¤É utilizado na Seita do Rio Celestial como recompensa aos Discípulos pela sua contribuição para a Seita e pode ser trocado por numerosos recursos.
 火晶¤Cristal de Fogo
 在火灵气浓郁之地可施秘法凝聚而成，在离火门内被用来奖励对宗门做出贡献的弟子，可兑换众多门内资源。¤Eles são utilizados na Porta do Fogo Celestial como recompensa aos Discípulos pela sua contribuição para a seita e podem ser trocados por inúmeros recursos.
 砂晶¤Cristal de Areia
-在土灵气浓郁之地可施秘法凝聚而成，在化尘教内被用来奖励对宗门做出贡献的弟子，可兑换众多门内资源。¤Eles são utilizados na Secte das Areias Móveis como recompensa para os Discípulos pela sua contribuição para a secta, e podem ser trocados por uma ampla variedade de recursos.
+在土灵气浓郁之地可施秘法凝聚而成，在化尘教内被用来奖励对宗门做出贡献的弟子，可兑换众多门内资源。¤Eles são utilizados na Secte das Areias Móveis como recompensa para os Discípulos pela sua contribuição para a Seita, e podem ser trocados por uma ampla variedade de recursos.
 丹术备要¤Preparação de Habilidade de Dan
 阅读后可学会化瘀丹、洗髓丹、生骨丹、冰心丹四种基础丹药的炼制方法。¤Leia este para aprender a fazer as quatro poções básicas, nomeadamente a Poção de Curar Iniciante, a Poção de Qi Menor, a Poção de Curar Menor e a Poção de Coração Congelado.
 记录了炼丹入门技巧和一些基础丹方注解，流传甚广，很容易买到。¤Este é um registro de habilidades introdutórias e algumas receitas básicas, e está amplamente disponível.
@@ -9711,9 +9711,9 @@ npc白板-印¤npc Placa-Branca-Seal
 竹山宗碧宵长老遗落在空间裂隙间的储物袋。¤Uma bolsa de armazenamento deixada entre os rifts espaciais pelo Velho Mestre Biyang da Seção Montanha de Bambu.
 普通储物袋，打开后便能拿出其中存放的物品¤Bolso de armazenamento comum, aberto para retirar os itens guardados nele
 缺损的玉简¤Faltante de folha de esmeralda
-缺损的玉简，似乎记录着竹山宗的法门。¤O talismã de jade faltante parece registrar as doutrinas da Secta Montanha de Bambu.
+缺损的玉简，似乎记录着竹山宗的法门。¤O talismã de jade faltante parece registrar as doutrinas da Seita Montanha de Bambu.
 衍复笔录¤Escritos de Yanfu
-金虹剑派衍复真人的心得笔录。¤Um registro escrito das洞察s de Sênior Yan Fu da Secta Espada Radiante.
+金虹剑派衍复真人的心得笔录。¤Um registro escrito das洞察s de Sênior Yan Fu da Seita Espada Radiante.
 异常的灵剑晶¤Crystale Espírito Anômalo Sabre
 取自青龙剑阵的异常晶石。¤Um cristal anormal extraído do Array da Espada Dragão Verde.
 祭血令¤Decretos de Sangue-Violença
@@ -10061,7 +10061,7 @@ npc白板-印¤npc Placa-Branca-Seal
 由金虹剑派历任炼丹长老编写修缮，记载了部分宗门特产药草的药性。¤Escrevido e revisado pelos Anciões da Alquimia da Venerável Espada, este registro descreve as propriedades medicinais de algumas das ervas especializadas da seita.
 青竹草经¤Sutra da Grama de Bambu Verde
 记载了天灵果、伴妖草、补天芝、龙纹草、冰灵果、九叶芝、枫香脂、灯心草、玉髓芝、阴凝草、苦曼藤的药性。¤As propriedades medicinais da Berinjela Celestial, Planta Demônio Companheira, Funcho do Céu, Grama Dragão, Fruta Espírito Gelo, Nove Folhas de Qi, Balm Mapa, Grama Lantern, Qi Cósmico, e Trevo Amargo são registradas.
-由竹山宗历任炼丹长老编写修缮，记载了部分宗门特产药草的药性。¤Escrevido e revisado pelos antigos Mestres da Alquimia da Secta Montanha de bambú, este registro descreve as propriedades medicinais de algumas das ervas especializadas da secta.
+由竹山宗历任炼丹长老编写修缮，记载了部分宗门特产药草的药性。¤Escrevido e revisado pelos antigos Mestres da Alquimia da Seita Montanha de bambú, este registro descreve as propriedades medicinais de algumas das ervas especializadas da Seita.
 星河本草经¤Sutra da Ribeira Celestial de Plantas
 记载了冰灵果、幻心草、锦地罗、枫香脂、雪凝花、玉髓芝、狼桃、月灵花、血玉竹的药性。¤As propriedades medicinais da Fruta Espírito do Gelo, Grama do Coração Ilusório, Jindi Luo, Balm de Outono, Flor Condensação de Neve, Chi de Citrino, Maçã Lobo, Flor Espírito da Lua e Bamboo Jade Sanguíneo estão registradas.
 由星河剑派历任炼丹长老编写修缮，记载了部分宗门特产药草的药性。¤Escrito e revisado pelos antigos mestres de alquimia da Venerável Seita do Rio Celeste, este registro descreve as propriedades medicinais de algumas das especialidades da clã.
@@ -10427,8 +10427,8 @@ npc白板-印¤npc Placa-Branca-Seal
 金鸿剑派天阶杀招，以连续不断的剑招攻击对手。¤Jin Hongjian lançou movimentos letais do céu em seus adversários com cortes sucessivos de espada.
 金系地阶法术，有击溃灵气护盾的效果。¤Um feitiço de ranque terra que tem o efeito de desarticular escudos de Qi.
 金虹剑仙所创的天阶剑系杀招，闻名于九州。¤O movimento de espada celestial criado pelo Imortal Espada Arco-Íris Dourado, famoso em Kyushu.
-金虹剑派剑术，锋利的剑气能够阻止伤口的愈合，使对手进入流血的状态。¤A arte de espada da Secta Brilhante, a energia da espada afiada pode impedir o processo de cura das feridas e fazer o adversário entrar em um estado de sangramento.
-金虹剑派基础剑法，以金属性的锋利剑芒伤敌。¤A habilidade básica de espada da Secta Brilhante Espada, usando uma energia esquelética metálica afiada para ferir o adversário.
+金虹剑派剑术，锋利的剑气能够阻止伤口的愈合，使对手进入流血的状态。¤A arte de espada da Seita Brilhante, a energia da espada afiada pode impedir o processo de cura das feridas e fazer o adversário entrar em um estado de sangramento.
+金虹剑派基础剑法，以金属性的锋利剑芒伤敌。¤A habilidade básica de espada da Seita Brilhante Espada, usando uma energia esquelética metálica afiada para ferir o adversário.
 基础入门法术，不难掌握。¤Um feitiço introdutório básico, não muito difícil de dominar.
 金系中阶法术，引动五行相生之力威力巨大。¤Um feitiço de nível intermediário no sistema metálico, invocando o poder dos cinco elementos para criar um efeito poderoso.
 金系地阶法术，威力惊人，但也会对自身产生一定的副作用。¤Esta é um feitiço de grande poder do grau Terra, mas também tem certos efeitos colaterais sobre o próprio praticante.
@@ -10437,17 +10437,17 @@ npc白板-印¤npc Placa-Branca-Seal
 木系基础入门法术，不难掌握。¤Um feitiço introdutório básico no sistema de madeira, não muito difícil de dominar.
 木系基础的防御性法术，使用后能形成灵气护罩保护自身。¤Um feitiço defensivo básico de madeira que forma uma barreira de Qi para proteger a si mesmo.
 离火门焦飞自创的法术，由木生火，更能提升其火系法术的威能。¤Uma magia criada por Jiao Fei da Porta do Fogo Celestial que produz fogo a partir de madeira e potencializa o poder das suas magias de fogo.
-竹山宗木系秘术。¤Esta é uma Habilidade Madeira da Secta Montanha do Bambu.
+竹山宗木系秘术。¤Esta é uma Habilidade Madeira da Seita Montanha do Bambu.
 木系基础入门法术。¤Uma magia básica introdutória de madeira.
 木系地阶法术，威力不俗。¤Esta é uma magia de madeira do grau Terra com poder imenso.
 一种能够操控飞针伤人的法门。¤Um feitiço que pode manipular agulhas voantes para ferir pessoas.
 水系基础入门法术，不难掌握。¤Um feitiço introdutório básico no Elemento Água, não muito difícil de dominar.
-星河剑派秘术，能够抽调体内的一部分灵气转换成水系灵气牌。¤A Habilidade Secreta da Secta do Rio Celestial que permite converter uma parte do Qi do seu corpo em Qi de Água.
+星河剑派秘术，能够抽调体内的一部分灵气转换成水系灵气牌。¤A Habilidade Secreta da Seita do Rio Celestial que permite converter uma parte do Qi do seu corpo em Qi de Água.
 水系基础的防御性法术，使用后能形成灵气护罩保护自身。¤Uma básico feitiço defensivo de água que forma uma barreira de Qi para proteger a si mesmo após o uso.
 水系中阶法门，以连续不断地巨浪攻击对手。¤Uma habilidade de nível intermediário de Água que atinge o adversário com uma onda contínua.
-星河剑派秘术，召唤一阵冰雨攻击对手。¤A habilidade secreta da Secta do Rio Celestial que招来一袭寒冰打击对手。
-星河剑派独门进阶剑术，运用惊涛之力化作攻击，攻势多段连绵不绝。¤Esta é uma arte de espada avançada única da Secta do Rio Celestial, que utiliza a força das marés, com golpes contínuos.
-星河剑派秘法，置之死地而后生。¤A habilidade secreta da Secta do Rio Celestial que permite sobreviver após a morte.
+星河剑派秘术，召唤一阵冰雨攻击对手。¤A habilidade secreta da Seita do Rio Celestial que招来一袭寒冰打击对手。
+星河剑派独门进阶剑术，运用惊涛之力化作攻击，攻势多段连绵不绝。¤Esta é uma arte de espada avançada única da Seita do Rio Celestial, que utiliza a força das marés, com golpes contínuos.
+星河剑派秘法，置之死地而后生。¤A habilidade secreta da Seita do Rio Celestial que permite sobreviver após a morte.
 星河剑派水系秘术。¤A arte secreta de água do Secto do Rio Celestial.
 水系基础入门法术¤Um feitiço introdutório básico de Água
 火系基础入门法术，不难掌握。¤Uma feitiço introdutório básico no sistema de fogo, não muito difícil de dominar.
@@ -10466,10 +10466,10 @@ npc白板-印¤npc Placa-Branca-Seal
 化尘教控沙秘术。¤A habilidade secreta de controle do areal da Secte do Areial Móvel.
 将防御用的护罩变成重新化作灵尘收回来。¤Transforme a barreira defensiva em pó espiritual e recupere-a.
 化尘教土系秘术。¤Esta é uma habilidade do Elemento Terra da Seita dos Granéis de Areia.
-化尘教入门法术。¤Uma habilidade introdutória da Secta do Deserto Móvel.
+化尘教入门法术。¤Uma habilidade introdutória da Seita do Deserto Móvel.
 魔门功法，献祭自己精血以获得灵气护盾。¤Uma técnica demoníaca que sacrifica a própria Vida para obter uma barreira de Qi.
-禾山道秘技，以自身精血为代价召唤鬼魂之力¤Esta é uma Habilidade Secreta da Secta Colheita que invoca o poder dos fantasmas ao custo do próprio sangue.
-禾山道秘技，吞噬灵魂来恢复自身的气血¤A habilidade secreta da Secta Colheita, devorando almas para restaurar a força vital do praticante.
+禾山道秘技，以自身精血为代价召唤鬼魂之力¤Esta é uma Habilidade Secreta da Seita Colheita que invoca o poder dos fantasmas ao custo do próprio sangue.
+禾山道秘技，吞噬灵魂来恢复自身的气血¤A habilidade secreta da Seita Colheita, devorando almas para restaurar a força vital do praticante.
 将全身灵气聚集于手指之上打出，是威力极为强大的一种法门。¤Concentrando todo o Qi do corpo nos dedos para atacar, isso é uma Habilidade extremamente poderosa.
 碎星岛神通。¤Avatar da Ilha Estrela Riscada.
 一种将护体灵气收回以治疗自身的法门。¤A Habilidade de se curar retirando a Qi do corpo.
@@ -10488,7 +10488,7 @@ npc白板-印¤npc Placa-Branca-Seal
 星河剑派的入门剑招¤Postura da Seção do Rio Celestial
 离火门的入门剑招¤A Postura da Espada da Porta do Fogo Celestial
 剑系杀招，积攒的剑气越多，杀伤力也越是强大。¤A mais energia da espada você acumular, mais poderosa será a sua força letal.
-隐藏在御剑门藏经阁牌匾之中的神秘法术，使用得当便可快速积攒【剑气】¤Um encantamento misterioso guardado no Salão do Espadachismo da Secta Espada Imperial, que pode ser usado para acumular energia espada rapidamente.
+隐藏在御剑门藏经阁牌匾之中的神秘法术，使用得当便可快速积攒【剑气】¤Um encantamento misterioso guardado no Salão do Espadachismo da Seita Espada Imperial, que pode ser usado para acumular energia espada rapidamente.
 从连石山剑壁处领悟而来的强大剑招。¤Um poderoso movimento de espada aprendido da muralha de espadas do Monte Lian Shi.
 以彼之道还治彼身，与破魔咒响应一攻一守。¤Use suas próprias estratégias contra eles. Junte-se ao Canto que Quebra Demônios, um atacando enquanto o outro defende..
 人剑以己身之力御体。¤A Espada Humana usa o poder do próprio corpo para defender o corpo.
@@ -10500,7 +10500,7 @@ npc白板-印¤npc Placa-Branca-Seal
 火系阵法，使得炙热的火焰围绕自身，受到攻击时便会自动反击。¤O Array do Fogo envolve-se em chamas quentes e realiza contra-ataques automaticamente quando é atingido.
 木系阵法，能够将对手困于阵中不断骚扰，极难对付。¤Formações de madeira, que prendem o adversário na formação e o importunam constantemente, são extremamente difíceis de lidar.
 水系阵法，能不断以水系灵气治疗布阵者。¤Formas d'água, que podem curar continuamente a pessoa dentro da formação com Ki de Água.
-化尘教秘术，通过大阵操控巨量尘土保护阵中之人。¤A técnica secreta da Secta do Deslocamento de Areia, controlando uma quantidade enorme de areia através de um grande阵法来保护阵中的众人。
+化尘教秘术，通过大阵操控巨量尘土保护阵中之人。¤A técnica secreta da Seita do Deslocamento de Areia, controlando uma quantidade enorme de areia através de um grande阵法来保护阵中的众人。
 天阶剑系防御阵法。¤A espada de ranque celestial é um阵法，用于防御。
 禾山道大阵，阵内阴魂无数。¤A Formação da Seção Colheita montanha está repleta de inúmeros espíritos.
 天阶杀阵，阵法的杀伤力会随时间不断提升。¤A formação letal celeste, a potência letal da formação continuará aumentando com o tempo.
@@ -10517,22 +10517,22 @@ npc白板-印¤npc Placa-Branca-Seal
 金系天阶战斗类功法。¤Técnica de Combate Celestial em Metal.
 金系地阶修炼类功法。¤Técnica de cultivo de rango terrestre metálico.
 金虹剑派秘传天阶中庸类功法。¤Escola Espada Radiante Segredamente Transmitida Técnica Celestial Média.
-金虹剑派秘传地阶战斗类功法。¤Technique de Combate do Mêtodo Terrestre da Secta Espada Radiante Revelada Secretamente.
+金虹剑派秘传地阶战斗类功法。¤Technique de Combate do Mêtodo Terrestre da Seita Espada Radiante Revelada Secretamente.
 木系人阶战斗类功法。¤Técnica de combate do Rango Madeira Humano.
 木系人阶中庸类功法。¤Técnica de cultivo de humano-rank médio madeira.
 木系人阶修炼类功法。¤Técnica de cultivo do tipo humano-rank madeira.
 竹山宗秘传地阶战斗类功法,由青蛇真人所创，自成一派。¤A técnica de combate do Rango Terra da Escola de Montanha do Cipreste, criada pelo Senhor Escama Azul, é uma escola à parte.
 木系地阶中庸类功法。¤Esta é uma técnica de cultivo intermediária no bosque.
-竹山宗秘传天阶战斗类功法。¤Esta é uma técnica de combate celestial secreta da Secta da Montanha do Bambu.
+竹山宗秘传天阶战斗类功法。¤Esta é uma técnica de combate celestial secreta da Seita da Montanha do Bambu.
 木系人阶中庸类功法，修炼者可在周身凝一层毒瘴。¤Esta é uma técnica de madeira intermediária que permite ao cultivador criar uma névoa tóxica ao redor do seu corpo.
-竹山宗秘传地阶战斗类功法。¤Esta é uma técnica de combate secreta da Secta da Montanha do Bambu.
+竹山宗秘传地阶战斗类功法。¤Esta é uma técnica de combate secreta da Seita da Montanha do Bambu.
 木系地阶战斗类功法。¤Técnica de combate no solo madeira.
-竹山宗秘传天阶修炼类功法。¤A técnica oculta de cultivo da Secta do Monte bambú da Ordem Celestial.
+竹山宗秘传天阶修炼类功法。¤A técnica oculta de cultivo da Seita do Monte bambú da Ordem Celestial.
 竹山宗秘传天阶战斗类功法，在万年前正魔大战时遗落于宁州古迹，一度失传。¤A técnica secreta esotérica do Nível Céu da Montanha de bambu, foi perdida com o tempo quando foi deixada nos monumentos de Ningzhou durante a guerra entre a Seção Justa e a Seção Diabólica há dez mil anos atrás.
 水系人阶战斗类功法。¤Técnica de combate humano-rank da água.
 水系人阶修炼类功法。¤Técnica de cultivo do humano de água.
 水系地阶中庸类功法。¤Técnica de Água do meio da classe Terra.
-星河剑派秘传地阶战斗类功法。¤A Secta do Rio Celestial secretamente transmitiu uma técnica de combate da Terra-rank.
+星河剑派秘传地阶战斗类功法。¤A Seita do Rio Celestial secretamente transmitiu uma técnica de combate da Terra-rank.
 水系地阶战斗类功法。¤Técnica de combate do elemento água do rango terra.
 水系地阶修炼类功法。¤Technique de cultivo do Elemento Água da Rango Terra.
 星河剑派秘传天阶战斗类功法。¤A Sect do Rio Céleste secretamente transmitiu uma técnica de combate do Céu.
@@ -10555,13 +10555,13 @@ npc白板-印¤npc Placa-Branca-Seal
 化尘教秘传地阶中庸类功法。¤Técnica da Classe Meio-Terreno, transmitida secretamente pela Secte do Deserto Móvel.
 化尘教秘传天阶中庸类功法。¤A técnica secreta de rango celestial intermediário da Secte do Deserto Móvel.
 土系地阶修炼类功法。¤Técnica de cultivo do nível Terra.
-化尘教秘传地阶战斗类功法。¤Técnica de combate do Rango Terra da Secta dos Granéis Móveis.
+化尘教秘传地阶战斗类功法。¤Técnica de combate do Rango Terra da Seita dos Granéis Móveis.
 人阶修炼类功法，也是最初阶的入门功法，身具灵根者修习此功法后，即可开始通过吐纳术吸收天地灵气，此为炼气。。¤Também é o estágio inicial de cultivo. Uma vez que uma pessoa com raízes espirituais pratique essa técnica, ele pode começar a absorver a energia espiritual do céu e da terra através do Arte de Exalação, conhecido como Refinamento de Qi.
 地阶中庸类功法，是一种能够收敛自身气息的实用战斗类功法。。¤É também uma técnica de combate prática que permite coletar o fôlego.
 上古流传至今的天阶战斗类功法，相传此功法已有灵性，会自己寻找每一代的传人。。¤A técnica de combate celestial, transmitida desde tempos antigos, é dita ter uma natureza espiritual e encontrará seu próprio sucessor em cada geração.
 从宁州古迹出世的天阶修炼类功法，没有人知道它的来历。¤A técnica de cultivo do Rango Céleste que saiu das monumentais pedras de Ningzhou, ninguém sabe de onde veio.
 天阶中庸类功法，又名《阵道》，实乃阵法一道的集大成之作，也是最出名的天阶功法之一。。¤Também é conhecido como o 'Dado do Array', que na verdade é uma obra-prima da Habilidade de Array e é uma das técnicas celestiais mais famosas.
-人阶战斗类功法，虽然只是禾山道的入门功法，但也只能禾山道的门人才能发挥它最大的功效。。¤A Técnica de Combate da Ordem Humana, embora apenas uma Habilidade introdutória da Secta Colheita, pode ser utilizada em seu máximo potencial apenas por Discípulos da Secta Colheita.
+人阶战斗类功法，虽然只是禾山道的入门功法，但也只能禾山道的门人才能发挥它最大的功效。。¤A Técnica de Combate da Ordem Humana, embora apenas uma Habilidade introdutória da Seita Colheita, pode ser utilizada em seu máximo potencial apenas por Discípulos da Seita Colheita.
 地阶修炼类功法，能够滋养修炼者的神识。¤Uma técnica de cultivo do nível terra que nutre o Sentido da Alma do praticante.
 天阶中庸类功法，能够通过打入对手体内的暗劲降低其防御。¤A técnica do meio-ouro celestial pode reduzir a defesa do adversário através da energia escura que penetra no corpo do oponente.
 天阶修炼类功法，据说是由龙族秘术传承而来。¤A técnica de cultivo do céu, supostamente herdada das artes ocultas da Clã Dragão.
@@ -10996,7 +10996,7 @@ npc白板-印¤npc Placa-Branca-Seal
 魏无极如今只剩一缕残魂，有关过往的许多事都记不得了。¤Wei Wuji agora só possui uma alma residual, e muitas coisas do passado não podem ser lembradas.
 魏无极对袭击你们的剑灵有熟悉的感觉。¤Wei Wuji tem uma sensação familiar com o espírito da espada que te atingiu.
 上次遇到的剑灵让我觉得有些眼熟...调查一下此剑或许会有新的线索。¤O espírito da espada que encontrei na última vez me fez sentir um pouco familiarizado... Investigar essa espada pode levar a novas pistas.
-魏无极回想起一些有关御剑门的回忆，但不知到底与此派有何瓜葛。¤Wei Wuji recordou algumas memórias da Secta Espada Imperial, mas não sabia exatamente o que envolvia essa seita.
+魏无极回想起一些有关御剑门的回忆，但不知到底与此派有何瓜葛。¤Wei Wuji recordou algumas memórias da Seita Espada Imperial, mas não sabia exatamente o que envolvia essa seita.
 我依稀回忆起一些与此派有关的回忆...多打听一下与此派有关的传闻，或许能帮助我尽快恢复记忆...¤Eu vagueamente recordava algumas memórias relacionadas a esta facção... Perguntar mais sobre os rumores desta seita poderia ajudar-me a recuperar minhas memórias o mais rápido possível...
 魏无极回想起一些有关宁州古迹的回忆。¤Wei Wuji recordou algumas memórias sobre os monumentos de Ningzhou.
 这宁州古迹我似乎也有些印象...去那里也许能找到一些有用的线索。¤PARECE QUE EU TENHO ALGUMAS impressões DESTES monumentos DE Ningzhou... Várias vezes lá podem me dar alguma pista útil.
@@ -11012,11 +11012,11 @@ npc白板-印¤npc Placa-Branca-Seal
 天魔道攻打玄道宗，意图复活天魔眼中心的天魔。¤O Caminho do Demônio Celestial lutou contra a Seita do Caminho Místico com o intuito de ressuscitar o Demônio Celestial no centro do Olho do Demônio.
 古神教与离火门执事墨居仁勾结，不知在调查什么。¤A antiga Deusagem conspirou com Mo Juren, o diácono da Porta do Fogo Celestial, e está investigando algo.
 这古神教的魔神蛊，实在是阴狠。¤Essa compulsão demoníaca da Divindade Antiga deste Clã de Cultivo é realmente maligna.
-古神教暗中对倪府长老下蛊，调查戮仙剑的下落。¤A antiga Secta do Deus ocultou uma compulsão nos anciões da Família Ni para investigar o paradeiro da Espada Exterminadora de Imortais.
+古神教暗中对倪府长老下蛊，调查戮仙剑的下落。¤A antiga Seita do Deus ocultou uma compulsão nos anciões da Família Ni para investigar o paradeiro da Espada Exterminadora de Imortais.
 看来这古神教也对魔剑的下落感兴趣...¤Parece que essa religião dos antigos deuses também se interessa pelo paradeiro da espada mágica...''
 古神教在无尽之海暗中调查神兽血脉的信息。¤A antiga Seção de Deus está secretamente investigando a informação da linhagem de sangue do monstro divino no Mar Sem Fim.
 调查神兽血脉...莫非这古神教有什么奇怪的秘术，都够吸收神兽血脉中的能量？¤Investigando a linhagem de sangue divino... Será que este Culto Antigo de Deus tem alguma técnica estranha suficiente para absorver a energia da linhagem de animais divinos?
-数百年前，古神教就开始在离火门安插内鬼，暗中调查火麒麟的消息。¤Há centenas de anos, a Secta Antiga Deus começou a plantar espionagem na Porta do Fogo Celestial para investigar secretamente notícias sobre o Qilin do Fogo.
+数百年前，古神教就开始在离火门安插内鬼，暗中调查火麒麟的消息。¤Há centenas de anos, a Seita Antiga Deus começou a plantar espionagem na Porta do Fogo Celestial para investigar secretamente notícias sobre o Qilin do Fogo.
 原来是为了火麒麟，难怪古神教千方百计地想要渗透离火门。¤Então era o Qilin do Fogo, não é de se maravilhar que a Velha Igreja Tenta tenha usado todos os meios possíveis para infiltrar a Porta do Fogo Celestial.
 血剑宫似乎在武陵城暗中打探些什么。¤A Cidadela da Espada Sangrenta parece estar secretamente espiando algo em Wulin.
 这血剑宫的剑招颇为狠辣，出手皆是杀招，不好对付啊。¤Esses movimentos da Espada do Palácio Sangrento são bastante cruéis, todos eles são golpes letais, não é fácil lidar com eles.
@@ -11025,21 +11025,21 @@ npc白板-印¤npc Placa-Branca-Seal
 血剑宫救下了重伤的凌轩，向他打听御剑门之战的消息。¤A Cúpula da Espada Sangrenta resgatou Ling Xuan, gravemente ferido, e lhe pediu notícias sobre o confronto na Porta Espada Imperial.
 没想到，轩儿竟是...难怪他修炼的的功法神通变化如此之大...¤Nunca imaginei que Xuan'er seria... Não é surpresa alguma que a habilidade divina que ele cultiva mude tanto...
 千年前凌轩在宁州古迹调查时，曾发现过魔修的踪迹。¤Há mil anos, quando Ling Xuan estava investigando nos Restos Antigos da Província Ning, ele encontrou vestígios de cultivadores malignos.
-这血煞符以人血为引，是魔门常用的一种符箓。¤Este Talismã do Sangue usa o sangue humano como guia e é um talismã comum usado pela Secta do Diabo.
+这血煞符以人血为引，是魔门常用的一种符箓。¤Este Talismã do Sangue usa o sangue humano como guia e é um talismã comum usado pela Seita do Diabo.
 传言御剑门因私通魔门而被宁州五大门派围攻，毁于一旦。¤Parece que a Seção da Espada Imperial foi cercada e destruída pelas cinco grandes seções no Ningzhou por estarem envolvidas com a Seção do Diabo.
 这御剑门竟是被五大门派围攻而亡...我与此派到底有何瓜葛呢？¤Esta Escola da Espada Real foi cercada por cinco grandes escolas e morreu... E exatamente qual é o meu envolvimento com esta escola?
-御剑门覆灭至今不过数百年时间，多找人打听一番，或许就能得到一些有用的线索。¤Apenas se passaram alguns séculos desde a destruição da Secta Espada Imperial, então, se conseguirmos perguntar mais pessoas, podemos encontrar algumas pistas úteis.
+御剑门覆灭至今不过数百年时间，多找人打听一番，或许就能得到一些有用的线索。¤Apenas se passaram alguns séculos desde a destruição da Seita Espada Imperial, então, se conseguirmos perguntar mais pessoas, podemos encontrar algumas pistas úteis.
 倪家曾经收留过一批御剑门幸存的弟子。¤A família Ni uma vez acolheu um grupo de discípulos sobreviventes da Seita Espada Imperial.
 过了这么久，即便当年有幸存下来的弟子，恐怕也已经...¤Depois de tanto tempo, mesmo que houvessem discípulos sobreviventes na época, temo que eles...
 御剑门公孙家传闻¤A família Guysun da Porta Espada Reina escuta
-御剑门遗迹的封印阵法是为了净化吸收魔气所布。¤A formação de selamento dos relicários da Secta Espada Imperial foi estabelecida para purificar e absorver a energia demoníaca.
+御剑门遗迹的封印阵法是为了净化吸收魔气所布。¤A formação de selamento dos relicários da Seita Espada Imperial foi estabelecida para purificar e absorver a energia demoníaca.
 竟需要通过阵法净化魔气，当年到底发生了什么...¤Como ousas precisar purificar a energia demoníaca através da formação, o que aconteceu naquele tempo...
 御剑门竹山宗传闻¤A tradição da Escola de Espada de Bamboo Mountain do Monte Sword传言
 当年在九嶷山附近确实发现了魔修踪迹。¤Naquele tempo, de fato foram encontrados vestígios de cultivadores malignos nas proximidades da Montanha Jiuyi.
-莫非，御剑门中真有人与魔门勾结...？¤Será que alguém da Secta Espada Imperial realmente conspirou com a Secta do Diabo...?
+莫非，御剑门中真有人与魔门勾结...？¤Será que alguém da Seita Espada Imperial realmente conspirou com a Seita do Diabo...?
 御剑门离火门传闻¤Alegoria da Espada do Cielo e a Porta de Fogo Controvérsia
 离火门最先发现御剑门私通魔门，当时的离火门大师兄也因此殒命。¤A Porta do Fogo Celestial foi a primeira a descobrir que a Seita da Espada Imperial estava em aliança com a Seita dos Demônios, e o então Grande Mestre da Porta do Fogo Celestial morreu como consequência.
-最先与御剑门发生冲突的便是这离火门的弟子，他是如何断定御剑门私通魔门的呢？¤O primeiro a entrar em conflito com a Secta Espada Imperial foi este discípulo da Porta Fogo Celestial. Como ele chegou à conclusão de que a Secta Espada Imperial tem envolvimento com a Seita do Diabo?
+最先与御剑门发生冲突的便是这离火门的弟子，他是如何断定御剑门私通魔门的呢？¤O primeiro a entrar em conflito com a Seita Espada Imperial foi este discípulo da Porta Fogo Celestial. Como ele chegou à conclusão de que a Seita Espada Imperial tem envolvimento com a Seita do Diabo?
 御剑门金虹传闻¤A lenda da Espada de Ouro do Monte Guanyejian
 当年的金虹剑派掌门与御剑门掌门私交匪浅。¤Naquele tempo, a personalidade íntima entre o líder da Escola Espadão Radiante e o líder da Escola Espadão Real.
 金虹剑派与御剑门一向交好，若非证据确凿，想来不会下此狠手。¤A Sect Reluzente e a Sect Real sempre foram boas amigas, se não fosse pelas provas, eu não acredito que ela teria agido com tal crueldade.
@@ -11054,11 +11054,11 @@ npc白板-印¤npc Placa-Branca-Seal
 原来这一切都是古神教设下的圈套...¤Então tudo isso é uma armadilha estabelecida pelo Culto Antigo dos Deuses...
 这柄看似锈迹斑斑毫不起眼的铁剑，正是魔门四剑之首，主掌吞噬威能的通天灵宝——诛仙剑。¤Esta espada de ferro, que parece velha e sem graça, é a primeira das quatro espadas da Porta do Diabo, o poder devorador mestre do Tesouro Espiritual Celestial · Espada do Castigo do Imortal {shidi}.
 昔日身份¤Passado distante
-昔日的元婴巅峰强者，以一己之力创建了能够与五大宗门分庭抗礼的御剑门。这剑中之灵正是千年前叱咤宁州的御剑门掌门——魏无极。¤No passado, o poderoso mestre da Ascensão do Espírito no pico criou a Secta Espada Imperial, que foi capaz de competir com as cinco grandes seitas usando apenas sua própria força. O espírito nesta espada é nada menos que Wei Wuji, o chefe da Secta Espada Imperial que reinou sobre Ningzhou há mil anos.
+昔日的元婴巅峰强者，以一己之力创建了能够与五大宗门分庭抗礼的御剑门。这剑中之灵正是千年前叱咤宁州的御剑门掌门——魏无极。¤No passado, o poderoso mestre da Ascensão do Espírito no pico criou a Seita Espada Imperial, que foi capaz de competir com as cinco grandes seitas usando apenas sua própria força. O espírito nesta espada é nada menos que Wei Wuji, o chefe da Seita Espada Imperial que reinou sobre Ningzhou há mil anos.
 魔道踪影¤Traços da Magia
 古神教崇拜上古魔神，妄图借诛仙剑阵之威能，融合各种神兽精血，以完成宗门秘法。他们隐忍布局上千年，只为集齐四柄魔剑与神兽精血。\n\n天魔道长期潜伏于宁州，终于收集到了天魔仍然被封印在天魔眼中心的情报。他们派出众多高手围攻玄道宗，只为进入天魔眼核心区域，复活天魔。\n\n血剑宫对四柄魔剑觊觎已久，千年前在得知御剑门大战的情报后，第一时间便赶到宁州想要调查魔剑的下落，也因此救下了重伤的凌轩。当白帝放出戮仙剑被封印在白帝楼的传闻后，他们便开始寻找夺走此剑的机会。¤The Ancient Gods Cult worshiped the ancient demon gods, in a vain attempt to borrow the power of Array of the Immortal Killing Sword and fuse the essence blood of various divine beasts in order to complete the sect's secret method. They have held back the layout for thousands of years, only to gather the four devil swords and divine beast essence blood. The \n\n Heavenly Demon Dao had been lurking in Ningzhou for a long time and finally gathered the information that the Heavenly Demon was still sealed in the center of the Heavenly Demon Eye. They sent many experts to besiege the Mystic Dao Sect just to enter the core area of the Heavenly Demon Eye and resurrect the Heavenly Demon. The \n\n Blood Sword Palace has long coveted the four magic swords. A thousand years ago, after learning the information about the Great War of the Imperial Sword Sect, the first time they rushed to Ningzhou to try to investigate the whereabouts of the magic swords, and thus saved the seriously injured Ling Xuan. When the White Emperor released the rumor that the Immortal Executing Sword was sealed in the White Emperor Pavilion, they began to look for the opportunity to take away this sword.
 御剑门之谜¤O Mistério da Porta do Exército de Espadas
-古神教收服魔剑失败，于是设计在魔剑内留下魔神蛊，在魏无极炼化魔剑时将魔神蛊偷偷植入他的体内。离开古迹后，古神教利用在离火门内安插的弟子散布御剑门私通魔门的传闻。最终五大门派高手围攻御剑门，宗门毁于一旦。¤O Antigo Clã de Cultivo não conseguiu levar a Espada do Diabo, então planejaram deixar o Compulsório do Deus do Diabo dentro da Espada do Diabo e secretamente implantá-lo no corpo de Wei Wuji enquanto ele refinava a Espada do Diabo. Após sair do monumento, o Antigo Clã usou os discípulos plantados na Porta do Fogo Celestial para espalhar rumores sobre a envolvimento da Secta da Espada Imperial com a Secta dos Demônios. Finalmente, os especialistas das cinco grandes sectas cercaram a Secta da Espada Real e a secta foi destruída.
+古神教收服魔剑失败，于是设计在魔剑内留下魔神蛊，在魏无极炼化魔剑时将魔神蛊偷偷植入他的体内。离开古迹后，古神教利用在离火门内安插的弟子散布御剑门私通魔门的传闻。最终五大门派高手围攻御剑门，宗门毁于一旦。¤O Antigo Clã de Cultivo não conseguiu levar a Espada do Diabo, então planejaram deixar o Compulsório do Deus do Diabo dentro da Espada do Diabo e secretamente implantá-lo no corpo de Wei Wuji enquanto ele refinava a Espada do Diabo. Após sair do monumento, o Antigo Clã usou os discípulos plantados na Porta do Fogo Celestial para espalhar rumores sobre a envolvimento da Seita da Espada Imperial com a Seita dos Demônios. Finalmente, os especialistas das cinco grandes Seitas cercaram a Seita da Espada Real e a Seita foi destruída.
 仅凭道友拿出的东西，恐怕还换不了这件宝物。¤Tenho medo de que o que você produziu sozinho não seja suficiente para trocar por este tesouro.
 道友的灵石似乎不足以支付我们的抽水...¤Parece que você não tem pedras espirituais suficientes para pagar pela extração da água...
 道友不是在开玩笑吧？¤Fellow Daoist não está brincando, hein?
@@ -11905,11 +11905,11 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs podem se
 听说倪家小少爷在{Xyear}年前服用了不少的筑基丹，这才一举突破到了筑基期。不愧是大家族手笔啊...¤Ouvi que o Jovem Patriarca da família Ni tomou muitas Pílulas de Fundação {Xano} atrás e rompeu para o Reino de Estabelecimento de Fundação de uma só vez. Como se esperava de uma Grande Clã...
 {Xyear}年前，倪旭欣前辈在城中结丹突破，引来一阵天地异象，真是蔚为壮观呐。¤Niu Xinxin alcançou o estágio de Núcleo Dourado há {Xanos} anos, fazendo com que o céu do mundo tremesse em resposta, foi tão impressionante.
 {Xyear}年前，倪旭欣前辈在城外渡劫，突破到了元婴期，引来一阵天地异象，真是蔚为壮观呐。¤Niu Xinxin alcançou o estágio de Alma Emergente há {Xanos} anos, fazendo com que o céu do mundo tremesse em resposta, foi realmente impressionante.
-最近禾山道与那沂山派不知为何起了争执，到处争斗还波及到了其他的散修，弄得大家人心惶惶。¤Recentemente, houve uma disputa entre a Secta Colheita e a Escola Yi, e o conflito se espalhou para outros cultivadores independentes, deixando todo mundo em alerta.
+最近禾山道与那沂山派不知为何起了争执，到处争斗还波及到了其他的散修，弄得大家人心惶惶。¤Recentemente, houve uma disputa entre a Seita Colheita e a Escola Yi, e o conflito se espalhou para outros cultivadores independentes, deixando todo mundo em alerta.
 听说沂山的赤发鬼和青面鬼在自家山头被人给杀了，也不知是何方大能动的手。¤Ouvi que o fantasma loiro da Montanha Yi e o fantasma com cara verde foram mortos em sua própria montanha, e não sei quem foi responsável.
 {Xyear}年前魔门突然开始大举入侵中州，白帝前辈亲自带着门下的弟子们前去支援，所幸暂时没有殃及咱们宁州。¤O clã do demônio começou a invadir a Província Central há {Xano} anos, e o Alto Imperador Branco pessoalmente levou seu Discípulo para auxiliá-los, mas felizmente isso não afetou Ningzhou por enquanto.
 此次血剑宫来袭，幸好白帝大人实力冠绝天下。¤Nessa vez, a Cúpula da Espada Sangrenta atacou, mas felizmente, a força do Senhor Bai Di é a melhor do mundo.
-此次血剑宫趁白帝大人不在来袭，还好倪家家主临危不乱，坚持到玄道宗的高人来援。¤A Cúpula da Espada Sangrenta aproveitou a ausência do Senhor Bai Di para atacar, mas felizmente o chefe da família Ni não panicou diante do perigo e aguentou até que os altos oficiais da Secta Dao Mística chegaram para auxiliar.
+此次血剑宫趁白帝大人不在来袭，还好倪家家主临危不乱，坚持到玄道宗的高人来援。¤A Cúpula da Espada Sangrenta aproveitou a ausência do Senhor Bai Di para atacar, mas felizmente o chefe da família Ni não panicou diante do perigo e aguentou até que os altos oficiais da Seita Dao Mística chegaram para auxiliar.
 传闻千年一现的宁州古迹即将在岫络谷附近出世，只有实力达到金丹期及以上的修士才有资格进入，真是了不得。¤Há rumores de que o monumento de Ningzhou, uma vez por mil anos, será revelado nas proximidades do Vale Xiuluo, e apenas Cultivadores que tenham atingido pelo menos o estágio Núcleo Dourado poderão entrar.
 据说这宁州古迹本就是位面塌陷而成，此次现世过后便因空间不稳彻底坍塌，再也无法进入了！唉，可惜了里面那些宝物......¤Diz-se que este Monumento de Ningzhou foi criado com o colapso do reino, e após esta aparição, ele cairá completamente devido à instabilidade espacial, e mais não será acessível! Ah, que pena sobre os tesouros dentro dele....
 听说那白帝楼有位长老不知从哪里得到了一门失传已久的剑道典籍，如今正放在升仙台上公开展示呢。¤Ouvi que um dos velhos da Torre do Imperador Branco havia obtido um texto de espada antigo e perdido de algum lugar e agora está exibindo-o na Plataforma de Ascensão.
@@ -11937,7 +11937,7 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs podem se
 云汐城副本客栈打听¤Replicas de tabernas da Cidade Yun Shi
 广陵城客栈打听¤Pousada da Cidade de Guangling
 听说这几年古神教的魔修把衡州弄的很不太平，所幸咱们这儿有化尘教坐镇。但为了清缴魔修，化尘教近年来似乎没什么心力招收弟子。¤Ouvi dizer que os cultivadores malignos da Seita das Antigas Deusas têm tornado Hengzhou um lugar muito perturbado nos últimos anos, mas felizmente temos a Seita do Deserto Móvel aqui. No entanto, para expulsar os cultivadores malignos, a Seita do Deserto Móvel não tem conseguido recrutar nenhum Discípulo há alguns anos.
-最近这附近的古神教余孽似乎都被清理干净，化尘教也开始招收新的外门弟子了。¤Recentemente, parece que todas as restrições da Secta do Deserto Móvel foram expurgadas da área e a Ordem já começou a recrutar novos Discípulos.
+最近这附近的古神教余孽似乎都被清理干净，化尘教也开始招收新的外门弟子了。¤Recentemente, parece que todas as restrições da Seita do Deserto Móvel foram expurgadas da área e a Ordem já começou a recrutar novos Discípulos.
 这几年偶尔会听说有散修在方壶山附近失踪。¤Nas últimas poucas anos, de tempos em tempos ouvimos falar de cultivadores independentes desaparecendo nas proximidades da Montanha Fang Hu.
 {Xyear}年前，百里府的百里奇少主未曾服用筑基丹便突破到了筑基期，不愧是百年难得一遇的奇才啊。¤Há {Xanos} anos, o Jovem Senhor Bai Li Qi da Casa Bai Li rompeu para o estágio de Fundação Estabelecida sem tomar uma Pílula de Fundação, digno de ser um maravilho do século.
 {Xyear}年前，百里奇前辈在城中结丹突破，引来一阵天地异象，真是蔚为壮观呐。¤Há um ano, Bai Li Qi rompeu no meio da cidade, levando a uma impressionante visão do céu e da terra.
@@ -11955,8 +11955,8 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs podem se
 {Xyear}年前的那一届宗门大比，温杰师兄力压群雄，摘得了魁首，当真精彩。¤No ano anterior, {Xano}, Venerável Wen Jie foi o líder e ocupou a primeira posição.
 离火门广场打听¤Plaza da Porta do Fogo Celestial pergunta
 {Xyear}年前的那一届宗门大比，焦飞师兄力压群雄，摘得了魁首，当真精彩。¤No ano anterior, no concurso da seita, o irmão Jiao Fei ganhou o prêmio de primeiro lugar.
-金虹剑派广场打听¤Praça da Secta Espada Radiante
-{Xyear}年前的那一届宗门大比，我派不敌星河剑派，被那白露摘得了魁首。¤{Xano}No ano antes da competição clanícia, minha escola foi derrotada pela Secta Rioscólticos e foi escolhida por aquele orvalho branco como a melhor.
+金虹剑派广场打听¤Praça da Seita Espada Radiante
+{Xyear}年前的那一届宗门大比，我派不敌星河剑派，被那白露摘得了魁首。¤{Xano}No ano antes da competição clanícia, minha escola foi derrotada pela Seita Rioscólticos e foi escolhida por aquele orvalho branco como a melhor.
 神秘洞窟¤Caverna Misteriosa
 看，流星！¤Olha, uma estrela cadente!
 英雄救美¤Herói salva bela
@@ -11965,7 +11965,7 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs podem se
 练气期主线-墨居仁-前置事件¤Etapa de Treinamento de Qi - Mo Juren - Eventos Anteriores
 练气期-无事发生¤Treinamento de Qi - Nada acontece
 练气期-宁州散修-事件¤Etapa de Treinamento de Qi - N.Zh. Inédito. Cultivador - Evento
-练气期-沂山派-事件¤Treinamento de Qi - Secta do Monte Yi - Evento
+练气期-沂山派-事件¤Treinamento de Qi - Seita do Monte Yi - Evento
 练气期-禾山道-事件¤Período de Treinamento de Qi - Montanha Colheita Seção - Evento
 练气期主线-御剑门¤Etapa de Treinamento de Qi - Escola Imperial da Espada
 练气期-天机阁事件（主要是商队，分两种）¤Período de Treinamento de Qi - Salão dos Segredos do Céu - Evento (principalmente comerciantes, dois tipos)
@@ -12191,7 +12191,7 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs podem se
 你将外袍收入储物囊，穿着中衣坐进了浅池中。温热的池水浸润着你的身体，将你赶路的疲累困顿全部除去。¤Você coloca sua capa no bolso de armazenamento e se senta na pequena piscina no seu abdômen. A água quente se infiltra em seu corpo, removendo toda a fadiga e sono do seu percurso.
 你没有贸然上前，只是远远地看着这一片奇特的池水。温热的池水上下翻涌，你似乎捕捉到了一丝与常识大相径庭的灵光。{huanhang}思绪+1¤Você não avançou precipitadamente, mas simplesmente observou o estranho lago de água do distante. A água quente do lago se agitava de cima para baixo, e você parece ter percebido uma energia muito diferente do que o senso comum entende. {huanhang}Pensamentos +1
 你有些看不过去，直接用神识震慑住了这两位炼气后期的弟子，并问过他们于此争斗的前因后果。原来是这师兄记错了英杰会的日期，导致二人没能赶上比赛...你不禁啼笑皆非，劝诫二人同门应多多照应。{huanhang}此事让你想起几十年前你炼气期时少年风发的模样，一时感慨颇多。{huanhang}心境+30¤Você não podia ignorar o assunto e usou seu Sentido de Alma para intimidar os dois discípulos avançados de refino de Qi, perguntando a razão da sua discussão. Resultou que o discípulo mais velho havia se lembrado mal da data do Torneio dos Heróis Jovens, então eles não poderiam comparecer à competição... Você não pode deixar de rir enquanto repreende os dois companheiros de discípulos para cuidarem um do outro. {Você foi lembrado da sua juventude quando estava no estágio de refino de Qi há décadas e sentiu muitos diferentes sentimentos. {huanhang}Consciência +30
-你身为金丹修士，不好插手小辈之事，便隐藏起来观察二人斗法。平日你甚少同玄道宗弟子交手，此师兄弟招式来去间你在这玄道宗的功法中揣摩到了一些新的体悟。{huanhang}思绪+1¤Você é um Cultivador Núcleo Dourado e não deve se envolver nos assuntos dos jovens, eles serão escondidos para observar o confronto entre os dois. Geralmente você raramente luta com discípulos da Secta Dao Mística, este irmão mestre se move de um lado para outro na técnica de gong da Secta Dao Mística para obter uma nova compreensão.{huanhang}Pensando +1
+你身为金丹修士，不好插手小辈之事，便隐藏起来观察二人斗法。平日你甚少同玄道宗弟子交手，此师兄弟招式来去间你在这玄道宗的功法中揣摩到了一些新的体悟。{huanhang}思绪+1¤Você é um Cultivador Núcleo Dourado e não deve se envolver nos assuntos dos jovens, eles serão escondidos para observar o confronto entre os dois. Geralmente você raramente luta com discípulos da Seita Dao Mística, este irmão mestre se move de um lado para outro na técnica de gong da Seita Dao Mística para obter uma nova compreensão.{huanhang}Pensando +1
 你走向瀑布中心盘膝而坐，任由激荡的水流冲刷躯体。强大的冲击力令你的筋骨结实了许多，让你心生明悟之意。{huanhang}思绪+1¤Você se dirige ao centro da cascata e se senta em posição de lótus, deixando que a água agitada o banhe. O impacto poderoso fortalece seus músculos e ossos e lhe dá uma sensação de iluminação. {huanhang}Pensamentos +1
 你望着势若飞虹的水流，感受着其中蕴含的力量与气势。瀑布穿天透地不辞劳，清潭天光云影共徘徊，你透过此景领悟到了水的柔与刚。{huanhang}思绪+1¤Você observa a água fluindo como um arco-íris voando, sentindo o poder e a dinâmica que ela contém. A cachoeira se estende até o céu e a terra, enquanto o lago claro paira entre as nuvens, fazendo você compreender a suavidade e a rigidez da água. {huanhang}Pensamentos +1
 多行不义必自毙，你义不容辞地祭出法宝。紧随而来的魔修见你修为远超与他不敢造次，刚要施展血遁术逃命便被你一剑捅了个透心凉。{huanhang}此地幸免于难的修士与百姓为了感谢你，筹备出不少灵石。{huanhang}灵石+600¤Mais atos de injustiça os matarão, você está obrigado a sacrificar tesouros mágicos. O cultivador maligno que se aproximou atrás viu que seu cultivo era muito superior ao seu e não ousou fazer nada, apenas lançar uma técnica de mobilidade de linhagem sanguínea para escapar e foi espetado por você com uma espada. {huānháng}As pessoas e cultivadores que foram salvos desta catástrofe prepararam muitas pedras espirituais para agradecer a você. {huānháng}Pedras espirituais +600
@@ -12914,7 +12914,7 @@ NPC可以与之切磋，不过要到好感度30之后才可以。¤NPCs podem se
 {qianbei}，别墨迹了，出手吧！¤{qianbei}, pare com a tinta, vamos começar!
 {qianbei}还是厉害，我自愧不如！¤{qianbei} ainda é incrível, eu me envergonho!
 哈哈哈哈，看来我还是能和{qianbei}较量较量！¤Hahaha, parece que ainda posso competir com {qianbei}!
-御剑门？听都没听说过，{daoyou}打听这个做甚？¤A Secta Espada Real? Nunca ouvi falar nela, então por que {daoyou} perguntaria sobre ela?
+御剑门？听都没听说过，{daoyou}打听这个做甚？¤A Seita Espada Real? Nunca ouvi falar nela, então por que {daoyou} perguntaria sobre ela?
 {daoyou}要飞升了？如此盛事我肯定不会错过！¤O {daoyou} vai subir? Eu não perderia esse evento por nada no mundo!
 不愧是化神强者才能引动的天地大劫，真了不得！{daoyou}加油！定要把劫云狠狠击碎！¤É digno do grande tormento dos céus e da terra que só pode ser ativado por uma Transformação Divina poderosa. {daoyou}, venha! Você precisa quebrar a nuvem de tribulação!
 {daoyou}放心，就凭这天劫，还拦不下我！¤{daoyou} não se preocupe, com essa tribulação celestial, nada vai me impedir!
@@ -17088,15 +17088,15 @@ Tradução: Nephew {name}
 渡劫飞升¤Passar o Desafio e Ascender
 你终于渡过天劫，飞升上界，觅得了长生大道。¤Você finalmente superou a provação celestial, subiu aos reinos superiores e encontrou o caminho para uma vida eterna.
 拜入竹山¤Entrou no Monte Bambú
-你拜入了竹山宗。¤Você se juntou à Secta da Montanha do Bambu.
+你拜入了竹山宗。¤Você se juntou à Seita da Montanha do Bambu.
 拜入离火¤Entrei no Fogo Separador
 你拜入了离火门。¤Você se juntou à Porta do Fogo Celestial.
 拜入金虹¤Entrou na Jornada do Círculo Dourado
-你拜入了金虹剑派。¤Você se juntou à Secta Espada Radiante.
+你拜入了金虹剑派。¤Você se juntou à Seita Espada Radiante.
 拜入星河¤Entrando no Rio Estrelas
-你拜入了星河剑派。¤Você se juntou à Secta do Rio Celestial.
+你拜入了星河剑派。¤Você se juntou à Seita do Rio Celestial.
 拜入化尘¤Entrando no processo de transformação em pó
-你拜入了化尘教。¤Você se juntou à Secta do Deserto Móvel.
+你拜入了化尘教。¤Você se juntou à Seita do Deserto Móvel.
 英杰会冠军¤Campeão do Torneio de Talentos
 你首次夺得了英杰会冠军。¤Você venceu o Torneio do Herói Jovem pela primeira vez.
 天机大比冠军¤Campeão do Grande Concurso Celestial
@@ -24325,11 +24325,11 @@ Tradução: Nephew {name}
 对手每次吸收灵气时，有20%的几率获得【腐蚀】*1¤Cada vez que um adversário absorve Ki, há uma chance de 20% de receber [corrimento]*1
 灵气消散阶段，每消散一点灵气，获得#c449491【<hy t=护罩 l=2_101_1_5 fhc=#e86524 ul=1>】#n*20¤No estágio de dissipação de Qi, toda vez que dissipar um pouco de Qi, você ganha#c449491【<hy t=Escudo l=2_101_1_5 fhc=#e86524 ul=1>】#n*20
 回合结束时，每有一点灵气，获得#c449491【<hy t=减伤 l=2_101_1_4 fhc=#e86524 ul=1>】#n*1¤No final da rodada, toda vez que você tiver um pouco de Qi, você recebe#c449491【<hy Redução de Dano l=2_101_1_4 fhc=#e86524 ul=1>】#n*1
-古神教于傀儡上铭刻失魂大阵，回合结束时，敌方获得#c449491【<hy t=神殇 l=2_101_3_34 fhc=#e86524 ul=1>】#n*6。¤A antiga Secta de Deus gravou o Array do Alma Perdida no pupilo. No final da rodada, o inimigo obteve#c449491【<hy t=Wounded Sense l=2_101_3_34 fhc=#e86524 ul=1>】#n*6.
-古神教于傀儡上铭刻失魂大阵，回合结束时，敌方获得#c449491【<hy t=神殇 l=2_101_3_34 fhc=#e86524 ul=1>】#n*10。¤A antiga Secta Divina gravou o Array do Espírito Perdido no pupilo. No final da rodada, o inimigo obteve#c449491【<hy t=Wounded Sense l=2_101_3_34 fhc=#e86524 ul=1>】#n*10.
-古神教于傀儡上铭刻失魂大阵，回合结束时，敌方获得#c449491【<hy t=神殇 l=2_101_3_34 fhc=#e86524 ul=1>】#n*16。¤A antiga Secta de Deus gravou o Array do Espírito Perdido no pupilo. No final da rotação, o inimigo obteve#c449491【<hy t=Wounded Sense l=2_101_3_34 fhc=#e86524 ul=1>】#n*16.
-古神教于傀儡上铭刻失魂大阵，回合结束时，敌方获得#c449491【<hy t=神殇 l=2_101_3_34 fhc=#e86524 ul=1>】#n*22。¤A antiga Secta de Deus gravou o Array da Alma Perdida no pupilo. No final do ciclo, o inimigo obteve#c449491【<hy t=Wounded Sense l=2_101_3_34 fhc=#e86524 ul=1>】#n*22.
-古神教于傀儡上铭刻失魂大阵，回合结束时，敌方获得#c449491【<hy t=神殇 l=2_101_3_34 fhc=#e86524 ul=1>】#n*28。¤A antiga Secta de Deus gravou o Array do Espírito Perdido no pupilo. No final da rodada, o inimigo obteve#c449491【<hy t=Wounded Sense l=2_101_3_34 fhc=#e86524 ul=1>】#n*28.
+古神教于傀儡上铭刻失魂大阵，回合结束时，敌方获得#c449491【<hy t=神殇 l=2_101_3_34 fhc=#e86524 ul=1>】#n*6。¤A antiga Seita de Deus gravou o Array do Alma Perdida no pupilo. No final da rodada, o inimigo obteve#c449491【<hy t=Wounded Sense l=2_101_3_34 fhc=#e86524 ul=1>】#n*6.
+古神教于傀儡上铭刻失魂大阵，回合结束时，敌方获得#c449491【<hy t=神殇 l=2_101_3_34 fhc=#e86524 ul=1>】#n*10。¤A antiga Seita Divina gravou o Array do Espírito Perdido no pupilo. No final da rodada, o inimigo obteve#c449491【<hy t=Wounded Sense l=2_101_3_34 fhc=#e86524 ul=1>】#n*10.
+古神教于傀儡上铭刻失魂大阵，回合结束时，敌方获得#c449491【<hy t=神殇 l=2_101_3_34 fhc=#e86524 ul=1>】#n*16。¤A antiga Seita de Deus gravou o Array do Espírito Perdido no pupilo. No final da rotação, o inimigo obteve#c449491【<hy t=Wounded Sense l=2_101_3_34 fhc=#e86524 ul=1>】#n*16.
+古神教于傀儡上铭刻失魂大阵，回合结束时，敌方获得#c449491【<hy t=神殇 l=2_101_3_34 fhc=#e86524 ul=1>】#n*22。¤A antiga Seita de Deus gravou o Array da Alma Perdida no pupilo. No final do ciclo, o inimigo obteve#c449491【<hy t=Wounded Sense l=2_101_3_34 fhc=#e86524 ul=1>】#n*22.
+古神教于傀儡上铭刻失魂大阵，回合结束时，敌方获得#c449491【<hy t=神殇 l=2_101_3_34 fhc=#e86524 ul=1>】#n*28。¤A antiga Seita de Deus gravou o Array do Espírito Perdido no pupilo. No final da rodada, o inimigo obteve#c449491【<hy t=Wounded Sense l=2_101_3_34 fhc=#e86524 ul=1>】#n*28.
 炼魄¤Refinando o espírito
 回合结束时，如果是满血状态，则获得#c449491【<hy t=护罩 l=2_101_1_5 fhc=#e86524 ul=1>】#n*4¤No final da rodada, se for pleno, ganha #c449491 【<hy t=Escudo l=2_101_1_5 fhc=#e86524 ul=1>】#n*4
 回合结束时，如果是满血状态，则获得【护罩】*4¤No final da rodada, se você estiver com a vida completa, receberá 【Escudo】*4
@@ -24757,9 +24757,9 @@ Tradução: Nephew {name}
 据情报显示竹山宗附近出现一座前人洞府。¤De acordo com informações, uma caverna anteriormente próxima à Seita Montanha de Bamboo reapareceu.
 据情报显示竹山宗附近出现一座福源宝地。¤De acordo com informações, um tesouro benção apareceu perto da Seita Montanha de Bambu.
 据情报显示玄道宗附近出现一座前人洞府。¤De acordo com informações, uma caverna anteriormente desabitada perto da Seita do Dao Místico reapareceu.
-据情报显示玄道宗附近出现一座福源宝地。¤De acordo com informações, um tesouro de recursos benditos apareceu perto da Secta Dao Mística.
+据情报显示玄道宗附近出现一座福源宝地。¤De acordo com informações, um tesouro de recursos benditos apareceu perto da Seita Dao Mística.
 据情报显示金虹剑派附近出现一座前人洞府。¤De acordo com informações, uma caverna anteriormente abandonada perto da Seita Espada Radiante reapareceu.
-据情报显示金虹剑派附近出现一座福源宝地。¤De acordo com informações, um campo bendito sagrado apareceu perto da Secta Espada Radiante.
+据情报显示金虹剑派附近出现一座福源宝地。¤De acordo com informações, um campo bendito sagrado apareceu perto da Seita Espada Radiante.
 据情报显示星河剑派附近出现一座前人洞府。¤De acordo com informações, uma caverna anteriormente desabitada perto da Seita do Rio Celestial apareceu.
 据情报显示星河剑派附近出现一座福源宝地。¤De acordo com informações, um Terra Bendita apareceu perto da Seita do Rio Celestial.
 据情报显示离火门附近出现一座前人洞府。¤De acordo com informações, uma caverna anteriormente esquecida perto da Porta do Fogo Celestial reapareceu.
@@ -25039,10 +25039,10 @@ Tradução: Nephew {name}
 离火门炼丹房¤A Sala da Alquimia do Portão da Porta do Fogo Celestial
 金虹剑派炼丹房¤Quarto de Alquimia da Seita Espada Radiante
 星河剑派炼丹房¤Sala de Alquimia da Seção do Rio Celestial
-化尘教炼丹房¤A Sala de Alquimia da Secta do Deserto Móvel
+化尘教炼丹房¤A Sala de Alquimia da Seita do Deserto Móvel
 竹山宗宗门广场¤Montanha de bambu Sect Quadrada
 离火门宗门广场¤Porta do Fogo Celestial Clã Quadrado
-金虹剑派宗门广场¤Quadrado da Família da Secta Espada Radiante
+金虹剑派宗门广场¤Quadrado da Família da Seita Espada Radiante
 星河剑派宗门广场¤Praça da Seção do Rio Celestial
 化尘教宗门广场¤Praça do Clã da Seção do Deserto Móvel
 竹山宗宗门药园¤Montanha de bambu Sect Clã Jardim de Medicina
@@ -25213,7 +25213,7 @@ Tradução: Nephew {name}
 武陵城<color=#00757c>每五年</color>将会举办一次“英杰会”，凡是40岁以下，炼气境界的修士都可以报名参加。英杰会比试的难度很高，但夺魁之人就可以获得一颗珍贵的“筑基丹”，因此每次都会吸引大批的青年才俊参与大比。¤A cada cinco anos, a Cidade de Wuling <color=#00757c>organiza um 'Torneio dos Heróis Jovens', que é aberto para todos os Cultivadores com menos de 40 anos e no Reino da Refinagem de Qi. A competição é muito difícil, mas o vencedor receberá uma preciosidade chamada <color=#00757c>'Pilula de Fundação'<color=#00757c>, então sempre há um grande número de talentos jovens dispostos a participar da competição.
 初入东石谷¤Entrando no Vale Pedra Leste pela primeira vez
 第一次参加东石谷的仙师集会，先四处转转吧！¤É sua primeira vez no Encontro das Imortais da Vala do Pilar Oriental, então vamos dar uma volta!
-竹山宗主修木系功法，是宁州五大门派之一，传承悠久，据说已有数十万年的历史了，他们目前似乎正在搭设擂台，招收<color=#00757c>练气期</color>外门弟子。¤A Secta da Montanha de Bamboo, especializada em técnicas de madeira, é uma das cinco grandes seitas do Condado Ning, com uma herança que supostamente remonta a centenas de milhares de anos, e parece estar atualmente estabelecendo um anel para recrutar discípulos externos de estágios de cultivar <color=#00757c>qi</color>.
+竹山宗主修木系功法，是宁州五大门派之一，传承悠久，据说已有数十万年的历史了，他们目前似乎正在搭设擂台，招收<color=#00757c>练气期</color>外门弟子。¤A Seita da Montanha de Bamboo, especializada em técnicas de madeira, é uma das cinco grandes seitas do Condado Ning, com uma herança que supostamente remonta a centenas de milhares de anos, e parece estar atualmente estabelecendo um anel para recrutar discípulos externos de estágios de cultivar <color=#00757c>qi</color>.
 离火门主修火系功法，是宁州五大门派之一。虽然他们从不拒绝<color=#00757c>练气期</color>的散修拜入宗门，但因为恶劣的环境，也很少有人能够在那里坚持下来。¤A Porta do Fogo Celestial se especializa em técnicas de Fogo e é uma das cinco grandes seitas em Ningzhou. Embora nunca rejeitem cultivadores independentes da <color=#00757c>Fase de Refinamento de Qi</color> ingressarem na seita, poucos conseguem se manter lá devido ao ambiente rigoroso.
 金虹剑派主修金系功法，是宁州五大门派之一。每年金虹剑派都会举办仙资大会，招收<color=#00757c>练气期</color>外门弟子。但往往只有悟性高于常人的天才才能被门派所选中。¤A Seita Espelunca se especializava na Técnica do Sistema Dourado e era uma das cinco grandes seitas de Ning Prefeitura. Cada ano, a Seita Espelunca realizava a Conferência Capital Celestial para recrutar discípulos externos da Fase de Refinamento de Qi. Mas frequentemente eram escolhidos apenas geniosos com um nível de Iluminação acima da média pela seita.
 大城小会¤Concurso do Jovem Herói
@@ -25225,10 +25225,10 @@ Tradução: Nephew {name}
 天魔眼本是宁州一处极为富饶的灵脉所在。但不知从何时起，这里竟开始源源不断地产生魔气，并渐渐凝聚为一种奇异的魔物。如今的天魔眼虽然被各大门派与家族封印，但每过<color=#00757c>二十年</color>仍需派有<color=#00757c>筑基期</color>修为的弟子前去清缴。¤O Olho do Diabo Celestial era originalmente um local com veias espirituais extremamente ricas em Ningzhou. Mas, por algum tempo, começou a produzir uma corrente constante de energia demoníaca, que gradualmente se coalesceu em uma criatura estranha demoníaca. Atualmente, embora o Olho do Diabo Celestial esteja selado pelas grandes seitas e famílias, ainda é necessário enviar um Discípulo com estágio <color=#00757c>de Fundação Estabelecida</color> para limpá-lo a cada <color=#00757c>vinte anos</color>.
 魏无极猜测，看似普通的锈渍铁剑，其实可能是一件破损的“纯阳法宝”，并且能够通过吸收魔气自行恢复。而随着铁剑的复原，魏无极的魂魄也会壮大起来，这对于他恢复生前的记忆大有好处。¤Wei Wuji deduziu que a espada de ferro oxidadas parecia comum poderia na verdade ser um 'tesouro puro yang danificado' e se recuperaria sozinho absorvendo energia demoníaca. À medida que a espada de ferro se recupera, o espirito de Wei Wuji também se fortalecerá, o que será benéfico para ele recuperar suas memórias da sua vida.
 你已经成为了竹山宗弟子，宗门广场上的<color=#00757c>外门执事</color>将告知你入门的相关事宜。¤Você se tornou discípulo da Secte Montanha de Bambu, e o <color=#00757c>Mórmonte Externo</color> na praça da secte irá informar você sobre os assuntos relacionados à sua iniciação.
-麻老九在禾山道内地位颇高，也许你可以从他那里套出关于<color=#00757c>“那件东西”</color>的消息，想办法让他放下对你的戒备。¤Ma Lão Jiú tem uma posição alta na Secta Colheita, talvez você possa obter informações dele sobre <color=#00757c>'aquilo'</color> e encontrar um jeito de fazê-lo baixar a guarda contra você.
+麻老九在禾山道内地位颇高，也许你可以从他那里套出关于<color=#00757c>“那件东西”</color>的消息，想办法让他放下对你的戒备。¤Ma Lão Jiú tem uma posição alta na Seita Colheita, talvez você possa obter informações dele sobre <color=#00757c>'aquilo'</color> e encontrar um jeito de fazê-lo baixar a guarda contra você.
 宗门大比¤Competições clanicas
-门派每三十年会举办一次<color=#00757c>宗门大比</color>，所有练气期的弟子都可以参与。凡是在大比中表现出色的，都可以获得一枚筑基丹作为奖励。若是外门弟子夺魁者，则可以直晋升为内门弟子，拜入门派中任一一位长老门下修习。¤A <color=#00757c>Grande Competição Clanícia</color> é realizada a cada 30 anos e todos os Discípulos do Treinamento de Qi podem participar. Quem se sair bem na competição receberá uma Pílula de Fundação como recompensa. Se um discípulo externo vencer o campeonato, poderá ser promovido diretamente a discípulo interno e estudar sob qualquer Um dos Irmãos da Secta.
-杜老二在沂山派内地位颇高，也许你可以从他那里套出关于<color=#00757c>“那件东西”</color>的消息，想办法让他放下对你的戒备。¤Dú Lão Er ocupa uma posição elevada na Secta Yi, então talvez você possa obter informações dele sobre <color=#00757c>'aquilo'</color> e encontrar um jeito de fazê-lo baixar a guarda contra você.
+门派每三十年会举办一次<color=#00757c>宗门大比</color>，所有练气期的弟子都可以参与。凡是在大比中表现出色的，都可以获得一枚筑基丹作为奖励。若是外门弟子夺魁者，则可以直晋升为内门弟子，拜入门派中任一一位长老门下修习。¤A <color=#00757c>Grande Competição Clanícia</color> é realizada a cada 30 anos e todos os Discípulos do Treinamento de Qi podem participar. Quem se sair bem na competição receberá uma Pílula de Fundação como recompensa. Se um discípulo externo vencer o campeonato, poderá ser promovido diretamente a discípulo interno e estudar sob qualquer Um dos Irmãos da Seita.
+杜老二在沂山派内地位颇高，也许你可以从他那里套出关于<color=#00757c>“那件东西”</color>的消息，想办法让他放下对你的戒备。¤Dú Lão Er ocupa uma posição elevada na Seita Yi, então talvez você possa obter informações dele sobre <color=#00757c>'aquilo'</color> e encontrar um jeito de fazê-lo baixar a guarda contra você.
 传功长老¤Mestre Instructor
 去<color=#00757c>宗门广场</color>找传功长老了解修炼功法的相关事宜。¤Vá à <color=#00757c>Praça da Seção</color> para encontrar o Velho Instrutor e aprender sobre a prática do cultivo.
 外门讲法¤Aulas para Discípulos Externos
@@ -25241,17 +25241,17 @@ Tradução: Nephew {name}
 良药¤Remédio Boa Medicina
 大地图¤A Grande Carta
 李相书的师妹前些日子误入上古遗迹，急需良药解毒。¤A irmã mais nova de Li Xiangshu entrou acidentalmente em um antigo relicário há alguns dias e está desesperadamente precisando de uma boa medicina para curar seu veneno.
-初入金虹剑派¤Primeira vez na Secta Espada Radiante
-你已经成为了金虹剑派的弟子，先去藏经阁领取入门功法，再回来找大师兄吧。¤Você se tornou discípulo da Secta Espada Radiante, então vá primeiro para a Biblioteca do Escritura Oculta receber suas técnicas de iniciação e volte depois para ver seu Irmão Maior.
+初入金虹剑派¤Primeira vez na Seita Espada Radiante
+你已经成为了金虹剑派的弟子，先去藏经阁领取入门功法，再回来找大师兄吧。¤Você se tornou discípulo da Seita Espada Radiante, então vá primeiro para a Biblioteca do Escritura Oculta receber suas técnicas de iniciação e volte depois para ver seu Irmão Maior.
 丹痴¤Tan Fantasi
 炼丹房的徐凡拜托你去找来他炼丹所需的草药。¤Xu Fan da sala de alquimia te pede para buscar as ervas que ele precisa para sua alquimia.
 老爷爷¤Avô Velho
-恢复了部分记忆的魏无极感觉自己或许与御剑门有着什么联系，但你对此门派毫无了解。¤Wei Wuji, que recuperou algumas de suas memórias, sente que pode ter alguma conexão com a Secta Espada Imperial, mas você não tem conhecimento dessa seção.
-初入星河剑派¤Primeira vez na Secta do Rio Celestial
+恢复了部分记忆的魏无极感觉自己或许与御剑门有着什么联系，但你对此门派毫无了解。¤Wei Wuji, que recuperou algumas de suas memórias, sente que pode ter alguma conexão com a Seita Espada Imperial, mas você não tem conhecimento dessa seção.
+初入星河剑派¤Primeira vez na Seita do Rio Celestial
 你已经成为了星河剑派弟子，宗门广场上的<color=#00757c>外门执事</color>将告知你入门的相关事宜。¤Você se tornou discípulo da Secte do Rio Celestial. O <color=#00757c>Decano Estranho</color> no pátio da secte lhe informará sobre os assuntos relacionados à sua iniciação.
 星河剑派主修水系功法，是宁州五大门派之一。每年星河剑派都会开启星河剑阵进行测试，招收<color=#00757c>练气期</color>外门弟子。但此门派似乎只招收资质优上的女弟子。¤A Secte do Rio Celestial é uma das cinco grandes seitas de Ningzhou, com seu principal foco em técnicas aquáticas. Cada ano, a Escola da Espada Estrelar abre a Secte do Rio Celestial para testes e recrutamento de discípulas externas <color=#00757c>Fase de Refinamento de Qi</color>. No entanto, essa seita parece admitir apenas discípulas femininas com Aptidões superiores.
 化尘教主修土系功法，是宁州五大门派之一。往常化尘教每年都会开放宗门以招收<color=#00757c>练气期</color>弟子，但近年来似乎因为某些缘故谢绝接待外客。¤A Sect do Deserto Móvel é uma das cinco grandes seitas de Ningzhou, especializada em técnicas terrestres. No passado, abria suas portas a cada ano para recrutar discípulos da fase de Qi, mas nos últimos anos parece ter recusado receber visitantes estrangeiros por algum motivo.
-初入化尘教¤Primeira entrada na Secta do Deserto Móvel
+初入化尘教¤Primeira entrada na Seita do Deserto Móvel
 你已经成为了化尘教弟子，先去藏经阁领取入门功法，再去神兵阁领取法器，最后回来找大师姐吧。¤Você já é discípulo da Secte do Deserto Móvel. Primeiro, dirija-se à Biblioteca Oculta para receber suas habilidades iniciais, depois vá até o Pavilion de Armas Divinas para obter seus artefatos mágicos, e por fim, volte para ver sua Sênior.
 开辟洞府¤Abertura da caverna
 门派¤A Sect
@@ -25289,7 +25289,7 @@ Tradução: Nephew {name}
 丢失的传承¤A Legado Perdido
 竹山宗传承万年，但有不少的功法与神通已经失传。或许能够在宁州古迹中找回那些丢失的传承。¤A Sect da Montanha do Bambu tem sido transmitida por milênios, mas muitas de suas Habilidades e poderes mágicos foram perdidos. Talvez o patrimônio perdido possa ser recuperado dos monumentos de Ningzhou.
 渺茫的期望¤Uma esperança desesperada
-上一次古迹出世之时，金虹剑派的衍复真人被困于古迹中，未能脱身，至今下落不明。尽管只有一线希望，他们还是希望能够得知他如今的情况。¤A última vez que os monumentos surgiram, o Real Yanfu da Secta Espada Radiante ficou preso nos monumentos e não conseguiu sair, e seu paradeiro ainda é desconhecido. Embora haja apenas uma tênue esperança, eles ainda esperam saber do seu estado atual.
+上一次古迹出世之时，金虹剑派的衍复真人被困于古迹中，未能脱身，至今下落不明。尽管只有一线希望，他们还是希望能够得知他如今的情况。¤A última vez que os monumentos surgiram, o Real Yanfu da Seita Espada Radiante ficou preso nos monumentos e não conseguiu sair, e seu paradeiro ainda é desconhecido. Embora haja apenas uma tênue esperança, eles ainda esperam saber do seu estado atual.
 丢失的仙剑¤A Espada do Imortal Perdido
 星河剑派曾经倾全派资源炼制过一套剑阵，共由五柄纯阳法宝级别的仙剑组成，威能不俗。但其中有一柄仙剑遗失在了宁州古迹之中，他们希望你能找到这柄剑的下落。¤A Seção do Rio Celestial uma vez investiu seus recursos em uma série de formações de espadas, composta por cinco tesouros mágicos puros de espadas imortais, bastante poderosos. Mas um deles foi perdido na monументo Ningzhou. Eles esperam que você possa encontrar o local onde está essa espada.
 搜寻灵宝¤Buscando Tesouros Espirituais
@@ -25364,7 +25364,7 @@ Tradução: Nephew {name}
 请帖¤Convite
 带上白帝的请帖，邀请玄道宗的混元子，竹山宗的明山散人，星宫的星凝宫主 ，离火门的火麒麟以及金虹剑派的白鹿真人前来观礼。¤Traga uma convocação do Imperador Branco, convidando o Mestre Huanyuan Zi da Seita das Trevas Dao, o Ming Shansan da Seita da Montanha de Bamboo, o Mestre Xing Ning do Palácio Estrela, o Qilin Fogo do Portão do Fogo Celestial e a Veado Branco da Seita Espelhada para observarem a cerimônia.
 往昔追忆¤Memórias do passado
-打听和御剑门有关的传闻似乎对魏无极恢复记忆有一定的帮助，你决定继续想办法帮魏无极恢复记忆，并收集一些与魔门有关的线索。¤Parece que perguntar sobre rumores relacionados à Secta Espada Real ajuda Wei Wuji a recuperar sua memória, e você decide continuar buscando maneiras de ajudar Wei Wuji a recuperar sua memória e coletar algumas pistas relacionadas à Secta do Demônio.
+打听和御剑门有关的传闻似乎对魏无极恢复记忆有一定的帮助，你决定继续想办法帮魏无极恢复记忆，并收集一些与魔门有关的线索。¤Parece que perguntar sobre rumores relacionados à Seita Espada Real ajuda Wei Wuji a recuperar sua memória, e você decide continuar buscando maneiras de ajudar Wei Wuji a recuperar sua memória e coletar algumas pistas relacionadas à Seita do Demônio.
 故地重游¤Retomando lugares antigos
 距离宁州古迹出世还有一段时间。在这期间应努力收集有关宁州古迹的情报并提升自己的实力与修为，以应对古迹内可能存在的危险与机缘。¤Ainda há tempo até que os monumentos de Ningzhou sejam revelados. Neste período, você deve tentar coletar informações sobre os monumentos de Ningzhou e melhorar sua força e cultivamento para lidar com as ameaças e oportunidades que possam existir dentro dos monumentos.
 倪少的烦恼¤O Problema com Ni Shao
@@ -25437,7 +25437,7 @@ Tradução: Nephew {name}
 去武陵城升仙台看看英杰会的比试。¤Vá à Etapa de Ascensão ao Imortal em Wuling Cidade para ver o Torneio do Jovem Herói.
 提升实力，等五年后再来参加下一届的英杰会比试。¤Aumente sua força, e então aguarde cinco anos para voltar ao próximo Torneio dos Jovens Heróis.
 去武陵城倪府，打听飞剑相关的消息。¤Vá à Mansão Ni em Cidade Wuling e pergunte sobre notícias relacionadas ao espírito voante.
-带着信物前往九嶷山的御剑门遗迹勘察情况¤Leve o token às ruínas da Secta Espada Imperial no Monte Jiuyi para investigar a situação
+带着信物前往九嶷山的御剑门遗迹勘察情况¤Leve o token às ruínas da Seita Espada Imperial no Monte Jiuyi para investigar a situação
 回到倪府，尝试打听一下宁州有哪些魔气弥漫之地来获得线索。¤Volte à Mansão Ni e tente perguntar sobre os lugares demoníacos em Ningzhou para obter pistas.
 筑基后前往天魔眼，寻找能够让铁剑继续恢复的机缘。¤Fortaleça sua base antes de viajar ao Olho do Diabo Celestial para encontrar a oportunidade que permitirá que a Espada de Ferro continue a se recuperar.
 与魏无极交谈，找回他失忆的线索。¤Falte com Wei Wuji para obter pistas sobre sua perda de memória.
@@ -25462,8 +25462,8 @@ Tradução: Nephew {name}
 替徐凡收集<color=#bd3c3c>两株夜交藤、一株天青花</color>。¤Colete <color=#bd3c3c>duas Trepadeiras Noturnas e uma Florescéncia Celeste</color> para Xu Fan.
 再帮徐凡找来<color=#bd3c3c>一株轻灵草、一株天青花</color>。¤Encontre <color=#bd3c3c>uma Mano da Brisa e uma Flor do Céu Azul</color> para Xu Fan novamente.
 事不过三，你决定最后一次帮徐凡搜集草药，替他找来<color=#bd3c3c>一株玄冰花</color>。¤Você decidiu ajudar Xu Fan a coletar ervas pela última vez, encontrando uma <color=#bd3c3c>Pétala de Neblina Clara</color> para ele.
-向<color=#bd3c3c>倪府管家</color>或其他可能了解数百年前御剑门秘闻的前辈打听此事。¤Pergunte ao Vigário da Casa Ni ou a outros senhores que possam saber sobre o segredo da Secta Espada Imperial há centenas de anos.
-与魏无极交谈，讨论打听到的御剑门传闻。¤Conversando com Wei Wuji e discutindo os rumores sobre a Secta Espada Imperial que ele investigou.
+向<color=#bd3c3c>倪府管家</color>或其他可能了解数百年前御剑门秘闻的前辈打听此事。¤Pergunte ao Vigário da Casa Ni ou a outros senhores que possam saber sobre o segredo da Seita Espada Imperial há centenas de anos.
+与魏无极交谈，讨论打听到的御剑门传闻。¤Conversando com Wei Wuji e discutindo os rumores sobre a Seita Espada Imperial que ele investigou.
 去<color=#bd3c3c>神兵阁</color>领取入门弟子配属的符器，再去<color=#bd3c3c>藏经阁</color>挑选入门功法。¤Vá para o <color=#bd3c3c>Pavilhão dos Armamentos Divinos</color> para coletar os talismãs armamentísticos atribuídos ao Discípulo Iniciante, e depois vá para o <color=#bd3c3c>Pavilhão do Manual Oculto</color> para selecionar as Habilidades de Iniciação.
 回宗门广场找大师姐。¤Volte ao quadrilátero da clã para ver a Primeira Sis.
 前往宗门神兵阁领取阵旗¤Vá à Galeria dos Sagrados Armas da Família para recolher o bandeira de formação
@@ -25494,12 +25494,12 @@ Tradução: Nephew {name}
 尽快前往巫山，探查一二。¤Procure o Monte Wu o mais rápido possível e explore uma ou duas regiões.
 尽快前往沃焦山执事堂与离火门中人对接。¤Viaje até a Montanha do Inferno o mais rápido possível para se encontrar com alguém da Porta do Fogo Celestial.
 调查宁王府。¤Investigue o Palácio Ning.
-替竹山宗在宁州古迹找回丢失的传承¤Recupere o legado perdido da Secta da Montanha do Bambu no Monumento de Ningzhou
-离开古迹后，在岫络谷找竹山宗的修士交付任务。¤Após sair do monumento, procure o Cultivador da Secta Montanha de Bambu no Vale Xiuluo para entregar a missão.
+替竹山宗在宁州古迹找回丢失的传承¤Recupere o legado perdido da Seita da Montanha do Bambu no Monumento de Ningzhou
+离开古迹后，在岫络谷找竹山宗的修士交付任务。¤Após sair do monumento, procure o Cultivador da Seita Montanha de Bambu no Vale Xiuluo para entregar a missão.
 替金虹剑派在宁州古迹调查衍复真人的下落¤Pesquise sobre o paradeiro de Yanfu para a Seção Espinhoso Brilhante no Monumento de Ningzhou.
 离开古迹后，在岫络谷找金虹剑派的修士交付任务。¤Depois de deixar o monumento, encontre um Cultivador da Seita Espada Radiante na Vally Luó para entregar a missão.
 替星河剑派在宁州古迹找回丢失的仙剑¤Recupere a espada perdida para a Seção do Rio Celestial na estátua de Ningzhou.
-离开古迹后，在岫络谷找星河剑派的修士交付任务。¤Depois de sair do monumento, encontre um cultivador da Secta do Rio Celestial na Vally de Xiuluo para entregar a missão.
+离开古迹后，在岫络谷找星河剑派的修士交付任务。¤Depois de sair do monumento, encontre um cultivador da Seita do Rio Celestial na Vally de Xiuluo para entregar a missão.
 替离火门在宁州古迹收集赤火元铜精¤Colete a Essência do Fogo Vermelho Cobre para a Porta do Fogo Celestial no Monumento de Ningzhou.
 离开古迹后，在岫络谷找离火门的修士交付任务。¤Depois de sair do monumento, encontre um Cultivador da Porta do Fogo Celestial na Vally de Xiuluo para entregar a missão.
 替化尘教在宁州古迹收集炼心芝¤Colete o Funcho do Coração Ferido no Monumento de Ningzhou para a Seita dos Granéis移动。
@@ -26585,7 +26585,7 @@ Tradução: Nephew {name}
 这《夺灵决》是我们沂山派立足于修真界的根基，乃我派开山祖师自创，能夺人灵气为己用，若是炼到高层，威能不输给那些地级的功法。¤É a base da Escola de Monte Yi no mundo do cultivo. Foi criado pelo mestre-fundador da nossa escola e pode levar a energia espiritual das pessoas para seu uso próprio.
 大哥便再教你一记《截灵手》，这神通使用起来颇有难度，你要多加修炼，与人交战时才能得心应手。¤Se cultivar até um nível alto, ele será tão poderoso quanto aqueles do nível terreno. Eu irei ensinar a você outro Habilidade chamada 'Mão Cortadora de Espírito'.
 这《悬灵术》乃沂山秘术，虽然有不小的副作用，但危难关头，也许能救你一命。¤Essa 'Habilidade Espírito Suspensivo' é um Segredo da Montanha Yi. Embora tenha muitos efeitos colaterais, pode salvá-lo em momentos de crise.
-这《回春印》乃我竹山宗基础神通之一，能够提升对周边木系灵气的感知，虽不能伤敌，但对我竹山宗弟子如虎添翼。¤Esta 'Selva de Primavera' é uma das habilidades divinas básicas da Secta Montanha de bambu, que pode melhorar a percepção do Qi de madeira ao redor, embora não possa ferir o inimigo, é como umas asas adicionais para o Discípulo da Secta Montanha de Bambu.
+这《回春印》乃我竹山宗基础神通之一，能够提升对周边木系灵气的感知，虽不能伤敌，但对我竹山宗弟子如虎添翼。¤Esta 'Selva de Primavera' é uma das habilidades divinas básicas da Seita Montanha de bambu, que pode melhorar a percepção do Qi de madeira ao redor, embora não possa ferir o inimigo, é como umas asas adicionais para o Discípulo da Seita Montanha de Bambu.
 《聚灵阵》¤Array de Reunião de Espíritos
 这《善水印》是我派入门之必修法术，可以帮你领悟五行相生之道，回去好好领悟吧。¤Esta 'Selva Generosa de Água' é uma Habilidade essencial para a nossa ordem, ela pode ajudar você a compreender a Síntese dos cinco elementos. Volte ao seu Quarto e certifique-se de entender completamente.
 嗯，最近你的修为大有长进，我便再传你木系的中级法术《木壁术》，回去好好领悟吧。¤Com a sua cultivação melhorando recentemente, vou lhe transmitir o feitiço intermediário de madeira "Muralha de Árvores".
@@ -26633,7 +26633,7 @@ Tradução: Nephew {name}
 《混元无极功》胜在多变的灵气运用，沙或尘的转化时机全在你个人的掌握中。¤As 'Artes do Caos Desprendido' são um uso versátil de energia espiritual, e o momento da transformação do areia ou poeira está todo nas suas mãos.
 以沙为牢，即可困敌，亦可伤人，此乃我派秘术。若能好好运用这《沙牢》之术，妙用无穷。¤O areião pode ser usado como uma prisão para aprisionar o inimigo e também para ferir outros. Se você souber usar bem esta Habilidade, ela será de uso infinito.
 《混元引气诀》乃是化尘教传承功法，引气入体汇聚灵尘以防守，你且回去好好体悟其中奥妙。¤A "Habilidade de Desvio de Qi Misto" é uma Habilidade herdada da Seita do Deserto Emigrante, que引气聚灵防身技巧，将Qi引入体内聚集精魂用于防御。
-此术乃我派杀招，有天崩地裂之威能，但也非寻常修士所能掌握。能否发挥其威力，就看你自己的悟性了。¤Esta Habilidade é nosso movimento letal da secta e tem o poder de quebrar o céu e a terra, mas não é algo que um Cultivador comum possa dominar. Se você conseguir trazer seu poder à tona depende apenas de sua percepção.
+此术乃我派杀招，有天崩地裂之威能，但也非寻常修士所能掌握。能否发挥其威力，就看你自己的悟性了。¤Esta Habilidade é nosso movimento letal da Seita e tem o poder de quebrar o céu e a terra, mas não é algo que um Cultivador comum possa dominar. Se você conseguir trazer seu poder à tona depende apenas de sua percepção.
 这《火铃印》是我派入门之必修法术，可以帮你领悟五行相生之道，回去好好领悟吧。¤Este 'Sineta do Fogo' é uma Habilidade obrigatória para a iniciatura em nossa escola e pode ajudar você a compreender o Caminho dos Cinco Elementos.
 嗯，最近你的修为大有长进，我便再传你土系的中级法术《土墙术》，回去好好领悟吧。¤Com a sua cultivação melhorando muito recentemente, vou lhe transmitir o feitiço intermediário de terra 'Habilidade Muralha de Terra'.
 嗯，最近你的修为大有长进，这《重岩决》乃我派秘技，妙用无穷，你且回去好好领悟吧。¤Você tem vindo a fazer grandes进展在 cultivation方面，所以我将教你‘重石决斗’这种我们学派的秘技，其用途无穷。
@@ -26684,7 +26684,7 @@ Tradução: Nephew {name}
 竹山宗库房¤Tesouro da Seção Montanha de bambu
 离火门库房¤Porta Celestial do Tesouro de Fogo
 金虹剑派库房¤Armazém da Escola Espada Radiante
-星河剑派库房¤O Tesouro da Secta do Rio Celestial
+星河剑派库房¤O Tesouro da Seita do Rio Celestial
 化尘教库房¤Tesouro da Seção do Deserto Móvel
 竹山宗秘阁¤Caverna Secreta da Montanha de bambu
 离火门秘阁¤Porta Celestial de Fogo - Segredo da Sala Privativa
@@ -26973,7 +26973,7 @@ shift+鼠标右键¤tecla combinada com o botão direito do mouse pressionado si
 在龙隐洞勉力支撑，抵御阴鳞蟒攻势之时，产生了灵光一现的感悟。¤Enquanto lutava para sobreviver na Caverna Oculta do Dragão contra o ataque da Python Escama Negra, tive uma iluminação.
 在碧幽潭寒气炼体时，对体道有了一些新的感悟。¤Ao refinar meu corpo com a energia fria do Pântano Bi You, adquiri algumas novas compreensões sobre o Dao do Corpo.
 无意中误入了迷雾幻阵后，通过对阵法的观察，对阵道有了一些新的感悟。¤Ao acidentalmente entrar na Formação Ilusão Vazia, ganhei novas perspectivas sobre o Dao da Formação através da observação da formação.
-在御剑门遗迹抵御杀戮剑灵攻势之时，产生了灵光一现的感悟。¤Enquanto defendia os ruínas da Secta Espada Imperial contra a incursão do espirito de espada assassina, uma iluminação de {shidi} surgiu.
+在御剑门遗迹抵御杀戮剑灵攻势之时，产生了灵光一现的感悟。¤Enquanto defendia os ruínas da Seita Espada Imperial contra a incursão do espirito de espada assassina, uma iluminação de {shidi} surgiu.
 在千流岛观看其他修士比赛时，对金道有了一些新的感悟。¤Enquanto assistia outros Cultivadores competirem na Ilha Mil Rios, novas iluminações sobre o Caminho Dourado surgiram.
 在千流岛观看其他修士比赛时，对木道有了一些新的感悟。¤Enquanto assistia outros Cultivadores competirem na Ilha Mil Rios, ganhei algumas novas perspectivas sobre o Caminho da Madeira.
 在千流岛观看其他修士比赛时，对水道有了一些新的感悟。¤Observando outros Culti-vadores competirem na Ilha Mil Rios, ganhei algumas novas perspectivas sobre o Caminho da Água.
@@ -27296,7 +27296,7 @@ shift+鼠标右键¤tecla combinada com o botão direito do mouse pressionado si
 将境界提升至金丹期，且宗门声望大于100、丹道融会贯通，既可选择成为门内炼丹长老。长老的俸禄会随着宗门声望的提升而同步上升。\n长老每年的基础俸禄为1600灵石\n宗门声望大于500时的俸禄为2400灵石\n宗门声望大于750时的俸禄为3200灵石\n宗门声望大于1000时的俸禄为4600灵石\n（注：炼丹长老每50年会被派发宗门任务，若不完成会扣除宗门声望。）¤Ao chegar ao estágio do Núcleo Dourado, e com reputação da clã acima de 100, o Dao da Alquimia em Boa Entendência, você pode optar por se tornar um Ancião de Alquimia da seita. O salário dos ancíos aumentará proporcionalmente à reputação da seita. \nO salário básico anual dos \nanciões é 1600 pedras espirituais \nQuando a reputação do clã for maior que 500, o salário será de 2400 pedras espirituais \nQuando a reputação do clã for maior que 750, o salário será de 3200 pedras espirituais \nQuando a reputação do clã for maior que 1000, o salário será de 4600 pedras espirituais\n(Note：Os Anciões de Alquimia devem completar uma missão atribuída pela seita a cada 50 anos. Falhar na conclusão resultará em perda de reputação.)
 将境界提升至金丹期，且宗门声望大于100、器道融会贯通，既可选择成为门内炼器长老。长老的俸禄会随着宗门声望的提升而同步上升。\n长老每年的基础俸禄为1600灵石\n宗门声望大于500时的俸禄为2400灵石\n宗门声望大于750时的俸禄为3200灵石\n宗门声望大于1000时的俸禄为4600灵石\n（注：炼器长老每50年会被派发宗门任务，若不完成会扣除宗门声望。）¤Ao chegar ao estágio do Núcleo Dourado, e com reputação da clã acima de 100, o Dao de Refinamento atingindo um Bom Entendimento, você pode optar por se tornar um Ancião de Refinamento da seita. O salário dos ancíos aumentará em consonância com a elevação da reputação da seita.
 将境界提升至金丹期，且宗门声望大于100，既可选择成为门内外务长老。长老的俸禄会随着宗门声望的提升而同步上升。\n长老每年的基础俸禄为3200灵石\n宗门声望大于500时的俸禄为4200灵石\n宗门声望大于750时的俸禄为5200灵石\n宗门声望大于1000时的俸禄为6400灵石\n（注：外务长老每25年会被派发宗门任务，若不完成会扣除宗门声望。）¤Ao chegar ao estágio do Núcleo Dourado e com reputação da clã acima de 100, você pode escolher se deseja se tornar um Ancião Interno ou Externo das Assuntos da Seita. O salário dos anciões aumentará em consonância com a elevação da reputação da seita.
-将境界提升至金丹期，且宗门声望大于100，既可选择成为门内授业长老。长老的俸禄会随着宗门声望的提升而同步上升。\n长老每年的基础俸禄为1600灵石\n宗门声望大于500时的俸禄为2400灵石\n宗门声望大于750时的俸禄为3200灵石\n宗门声望大于1000时的俸禄为4600灵石\n（注：授业长老每50年会被派发宗门任务，若不完成会扣除宗门声望。）¤Ao chegar ao estágio Núcleo de Ouro e com reputação clanícia acima de 100, você pode escolher se tornar um Venerável Professor da secta. O salário dos veneráveis professores aumentará em consonância com a reputação da secta. \nO salário básico anual dos \nveneráveis professores é 1600 pedras espirituais \nQuando a reputação do clã for maior que 500, o salário será de 2400 pedras espirituais \nQuando a reputação do clã for maior que 750, o salário será de 3200 pedras espirituais \nQuando a reputação do clã for maior que 1000, o salário será de 4600 pedras espirituais\n(Note：Os Veneráveis Professores devem completar uma missão atribuída pela secta a cada 50 anos. Falhar na conclusão resultará em perda de reputação.)
+将境界提升至金丹期，且宗门声望大于100，既可选择成为门内授业长老。长老的俸禄会随着宗门声望的提升而同步上升。\n长老每年的基础俸禄为1600灵石\n宗门声望大于500时的俸禄为2400灵石\n宗门声望大于750时的俸禄为3200灵石\n宗门声望大于1000时的俸禄为4600灵石\n（注：授业长老每50年会被派发宗门任务，若不完成会扣除宗门声望。）¤Ao chegar ao estágio Núcleo de Ouro e com reputação clanícia acima de 100, você pode escolher se tornar um Venerável Professor da Seita. O salário dos veneráveis professores aumentará em consonância com a reputação da Seita. \nO salário básico anual dos \nveneráveis professores é 1600 pedras espirituais \nQuando a reputação do clã for maior que 500, o salário será de 2400 pedras espirituais \nQuando a reputação do clã for maior que 750, o salário será de 3200 pedras espirituais \nQuando a reputação do clã for maior que 1000, o salário será de 4600 pedras espirituais\n(Note：Os Veneráveis Professores devem completar uma missão atribuída pela Seita a cada 50 anos. Falhar na conclusão resultará em perda de reputação.)
 5#前往{where=7}#0#9259#0#{where=7}|¤5#Vá para {where=7}#0#9259#0#{where=7}|
 5#前往{where=7}#0#9260#0#{where=7}|¤5#Ir para {where=7}#0#9260#0#{where=7}|
 5#前往{where=8}#0#9261#0#{where=8}|¤5#Vá para {where=8}#0#9261#0#{where=8}|

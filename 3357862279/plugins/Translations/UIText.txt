@@ -210,7 +210,7 @@ XXXX年X月X日，AAABBBCCCDDDEEEFFFGGG\nXXXX年X月X日，AAABBBCCCDDDEEEFFFGGG
 洞府¤Caverna
 永安镇¤Cidade de Yong'an
 天魔眼¤Olho do Diabo Celestial
-金虹剑派¤Secta Espada Radiante
+金虹剑派¤Seita Espada Radiante
 离火门¤Porta do Fogo Celestial
 星河剑派¤Seção do Rio Celestial
 涵虚仙府¤Palácio Hanxu
@@ -595,10 +595,10 @@ mod文件夹:¤pasta de mod:
 描述:¤Descrição:
 30日后¤Depois de 30 dias
 2032年12月24日¤24 de Dezembro de 2032
-金鸿剑牌入门弟子¤Secta Espada Arco-Íris Dourado Interno
+金鸿剑牌入门弟子¤Seita Espada Arco-Íris Dourado Interno
 失联¤Perdeu contato
 你在哪里？¤Onde você está?
-金鸿剑派¤Secta Espada Radiante
+金鸿剑派¤Seita Espada Radiante
 确认兑换¤Confirma Troca
 3品¤3º ano
 大¤Grande
